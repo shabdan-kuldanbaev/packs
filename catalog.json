@@ -1,0 +1,1199 @@
+{
+ "format": 1,
+ "packs": [
+  {
+   "id": "en-ru-intermediate-3000",
+   "version": 1,
+   "title": "English 3000 · Intermediate",
+   "description": "3000 words and phrases for the Intermediate level: 62 topics in 12 chapters. Russian translations.",
+   "targetLang": "en",
+   "nativeLang": "ru",
+   "level": "B1",
+   "wordCount": 3017,
+   "deckCount": 62,
+   "file": "packs/en-ru-intermediate-3000.json",
+   "bytes": 289378,
+   "sha256": "2edc2c6852e855e45e59a9deec58a922c024b4d6426edd3b89610bb88e201e9c",
+   "decks": [
+    {
+     "title": "01 · Appearance",
+     "group": "People",
+     "wordCount": 64,
+     "preview": [
+      "attractive",
+      "gorgeous",
+      "good-looking",
+      "stunning",
+      "pretty",
+      "handsome",
+      "a head-turner",
+      "of medium height",
+      "skinny",
+      "slim",
+      "overweight",
+      "obese"
+     ]
+    },
+    {
+     "title": "02 · Personality",
+     "group": "People",
+     "wordCount": 57,
+     "preview": [
+      "optimistic person",
+      "pessimistic person",
+      "reliable, dependable trustworthy",
+      "unreliable, untrustworthy, unsafe",
+      "hard-working",
+      "lazy",
+      "with a good sense of humour",
+      "earnest",
+      "patient",
+      "impatient",
+      "generous, big-hearted",
+      "greedy"
+     ]
+    },
+    {
+     "title": "03 · Family",
+     "group": "People",
+     "wordCount": 43,
+     "preview": [
+      "an only child",
+      "a twin",
+      "a single parent",
+      "foster parents",
+      "to adopt a child",
+      "to remarry",
+      "a stepfather / a stepmother",
+      "a stepdaughter / a stepson",
+      "a sibling",
+      "a stepbrother / a stepsister",
+      "a half-brother, a half-sister",
+      "a mother-in-law"
+     ]
+    },
+    {
+     "title": "04 · Relationships",
+     "group": "People",
+     "wordCount": 45,
+     "preview": [
+      "a close / lifelong friend",
+      "an acquaintance",
+      "to get to know",
+      "a mate (BrE) / a buddy (AmE)",
+      "to grow up together",
+      "to have a lot in common",
+      "to drift apart",
+      "to catch up with somebody",
+      "to ask out",
+      "a date",
+      "to go out with someone",
+      "a blind date"
+     ]
+    },
+    {
+     "title": "05 · Feelings and Emotions",
+     "group": "People",
+     "wordCount": 63,
+     "preview": [
+      "a moody person",
+      "to be in a good / bad mood",
+      "to express feelings",
+      "to hide feelings",
+      "overwhelmed",
+      "to upset somebody",
+      "to hurt somebody’s feelings",
+      "to care about somebody",
+      "sympathetic",
+      "depressed",
+      "depression",
+      "amused"
+     ]
+    },
+    {
+     "title": "06 · Daily Routines",
+     "group": "Daily Life",
+     "wordCount": 49,
+     "preview": [
+      "in the early morning / in the late morning",
+      "at sunrise",
+      "at dawn",
+      "to snooze the alarm",
+      "to get up",
+      "to be the first/last to wake up",
+      "to wake somebody up",
+      "to oversleep",
+      "to sleep in",
+      "to clean/brush one’s teeth",
+      "to floss (one’s teeth)",
+      "to put on/do/apply makeup"
+     ]
+    },
+    {
+     "title": "07 · Food and Cooking",
+     "group": "Daily Life",
+     "wordCount": 86,
+     "preview": [
+      "a fried egg, sunny side up eggs",
+      "scrambled eggs",
+      "an omelette",
+      "a boiled egg",
+      "dough",
+      "flour",
+      "baking powder",
+      "stale",
+      "a loaf of bread",
+      "rye bread",
+      "a scone",
+      "a cinnamon roll"
+     ]
+    },
+    {
+     "title": "08 · Shopping",
+     "group": "Daily Life",
+     "wordCount": 41,
+     "preview": [
+      "a shopping mall (AmE) / centre (BrE)",
+      "a supermarket",
+      "a farmer’s market",
+      "to shop around for",
+      "extravagant",
+      "frugal, thrifty",
+      "a customer",
+      "consumer goods",
+      "a shop assistant",
+      "a salesman",
+      "customer service",
+      "a loyalty card"
+     ]
+    },
+    {
+     "title": "09 · Clothes and Fashion",
+     "group": "Daily Life",
+     "wordCount": 34,
+     "preview": [
+      "a look",
+      "an outfit",
+      "tailored, tailor-made",
+      "a knockoff, a replica",
+      "to dress for the occasion",
+      "to get dressed up",
+      "to suit someone",
+      "to mix and match",
+      "outerwear",
+      "a raincoat",
+      "a trench coat",
+      "a down-padded coat"
+     ]
+    },
+    {
+     "title": "10 · Around the House",
+     "group": "Daily Life",
+     "wordCount": 40,
+     "preview": [
+      "a doorstep",
+      "an entrance",
+      "a roof",
+      "a lawn",
+      "a backyard",
+      "an attic",
+      "a basement",
+      "a cellar",
+      "a hallway, a hall, a corridor",
+      "a staircase, a stairway",
+      "a ceiling",
+      "a living room, a sitting room (BrE)"
+     ]
+    },
+    {
+     "title": "11 · City and Countryside Life",
+     "group": "The World Around Us",
+     "wordCount": 42,
+     "preview": [
+      "cosmopolitan",
+      "a melting pot",
+      "infrastructure",
+      "a residential area",
+      "a district",
+      "a neighbourhood",
+      "a suburb",
+      "on the outskirts",
+      "slums",
+      "an inner city",
+      "downtown",
+      "a town dweller"
+     ]
+    },
+    {
+     "title": "12 · Transport",
+     "group": "The World Around Us",
+     "wordCount": 68,
+     "preview": [
+      "public transport",
+      "a commuter train",
+      "the subway (AmE), the underground / the tube (BrE), the metro",
+      "a cable railway",
+      "a lorry (BrE), a truck (AmE)",
+      "a van",
+      "a bicycle",
+      "a motorbike",
+      "a scooter",
+      "a tram, a streetcar (AmE), a trolley (AmE)",
+      "a trolleybus",
+      "a motor boat"
+     ]
+    },
+    {
+     "title": "13 · Weather and Natural Disasters",
+     "group": "The World Around Us",
+     "wordCount": 54,
+     "preview": [
+      "a warm / cold front",
+      "a cold spell",
+      "a heat wave",
+      "a cyclone",
+      "precipitation",
+      "boiling hot weather",
+      "scorching heat",
+      "heat",
+      "it is stuffy",
+      "freezing weather",
+      "in the rain",
+      "it is raining heavily, it rains heavily"
+     ]
+    },
+    {
+     "title": "14 · Ecology and Environment",
+     "group": "The World Around Us",
+     "wordCount": 46,
+     "preview": [
+      "an environmentalist",
+      "environmental protection",
+      "conservation of natural resources",
+      "to preserve",
+      "to recycle",
+      "reusable, multiple-use",
+      "eco-friendly, environmentally friendly",
+      "sustainable (farming, lifestyle, development)",
+      "solar energy",
+      "a windmill",
+      "fossil fuel",
+      "natural gas"
+     ]
+    },
+    {
+     "title": "15 · Our Universe",
+     "group": "The World Around Us",
+     "wordCount": 40,
+     "preview": [
+      "the Milky Way",
+      "Solar System",
+      "the Sun",
+      "solar",
+      "Earth",
+      "terrestrial",
+      "extraterrestrial",
+      "the moon",
+      "lunar",
+      "the Big Bang Theory",
+      "the origin of the universe",
+      "space"
+     ]
+    },
+    {
+     "title": "16 · Traveling by Land or Sea",
+     "group": "Traveling",
+     "wordCount": 48,
+     "preview": [
+      "a booking office (BrE), a ticket office (AmE)",
+      "to reserve/book tickets/seats",
+      "a return ticket (BrE), a round-trip ticket (AmE)",
+      "a single ticket (BrE), a one-way ticket (AmE)",
+      "intercity, long-distance",
+      "a ticket collector",
+      "a stowaway",
+      "to miss the train/bus",
+      "to see somebody off",
+      "a coach (BrE), a bus (AmE)",
+      "a double-decker (bus)",
+      "a camper van (BrE), a caravan (BrE), a trailer (AmE)"
+     ]
+    },
+    {
+     "title": "17 · At the Airport",
+     "group": "Traveling",
+     "wordCount": 44,
+     "preview": [
+      "to travel by air/plane",
+      "a terminal",
+      "a departure board (departures)",
+      "an arrival board (arrivals)",
+      "an international flight",
+      "a domestic flight",
+      "a destination",
+      "an airline",
+      "a flight number",
+      "a layover/stopover",
+      "a direct flight",
+      "on time"
+     ]
+    },
+    {
+     "title": "18 · Vacations",
+     "group": "Traveling",
+     "wordCount": 46,
+     "preview": [
+      "to go on holiday (BrE) / vacation (AmE)",
+      "paid leave, paid vacation (AmE)",
+      "a holiday resort",
+      "a city break",
+      "to go/travel abroad",
+      "to go to a summer camp",
+      "a flow of tourists",
+      "a peak/off-peak season",
+      "a travel agency",
+      "a package holiday, a package tour",
+      "the seaside (BrE), the seashore (AmE)",
+      "a pebble beach"
+     ]
+    },
+    {
+     "title": "19 · Bookings and Accommodation",
+     "group": "Traveling",
+     "wordCount": 69,
+     "preview": [
+      "accommodation",
+      "a five-star hotel",
+      "an economy class hotel",
+      "an inn",
+      "a motel",
+      "a (youth) hostel",
+      "a guesthouse",
+      "a B&B’s (Bed and Breakfast) hotel",
+      "to book online",
+      "to book in advance",
+      "refundable/non-refundable",
+      "room charge"
+     ]
+    },
+    {
+     "title": "20 · Sightseeing",
+     "group": "Traveling",
+     "wordCount": 43,
+     "preview": [
+      "to go/to do sightseeing",
+      "to catch a glimpse of",
+      "to walk/go around",
+      "off the beaten track/path",
+      "to take pictures",
+      "to be fascinated/disappointed by",
+      "to have/get the impression (that)",
+      "empty/crowded streets",
+      "to be impressed by/with",
+      "an ancient/modern city",
+      "to be worth seeing/visiting",
+      "to have a look around"
+     ]
+    },
+    {
+     "title": "21 · Books",
+     "group": "Media and Entertainment",
+     "wordCount": 58,
+     "preview": [
+      "a children’s writer",
+      "a playwright",
+      "a publishing house",
+      "self-publishing",
+      "copyright",
+      "a cover",
+      "a book in hardcover",
+      "a book in paperback",
+      "a book in two/three volumes",
+      "a title",
+      "a preface",
+      "a chapter"
+     ]
+    },
+    {
+     "title": "22 · Television and Cinema",
+     "group": "Media and Entertainment",
+     "wordCount": 72,
+     "preview": [
+      "a film (BrE), a movie (AmE), a motion picture",
+      "a cinema (BrE), a movie theater (AmE)",
+      "a drive-in-theatre",
+      "a cinemagoer (BrE), a moviegoer (AmE)",
+      "a feature film",
+      "a short-length/full-length movie",
+      "science fiction, sci-fi",
+      "a dramedy",
+      "a rom com (romantic comedy)",
+      "a chick-flick",
+      "a documentary",
+      "a mockumentary"
+     ]
+    },
+    {
+     "title": "23 · Music",
+     "group": "Media and Entertainment",
+     "wordCount": 37,
+     "preview": [
+      "a tune, a melody",
+      "a note",
+      "sheet music",
+      "to read music",
+      "to play by ear",
+      "to have an ear for music",
+      "to be tone-deaf, earless",
+      "to teach voice",
+      "lyrics",
+      "percussion",
+      "a string instrument",
+      "a wind instrument"
+     ]
+    },
+    {
+     "title": "24 · The Press",
+     "group": "Media and Entertainment",
+     "wordCount": 31,
+     "preview": [
+      "a newspaper, a paper (informal)",
+      "a magazine",
+      "a daily / weekly / Sunday newspaper",
+      "a circulation",
+      "an issue",
+      "a reporter, a journalist",
+      "a proof-reader",
+      "government censorship",
+      "to receive (wide) coverage in the press",
+      "to make/hit/grab the headlines",
+      "local news",
+      "international news"
+     ]
+    },
+    {
+     "title": "25 · Art and Photography",
+     "group": "Media and Entertainment",
+     "wordCount": 52,
+     "preview": [
+      "a masterpiece",
+      "an art exhibition",
+      "a picture gallery",
+      "an art school",
+      "(the) Academy of Arts",
+      "art and crafts",
+      "the fine arts",
+      "glassblowing",
+      "ceramics",
+      "carving",
+      "embroidery",
+      "acrylic painting"
+     ]
+    },
+    {
+     "title": "26 · Hobbies",
+     "group": "Leisure",
+     "wordCount": 40,
+     "preview": [
+      "a hobby, an interest, a pastime",
+      "a passion for something",
+      "to start/to take up a hobby",
+      "winemaking",
+      "collecting banknotes/coins (numismatics)",
+      "collecting postage stamps (philately)",
+      "collecting fridge magnets",
+      "collecting antiques",
+      "collecting action figures/figurines",
+      "painting on wood/glass/fabric",
+      "woodcarving",
+      "needlework"
+     ]
+    },
+    {
+     "title": "27 · Sports",
+     "group": "Leisure",
+     "wordCount": 73,
+     "preview": [
+      "to do sport (BrE), to do sports (AmE)",
+      "to take part/participate in",
+      "to compete in",
+      "to take up/give up tennis/boxing/swimming",
+      "a team sport",
+      "a spectator sport",
+      "a contact sport",
+      "figure skating",
+      "speed skating",
+      "alpine skiing",
+      "ski jumping",
+      "athletics"
+     ]
+    },
+    {
+     "title": "28 · Fitness",
+     "group": "Leisure",
+     "wordCount": 44,
+     "preview": [
+      "to go to the gym",
+      "membership",
+      "a training routine",
+      "to work out regularly/daily/from time to time",
+      "to warm up",
+      "reps (repetitions)",
+      "sets",
+      "to do push-ups (AmE) / press-ups (BrE)",
+      "to do pull-ups (AmE) / chin-ups (BrE)",
+      "to squat (down)",
+      "to do abs / to do sit-ups",
+      "to stretch"
+     ]
+    },
+    {
+     "title": "29 · Events and Parties",
+     "group": "Leisure",
+     "wordCount": 49,
+     "preview": [
+      "a celebration",
+      "an occasion",
+      "a custom",
+      "a reunion",
+      "a night-out",
+      "a funfair (BrE), a carnival (AmE)",
+      "a ball, a dancing party",
+      "a parade",
+      "a reception",
+      "a corporate function, an office party",
+      "a bash (informal)",
+      "a feast"
+     ]
+    },
+    {
+     "title": "30 · Social Networks",
+     "group": "Leisure",
+     "wordCount": 41,
+     "preview": [
+      "to spy on somebody",
+      "to be addicted to social media",
+      "to limit the use of Instagram/Facebook/TikTok",
+      "Instagram/Facebook/TikTok to go viral",
+      "privacy settings",
+      "a newsfeed",
+      "to scroll down",
+      "to schedule a post",
+      "to comment a post/photo",
+      "to upload photos",
+      "to post a status update",
+      "a public/an only me post"
+     ]
+    },
+    {
+     "title": "31 · School Education",
+     "group": "Study",
+     "wordCount": 48,
+     "preview": [
+      "nursery school/kindergarten (BrE), preschool (AmE)",
+      "primary school (BrE), elementary school (AmE)",
+      "secondary school (BrE), middle school (AmE)",
+      "high school",
+      "public school (BrE)",
+      "state school (BrE)",
+      "private school",
+      "university (BrE), college (AmE)",
+      "timetable (BrE), schedule (AmE)",
+      "a subject",
+      "school rules",
+      "to break the rules"
+     ]
+    },
+    {
+     "title": "32 · Studying at University",
+     "group": "Study",
+     "wordCount": 68,
+     "preview": [
+      "academic",
+      "undergraduate",
+      "postgraduate",
+      "a hard-working student",
+      "a straight-A student",
+      "a mediocre student",
+      "an abysmal student",
+      "a tutor",
+      "a professor",
+      "to attend a lecture",
+      "to take notes",
+      "a project"
+     ]
+    },
+    {
+     "title": "33 · Academic Writing",
+     "group": "Study",
+     "wordCount": 61,
+     "preview": [
+      "firstly, secondly, thirdly/in the first place, in the second place, in the third place",
+      "to begin with",
+      "in light of",
+      "in order to",
+      "nevertheless",
+      "however",
+      "on the other hand",
+      "on the contrary",
+      "conversely",
+      "yet",
+      "alternatively",
+      "whereas"
+     ]
+    },
+    {
+     "title": "34 · Taking Exams",
+     "group": "Study",
+     "wordCount": 35,
+     "preview": [
+      "an exam",
+      "examination",
+      "a candidate",
+      "time limit",
+      "to hand in the paper",
+      "performance",
+      "anxiety",
+      "to take extra lessons",
+      "to have private tuition",
+      "private coaching",
+      "to swot up",
+      "to cram"
+     ]
+    },
+    {
+     "title": "35 · Self-education, Edutainment, Edtech",
+     "group": "Study",
+     "wordCount": 38,
+     "preview": [
+      "inspiration",
+      "self-development",
+      "self-determination",
+      "self-study",
+      "self-made",
+      "multimedia",
+      "network",
+      "digital",
+      "content",
+      "distance learning",
+      "video lessons",
+      "online learning"
+     ]
+    },
+    {
+     "title": "36 · Jobs",
+     "group": "Work",
+     "wordCount": 68,
+     "preview": [
+      "a builder",
+      "a carpenter",
+      "a plumber",
+      "a locksmith",
+      "an electrician",
+      "a mechanic",
+      "a welder",
+      "a bricklayer",
+      "a handyman",
+      "a repairman",
+      "a janitor",
+      "a tailor"
+     ]
+    },
+    {
+     "title": "37 · Getting a Job",
+     "group": "Work",
+     "wordCount": 46,
+     "preview": [
+      "to look for a job",
+      "to apply for a job",
+      "a vacancy",
+      "a job advertisement",
+      "a position",
+      "to offer the position",
+      "a competitive/tough job market",
+      "a curriculum vitae/CV/resume",
+      "employment",
+      "to be employed",
+      "to take a job",
+      "unemployed, jobless"
+     ]
+    },
+    {
+     "title": "38 · Talking About Your Work",
+     "group": "Work",
+     "wordCount": 55,
+     "preview": [
+      "a profession",
+      "an occupation",
+      "business",
+      "labour",
+      "an entrepreneurship",
+      "a place of work",
+      "earnings",
+      "a wage",
+      "the minimum wage",
+      "a living wage",
+      "to work for someone",
+      "to do something for a living"
+     ]
+    },
+    {
+     "title": "39 · At the Office",
+     "group": "Work",
+     "wordCount": 37,
+     "preview": [
+      "office work",
+      "a workplace",
+      "an open space",
+      "a corporate culture",
+      "a cubicle",
+      "a desktop",
+      "a co-worker, a colleague",
+      "an alpha geek (slang)",
+      "a laptop",
+      "a flash drive/memory stick/USB stick",
+      "a keyboard",
+      "a scanner"
+     ]
+    },
+    {
+     "title": "40 · Making a Career",
+     "group": "Work",
+     "wordCount": 41,
+     "preview": [
+      "a career promotion",
+      "a career advancement",
+      "a career ladder",
+      "to choose a career path",
+      "to pursue a career in",
+      "a challenge",
+      "prospects",
+      "an opportunity",
+      "rises and falls",
+      "an annual bonus",
+      "a reward",
+      "to transfer somebody from one department to another"
+     ]
+    },
+    {
+     "title": "41 · A Company Structure",
+     "group": "Business",
+     "wordCount": 69,
+     "preview": [
+      "a vice-president (AmE: VP, BrE: veep)",
+      "a CEO (chief executive officer)",
+      "a CFO (chief financial officer)",
+      "a CCO (chief commercial officer)",
+      "a CTO (chief technology officer)",
+      "a COO (chief operating officer)",
+      "a compliance officer",
+      "a chairman, a chairperson",
+      "a board of directors",
+      "an owner",
+      "a department head",
+      "an employer"
+     ]
+    },
+    {
+     "title": "42 · Negotiations",
+     "group": "Business",
+     "wordCount": 51,
+     "preview": [
+      "What’s on the agenda today?",
+      "Let’s speak to the point.",
+      "I’m not sure I follow you.",
+      "I’m not really clear about…",
+      "Let me put it another way.",
+      "We don’t see eye to eye on that.",
+      "I must differ with you.",
+      "It’s out of the question.",
+      "It depends on the circumstances.",
+      "Let’s think it over.",
+      "My inclination would be to…",
+      "I suggest that…"
+     ]
+    },
+    {
+     "title": "43 · Presentation",
+     "group": "Business",
+     "wordCount": 36,
+     "preview": [
+      "to start with something",
+      "to speak on behalf of somebody",
+      "to give a breakdown",
+      "to take a look at",
+      "to face the fact",
+      "to move on to something",
+      "to lead to something",
+      "to expand on something",
+      "the next point",
+      "in/by comparison with something",
+      "to weigh the pros and cons",
+      "to finish with"
+     ]
+    },
+    {
+     "title": "44 · Finance",
+     "group": "Business",
+     "wordCount": 37,
+     "preview": [
+      "assets",
+      "a stock, a share",
+      "a shareholder",
+      "an equity",
+      "recession",
+      "a currency",
+      "a quotation",
+      "a bid",
+      "B2B (business-to-business)",
+      "B2C (business-to-consumer)",
+      "market research",
+      "mass market"
+     ]
+    },
+    {
+     "title": "45 · Business Correspondence",
+     "group": "Business",
+     "wordCount": 13,
+     "preview": [
+      "ASAP (as soon as possible)",
+      "FYI (for your information)",
+      "FUP (follow up)",
+      "BTW (by the way)",
+      "aka (as known as)",
+      "LMK (let me know)",
+      "RSVP (répondez s’il vous plait (French), please reply",
+      "N/A (not applicable)",
+      "POC (point of contact)",
+      "FTF (face to face) / F2F",
+      "ETA (estimated time of arrival)",
+      "EOB (end of business day) / SOB (start of business day)"
+     ]
+    },
+    {
+     "title": "46 · Email Communication",
+     "group": "Business",
+     "wordCount": 20,
+     "preview": [
+      "to receive",
+      "to reply",
+      "to remind",
+      "to clarify",
+      "to consent",
+      "to regret",
+      "to apologize for",
+      "to appreciate",
+      "to do a favour (BrE), favor (AmE)",
+      "to keep in the loop",
+      "to add to the thread",
+      "to keep somebody posted"
+     ]
+    },
+    {
+     "title": "47 · Attitude and Reactions",
+     "group": "Business",
+     "wordCount": 25,
+     "preview": [
+      "I’m obliged.",
+      "I’m delighted.",
+      "It’s a pleasure to…",
+      "I’m briefed…",
+      "I’m duly noted…",
+      "I’m most disturbed by…",
+      "I have cc’d somebody",
+      "As far as I’m concerned…",
+      "as requested",
+      "at your convenience",
+      "on short notice",
+      "best regards"
+     ]
+    },
+    {
+     "title": "48 · Law and Justice",
+     "group": "Society and Politics",
+     "wordCount": 42,
+     "preview": [
+      "justice",
+      "legislation",
+      "criminal/labor/civil law",
+      "to break/to obey the law",
+      "something is against the law",
+      "to stay/act within the law",
+      "private/public law",
+      "a judge",
+      "a jury",
+      "a defendant",
+      "an attorney (AmE), a lawyer (BrE)",
+      "a prosecutor"
+     ]
+    },
+    {
+     "title": "49 · Crime",
+     "group": "Society and Politics",
+     "wordCount": 50,
+     "preview": [
+      "a crime",
+      "a criminal, an outlaw",
+      "a suspect",
+      "a victim",
+      "the crime rate",
+      "a minor/serious offence (BrE), offense (AmE)",
+      "a felony (AmE), an indictable offence (BrE)",
+      "an investigation of a crime",
+      "to commit/carry out a crime",
+      "to turn to crime",
+      "to solve a crime",
+      "to report a crime"
+     ]
+    },
+    {
+     "title": "50 · Politics",
+     "group": "Society and Politics",
+     "wordCount": 47,
+     "preview": [
+      "policy, politics",
+      "housing/foreign policy",
+      "public/foreign affairs",
+      "freedom, liberty",
+      "civil rights",
+      "equal rights",
+      "a violation of human rights",
+      "a political system",
+      "democracy, a democrat",
+      "monarchy, a monarch",
+      "an empire, an emperor",
+      "dictatorship, a dictator"
+     ]
+    },
+    {
+     "title": "51 · War and Peace",
+     "group": "Society and Politics",
+     "wordCount": 46,
+     "preview": [
+      "a world/civil war",
+      "to declare a war",
+      "to be at war with somebody",
+      "to fight a war",
+      "an ally",
+      "civilians",
+      "danger, menace, threat",
+      "a battle",
+      "an invasion, to invade",
+      "a soldier",
+      "a war veteran",
+      "a prisoner of war"
+     ]
+    },
+    {
+     "title": "52 · Health Issues",
+     "group": "Society and Politics",
+     "wordCount": 65,
+     "preview": [
+      "general state",
+      "healthy",
+      "ill, sick, diseased",
+      "ache",
+      "a headache/toothache/backache/stomachache.",
+      "pain",
+      "to have a pain in the neck/leg/heart",
+      "to feel dizzy/faint/sick",
+      "high/low blood pressure, hypertension / hypotension",
+      "pale, pallid",
+      "weak, feeble",
+      "to go blind/deaf"
+     ]
+    },
+    {
+     "title": "53 · Computers",
+     "group": "Communication and Technology",
+     "wordCount": 67,
+     "preview": [
+      "a keyboard",
+      "a mouse",
+      "a monitor",
+      "speakers",
+      "a printer",
+      "a scanner",
+      "a multi-function printer",
+      "a charger",
+      "a CPU (central processing unit)",
+      "random-access memory (RAM)",
+      "Read-Only Memory (ROM)",
+      "a flash drive (card)"
+     ]
+    },
+    {
+     "title": "54 · Digital",
+     "group": "Communication and Technology",
+     "wordCount": 28,
+     "preview": [
+      "netiquette",
+      "cyber safety",
+      "a cyber crime",
+      "an identity thief",
+      "a digital footprint",
+      "digital literacy",
+      "spyware",
+      "a security flaw",
+      "a ransomware attack",
+      "privacy",
+      "a digital signature",
+      "password protection"
+     ]
+    },
+    {
+     "title": "55 · Phone",
+     "group": "Communication and Technology",
+     "wordCount": 75,
+     "preview": [
+      "a mobile phone (British English)/a cellphone (American English)",
+      "mobile data/cellular data",
+      "My phone is dead/My battery is dead.",
+      "a line",
+      "Line is dead.",
+      "Line is engaged (British English)/busy (American English).",
+      "a service provider",
+      "a monthly/prepaid plan",
+      "a locked/unlocked phone",
+      "to lock/unlock one’s phone",
+      "to charge/a charger",
+      "a landline phone"
+     ]
+    },
+    {
+     "title": "56 · Texting",
+     "group": "Communication and Technology",
+     "wordCount": 48,
+     "preview": [
+      "a character",
+      "a messaging application (app)",
+      "to reply",
+      "to text someone",
+      "to text back",
+      "to text to do something",
+      "to leave on read",
+      "to take a long time to reply",
+      "a group text / chat",
+      "to forward a message",
+      "to edit a message",
+      "to pin a message"
+     ]
+    },
+    {
+     "title": "57 · Artificial Intelligence",
+     "group": "Communication and Technology",
+     "wordCount": 32,
+     "preview": [
+      "disruptive technology",
+      "reasoning",
+      "learning",
+      "problem solving",
+      "perception",
+      "linguistic intelligence",
+      "automation",
+      "an algorithm",
+      "weak AI (artificial intelligence)",
+      "strong AI",
+      "a chatbot / conversational agent",
+      "a virtual assistant"
+     ]
+    },
+    {
+     "title": "58 · Time and Sequence",
+     "group": "Useful Language",
+     "wordCount": 46,
+     "preview": [
+      "to be in time",
+      "to be on time",
+      "for ages",
+      "lately",
+      "these days/nowadays",
+      "for the time being",
+      "throughout",
+      "in the meantime, meanwhile",
+      "earlier, previously",
+      "formerly",
+      "recently",
+      "long ago/a long time ago"
+     ]
+    },
+    {
+     "title": "59 · Distance, Dimensions and Size",
+     "group": "Useful Language",
+     "wordCount": 52,
+     "preview": [
+      "measurements",
+      "to take/make measurements",
+      "accurate/exact/precise measurements",
+      "depth",
+      "width, breadth",
+      "height",
+      "length",
+      "weight",
+      "to buy something by the kilo/pound",
+      "volume",
+      "to hold something",
+      "high"
+     ]
+    },
+    {
+     "title": "60 · Containers and Quantities",
+     "group": "Useful Language",
+     "wordCount": 37,
+     "preview": [
+      "a bar of soap/chocolate/gold",
+      "a loaf of bread",
+      "a box of cereal",
+      "a pile of trash",
+      "a glass of water/wine",
+      "a bottle of water/wine",
+      "a drop of oil",
+      "a piece of cake/furniture",
+      "a piece of advice",
+      "a carton of juice/cigarettes",
+      "a pack of cigarettes/cards (BrE)",
+      "a deck/set of cards (AmE)"
+     ]
+    },
+    {
+     "title": "61 · Prepositions in Phrases",
+     "group": "Useful Language",
+     "wordCount": 66,
+     "preview": [
+      "at all times",
+      "at risk",
+      "at last",
+      "at least",
+      "at the same time",
+      "at times",
+      "by accident",
+      "by chance",
+      "by mistake",
+      "by the way",
+      "by example",
+      "by sight"
+     ]
+    },
+    {
+     "title": "62 · Link Words",
+     "group": "Useful Language",
+     "wordCount": 49,
+     "preview": [
+      "as a result",
+      "due to something",
+      "what’s more",
+      "consequently",
+      "therefore",
+      "moreover, furthermore",
+      "in addition",
+      "above all",
+      "accordingly",
+      "thus",
+      "hence",
+      "besides"
+     ]
+    }
+   ]
+  }
+ ]
+}
