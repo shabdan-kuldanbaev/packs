@@ -1194,6 +1194,72 @@
      ]
     }
    ]
+  },
+  {
+   "id": "zh-ru-hsk1-sample",
+   "version": 1,
+   "title": "Chinese · HSK 1 sample",
+   "description": "First Chinese words to write by hand, stroke by stroke. Russian translations. Stroke data: Make Me a Hanzi (Arphic Public License).",
+   "targetLang": "zh",
+   "nativeLang": "ru",
+   "level": "HSK 1",
+   "wordCount": 32,
+   "deckCount": 3,
+   "file": "packs/zh-ru-hsk1-sample.json",
+   "bytes": 17851,
+   "sha256": "723a32639a74ddb745180c7414d0d445e560627f4aec82eca302f34158ceea31",
+   "decks": [
+    {
+     "title": "01 · People",
+     "wordCount": 12,
+     "preview": [
+      "人",
+      "我",
+      "你",
+      "他",
+      "她",
+      "好",
+      "你好",
+      "妈妈",
+      "爸爸",
+      "朋友",
+      "老师",
+      "学生"
+     ]
+    },
+    {
+     "title": "02 · Numbers",
+     "wordCount": 10,
+     "preview": [
+      "一",
+      "二",
+      "三",
+      "四",
+      "五",
+      "六",
+      "七",
+      "八",
+      "九",
+      "十"
+     ]
+    },
+    {
+     "title": "03 · Everyday",
+     "wordCount": 10,
+     "preview": [
+      "大",
+      "小",
+      "水",
+      "中国",
+      "是",
+      "不",
+      "吃",
+      "喝",
+      "谢谢",
+      "再见"
+     ]
+    }
+   ]
   }
  ]
 }
