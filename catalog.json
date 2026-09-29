@@ -1196,40 +1196,76 @@
    ]
   },
   {
-   "id": "zh-ru-hsk1-sample",
+   "id": "zh-ru-hsk1",
    "version": 1,
-   "title": "Chinese · HSK 1 sample",
-   "description": "First Chinese words to write by hand, stroke by stroke. Russian translations. Stroke data: Make Me a Hanzi (Arphic Public License).",
+   "title": "Chinese · HSK 1",
+   "description": "All 294 words of the new HSK 1 (2025) in 20 topics: pinyin, Russian translations and stroke order for every character to write by hand. Word list: complete-hsk-vocabulary (MIT); strokes: Make Me a Hanzi (Arphic Public License).",
    "targetLang": "zh",
    "nativeLang": "ru",
    "level": "HSK 1",
-   "wordCount": 32,
-   "deckCount": 3,
-   "file": "packs/zh-ru-hsk1-sample.json",
-   "bytes": 17851,
-   "sha256": "723a32639a74ddb745180c7414d0d445e560627f4aec82eca302f34158ceea31",
+   "wordCount": 294,
+   "deckCount": 20,
+   "file": "packs/zh-ru-hsk1.json",
+   "bytes": 229480,
+   "sha256": "37e48c07b31728a3da4ceb68f00908c4862d15f8548b0a54d3f36a52f0816de2",
    "decks": [
     {
      "title": "01 · People",
-     "wordCount": 12,
+     "wordCount": 19,
      "preview": [
-      "人",
       "我",
+      "我们",
       "你",
+      "你们",
+      "您",
       "他",
+      "他们",
       "她",
-      "好",
-      "你好",
-      "妈妈",
-      "爸爸",
-      "朋友",
-      "老师",
-      "学生"
+      "她们",
+      "它",
+      "它们",
+      "大家"
      ]
     },
     {
-     "title": "02 · Numbers",
-     "wordCount": 10,
+     "title": "02 · Family and friends",
+     "wordCount": 16,
+     "preview": [
+      "爸爸",
+      "妈妈",
+      "哥哥",
+      "姐姐",
+      "弟弟",
+      "妹妹",
+      "儿子",
+      "女儿",
+      "孩子",
+      "家",
+      "家人",
+      "朋友"
+     ]
+    },
+    {
+     "title": "03 · Polite words",
+     "wordCount": 14,
+     "preview": [
+      "谢谢",
+      "不客气",
+      "对不起",
+      "没关系",
+      "再见",
+      "请",
+      "请问",
+      "喂",
+      "好",
+      "对",
+      "不要",
+      "名字"
+     ]
+    },
+    {
+     "title": "04 · Numbers",
+     "wordCount": 19,
      "preview": [
       "一",
       "二",
@@ -1240,23 +1276,292 @@
       "七",
       "八",
       "九",
-      "十"
+      "十",
+      "零",
+      "百"
      ]
     },
     {
-     "title": "03 · Everyday",
-     "wordCount": 10,
+     "title": "05 · Counting words",
+     "wordCount": 13,
+     "preview": [
+      "个",
+      "本",
+      "件",
+      "口",
+      "只",
+      "些",
+      "一些",
+      "有些",
+      "有的",
+      "一点儿",
+      "有点儿",
+      "多"
+     ]
+    },
+    {
+     "title": "06 · Shopping",
+     "wordCount": 12,
+     "preview": [
+      "钱",
+      "块",
+      "元",
+      "买",
+      "卖",
+      "贵",
+      "便宜",
+      "商店",
+      "超市",
+      "店",
+      "书店",
+      "东西"
+     ]
+    },
+    {
+     "title": "07 · Days and dates",
+     "wordCount": 15,
+     "preview": [
+      "今天",
+      "明天",
+      "昨天",
+      "今年",
+      "明年",
+      "去年",
+      "年",
+      "月",
+      "日",
+      "号",
+      "天",
+      "星期"
+     ]
+    },
+    {
+     "title": "08 · Time of day",
+     "wordCount": 16,
+     "preview": [
+      "点",
+      "分",
+      "分钟",
+      "小时",
+      "时候",
+      "时间",
+      "现在",
+      "正在",
+      "早上",
+      "上午",
+      "中午",
+      "下午"
+     ]
+    },
+    {
+     "title": "09 · Food and drink",
+     "wordCount": 22,
+     "preview": [
+      "吃",
+      "喝",
+      "饭",
+      "米饭",
+      "面包",
+      "面条儿",
+      "包子",
+      "饺子",
+      "鸡蛋",
+      "牛奶",
+      "茶",
+      "水"
+     ]
+    },
+    {
+     "title": "10 · Home and things",
+     "wordCount": 13,
+     "preview": [
+      "房间",
+      "桌子",
+      "椅子",
+      "衣服",
+      "穿",
+      "手机",
+      "电话",
+      "打电话",
+      "电脑",
+      "电视",
+      "电影",
+      "狗"
+     ]
+    },
+    {
+     "title": "11 · Places and transport",
+     "wordCount": 12,
+     "preview": [
+      "学校",
+      "医院",
+      "电影院",
+      "公司",
+      "中国",
+      "国",
+      "车",
+      "出租车",
+      "火车",
+      "飞机",
+      "开车",
+      "开"
+     ]
+    },
+    {
+     "title": "12 · School",
+     "wordCount": 15,
+     "preview": [
+      "学",
+      "学习",
+      "学生",
+      "老师",
+      "大学",
+      "大学生",
+      "小学",
+      "小学生",
+      "中学",
+      "中学生",
+      "课",
+      "上课"
+     ]
+    },
+    {
+     "title": "13 · Language and work",
+     "wordCount": 15,
+     "preview": [
+      "汉语",
+      "中文",
+      "汉字",
+      "字",
+      "书",
+      "读",
+      "读书",
+      "写",
+      "说",
+      "说话",
+      "问",
+      "工作"
+     ]
+    },
+    {
+     "title": "14 · Going and doing",
+     "wordCount": 16,
+     "preview": [
+      "来",
+      "去",
+      "到",
+      "回",
+      "坐",
+      "住",
+      "找",
+      "给",
+      "做",
+      "玩",
+      "休息",
+      "起床"
+     ]
+    },
+    {
+     "title": "15 · Seeing and knowing",
+     "wordCount": 14,
+     "preview": [
+      "看",
+      "看见",
+      "见",
+      "听",
+      "听见",
+      "想",
+      "觉得",
+      "知道",
+      "会",
+      "能",
+      "可以",
+      "要"
+     ]
+    },
+    {
+     "title": "16 · Describing",
+     "wordCount": 13,
      "preview": [
       "大",
       "小",
-      "水",
-      "中国",
+      "新",
+      "高兴",
+      "忙",
+      "漂亮",
+      "好看",
+      "好听",
+      "好玩儿",
+      "非常",
+      "很",
+      "太"
+     ]
+    },
+    {
+     "title": "17 · Weather and health",
+     "wordCount": 10,
+     "preview": [
+      "天气",
+      "冷",
+      "热",
+      "雨",
+      "下雨",
+      "雪",
+      "病",
+      "生病",
+      "看病",
+      "医生"
+     ]
+    },
+    {
+     "title": "18 · Where",
+     "wordCount": 14,
+     "preview": [
+      "这",
+      "那",
+      "哪",
+      "这儿",
+      "那儿",
+      "哪儿",
+      "这里",
+      "那里",
+      "哪里",
+      "这边",
+      "那边",
+      "这些"
+     ]
+    },
+    {
+     "title": "19 · Position",
+     "wordCount": 9,
+     "preview": [
+      "上",
+      "下",
+      "前",
+      "后",
+      "里",
+      "外",
+      "外边",
+      "边",
+      "在"
+     ]
+    },
+    {
+     "title": "20 · Little words",
+     "wordCount": 17,
+     "preview": [
+      "什么",
+      "怎么",
+      "怎么样",
+      "吗",
+      "呢",
+      "吧",
       "是",
       "不",
-      "吃",
-      "喝",
-      "谢谢",
-      "再见"
+      "没有",
+      "有",
+      "的",
+      "了"
      ]
     }
    ]
