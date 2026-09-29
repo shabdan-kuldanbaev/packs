@@ -20,25 +20,32 @@ import json
 import os
 import sys
 
+from stroke_clean import clean
+
 PACK_ID = 'zh-ru-hsk1'
-PACK_VERSION = 1
+PACK_VERSION = 2
 PREVIEW = 12
 REMOVED = {'zh-ru-hsk1-sample'}
 
 
 def cell(v):
-    return round(min(100.0, max(0.0, v * 100 / 1024)), 1)
+    return min(100.0, max(0.0, v * 100 / 1024))
 
 
 def strokes_of(word, graphics):
+    """One drawing per character; medians cleaned into a reference drawing
+    (tools/stroke_clean.py): straight lines, no brush ticks, real hooks kept."""
     chars = []
     for ch in word:
         if ch not in graphics:
             sys.exit(f'no stroke data for {ch!r} in {word!r}')
-        chars.append([
-            [c for x, y in median for c in (cell(x), cell(900 - y))]
-            for median in graphics[ch]
-        ])
+        strokes = []
+        for median in graphics[ch]:
+            points = clean([(cell(x), cell(900 - y)) for x, y in median])
+            if len(points) < 2:
+                sys.exit(f'stroke of {ch!r} collapsed to a point')
+            strokes.append([c for p in points for c in p])
+        chars.append(strokes)
     return {'v': 1, 'c': chars}
 
 
