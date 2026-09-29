@@ -1197,7 +1197,7 @@
   },
   {
    "id": "zh-ru-hsk1",
-   "version": 2,
+   "version": 3,
    "title": "Chinese · HSK 1",
    "description": "All 294 words of the new HSK 1 (2025) in 20 topics: pinyin, Russian translations and stroke order for every character to write by hand. Word list: complete-hsk-vocabulary (MIT); strokes: Make Me a Hanzi (Arphic Public License).",
    "targetLang": "zh",
@@ -1206,8 +1206,8 @@
    "wordCount": 294,
    "deckCount": 20,
    "file": "packs/zh-ru-hsk1.json",
-   "bytes": 162937,
-   "sha256": "b4a72b8f4f85d1e39125662f8ac65dd30fcce4e961dad04327728013a98e051c",
+   "bytes": 114237,
+   "sha256": "0dfeb96e310d484e22ce9e527a94666b3e8ff1c9aa5c135791e0703417aa3b81",
    "decks": [
     {
      "title": "01 · People",

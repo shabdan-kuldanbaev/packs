@@ -23,7 +23,7 @@ import sys
 from stroke_clean import clean
 
 PACK_ID = 'zh-ru-hsk1'
-PACK_VERSION = 2
+PACK_VERSION = 3
 PREVIEW = 12
 REMOVED = {'zh-ru-hsk1-sample'}
 

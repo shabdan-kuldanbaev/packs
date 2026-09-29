@@ -51,10 +51,11 @@ All 294 words of the new HSK 1 (2025 syllabus) in 20 topics.
   key `newest-1`.
 - Topics, pinyin and Russian translations are written by hand in `tools/zh_hsk1.tsv`. The
   dataset's first reading is often a surname or a rare reading (百 Bǎi, 看 kān), so it is not used.
-- Drawings are cleaned into a reference (`tools/stroke_clean.py`): the medians of a brush font have
-  entry ticks, end presses and waves; lines are simplified (Ramer-Douglas-Peucker, 1.0), ticks on
-  long strokes dropped, near-horizontal / vertical segments snapped. Real hooks stay. Stroke order is
-  the data's own — the standard one (horizontal before vertical: 十 = 一 then 丨).
+- Drawings are turned into a print-like (Hei) skeleton (`tools/stroke_clean.py`): the medians of a
+  brush font have entry ticks, end presses, waves and a flat "foot" on 捺. Lines are simplified
+  (Ramer-Douglas-Peucker, 4.0), ticks on long strokes dropped, near-horizontal (12°) / vertical (6°)
+  segments snapped, the 捺 foot merged into one diagonal. Real hooks stay. Stroke order is the
+  data's own — the standard one (horizontal before vertical: 十 = 一 then 丨).
 - Stroke order: [Make Me a Hanzi](https://github.com/skishore/makemeahanzi) `graphics.txt`, stroke
   medians, redistributed under the Arphic Public License — see `tools/makemeahanzi/`. The file is
   30 MB and is not stored here; download it first:
