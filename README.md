@@ -65,3 +65,16 @@ python3 tools/build_zh_pack.py path/to/graphics.txt tools/zh_hsk1.tsv .
 ```
 
 It replaces only its own entry in `catalog.json`.
+
+### Topic packs from a TSV (JS Interview · Day 1)
+
+Hand-written word lists live in `tools/*.tsv` (group, deck, word, translation, alternatives,
+example, example translation). Build one:
+
+```
+python3 tools/build_tsv_pack.py tools/en_js_interview_day1.tsv en-ru-js-interview-day1 1 \
+  "JS Interview · Day 1 · Core" B2 "<description>" .
+```
+
+Accepted answers automatically include each variant without a trailing `.?!` and without a leading
+article. Bump the version argument when the content changes.
