@@ -5,7 +5,8 @@ Ready-made word packs for the Flashcards app (Library tab).
 - `catalog.json` — list of packs: title, language pair, word and deck counts, per-deck preview,
   file path, size and `sha256` of the pack file. The app loads it when the Library tab opens.
 - `packs/<id>.json` — the pack itself. Downloaded only when the user taps **Add**; after the import
-  the words live in the app's local database and the file is not needed anymore.
+  the words live in the app's local database and the file is not needed anymore. Related packs may
+  sit in a subfolder (`packs/interview-prep/`); the app only follows the `file` path from the catalog.
 
 ## Pack format (v1)
 
@@ -66,15 +67,25 @@ python3 tools/build_zh_pack.py path/to/graphics.txt tools/zh_hsk1.tsv .
 
 It replaces only its own entry in `catalog.json`.
 
-### Topic packs from a TSV (JS Interview · Day 1)
+### Topic packs from a TSV (`packs/interview-prep/`)
 
 Hand-written word lists live in `tools/*.tsv` (group, deck, word, translation, alternatives,
-example, example translation). Build one:
+example, example translation). Build one; a folder in the pack id puts the file in that subfolder
+of `packs/`:
 
 ```
-python3 tools/build_tsv_pack.py tools/en_js_interview_day1.tsv en-ru-js-interview-day1 1 \
+python3 tools/build_tsv_pack.py tools/en_js_interview_day1.tsv interview-prep/en-ru-js-interview-day1 1 \
   "JS Interview · Day 1 · Core" B2 "<description>" .
+python3 tools/build_tsv_pack.py tools/interview_vocab.tsv interview-prep/en-ru-fullstack-interview-vocab 1 \
+  "Full-stack Interview · Vocabulary" B2 "<description>" .
 ```
 
 Accepted answers automatically include each variant without a trailing `.?!` and without a leading
 article. Bump the version argument when the content changes.
+
+- **JS Interview · Day 1 · Core** — 162 words and phrases from the Day 1 lesson, with its examples.
+- **Full-stack Interview · Vocabulary** — the "Vocabulary (flashcards)" section of each of the 12
+  day files of the full-stack prep plan (Google Drive › interview-prep): 128 terms and interview
+  phrases, one deck per day (JS core, async JS, TypeScript, React ×2, web basics & algorithms,
+  Node.js, NestJS, databases, API & security, testing & DevOps, architecture & behavioral).
+  Translations by meaning; every card has an interview-style example sentence.

@@ -2,6 +2,9 @@
 
 python3 tools/build_tsv_pack.py <words.tsv> <pack id> <version> <title> <level> <description> [out_dir]
 
+The pack id may carry a folder: "interview-prep/en-ru-x" writes packs/interview-prep/en-ru-x.json
+with id "en-ru-x".
+
 Accepted answers ("a") also get the word and each alternative without a trailing
 .?! and without a leading article (a / an / the / to), as nobody types those.
 
@@ -37,6 +40,7 @@ def rows(path):
 def main():
     tsv, pack_id, version, title, level, description = sys.argv[1:7]
     out_dir = sys.argv[7] if len(sys.argv) > 7 else '.'
+    folder, _, pack_id = pack_id.rpartition('/')
     items = list(rows(tsv))
     seen = {}
     for n, p in items:
@@ -75,8 +79,8 @@ def main():
     pack = {'format': 1, 'id': pack_id, 'version': int(version),
             'targetLang': 'en', 'nativeLang': 'ru', 'decks': decks}
     body = json.dumps(pack, ensure_ascii=False, separators=(',', ':'))
-    rel = f'packs/{pack_id}.json'
-    os.makedirs(os.path.join(out_dir, 'packs'), exist_ok=True)
+    rel = '/'.join(x for x in ('packs', folder, f'{pack_id}.json') if x)
+    os.makedirs(os.path.dirname(os.path.join(out_dir, rel)), exist_ok=True)
     with open(os.path.join(out_dir, rel), 'w', encoding='utf-8') as f:
         f.write(body)
     raw = body.encode()

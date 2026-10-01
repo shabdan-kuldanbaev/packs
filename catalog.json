@@ -1576,7 +1576,7 @@
    "level": "B2",
    "wordCount": 162,
    "deckCount": 12,
-   "file": "packs/en-ru-js-interview-day1.json",
+   "file": "packs/interview-prep/en-ru-js-interview-day1.json",
    "bytes": 36049,
    "sha256": "31bf9acde248c6e6a7f462dde0bdefcf82a87d185dc3aabbb9250962dfd744f4",
    "decks": [
@@ -1801,6 +1801,233 @@
       "to link to the prototype",
       "to return explicitly",
       "calmly"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "en-ru-fullstack-interview-vocab",
+   "version": 1,
+   "title": "Full-stack Interview · Vocabulary",
+   "description": "The Vocabulary (flashcards) sections of the 12-day full-stack interview prep (JS, TypeScript, React, web basics, Node.js, NestJS, databases, API and security, testing and DevOps, architecture): 128 terms and interview phrases, one deck per day. Russian translations by meaning, every card with an interview-style example.",
+   "targetLang": "en",
+   "nativeLang": "ru",
+   "level": "B2",
+   "wordCount": 128,
+   "deckCount": 12,
+   "file": "packs/interview-prep/en-ru-fullstack-interview-vocab.json",
+   "bytes": 39978,
+   "sha256": "1674ee0253659e167ca2c92e0ef9dccb505bb52030349f530ca0f3d9e8388e7e",
+   "decks": [
+    {
+     "title": "01 · JS core",
+     "group": "JavaScript",
+     "wordCount": 12,
+     "preview": [
+      "lexical scope",
+      "to hoist / hoisting",
+      "temporal dead zone",
+      "call site",
+      "to capture a variable",
+      "enclosing scope",
+      "implicit / explicit binding",
+      "type coercion",
+      "falsy / truthy",
+      "partial application",
+      "under the hood",
+      "the gotcha here is…"
+     ]
+    },
+    {
+     "title": "02 · Async JS & event loop",
+     "group": "JavaScript",
+     "wordCount": 10,
+     "preview": [
+      "call stack",
+      "microtask / macrotask queue",
+      "to drain the queue",
+      "to settle / settled",
+      "fail fast",
+      "non-blocking",
+      "prototype chain",
+      "syntactic sugar",
+      "exponential backoff",
+      "this runs asynchronously, so…"
+     ]
+    },
+    {
+     "title": "03 · TypeScript",
+     "group": "TypeScript",
+     "wordCount": 10,
+     "preview": [
+      "structural typing",
+      "to narrow a type",
+      "type guard",
+      "discriminated union",
+      "exhaustive check",
+      "generic constraint",
+      "mapped / conditional type",
+      "type inference",
+      "runtime vs compile time",
+      "type-safe end to end"
+     ]
+    },
+    {
+     "title": "04 · React core",
+     "group": "React",
+     "wordCount": 10,
+     "preview": [
+      "to trigger a re-render",
+      "render phase / commit phase",
+      "reconciliation",
+      "to batch updates",
+      "dependency array",
+      "stale closure",
+      "cleanup function",
+      "derived state",
+      "single source of truth",
+      "race condition"
+     ]
+    },
+    {
+     "title": "05 · React advanced & state",
+     "group": "React",
+     "wordCount": 10,
+     "preview": [
+      "to lift state up / to move state down",
+      "memoization",
+      "referential equality",
+      "server state vs client state",
+      "to invalidate the cache",
+      "code splitting",
+      "lazy loading",
+      "fallback UI",
+      "non-urgent update",
+      "hydration"
+     ]
+    },
+    {
+     "title": "06 · Web basics & algorithms",
+     "group": "Web & algorithms",
+     "wordCount": 11,
+     "preview": [
+      "time / space complexity",
+      "this is O(n) because…",
+      "brute force first, then optimise",
+      "edge case",
+      "trade-off",
+      "bottleneck",
+      "long task",
+      "layout shift",
+      "to virtualise a list",
+      "specificity",
+      "semantic markup"
+     ]
+    },
+    {
+     "title": "07 · Node.js",
+     "group": "Node.js",
+     "wordCount": 10,
+     "preview": [
+      "non-blocking I/O",
+      "thread pool",
+      "to block the event loop",
+      "backpressure",
+      "heap snapshot",
+      "retained size",
+      "garbage collection",
+      "graceful shutdown",
+      "CPU-bound vs I/O-bound",
+      "it scales horizontally"
+     ]
+    },
+    {
+     "title": "08 · NestJS",
+     "group": "NestJS",
+     "wordCount": 10,
+     "preview": [
+      "inversion of control",
+      "dependency graph",
+      "to inject a dependency",
+      "provider token",
+      "cross-cutting concern",
+      "request pipeline",
+      "thin controller",
+      "DTO (data transfer object)",
+      "to whitelist fields",
+      "it's decoupled from the persistence layer"
+     ]
+    },
+    {
+     "title": "09 · Databases",
+     "group": "Databases",
+     "wordCount": 10,
+     "preview": [
+      "foreign key",
+      "primary key",
+      "to normalise / denormalise",
+      "selectivity",
+      "full table scan",
+      "query plan",
+      "isolation level",
+      "row-level lock",
+      "optimistic / pessimistic locking",
+      "eager vs lazy loading"
+     ]
+    },
+    {
+     "title": "10 · API, auth & security",
+     "group": "API & security",
+     "wordCount": 12,
+     "preview": [
+      "idempotent",
+      "stateless / stateful",
+      "bearer token",
+      "token rotation",
+      "to revoke",
+      "hashing vs encryption",
+      "salt",
+      "least privilege",
+      "attack surface",
+      "cache hit / miss",
+      "TTL",
+      "cache invalidation"
+     ]
+    },
+    {
+     "title": "11 · Testing & DevOps",
+     "group": "Testing & DevOps",
+     "wordCount": 13,
+     "preview": [
+      "test pyramid",
+      "test double",
+      "to mock / stub",
+      "flaky test",
+      "regression",
+      "code coverage",
+      "to rebase onto main",
+      "to squash commits",
+      "merge conflict",
+      "image layer",
+      "build cache",
+      "rollback"
+     ]
+    },
+    {
+     "title": "12 · Architecture & behavioral",
+     "group": "Architecture",
+     "wordCount": 10,
+     "preview": [
+      "separation of concerns",
+      "loose coupling / high cohesion",
+      "single point of failure",
+      "horizontal vs vertical scaling",
+      "eventual consistency",
+      "throughput / latency",
+      "let me clarify the requirements first",
+      "the trade-off here is…",
+      "in hindsight, I would…",
+      "I took ownership of…"
      ]
     }
    ]
