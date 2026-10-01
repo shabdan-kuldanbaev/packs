@@ -74,8 +74,6 @@ example, example translation). Build one; a folder in the pack id puts the file 
 of `packs/`:
 
 ```
-python3 tools/build_tsv_pack.py tools/en_js_interview_day1.tsv interview-prep/en-ru-js-interview-day1 1 \
-  "JS Interview · Day 1 · Core" B2 "<description>" .
 python3 tools/build_tsv_pack.py tools/interview_vocab.tsv interview-prep/en-ru-fullstack-interview-vocab 1 \
   "Full-stack Interview · Vocabulary" B2 "<description>" .
 ```
@@ -83,7 +81,6 @@ python3 tools/build_tsv_pack.py tools/interview_vocab.tsv interview-prep/en-ru-f
 Accepted answers automatically include each variant without a trailing `.?!` and without a leading
 article. Bump the version argument when the content changes.
 
-- **JS Interview · Day 1 · Core** — 162 words and phrases from the Day 1 lesson, with its examples.
 - **Full-stack Interview · Vocabulary** — the "Vocabulary (flashcards)" section of each of the 12
   day files of the full-stack prep plan (Google Drive › interview-prep): 128 terms and interview
   phrases, one deck per day (JS core, async JS, TypeScript, React ×2, web basics & algorithms,
