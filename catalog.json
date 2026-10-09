@@ -1792,6 +1792,320 @@
      ]
     }
    ]
+  },
+  {
+   "id": "en-ru-frontend-handbook",
+   "version": 1,
+   "title": "Frontend Interview · Words & Questions",
+   "description": "From the Frontend Handbook (interview prep): 87 useful words and phrases with Russian translations and examples, plus 67 interview questions with a one-line answer and a spoken model answer. Browser, CSS, JavaScript, TypeScript, React, state, Next.js, performance, security, testing.",
+   "targetLang": "en",
+   "nativeLang": "ru",
+   "level": "B2",
+   "wordCount": 154,
+   "deckCount": 21,
+   "file": "packs/interview-prep/en-ru-frontend-handbook.json",
+   "bytes": 64511,
+   "sha256": "ddf005a3361ed7182cfc0c39efe98f2b8d28b77f8973dd760db78c1d87c0d098",
+   "decks": [
+    {
+     "title": "01 · Words: Browser & HTML",
+     "group": "Useful words",
+     "wordCount": 10,
+     "preview": [
+      "render-blocking",
+      "to parse / parsing",
+      "critical rendering path",
+      "reflow / repaint",
+      "layout thrashing",
+      "compositor",
+      "screen reader",
+      "to trap focus / focus trap",
+      "keyboard navigation",
+      "colour contrast"
+     ]
+    },
+    {
+     "title": "02 · Words: CSS",
+     "group": "Useful words",
+     "wordCount": 10,
+     "preview": [
+      "box model",
+      "containing block",
+      "stacking context",
+      "out of the flow",
+      "mobile-first",
+      "breakpoint",
+      "container query",
+      "utility class",
+      "design token",
+      "to scope styles"
+     ]
+    },
+    {
+     "title": "03 · Words: JavaScript",
+     "group": "Useful words",
+     "wordCount": 10,
+     "preview": [
+      "primitive",
+      "shallow / deep copy",
+      "event bubbling",
+      "event delegation",
+      "to debounce / to throttle",
+      "tree shaking",
+      "dynamic import",
+      "to mutate / mutation",
+      "side effect",
+      "pure function"
+     ]
+    },
+    {
+     "title": "04 · Words: TypeScript & tooling",
+     "group": "Useful words",
+     "wordCount": 12,
+     "preview": [
+      "type widening",
+      "type assertion",
+      "utility type",
+      "declaration merging",
+      "lock file",
+      "semantic versioning",
+      "peer dependency",
+      "bundler",
+      "to transpile",
+      "content hash",
+      "hot module replacement",
+      "to cherry-pick"
+     ]
+    },
+    {
+     "title": "05 · Words: React",
+     "group": "Useful words",
+     "wordCount": 11,
+     "preview": [
+      "to mount / to unmount",
+      "to remount",
+      "stable key",
+      "controlled / uncontrolled input",
+      "prop drilling",
+      "custom hook",
+      "error boundary",
+      "portal",
+      "concurrent rendering",
+      "optimistic update",
+      "Server Component / Client Component"
+     ]
+    },
+    {
+     "title": "06 · Words: State, Next.js & performance",
+     "group": "Useful words",
+     "wordCount": 14,
+     "preview": [
+      "global store",
+      "selector",
+      "boilerplate",
+      "stale-while-revalidate",
+      "query key",
+      "server-side rendering",
+      "static site generation",
+      "incremental static regeneration",
+      "hydration mismatch",
+      "streaming",
+      "above / below the fold",
+      "bundle size"
+     ]
+    },
+    {
+     "title": "07 · Words: Security & testing",
+     "group": "Useful words",
+     "wordCount": 9,
+     "preview": [
+      "to sanitise",
+      "Content Security Policy",
+      "untrusted input",
+      "SameSite cookie",
+      "implementation details",
+      "to intercept requests",
+      "assertion",
+      "smoke test",
+      "critical user flow"
+     ]
+    },
+    {
+     "title": "08 · Words: Phrases for answers",
+     "group": "Useful words",
+     "wordCount": 11,
+     "preview": [
+      "in short, …",
+      "the reason is …",
+      "it depends on …",
+      "as a rule of thumb, …",
+      "the first thing I'd do is measure it",
+      "I haven't used it in production, but …",
+      "out of the box",
+      "a common pitfall is …",
+      "to keep in mind",
+      "let me think out loud",
+      "to put it simply, …"
+     ]
+    },
+    {
+     "title": "09 · Questions: Browser & HTML",
+     "group": "Interview questions",
+     "wordCount": 5,
+     "preview": [
+      "What happens when you open a URL?",
+      "async vs defer on a script tag?",
+      "Why do semantic HTML and accessibility matter?",
+      "Reflow vs repaint?",
+      "localStorage vs sessionStorage vs cookies vs IndexedDB?"
+     ]
+    },
+    {
+     "title": "10 · Questions: CSS",
+     "group": "Interview questions",
+     "wordCount": 7,
+     "preview": [
+      "Explain the box model.",
+      "How does CSS specificity work?",
+      "Flexbox vs Grid?",
+      "What are the CSS position values?",
+      "Why doesn't my z-index work?",
+      "How do you build a responsive layout?",
+      "BEM vs CSS Modules vs CSS-in-JS vs Tailwind?"
+     ]
+    },
+    {
+     "title": "11 · Questions: JavaScript",
+     "group": "Interview questions",
+     "wordCount": 11,
+     "preview": [
+      "What are the data types? == vs ===?",
+      "var vs let vs const and hoisting?",
+      "What is a closure?",
+      "How is \"this\" determined?",
+      "How do prototypes and classes work?",
+      "Explain the event loop.",
+      "Promise.all vs allSettled vs race vs any?",
+      "Debounce vs throttle?",
+      "What are event bubbling and delegation?",
+      "Shallow vs deep copy?",
+      "ES modules vs CommonJS, and what is tree shaking?"
+     ]
+    },
+    {
+     "title": "12 · Questions: TypeScript",
+     "group": "Interview questions",
+     "wordCount": 5,
+     "preview": [
+      "interface vs type?",
+      "any vs unknown vs never?",
+      "What are generics?",
+      "Which utility types do you use?",
+      "What are narrowing and discriminated unions?"
+     ]
+    },
+    {
+     "title": "13 · Questions: Tooling & Git",
+     "group": "Interview questions",
+     "wordCount": 3,
+     "preview": [
+      "What do ^ and ~ mean, and why a lock file?",
+      "What does a bundler do? Why is Vite fast?",
+      "git merge vs rebase?"
+     ]
+    },
+    {
+     "title": "14 · Questions: React core",
+     "group": "Interview questions",
+     "wordCount": 13,
+     "preview": [
+      "When does a React component re-render?",
+      "What are the virtual DOM, reconciliation and Fiber?",
+      "Why are keys important? Why not the index?",
+      "What are the rules of hooks?",
+      "How does useEffect work?",
+      "What is a stale closure in React?",
+      "useMemo vs useCallback vs React.memo?",
+      "What is useRef for?",
+      "useEffect vs useLayoutEffect?",
+      "When useReducer instead of useState?",
+      "Controlled vs uncontrolled inputs?",
+      "What's the performance problem with Context?"
+     ]
+    },
+    {
+     "title": "15 · Questions: React advanced",
+     "group": "Interview questions",
+     "wordCount": 4,
+     "preview": [
+      "What are Error Boundaries?",
+      "What are Suspense, lazy and portals for?",
+      "What changed in React 18 and 19?",
+      "What are React Server Components?"
+     ]
+    },
+    {
+     "title": "16 · Questions: State management",
+     "group": "Interview questions",
+     "wordCount": 4,
+     "preview": [
+      "Where should state live?",
+      "What is Redux and what does Redux Toolkit improve?",
+      "TanStack Query vs Zustand vs Redux Toolkit?",
+      "What does stale-while-revalidate mean?"
+     ]
+    },
+    {
+     "title": "17 · Questions: Next.js",
+     "group": "Interview questions",
+     "wordCount": 3,
+     "preview": [
+      "CSR vs SSR vs SSG vs ISR?",
+      "What is hydration?",
+      "What are the key ideas of the App Router?"
+     ]
+    },
+    {
+     "title": "18 · Questions: Performance",
+     "group": "Interview questions",
+     "wordCount": 3,
+     "preview": [
+      "What are Core Web Vitals?",
+      "How do you make an app load faster?",
+      "How do you render a list of 10,000 items?"
+     ]
+    },
+    {
+     "title": "19 · Questions: Security",
+     "group": "Interview questions",
+     "wordCount": 2,
+     "preview": [
+      "What is XSS and how do you prevent it in React?",
+      "What is CSRF?"
+     ]
+    },
+    {
+     "title": "20 · Questions: Testing",
+     "group": "Interview questions",
+     "wordCount": 3,
+     "preview": [
+      "What is the idea of React Testing Library?",
+      "getBy vs queryBy vs findBy?",
+      "What does the frontend testing pyramid look like?"
+     ]
+    },
+    {
+     "title": "21 · Questions: Scenarios",
+     "group": "Interview questions",
+     "wordCount": 4,
+     "preview": [
+      "A form re-renders the whole page on every keystroke. What do you do?",
+      "Search sometimes shows results for an old query. Why?",
+      "Users double-click \"Pay\" and get two orders. How do you fix it?",
+      "The bundle is 3 MB. Where do you start?"
+     ]
+    }
+   ]
   }
  ]
 }

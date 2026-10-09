@@ -86,3 +86,8 @@ article. Bump the version argument when the content changes.
   phrases, one deck per day (JS core, async JS, TypeScript, React ×2, web basics & algorithms,
   Node.js, NestJS, databases, API & security, testing & DevOps, architecture & behavioral).
   Translations by meaning; every card has an interview-style example sentence.
+- **Frontend Interview · Words & Questions** (`tools/frontend_handbook.tsv`) — from the Frontend
+  Handbook v2 (Google Drive › interview-prep). Group "Useful words": 87 terms and answer phrases
+  not already in the Vocabulary pack, Russian translations and examples. Group "Interview
+  questions": 67 cards — the question on the front, a one-line English answer on the back, the
+  spoken model answer as the example and its Russian gist as the example translation.
