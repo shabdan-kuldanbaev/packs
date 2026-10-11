@@ -2106,6 +2106,246 @@
      ]
     }
    ]
+  },
+  {
+   "id": "en-ru-frontend-senior",
+   "version": 1,
+   "title": "Frontend Interview · Senior Deep Dive",
+   "description": "112 senior-level frontend interview questions in 16 modules: JS engine and async internals, advanced TypeScript, React rendering internals and patterns, data and state, Next.js/SSR, browser and networking, performance, CSS, architecture, security, testing, scenarios and algorithms. Question on the front, one-line answer on the back, full spoken answer as the example with its Russian gist.",
+   "targetLang": "en",
+   "nativeLang": "ru",
+   "level": "C1",
+   "wordCount": 112,
+   "deckCount": 16,
+   "file": "packs/interview-prep/en-ru-frontend-senior.json",
+   "bytes": 122365,
+   "sha256": "0abcde1f014c2fd920492c18261b9ac359d43a70e86f9f4a2aab13c18b016f57",
+   "decks": [
+    {
+     "title": "01 · JavaScript · Engine & memory",
+     "group": "Senior questions",
+     "wordCount": 6,
+     "preview": [
+      "How does V8 run JavaScript, and why does \"shape stability\" matter?",
+      "How does garbage collection work in V8, and what is a generational heap?",
+      "Name the typical memory leaks in a SPA and how you find them.",
+      "WeakMap, WeakSet, WeakRef and FinalizationRegistry — when do you use them?",
+      "structuredClone vs JSON.parse(JSON.stringify()) vs a spread?",
+      "What is the difference between the call stack, the heap and the task queues?"
+     ]
+    },
+    {
+     "title": "02 · JavaScript · Async deep dive",
+     "group": "Senior questions",
+     "wordCount": 9,
+     "preview": [
+      "In what order do microtasks, macrotasks, requestAnimationFrame and rendering run?",
+      "What does async/await compile down to, and how many ticks does await cost?",
+      "How do you cancel an async operation in JavaScript?",
+      "What is an unhandled rejection, and how do you handle errors globally on the frontend?",
+      "Async iterators and generators — where do they help on the frontend?",
+      "Web Workers vs the main thread — what would you move and how?",
+      "How do you implement retry with exponential backoff correctly?",
+      "What's the difference between setTimeout, setInterval, requestAnimationFrame and requestIdleCallback?",
+      "How does fetch streaming work and when would you use it?"
+     ]
+    },
+    {
+     "title": "03 · JavaScript · Language internals",
+     "group": "Senior questions",
+     "wordCount": 7,
+     "preview": [
+      "What are iterators and the iterable protocol, and why does spread work on a Map but not on a plain object?",
+      "Proxy and Reflect — what are they, and where are they used in real libraries?",
+      "What are Symbols for, beyond unique keys?",
+      "How do ES modules differ from CommonJS at runtime, not just syntax?",
+      "How do class fields, private fields and arrow methods interact with `this`?",
+      "What is prototype pollution and how do you defend against it?",
+      "Explain getters/setters, Object.defineProperty and property descriptors."
+     ]
+    },
+    {
+     "title": "04 · TypeScript · Advanced types",
+     "group": "Senior questions",
+     "wordCount": 10,
+     "preview": [
+      "Conditional types with `infer` — how do you extract a function's return or a promise's value?",
+      "Mapped and template literal types — give a practical example.",
+      "What is structural typing, and when does it bite you?",
+      "Variance: why is `Array<Dog>` assignable to `Array<Animal>` and why is that unsound?",
+      "`satisfies` vs type annotation vs `as const` — when do you use each?",
+      "How do you make a switch over a union exhaustive, and why does `never` help?",
+      "Enums vs union of string literals vs `as const` objects?",
+      "Which strict flags matter most, and what does `noUncheckedIndexedAccess` change?",
+      "How do you type a generic React component, and what's the catch with forwardRef?",
+      "Where does TypeScript's type safety end at runtime, and what do you do about it?"
+     ]
+    },
+    {
+     "title": "05 · React · Rendering internals",
+     "group": "Senior questions",
+     "wordCount": 9,
+     "preview": [
+      "Walk through a React update: what happens between setState and the screen changing?",
+      "What problem does concurrent rendering solve, and what are lanes?",
+      "useTransition vs useDeferredValue vs debouncing — when each?",
+      "Why does React double-invoke components and effects in StrictMode, and what does it catch?",
+      "How does Suspense actually work under the hood?",
+      "How does React decide whether to reuse or recreate a component instance during reconciliation?",
+      "What is tearing, and how does useSyncExternalStore prevent it?",
+      "Why does a portal's click bubble to a React parent that isn't its DOM ancestor?",
+      "Automatic batching — what changed in React 18 and what does flushSync do?"
+     ]
+    },
+    {
+     "title": "06 · React · Hooks & patterns",
+     "group": "Senior questions",
+     "wordCount": 8,
+     "preview": [
+      "Why do effects capture stale props, and how do you read the latest value without re-subscribing?",
+      "Callback refs vs useRef, and when do you need useImperativeHandle?",
+      "Compound components, render props, HOCs and hooks — which problem does each pattern solve today?",
+      "What is derived state, and why is syncing props to state with useEffect an anti-pattern?",
+      "When does React.memo not help, and how do you make it work?",
+      "What does the React Compiler do, and what should you stop doing when it's on?",
+      "How do you design state for a complex form: controlled, uncontrolled, or a form library?",
+      "How do you prevent context re-rendering the whole app, and when do you switch to a store?"
+     ]
+    },
+    {
+     "title": "07 · React · Data & state",
+     "group": "Senior questions",
+     "wordCount": 7,
+     "preview": [
+      "Server state vs client state — why treat them differently?",
+      "How do you implement optimistic updates safely?",
+      "How do you avoid request waterfalls and race conditions in data fetching?",
+      "Cache invalidation strategy: when do you refetch, invalidate or update the cache manually?",
+      "How does Zustand avoid re-renders, and how is that different from Redux?",
+      "What belongs in the URL, and how do you keep URL state in sync?",
+      "Infinite scroll with cursor pagination — how do you build it correctly?"
+     ]
+    },
+    {
+     "title": "08 · Next.js & SSR",
+     "group": "Senior questions",
+     "wordCount": 6,
+     "preview": [
+      "Where exactly is the server/client boundary in React Server Components, and what can cross it?",
+      "Explain Next.js caching layers and how to invalidate them.",
+      "What causes hydration mismatches, and how do you fix them properly?",
+      "Streaming SSR with Suspense — what does it change for the user and for the architecture?",
+      "Server actions: how do they work, and what are the security concerns?",
+      "Middleware/edge runtime vs Node runtime — what can and can't you do at the edge?"
+     ]
+    },
+    {
+     "title": "09 · Browser & Networking",
+     "group": "Senior questions",
+     "wordCount": 9,
+     "preview": [
+      "How does the browser build layers and composite, and why do transform and opacity animate smoothly?",
+      "preload, prefetch, preconnect, dns-prefetch, modulepreload — what does each do?",
+      "How do HTTP caching headers interact: Cache-Control, ETag, Last-Modified, immutable?",
+      "Service workers: what do you use them for, and what is the typical cache strategy mix?",
+      "Explain the CORS preflight in detail: when does it happen and how do you avoid it?",
+      "Cookies: SameSite, Secure, HttpOnly, Domain, Path, partitioning — what matters for auth?",
+      "WebSockets vs Server-Sent Events vs long polling — how do you choose?",
+      "What are Intersection, Resize and Mutation Observers, and what do they replace?",
+      "What does HTTP/2 and HTTP/3 change for frontend bundling decisions?"
+     ]
+    },
+    {
+     "title": "10 · Performance",
+     "group": "Senior questions",
+     "wordCount": 7,
+     "preview": [
+      "How do you diagnose a slow React page step by step?",
+      "What is INP, and what typically causes a bad score?",
+      "Code splitting strategy: what do you split and what do you keep in the main bundle?",
+      "How do you optimize images and fonts for Core Web Vitals?",
+      "When is memoization harmful, and how do you decide?",
+      "How do you find and fix layout thrashing?",
+      "Virtualization vs pagination vs windowing — trade-offs?"
+     ]
+    },
+    {
+     "title": "11 · CSS & Layout",
+     "group": "Senior questions",
+     "wordCount": 6,
+     "preview": [
+      "What is a stacking context, what creates one, and how does it affect z-index?",
+      "Containing block and the three \"position\" questions: what is `top: 0` relative to, what does `height: 100%` resolve against, and why does `position: fixed` sometimes scroll?",
+      "Container queries, cascade layers and :has — how do they change how you write CSS?",
+      "CSS custom properties vs preprocessor variables vs CSS-in-JS runtime — what is the modern setup?",
+      "How do you build a performant, accessible animation in CSS or with the Web Animations API?",
+      "Logical properties, intrinsic sizing and modern layout primitives — what do you use for i18n and responsive design without media queries?"
+     ]
+    },
+    {
+     "title": "12 · Architecture & Design",
+     "group": "Senior questions",
+     "wordCount": 7,
+     "preview": [
+      "How do you structure a large frontend codebase so it stays maintainable?",
+      "Micro-frontends: when are they justified, and how would you integrate them?",
+      "How do you design the API layer of a frontend app?",
+      "How do you handle errors and loading states consistently across an app?",
+      "How do you roll out risky UI changes safely?",
+      "Design system: how do you build components that are accessible, themeable and hard to misuse?",
+      "Internationalization: what breaks when you add a second language late?"
+     ]
+    },
+    {
+     "title": "13 · Security & Quality",
+     "group": "Senior questions",
+     "wordCount": 5,
+     "preview": [
+      "Content Security Policy — how do you deploy it in a React app without breaking everything?",
+      "Where do you store access and refresh tokens on the frontend, and why?",
+      "Supply chain security: how do you protect a frontend from a malicious npm package?",
+      "Clickjacking, open redirects and tabnabbing — what are they and how do you prevent them?",
+      "How do you make sanitization and rich text safe in React?"
+     ]
+    },
+    {
+     "title": "14 · Testing",
+     "group": "Senior questions",
+     "wordCount": 4,
+     "preview": [
+      "What do you test at each level of the frontend testing trophy?",
+      "How do you test a custom hook and a component that fetches data?",
+      "Why are E2E tests flaky and how do you make them reliable?",
+      "How do you test accessibility, and what can't be automated?"
+     ]
+    },
+    {
+     "title": "15 · Scenarios & live coding",
+     "group": "Senior questions",
+     "wordCount": 6,
+     "preview": [
+      "The app gets slower the longer the user keeps the tab open. How do you investigate?",
+      "A search box sends a request per keystroke and sometimes shows results for an older query. Fix it properly.",
+      "Design a reusable Autocomplete component. What do you consider beyond the happy path?",
+      "Design a dashboard that shows live data for thousands of users. What's your architecture?",
+      "Migrating a large class-component codebase to hooks and TypeScript — how do you plan it?",
+      "How do you approach a live-coding task in an interview?"
+     ]
+    },
+    {
+     "title": "16 · Algorithms for live coding",
+     "group": "Senior questions",
+     "wordCount": 6,
+     "preview": [
+      "Which data structure gives O(1) lookups in JS, and when do you pick Map over an object?",
+      "Two pointers and sliding window — when do you reach for them?",
+      "How do you traverse a tree like the DOM, and what's the difference between BFS and DFS?",
+      "Explain memoization vs dynamic programming with a frontend-flavoured example.",
+      "How do you implement an LRU cache, and where would you use one in a frontend?",
+      "What's the complexity of common array methods, and how do you avoid accidental O(n²) in React code?"
+     ]
+    }
+   ]
   }
  ]
 }

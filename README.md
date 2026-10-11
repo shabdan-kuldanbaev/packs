@@ -91,3 +91,15 @@ article. Bump the version argument when the content changes.
   not already in the Vocabulary pack, Russian translations and examples. Group "Interview
   questions": 67 cards — the question on the front, a one-line English answer on the back, the
   spoken model answer as the example and its Russian gist as the example translation.
+- **Frontend Interview · Senior Deep Dive** (`tools/frontend_senior.txt` → `.tsv`) — 112
+  senior-level question cards in 16 modules (JS engine & memory, async internals, language
+  internals, advanced TypeScript, React rendering internals, hooks & patterns, data & state,
+  Next.js/SSR, browser & networking, performance, CSS, architecture, security, testing, scenarios,
+  algorithms). Same card layout as above. The source is a readable 4-line-per-card text file;
+  `tools/txt2tsv.py` turns it into the TSV:
+
+```
+python3 tools/txt2tsv.py tools/frontend_senior.txt tools/frontend_senior.tsv "Senior questions"
+python3 tools/build_tsv_pack.py tools/frontend_senior.tsv interview-prep/en-ru-frontend-senior 1 \
+  "Frontend Interview · Senior Deep Dive" C1 "<description>" .
+```
