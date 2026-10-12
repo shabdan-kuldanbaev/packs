@@ -72,7 +72,7 @@ It replaces only its own entry in `catalog.json`.
 One pack, built from a single source: the Google Doc "Frontend — interview questions (full)"
 (Google Drive › interview-prep). 181 question cards in 29 decks.
 
-- Group "Base": 67 common questions. Front: the question, back: the one-line answer.
+- Group "Base": 67 common questions. Front: the question, back: a short spoken answer in simple English.
 - Group "Senior": 114 senior deep-dive questions. Front: the question, back: the Russian gist;
   the spoken answer in simple English is the example, the gist its translation.
 

@@ -1568,17 +1568,17 @@
   },
   {
    "id": "en-ru-frontend-interview",
-   "version": 1,
+   "version": 2,
    "title": "Frontend Interview · Questions",
-   "description": "181 frontend interview questions: 67 base questions with a one-line answer and 114 senior deep-dive questions with a spoken answer in simple English and the gist in Russian.",
+   "description": "181 frontend interview questions: 67 base questions with a short spoken answer and 114 senior deep-dive questions with a spoken answer and the gist in Russian. Simple English.",
    "targetLang": "en",
    "nativeLang": "ru",
    "level": "C1",
    "wordCount": 181,
    "deckCount": 29,
    "file": "packs/en-ru-frontend-interview.json",
-   "bytes": 147995,
-   "sha256": "c6191aaf19331cfdb3ba04260fe65446e3edcb55f6ce49631ef66655af9e0f9b",
+   "bytes": 174743,
+   "sha256": "b62a1bd926e25f6d136e2b8978463487c7023373460f5c98567f75a57d304a1d",
    "decks": [
     {
      "title": "01 · Browser & HTML",
