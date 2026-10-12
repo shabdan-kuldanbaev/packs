@@ -84,6 +84,16 @@ response.body — ReadableStream: читаю чанки, декодирую Text
 
 ## JavaScript · Language internals
 
+What is a closure, how does it work in memory, and where does it cause bugs?
+A function keeps access to the variables of the scope where it was created, even after that scope has finished. The engine keeps those variables alive as long as the function exists. Bugs: old values in callbacks, loops with var, and memory leaks.
+A closure is a function plus the variables around it. When I create a function inside another function, the inner function remembers the outer variables. It keeps them even after the outer function has returned. The engine does not copy the values; it keeps the real variables alive in memory while the inner function exists. I use closures every day: a counter with a private variable, debounce, event handlers, and every React hook. The typical bugs: a callback uses an old value because it was created in an old render; a for loop with var gives the same i to every callback; and a closure that holds a big array keeps it in memory for too long.
+Замыкание — функция плюс переменные вокруг неё; они живут, пока жива функция. Используется везде: приватные переменные, debounce, хуки. Баги: старые значения в колбэках, var в циклах, утечки памяти.
+
+How does lexical scope work, and what is the scope chain?
+Scope is decided by where the code is written, not by where the function is called. When a variable is not found in the current scope, the engine looks in the outer scope, then further out, until the global scope.
+JavaScript has lexical scope. This means the engine decides which variables a function can see by looking at where the function is written in the code. Each function creates a new scope, and blocks with let and const create block scopes. When the code reads a variable, the engine looks in the current scope first. If it is not there, it looks in the outer scope, and so on up to the global scope. This chain is fixed when the function is created, and that is exactly what makes closures possible. The only exception is this, which depends on how the function is called, not where it is written.
+Область видимости определяется местом в коде, а не вызовом. Поиск переменной идёт по цепочке наружу до глобальной. Цепочка фиксируется при создании функции — отсюда замыкания. Исключение — this.
+
 What is the iterable protocol, and why does spread work on a Map but not on a plain object?
 An object is iterable if it has a Symbol.iterator method that returns an object with next(). Map, Set, arrays and strings have it. Plain objects do not.
 for-of, array spread, Array.from and destructuring all use one protocol. They call the Symbol.iterator method and then call next() until done is true. Map, Set, arrays and strings have this method. A plain object does not, so `[...obj]` throws. But `{...obj}` works, because object spread does not use the protocol; it just copies own keys. I can make my own class iterable by adding a generator method named Symbol.iterator.
