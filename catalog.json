@@ -1567,390 +1567,22 @@
    ]
   },
   {
-   "id": "en-ru-fullstack-interview-vocab",
+   "id": "en-ru-frontend-interview",
    "version": 1,
-   "title": "Full-stack Interview · Vocabulary",
-   "description": "The Vocabulary (flashcards) sections of the 12-day full-stack interview prep (JS, TypeScript, React, web basics, Node.js, NestJS, databases, API and security, testing and DevOps, architecture): 128 terms and interview phrases, one deck per day. Russian translations by meaning, every card with an interview-style example.",
+   "title": "Frontend Interview · Questions",
+   "description": "181 frontend interview questions: 67 base questions with a one-line answer and 114 senior deep-dive questions with a spoken answer in simple English and the gist in Russian.",
    "targetLang": "en",
    "nativeLang": "ru",
-   "level": "B2",
-   "wordCount": 128,
-   "deckCount": 12,
-   "file": "packs/interview-prep/en-ru-fullstack-interview-vocab.json",
-   "bytes": 39978,
-   "sha256": "1674ee0253659e167ca2c92e0ef9dccb505bb52030349f530ca0f3d9e8388e7e",
+   "level": "C1",
+   "wordCount": 181,
+   "deckCount": 29,
+   "file": "packs/en-ru-frontend-interview.json",
+   "bytes": 147995,
+   "sha256": "c6191aaf19331cfdb3ba04260fe65446e3edcb55f6ce49631ef66655af9e0f9b",
    "decks": [
     {
-     "title": "01 · JS core",
-     "group": "JavaScript",
-     "wordCount": 12,
-     "preview": [
-      "lexical scope",
-      "to hoist / hoisting",
-      "temporal dead zone",
-      "call site",
-      "to capture a variable",
-      "enclosing scope",
-      "implicit / explicit binding",
-      "type coercion",
-      "falsy / truthy",
-      "partial application",
-      "under the hood",
-      "the gotcha here is…"
-     ]
-    },
-    {
-     "title": "02 · Async JS & event loop",
-     "group": "JavaScript",
-     "wordCount": 10,
-     "preview": [
-      "call stack",
-      "microtask / macrotask queue",
-      "to drain the queue",
-      "to settle / settled",
-      "fail fast",
-      "non-blocking",
-      "prototype chain",
-      "syntactic sugar",
-      "exponential backoff",
-      "this runs asynchronously, so…"
-     ]
-    },
-    {
-     "title": "03 · TypeScript",
-     "group": "TypeScript",
-     "wordCount": 10,
-     "preview": [
-      "structural typing",
-      "to narrow a type",
-      "type guard",
-      "discriminated union",
-      "exhaustive check",
-      "generic constraint",
-      "mapped / conditional type",
-      "type inference",
-      "runtime vs compile time",
-      "type-safe end to end"
-     ]
-    },
-    {
-     "title": "04 · React core",
-     "group": "React",
-     "wordCount": 10,
-     "preview": [
-      "to trigger a re-render",
-      "render phase / commit phase",
-      "reconciliation",
-      "to batch updates",
-      "dependency array",
-      "stale closure",
-      "cleanup function",
-      "derived state",
-      "single source of truth",
-      "race condition"
-     ]
-    },
-    {
-     "title": "05 · React advanced & state",
-     "group": "React",
-     "wordCount": 10,
-     "preview": [
-      "to lift state up / to move state down",
-      "memoization",
-      "referential equality",
-      "server state vs client state",
-      "to invalidate the cache",
-      "code splitting",
-      "lazy loading",
-      "fallback UI",
-      "non-urgent update",
-      "hydration"
-     ]
-    },
-    {
-     "title": "06 · Web basics & algorithms",
-     "group": "Web & algorithms",
-     "wordCount": 11,
-     "preview": [
-      "time / space complexity",
-      "this is O(n) because…",
-      "brute force first, then optimise",
-      "edge case",
-      "trade-off",
-      "bottleneck",
-      "long task",
-      "layout shift",
-      "to virtualise a list",
-      "specificity",
-      "semantic markup"
-     ]
-    },
-    {
-     "title": "07 · Node.js",
-     "group": "Node.js",
-     "wordCount": 10,
-     "preview": [
-      "non-blocking I/O",
-      "thread pool",
-      "to block the event loop",
-      "backpressure",
-      "heap snapshot",
-      "retained size",
-      "garbage collection",
-      "graceful shutdown",
-      "CPU-bound vs I/O-bound",
-      "it scales horizontally"
-     ]
-    },
-    {
-     "title": "08 · NestJS",
-     "group": "NestJS",
-     "wordCount": 10,
-     "preview": [
-      "inversion of control",
-      "dependency graph",
-      "to inject a dependency",
-      "provider token",
-      "cross-cutting concern",
-      "request pipeline",
-      "thin controller",
-      "DTO (data transfer object)",
-      "to whitelist fields",
-      "it's decoupled from the persistence layer"
-     ]
-    },
-    {
-     "title": "09 · Databases",
-     "group": "Databases",
-     "wordCount": 10,
-     "preview": [
-      "foreign key",
-      "primary key",
-      "to normalise / denormalise",
-      "selectivity",
-      "full table scan",
-      "query plan",
-      "isolation level",
-      "row-level lock",
-      "optimistic / pessimistic locking",
-      "eager vs lazy loading"
-     ]
-    },
-    {
-     "title": "10 · API, auth & security",
-     "group": "API & security",
-     "wordCount": 12,
-     "preview": [
-      "idempotent",
-      "stateless / stateful",
-      "bearer token",
-      "token rotation",
-      "to revoke",
-      "hashing vs encryption",
-      "salt",
-      "least privilege",
-      "attack surface",
-      "cache hit / miss",
-      "TTL",
-      "cache invalidation"
-     ]
-    },
-    {
-     "title": "11 · Testing & DevOps",
-     "group": "Testing & DevOps",
-     "wordCount": 13,
-     "preview": [
-      "test pyramid",
-      "test double",
-      "to mock / stub",
-      "flaky test",
-      "regression",
-      "code coverage",
-      "to rebase onto main",
-      "to squash commits",
-      "merge conflict",
-      "image layer",
-      "build cache",
-      "rollback"
-     ]
-    },
-    {
-     "title": "12 · Architecture & behavioral",
-     "group": "Architecture",
-     "wordCount": 10,
-     "preview": [
-      "separation of concerns",
-      "loose coupling / high cohesion",
-      "single point of failure",
-      "horizontal vs vertical scaling",
-      "eventual consistency",
-      "throughput / latency",
-      "let me clarify the requirements first",
-      "the trade-off here is…",
-      "in hindsight, I would…",
-      "I took ownership of…"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "en-ru-frontend-handbook",
-   "version": 1,
-   "title": "Frontend Interview · Words & Questions",
-   "description": "From the Frontend Handbook (interview prep): 87 useful words and phrases with Russian translations and examples, plus 67 interview questions with a one-line answer and a spoken model answer. Browser, CSS, JavaScript, TypeScript, React, state, Next.js, performance, security, testing.",
-   "targetLang": "en",
-   "nativeLang": "ru",
-   "level": "B2",
-   "wordCount": 154,
-   "deckCount": 21,
-   "file": "packs/interview-prep/en-ru-frontend-handbook.json",
-   "bytes": 64511,
-   "sha256": "ddf005a3361ed7182cfc0c39efe98f2b8d28b77f8973dd760db78c1d87c0d098",
-   "decks": [
-    {
-     "title": "01 · Words: Browser & HTML",
-     "group": "Useful words",
-     "wordCount": 10,
-     "preview": [
-      "render-blocking",
-      "to parse / parsing",
-      "critical rendering path",
-      "reflow / repaint",
-      "layout thrashing",
-      "compositor",
-      "screen reader",
-      "to trap focus / focus trap",
-      "keyboard navigation",
-      "colour contrast"
-     ]
-    },
-    {
-     "title": "02 · Words: CSS",
-     "group": "Useful words",
-     "wordCount": 10,
-     "preview": [
-      "box model",
-      "containing block",
-      "stacking context",
-      "out of the flow",
-      "mobile-first",
-      "breakpoint",
-      "container query",
-      "utility class",
-      "design token",
-      "to scope styles"
-     ]
-    },
-    {
-     "title": "03 · Words: JavaScript",
-     "group": "Useful words",
-     "wordCount": 10,
-     "preview": [
-      "primitive",
-      "shallow / deep copy",
-      "event bubbling",
-      "event delegation",
-      "to debounce / to throttle",
-      "tree shaking",
-      "dynamic import",
-      "to mutate / mutation",
-      "side effect",
-      "pure function"
-     ]
-    },
-    {
-     "title": "04 · Words: TypeScript & tooling",
-     "group": "Useful words",
-     "wordCount": 12,
-     "preview": [
-      "type widening",
-      "type assertion",
-      "utility type",
-      "declaration merging",
-      "lock file",
-      "semantic versioning",
-      "peer dependency",
-      "bundler",
-      "to transpile",
-      "content hash",
-      "hot module replacement",
-      "to cherry-pick"
-     ]
-    },
-    {
-     "title": "05 · Words: React",
-     "group": "Useful words",
-     "wordCount": 11,
-     "preview": [
-      "to mount / to unmount",
-      "to remount",
-      "stable key",
-      "controlled / uncontrolled input",
-      "prop drilling",
-      "custom hook",
-      "error boundary",
-      "portal",
-      "concurrent rendering",
-      "optimistic update",
-      "Server Component / Client Component"
-     ]
-    },
-    {
-     "title": "06 · Words: State, Next.js & performance",
-     "group": "Useful words",
-     "wordCount": 14,
-     "preview": [
-      "global store",
-      "selector",
-      "boilerplate",
-      "stale-while-revalidate",
-      "query key",
-      "server-side rendering",
-      "static site generation",
-      "incremental static regeneration",
-      "hydration mismatch",
-      "streaming",
-      "above / below the fold",
-      "bundle size"
-     ]
-    },
-    {
-     "title": "07 · Words: Security & testing",
-     "group": "Useful words",
-     "wordCount": 9,
-     "preview": [
-      "to sanitise",
-      "Content Security Policy",
-      "untrusted input",
-      "SameSite cookie",
-      "implementation details",
-      "to intercept requests",
-      "assertion",
-      "smoke test",
-      "critical user flow"
-     ]
-    },
-    {
-     "title": "08 · Words: Phrases for answers",
-     "group": "Useful words",
-     "wordCount": 11,
-     "preview": [
-      "in short, …",
-      "the reason is …",
-      "it depends on …",
-      "as a rule of thumb, …",
-      "the first thing I'd do is measure it",
-      "I haven't used it in production, but …",
-      "out of the box",
-      "a common pitfall is …",
-      "to keep in mind",
-      "let me think out loud",
-      "to put it simply, …"
-     ]
-    },
-    {
-     "title": "09 · Questions: Browser & HTML",
-     "group": "Interview questions",
+     "title": "01 · Browser & HTML",
+     "group": "Base",
      "wordCount": 5,
      "preview": [
       "What happens when you open a URL?",
@@ -1961,8 +1593,8 @@
      ]
     },
     {
-     "title": "10 · Questions: CSS",
-     "group": "Interview questions",
+     "title": "02 · CSS",
+     "group": "Base",
      "wordCount": 7,
      "preview": [
       "Explain the box model.",
@@ -1975,8 +1607,8 @@
      ]
     },
     {
-     "title": "11 · Questions: JavaScript",
-     "group": "Interview questions",
+     "title": "03 · JavaScript",
+     "group": "Base",
      "wordCount": 11,
      "preview": [
       "What are the data types? == vs ===?",
@@ -1993,8 +1625,8 @@
      ]
     },
     {
-     "title": "12 · Questions: TypeScript",
-     "group": "Interview questions",
+     "title": "04 · TypeScript",
+     "group": "Base",
      "wordCount": 5,
      "preview": [
       "interface vs type?",
@@ -2005,8 +1637,8 @@
      ]
     },
     {
-     "title": "13 · Questions: Tooling & Git",
-     "group": "Interview questions",
+     "title": "05 · Tooling & Git",
+     "group": "Base",
      "wordCount": 3,
      "preview": [
       "What do ^ and ~ mean, and why a lock file?",
@@ -2015,8 +1647,8 @@
      ]
     },
     {
-     "title": "14 · Questions: React core",
-     "group": "Interview questions",
+     "title": "06 · React core",
+     "group": "Base",
      "wordCount": 13,
      "preview": [
       "When does a React component re-render?",
@@ -2034,8 +1666,8 @@
      ]
     },
     {
-     "title": "15 · Questions: React advanced",
-     "group": "Interview questions",
+     "title": "07 · React advanced",
+     "group": "Base",
      "wordCount": 4,
      "preview": [
       "What are Error Boundaries?",
@@ -2045,8 +1677,8 @@
      ]
     },
     {
-     "title": "16 · Questions: State management",
-     "group": "Interview questions",
+     "title": "08 · State management",
+     "group": "Base",
      "wordCount": 4,
      "preview": [
       "Where should state live?",
@@ -2056,8 +1688,8 @@
      ]
     },
     {
-     "title": "17 · Questions: Next.js",
-     "group": "Interview questions",
+     "title": "09 · Next.js",
+     "group": "Base",
      "wordCount": 3,
      "preview": [
       "CSR vs SSR vs SSG vs ISR?",
@@ -2066,8 +1698,8 @@
      ]
     },
     {
-     "title": "18 · Questions: Performance",
-     "group": "Interview questions",
+     "title": "10 · Performance",
+     "group": "Base",
      "wordCount": 3,
      "preview": [
       "What are Core Web Vitals?",
@@ -2076,8 +1708,8 @@
      ]
     },
     {
-     "title": "19 · Questions: Security",
-     "group": "Interview questions",
+     "title": "11 · Security",
+     "group": "Base",
      "wordCount": 2,
      "preview": [
       "What is XSS and how do you prevent it in React?",
@@ -2085,8 +1717,8 @@
      ]
     },
     {
-     "title": "20 · Questions: Testing",
-     "group": "Interview questions",
+     "title": "12 · Testing",
+     "group": "Base",
      "wordCount": 3,
      "preview": [
       "What is the idea of React Testing Library?",
@@ -2095,8 +1727,8 @@
      ]
     },
     {
-     "title": "21 · Questions: Scenarios",
-     "group": "Interview questions",
+     "title": "13 · Scenarios",
+     "group": "Base",
      "wordCount": 4,
      "preview": [
       "A form re-renders the whole page on every keystroke. What do you do?",
@@ -2104,26 +1736,10 @@
       "Users double-click \"Pay\" and get two orders. How do you fix it?",
       "The bundle is 3 MB. Where do you start?"
      ]
-    }
-   ]
-  },
-  {
-   "id": "en-ru-frontend-senior",
-   "version": 3,
-   "title": "Frontend Interview · Senior Deep Dive",
-   "description": "114 senior-level frontend interview questions in 16 modules: JS engine and async internals, closures and scope, advanced TypeScript, React rendering internals and patterns, data and state, Next.js/SSR, browser and networking, performance, CSS, architecture, security, testing, scenarios and algorithms. Question on the front, one-line answer on the back, full spoken answer in simple English as the example, with its Russian gist.",
-   "targetLang": "en",
-   "nativeLang": "ru",
-   "level": "C1",
-   "wordCount": 114,
-   "deckCount": 16,
-   "file": "packs/interview-prep/en-ru-frontend-senior.json",
-   "bytes": 127461,
-   "sha256": "87a5d5776962564cf8cef408d843e534fb71cb4597b15287c69afa1c8e99a9db",
-   "decks": [
+    },
     {
-     "title": "01 · JavaScript · Engine & memory",
-     "group": "Senior questions",
+     "title": "14 · JavaScript · Engine & memory",
+     "group": "Senior",
      "wordCount": 6,
      "preview": [
       "How does V8 run JavaScript, and why should objects keep the same shape?",
@@ -2135,8 +1751,8 @@
      ]
     },
     {
-     "title": "02 · JavaScript · Async deep dive",
-     "group": "Senior questions",
+     "title": "15 · JavaScript · Async deep dive",
+     "group": "Senior",
      "wordCount": 9,
      "preview": [
       "In what order do microtasks, macrotasks, requestAnimationFrame and rendering run?",
@@ -2151,8 +1767,8 @@
      ]
     },
     {
-     "title": "03 · JavaScript · Language internals",
-     "group": "Senior questions",
+     "title": "16 · JavaScript · Language internals",
+     "group": "Senior",
      "wordCount": 9,
      "preview": [
       "What is a closure, how does it work in memory, and where does it cause bugs?",
@@ -2167,8 +1783,8 @@
      ]
     },
     {
-     "title": "04 · TypeScript · Advanced types",
-     "group": "Senior questions",
+     "title": "17 · TypeScript · Advanced types",
+     "group": "Senior",
      "wordCount": 10,
      "preview": [
       "Conditional types with infer — how do you get a function's return type or a promise's value?",
@@ -2184,8 +1800,8 @@
      ]
     },
     {
-     "title": "05 · React · Rendering internals",
-     "group": "Senior questions",
+     "title": "18 · React · Rendering internals",
+     "group": "Senior",
      "wordCount": 9,
      "preview": [
       "What happens between setState and the change on the screen?",
@@ -2200,8 +1816,8 @@
      ]
     },
     {
-     "title": "06 · React · Hooks & patterns",
-     "group": "Senior questions",
+     "title": "19 · React · Hooks & patterns",
+     "group": "Senior",
      "wordCount": 8,
      "preview": [
       "Why do effects see old props, and how do you read the latest value without re-subscribing?",
@@ -2215,8 +1831,8 @@
      ]
     },
     {
-     "title": "07 · React · Data & state",
-     "group": "Senior questions",
+     "title": "20 · React · Data & state",
+     "group": "Senior",
      "wordCount": 7,
      "preview": [
       "Server state vs client state — why treat them differently?",
@@ -2229,8 +1845,8 @@
      ]
     },
     {
-     "title": "08 · Next.js & SSR",
-     "group": "Senior questions",
+     "title": "21 · Next.js & SSR",
+     "group": "Senior",
      "wordCount": 6,
      "preview": [
       "Where is the server/client boundary in React Server Components, and what can cross it?",
@@ -2242,8 +1858,8 @@
      ]
     },
     {
-     "title": "09 · Browser & Networking",
-     "group": "Senior questions",
+     "title": "22 · Browser & Networking",
+     "group": "Senior",
      "wordCount": 9,
      "preview": [
       "How does the browser use layers, and why do transform and opacity animate smoothly?",
@@ -2258,8 +1874,8 @@
      ]
     },
     {
-     "title": "10 · Performance",
-     "group": "Senior questions",
+     "title": "23 · Performance",
+     "group": "Senior",
      "wordCount": 7,
      "preview": [
       "How do you find why a React page is slow, step by step?",
@@ -2272,8 +1888,8 @@
      ]
     },
     {
-     "title": "11 · CSS & Layout",
-     "group": "Senior questions",
+     "title": "24 · CSS & Layout",
+     "group": "Senior",
      "wordCount": 6,
      "preview": [
       "What is a stacking context, what creates one, and why does z-index sometimes not work?",
@@ -2285,8 +1901,8 @@
      ]
     },
     {
-     "title": "12 · Architecture & Design",
-     "group": "Senior questions",
+     "title": "25 · Architecture & Design",
+     "group": "Senior",
      "wordCount": 7,
      "preview": [
       "How do you organize a large frontend codebase so it stays maintainable?",
@@ -2299,8 +1915,8 @@
      ]
     },
     {
-     "title": "13 · Security & Quality",
-     "group": "Senior questions",
+     "title": "26 · Security & Quality",
+     "group": "Senior",
      "wordCount": 5,
      "preview": [
       "How do you add a Content Security Policy to a React app without breaking it?",
@@ -2311,8 +1927,8 @@
      ]
     },
     {
-     "title": "14 · Testing",
-     "group": "Senior questions",
+     "title": "27 · Testing",
+     "group": "Senior",
      "wordCount": 4,
      "preview": [
       "What do you test at each level of the frontend testing trophy?",
@@ -2322,8 +1938,8 @@
      ]
     },
     {
-     "title": "15 · Scenarios & live coding",
-     "group": "Senior questions",
+     "title": "28 · Scenarios & live coding",
+     "group": "Senior",
      "wordCount": 6,
      "preview": [
       "The app gets slower the longer the tab stays open. How do you investigate?",
@@ -2335,8 +1951,8 @@
      ]
     },
     {
-     "title": "16 · Algorithms for live coding",
-     "group": "Senior questions",
+     "title": "29 · Algorithms for live coding",
+     "group": "Senior",
      "wordCount": 6,
      "preview": [
       "Which data structure gives O(1) lookups in JavaScript, and when do you pick Map over an object?",

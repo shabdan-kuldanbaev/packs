@@ -67,41 +67,24 @@ python3 tools/build_zh_pack.py path/to/graphics.txt tools/zh_hsk1.tsv .
 
 It replaces only its own entry in `catalog.json`.
 
-### Topic packs from a TSV (`packs/interview-prep/`)
+### Frontend Interview · Questions (`tools/frontend_interview.tsv`)
 
-Hand-written word lists live in `tools/*.tsv` (group, deck, word, translation, alternatives,
-example, example translation). Build one; a folder in the pack id puts the file in that subfolder
-of `packs/`:
+One pack, built from a single source: the Google Doc "Frontend — interview questions (full)"
+(Google Drive › interview-prep). 181 question cards in 29 decks.
 
-```
-python3 tools/build_tsv_pack.py tools/interview_vocab.tsv interview-prep/en-ru-fullstack-interview-vocab 1 \
-  "Full-stack Interview · Vocabulary" B2 "<description>" .
-```
+- Group "Base": 67 common questions. Front: the question, back: the one-line answer.
+- Group "Senior": 114 senior deep-dive questions. Front: the question, back: the Russian gist;
+  the spoken answer in simple English is the example, the gist its translation.
 
-Accepted answers automatically include each variant without a trailing `.?!` and without a leading
-article. Bump the version argument when the content changes.
-
-- **Full-stack Interview · Vocabulary** — the "Vocabulary (flashcards)" section of each of the 12
-  day files of the full-stack prep plan (Google Drive › interview-prep): 128 terms and interview
-  phrases, one deck per day (JS core, async JS, TypeScript, React ×2, web basics & algorithms,
-  Node.js, NestJS, databases, API & security, testing & DevOps, architecture & behavioral).
-  Translations by meaning; every card has an interview-style example sentence.
-- **Frontend Interview · Words & Questions** (`tools/frontend_handbook.tsv`) — from the Frontend
-  Handbook v2 (Google Drive › interview-prep). Group "Useful words": 87 terms and answer phrases
-  not already in the Vocabulary pack, Russian translations and examples. Group "Interview
-  questions": 67 cards — the question on the front, a one-line English answer on the back, the
-  spoken model answer as the example and its Russian gist as the example translation.
-- **Frontend Interview · Senior Deep Dive** (`tools/frontend_senior.txt` → `.tsv`) — 114
-  senior-level question cards in 16 modules (JS engine & memory, async internals, language
-  internals, advanced TypeScript, React rendering internals, hooks & patterns, data & state,
-  Next.js/SSR, browser & networking, performance, CSS, architecture, security, testing, scenarios,
-  algorithms). Same card layout as above. Spoken answers are written in simple English: short
-  sentences, everyday words, technical terms only where they are the subject. The source is a
-  readable 4-line-per-card text file;
-  `tools/txt2tsv.py` turns it into the TSV:
+To update: edit the Google Doc, export it as Markdown (File › Download › Markdown), then
 
 ```
-python3 tools/txt2tsv.py tools/frontend_senior.txt tools/frontend_senior.tsv "Senior questions"
-python3 tools/build_tsv_pack.py tools/frontend_senior.tsv interview-prep/en-ru-frontend-senior 3 \
-  "Frontend Interview · Senior Deep Dive" C1 "<description>" .
+python3 tools/doc2tsv.py doc.md tools/frontend_interview.tsv
+python3 tools/build_tsv_pack.py tools/frontend_interview.tsv en-ru-frontend-interview <version> \
+  "Frontend Interview · Questions" C1 "<description>" .
 ```
+
+`build_tsv_pack.py` reads a hand-written or generated TSV (group, deck, word, translation,
+alternatives, example, example translation) and replaces only its own entry in `catalog.json`.
+A folder in the pack id puts the file in that subfolder of `packs/`. Bump the version when the
+content changes.
