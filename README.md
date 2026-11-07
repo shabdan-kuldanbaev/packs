@@ -1,14 +1,49 @@
-# Flashcards word packs
+# Jattap packs and courses
 
-Ready-made word packs for the Flashcards app (Library tab).
+Ready-made content for the Jattap app (Flashcards).
 
-- `catalog.json` — list of packs: title, language pair, word and deck counts, per-deck preview,
-  file path, size and `sha256` of the pack file. The app loads it when the Library tab opens.
-- `packs/<id>.json` — the pack itself. Downloaded only when the user taps **Add**; after the import
-  the words live in the app's local database and the file is not needed anymore. Related packs may
-  sit in a subfolder (`packs/interview-prep/`); the app only follows the `file` path from the catalog.
+- `catalog.json` — one list for everything ready-made:
+  - `courses` — grammar courses (spec.md §29): title, `basedOn`, description in `en` and `ru`,
+    level, lesson / rule / sentence counts, chapters with their lessons, file path, size and
+    `sha256`. The app ships a copy of this list and of every course file in its assets
+    (`assets/catalog/`, synced by `tool/sync_catalog.sh` in the app repository): the app has
+    no network, so a new or updated course reaches users with the next app release.
+  - `packs` — word packs from the former Library tab (removed from the app 2026-10-26). They
+    stay here as files: the app still opens them via **New → Add ready-made → Choose a .json
+    file**.
+- `courses/<id>.json` — a course file in the app's lesson format (`format: 1`, `kind: "course"`),
+  built from `courses/src/<id>/` — see below.
+- `packs/<id>.json` — a word pack. Related packs may sit in a subfolder (`packs/interview-prep/`).
 
-## Pack format (v1)
+## Courses
+
+### English Grammar in Use (`courses/en-ru-grammar-in-use.json`)
+
+All 145 units of Raymond Murphy's *English Grammar in Use*, 5th edition, in the book's order,
+plus 15 review lessons: 160 lessons, 469 rules, 7 355 sentences. The text is Jattap's own:
+Russian explanations and freshly written practice sentences follow the units' topics, nothing is
+copied from the book. Every unit is one lesson (`u12-…`); a review lesson (`r18-…`) closes a
+group of units.
+
+Source: `courses/src/en-ru-grammar-in-use/` — `course.json` (id, version, title, description,
+chapters = sections of the book with their unit ranges) and ten part files, each a course file
+of its own, kept small enough to edit. To change a lesson, edit its part file, then rebuild:
+
+```
+python3 tools/build_course.py courses/src/en-ru-grammar-in-use .
+```
+
+The builder concatenates the parts into `courses/<id>.json`, checks that lesson ids are unique
+(the app matches lessons by id when a course is updated, keeping the learner's progress), puts
+every lesson into the chapter of its unit and replaces the course's entry in `catalog.json`.
+Bump `version` in `course.json` when the content changes.
+
+The lesson format, the prompt for neural networks and the JSON schema live in the app
+repository: `docs/lessons/`.
+
+## Word packs
+
+### Pack format (v1)
 
 ```json
 {
@@ -34,7 +69,7 @@ Optional, per word:
 
 The app rejects the whole pack if `r` or `s` is broken or `s` leaves the cell.
 
-## Rebuilding
+### Rebuilding
 
 ```
 python3 tools/build_pack.py tools/items.json tools/translations.json .

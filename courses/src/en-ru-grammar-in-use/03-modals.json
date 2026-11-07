@@ -1,0 +1,4760 @@
+{
+  "format": 1,
+  "kind": "course",
+  "id": "grammar-03-modals",
+  "title": "Модальные глаголы",
+  "targetLang": "en",
+  "nativeLang": "ru",
+  "level": "B1",
+  "lessons": [
+    {
+      "id": "u26-can-could-be-able-to",
+      "title": "can, could and (be) able to",
+      "subtitle": "Юнит 26 · умею, могу, удалось",
+      "level": "B1",
+      "points": [
+        {
+          "id": "can-able",
+          "title": "can и be able to",
+          "theory": [
+            "can — «могу, умею, можно». После can глагол без to. У can всего две формы: can и could.",
+            {
+              "formula": [
+                "can / can't",
+                "+",
+                "глагол"
+              ]
+            },
+            "Где can не встаёт (будущее, present perfect, после другого модального, после to или -ing), берём be able to.",
+            {
+              "table": [
+                [
+                  "будущее",
+                  "will be able to"
+                ],
+                [
+                  "present perfect",
+                  "have been able to"
+                ],
+                [
+                  "после модального",
+                  "might / must be able to"
+                ],
+                [
+                  "после to / -ing",
+                  "to be able to · being able to"
+                ]
+              ]
+            },
+            {
+              "ex": "I [haven't been able to] call you all week.",
+              "tr": "Я всю неделю не мог тебе позвонить."
+            },
+            {
+              "ex": "Soon you [will be able to] read English books.",
+              "tr": "Скоро ты сможешь читать английские книги."
+            },
+            {
+              "wrong": "I will can help you tomorrow.",
+              "right": "I will be able to help you tomorrow."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "I haven't {been able to} sleep well this week.",
+              "hint": "be able to",
+              "tr": "Всю эту неделю я не могу нормально выспаться.",
+              "why": "Present perfect: у can нет такой формы, нужно been able to."
+            },
+            {
+              "choice": "One day robots {will be able to} cook for us.",
+              "opts": [
+                "will can",
+                "can to"
+              ],
+              "tr": "Когда-нибудь роботы смогут готовить для нас.",
+              "why": "Будущее от can — will be able to."
+            },
+            {
+              "order": "You can use my laptop if you like.",
+              "tr": "Можешь взять мой ноутбук, если хочешь."
+            },
+            {
+              "fix": "I'd love to {can>be able to} play the piano.",
+              "tr": "Я бы очень хотел уметь играть на пианино.",
+              "why": "После to can не ставится — нужно be able to."
+            }
+          ],
+          "review": [
+            {
+              "gap": "Sorry, I {can't|cannot|won't be able to|will not be able to} come to the meeting tomorrow.",
+              "hint": "not / can",
+              "tr": "Извините, я не смогу прийти на совещание завтра."
+            },
+            {
+              "gap": "Will you {be able to} finish the report by Friday?",
+              "hint": "be able to",
+              "tr": "Ты сможешь закончить отчёт к пятнице?",
+              "why": "После will — be able to, can здесь не встанет."
+            },
+            {
+              "gap": "She has {been able to} swim since she was four.",
+              "hint": "be able to",
+              "tr": "Она умеет плавать с четырёх лет."
+            },
+            {
+              "gap": "Applicants must {be able to} drive.",
+              "hint": "be able to",
+              "tr": "Кандидаты должны уметь водить машину.",
+              "why": "Два модальных подряд нельзя: must be able to."
+            },
+            {
+              "choice": "Can you {speak} Chinese?",
+              "opts": [
+                "to speak",
+                "speaking"
+              ],
+              "tr": "Ты говоришь по-китайски?",
+              "why": "После can — глагол без to."
+            },
+            {
+              "choice": "I might {be able to} help you tomorrow.",
+              "opts": [
+                "can",
+                "could to"
+              ],
+              "tr": "Возможно, завтра я смогу тебе помочь."
+            },
+            {
+              "choice": "So far we {haven't been able to} find a cheap flat.",
+              "opts": [
+                "haven't could",
+                "don't can"
+              ],
+              "tr": "Пока нам не удалось найти недорогую квартиру."
+            },
+            {
+              "order": "My sister can't ride a bike yet.",
+              "tr": "Моя сестра ещё не умеет кататься на велосипеде."
+            },
+            {
+              "order": "I hope to be able to visit you soon.",
+              "tr": "Надеюсь, скоро смогу к тебе приехать."
+            },
+            {
+              "fix": "After the course you will {can>be able to} speak fluently.",
+              "tr": "После курса ты сможешь бегло говорить."
+            },
+            {
+              "fix": "She enjoys {can>being able to} work from home.",
+              "tr": "Ей нравится, что она может работать из дома."
+            },
+            {
+              "fix": "Can you {to help>help} me with this box?",
+              "tr": "Можешь помочь мне с этой коробкой?"
+            }
+          ]
+        },
+        {
+          "id": "could-past",
+          "title": "could: умел, мог раньше",
+          "theory": [
+            "could — прошедшее от can, когда речь об умении вообще или о том, что было разрешено.",
+            "С глаголами восприятия и понимания could особенно частое: see, hear, smell, taste, feel, remember, understand.",
+            {
+              "ex": "As a child, she [could] draw really well.",
+              "tr": "В детстве она очень хорошо рисовала."
+            },
+            {
+              "ex": "From the balcony we [could see] the sea.",
+              "tr": "С балкона нам было видно море."
+            },
+            {
+              "ex": "At my old school we [could] wear jeans.",
+              "tr": "В моей старой школе можно было ходить в джинсах."
+            },
+            {
+              "tip": "В русском часто нет слова «мог»: «было видно», «я слышал» — по-английски could see, could hear."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "My grandmother {could|was able to} play the violin beautifully.",
+              "hint": "can",
+              "tr": "Моя бабушка прекрасно играла на скрипке.",
+              "why": "Умение вообще в прошлом — could."
+            },
+            {
+              "choice": "Last summer, from our window we {could} see the mountains.",
+              "opts": [
+                "can",
+                "could to"
+              ],
+              "tr": "Прошлым летом из окна нам были видны горы.",
+              "why": "Прошлое + see → could see."
+            },
+            {
+              "order": "At school I could run very fast.",
+              "tr": "В школе я очень быстро бегал."
+            },
+            {
+              "fix": "As children, we {can>could} stay up late on Fridays.",
+              "tr": "В детстве нам разрешали не ложиться допоздна по пятницам.",
+              "why": "Разрешение в прошлом — could."
+            }
+          ],
+          "review": [
+            {
+              "gap": "Yesterday I {couldn't|could not|wasn't able to|was not able to} hear the speaker from the back.",
+              "hint": "not / can",
+              "tr": "Вчера с задних рядов мне не было слышно докладчика."
+            },
+            {
+              "gap": "As soon as I opened the fridge, I {could} smell fish.",
+              "hint": "can",
+              "tr": "Как только я открыл холодильник, я почувствовал запах рыбы.",
+              "why": "smell в прошлом — could smell."
+            },
+            {
+              "gap": "At twenty, he {could|was able to} run a marathon in three hours.",
+              "hint": "can",
+              "tr": "В двадцать лет он мог пробежать марафон за три часа."
+            },
+            {
+              "gap": "In my old job I {could|was able to} work from home on Fridays.",
+              "hint": "can",
+              "tr": "На старой работе мне можно было работать из дома по пятницам."
+            },
+            {
+              "choice": "I {couldn't} understand a word of yesterday's lecture.",
+              "opts": [
+                "can't to",
+                "didn't can"
+              ],
+              "tr": "Я не понял ни слова на вчерашней лекции."
+            },
+            {
+              "choice": "When she was young, she {could} sing really well.",
+              "opts": [
+                "can",
+                "could to"
+              ],
+              "tr": "В молодости она очень хорошо пела."
+            },
+            {
+              "choice": "Before the new rules, students {could} park anywhere.",
+              "opts": [
+                "can",
+                "can to"
+              ],
+              "tr": "До новых правил студенты могли парковаться где угодно."
+            },
+            {
+              "order": "I could remember every word of the song.",
+              "tr": "Я помнил каждое слово этой песни."
+            },
+            {
+              "order": "We could hear music from next door.",
+              "tr": "Нам было слышно музыку из соседней квартиры."
+            },
+            {
+              "fix": "My dad {can>could} speak German when he was younger.",
+              "tr": "В молодости папа говорил по-немецки."
+            },
+            {
+              "fix": "The room was dark and I {can't>couldn't} see anything.",
+              "tr": "В комнате было темно, и я ничего не видел."
+            },
+            {
+              "fix": "Ten years ago you {could to>could} smoke in bars.",
+              "tr": "Десять лет назад в барах можно было курить."
+            }
+          ]
+        },
+        {
+          "id": "managed",
+          "title": "was able to / managed to",
+          "theory": [
+            "Если в конкретной ситуации получилось что-то сделать («удалось», «смог»), could не используем. Нужно was/were able to или managed to.",
+            {
+              "formula": [
+                "was / were able to",
+                "или",
+                "managed to",
+                "+",
+                "глагол"
+              ]
+            },
+            {
+              "ex": "The road was closed, but we [managed to] get there.",
+              "tr": "Дорогу перекрыли, но мы всё-таки доехали."
+            },
+            {
+              "wrong": "I lost my phone, but later I could find it.",
+              "right": "I lost my phone, but later I managed to find it."
+            },
+            "А вот couldn't подходит всегда: и для умения вообще, и для одного случая.",
+            {
+              "ex": "I tried, but I [couldn't] open the jar.",
+              "tr": "Я пытался, но не смог открыть банку."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "The test was hard, but I {managed to|was able to} pass it.",
+              "hint": "manage",
+              "tr": "Тест был трудный, но мне удалось его сдать.",
+              "why": "Удалось один раз — managed to, не could."
+            },
+            {
+              "choice": "The door was locked, but we {were able to} get in through a window.",
+              "opts": [
+                "could",
+                "can"
+              ],
+              "tr": "Дверь была заперта, но мы смогли залезть через окно.",
+              "why": "Конкретный успех — were able to."
+            },
+            {
+              "order": "I couldn't find my keys this morning.",
+              "tr": "Сегодня утром я не мог найти ключи."
+            },
+            {
+              "fix": "After three hours we {could>managed to} fix the car.",
+              "tr": "Через три часа нам удалось починить машину.",
+              "why": "Удалось в конкретной ситуации — managed to."
+            }
+          ],
+          "review": [
+            {
+              "gap": "The traffic was terrible, but we {managed to|were able to} catch the train.",
+              "hint": "manage",
+              "tr": "Пробки были ужасные, но мы успели на поезд."
+            },
+            {
+              "gap": "He tried hard, but he {couldn't|could not|wasn't able to|was not able to|didn't manage to|did not manage to} open the jar.",
+              "hint": "not / can",
+              "tr": "Он очень старался, но не смог открыть банку.",
+              "why": "В отрицании couldn't возможно всегда."
+            },
+            {
+              "gap": "Did you {manage to} talk to the manager?",
+              "hint": "manage",
+              "tr": "Тебе удалось поговорить с менеджером?"
+            },
+            {
+              "gap": "The phone died, but I {managed to|was able to} save the file.",
+              "hint": "manage",
+              "tr": "Телефон сел, но я успел сохранить файл."
+            },
+            {
+              "choice": "Despite the rain, the team {managed to} win the match.",
+              "opts": [
+                "could",
+                "can"
+              ],
+              "tr": "Несмотря на дождь, команде удалось выиграть матч."
+            },
+            {
+              "choice": "I {couldn't} sleep last night because of the noise.",
+              "opts": [
+                "can't",
+                "wasn't managed to"
+              ],
+              "tr": "Прошлой ночью я не мог уснуть из-за шума."
+            },
+            {
+              "choice": "The climbers {were able to} reach the top before dark.",
+              "opts": [
+                "could",
+                "can"
+              ],
+              "tr": "Альпинисты смогли добраться до вершины до темноты."
+            },
+            {
+              "order": "She managed to get tickets for the concert.",
+              "tr": "Ей удалось достать билеты на концерт."
+            },
+            {
+              "order": "We were able to finish everything on time.",
+              "tr": "Мы смогли всё закончить вовремя."
+            },
+            {
+              "fix": "Luckily, I {could>was able to} get a taxi at the station.",
+              "tr": "К счастью, мне удалось поймать такси на вокзале."
+            },
+            {
+              "fix": "We {could>managed to} book the last two seats.",
+              "tr": "Нам удалось забронировать два последних места."
+            },
+            {
+              "fix": "She {managed>managed to} answer all the questions.",
+              "tr": "Ей удалось ответить на все вопросы."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u27-could-and-could-have",
+      "title": "could (do) and could have (done)",
+      "subtitle": "Юнит 27 · мог бы, мог бы тогда",
+      "level": "B2",
+      "points": [
+        {
+          "id": "suggest",
+          "title": "could: идеи и фантазии",
+          "theory": [
+            "could не всегда о прошлом. Им часто предлагают вариант: «мы могли бы…». can здесь тоже возможен, но could звучит мягче и менее уверенно.",
+            {
+              "ex": "We [could] order a pizza tonight.",
+              "tr": "Мы могли бы заказать пиццу вечером."
+            },
+            "Для нереального, преувеличенного действия — только could, не can.",
+            {
+              "ex": "I'm so bored I [could] scream.",
+              "tr": "Мне так скучно, что хоть кричи."
+            },
+            {
+              "wrong": "This beach is perfect. I can stay here forever.",
+              "right": "This beach is perfect. I could stay here forever."
+            },
+            {
+              "tip": "Реально и точно — can. Возможно, как идея — could. Фантазия, «аж хочется» — только could."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "If you're bored, we {could|can} go for a walk.",
+              "hint": "can",
+              "tr": "Если тебе скучно, мы могли бы прогуляться.",
+              "why": "Предложение варианта — could (can тоже возможно)."
+            },
+            {
+              "choice": "I'm so hungry I {could} eat a horse.",
+              "opts": [
+                "can",
+                "must"
+              ],
+              "tr": "Я так голоден, что съел бы слона.",
+              "why": "Преувеличение, нереальное — только could."
+            },
+            {
+              "order": "You could ask your brother for help.",
+              "tr": "Ты мог бы попросить помощи у брата."
+            },
+            {
+              "fix": "This view is amazing. I {can>could} stay here forever.",
+              "tr": "Вид потрясающий. Я мог бы остаться здесь навсегда.",
+              "why": "Нереальное желание — could, не can."
+            }
+          ],
+          "review": [
+            {
+              "gap": "We {could|can} meet for lunch on Friday, if you're free.",
+              "hint": "can",
+              "tr": "Мы могли бы пообедать вместе в пятницу, если ты свободен."
+            },
+            {
+              "gap": "You {could|can} try turning it off and on again.",
+              "hint": "can",
+              "tr": "Можешь попробовать выключить и снова включить."
+            },
+            {
+              "gap": "I'm so happy I {could} dance!",
+              "hint": "can",
+              "tr": "Я так счастлив, что готов пуститься в пляс!",
+              "why": "Преувеличение — только could."
+            },
+            {
+              "gap": "If you need a place to stay, you {could|can} stay with us.",
+              "hint": "can",
+              "tr": "Если тебе негде остановиться, можешь пожить у нас."
+            },
+            {
+              "choice": "This song is so good I {could} listen to it all day.",
+              "opts": [
+                "can",
+                "would to"
+              ],
+              "tr": "Эта песня такая классная, я бы слушал её весь день."
+            },
+            {
+              "choice": "Maybe we {could} take the train instead of driving.",
+              "opts": [
+                "can to",
+                "could to"
+              ],
+              "tr": "Может, нам поехать поездом, а не на машине?"
+            },
+            {
+              "choice": "I'm so angry I {could} scream.",
+              "opts": [
+                "can",
+                "must"
+              ],
+              "tr": "Я так зол, что готов кричать."
+            },
+            {
+              "order": "We could watch a film tonight.",
+              "tr": "Мы могли бы посмотреть фильм вечером."
+            },
+            {
+              "order": "Maybe you could call her tomorrow.",
+              "tr": "Может, ты позвонишь ей завтра?"
+            },
+            {
+              "fix": "It's so hot today, I {can>could} swim all day.",
+              "tr": "Сегодня так жарко, я бы плавал весь день."
+            },
+            {
+              "fix": "You {could to>could} borrow my car this weekend.",
+              "tr": "Ты мог бы взять мою машину на выходные."
+            }
+          ]
+        },
+        {
+          "id": "possible",
+          "title": "could: возможно сейчас или потом",
+          "theory": [
+            "could также значит «возможно, может быть» — о конкретной ситуации сейчас или в будущем. can в этом значении не используют.",
+            {
+              "ex": "Take a jacket. It [could] get cold later.",
+              "tr": "Возьми куртку. Позже может похолодать."
+            },
+            {
+              "ex": "Where's Max? He [could be] in the garden.",
+              "tr": "Где Макс? Может, он в саду."
+            },
+            "can для возможности — только «вообще, так бывает», а не про этот конкретный случай.",
+            {
+              "ex": "The sea [can be] rough in winter.",
+              "tr": "Зимой море бывает бурным."
+            },
+            {
+              "wrong": "Don't wait. The bus can be late today.",
+              "right": "Don't wait. The bus could be late today."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "Take an umbrella. The weather {could} change later.",
+              "hint": "can",
+              "tr": "Возьми зонт. Позже погода может испортиться.",
+              "why": "Возможность в конкретной ситуации — could."
+            },
+            {
+              "choice": "His excuse {could} be true, but I don't believe it.",
+              "opts": [
+                "can",
+                "must"
+              ],
+              "tr": "Его оправдание может быть правдой, но я не верю.",
+              "why": "Одна конкретная ситуация — could, не can; must противоречит «не верю»."
+            },
+            {
+              "order": "The parcel could arrive any day now.",
+              "tr": "Посылка может прийти в любой день."
+            },
+            {
+              "fix": "Where's Anna? She {can>could} be at the gym.",
+              "tr": "Где Анна? Она может быть в спортзале.",
+              "why": "Предположение о сейчас — could, не can."
+            }
+          ],
+          "review": [
+            {
+              "gap": "Don't leave yet. The rain {could} stop soon.",
+              "hint": "can",
+              "tr": "Не уходи пока. Дождь может скоро закончиться."
+            },
+            {
+              "gap": "Ask Tom. He {could} know the answer.",
+              "hint": "can",
+              "tr": "Спроси Тома. Он может знать ответ."
+            },
+            {
+              "gap": "That noise {could} be the wind.",
+              "hint": "can",
+              "tr": "Этот шум, может, просто ветер."
+            },
+            {
+              "gap": "Prices {could} go up again next year.",
+              "hint": "can",
+              "tr": "Цены могут снова вырасти в следующем году."
+            },
+            {
+              "choice": "The meeting {could} finish late today, so don't wait for me.",
+              "opts": [
+                "can",
+                "can to"
+              ],
+              "tr": "Совещание сегодня может затянуться, так что не жди меня."
+            },
+            {
+              "choice": "That man {could} be her father, I suppose.",
+              "opts": [
+                "can",
+                "is can"
+              ],
+              "tr": "Тот мужчина, наверное, может быть её отцом."
+            },
+            {
+              "choice": "Winter in Moscow {can} be really cold.",
+              "opts": [
+                "could to",
+                "can to"
+              ],
+              "tr": "Зима в Москве бывает очень холодной.",
+              "why": "Так бывает вообще — can."
+            },
+            {
+              "order": "Your phone could be in the car.",
+              "tr": "Твой телефон может быть в машине."
+            },
+            {
+              "order": "Traffic can be terrible on Fridays.",
+              "tr": "По пятницам бывают ужасные пробки."
+            },
+            {
+              "fix": "Lisa {can>could} arrive at any moment.",
+              "tr": "Лиза может приехать в любую минуту."
+            },
+            {
+              "fix": "This {can>could} be our last chance to see them.",
+              "tr": "Это может быть наш последний шанс их увидеть."
+            }
+          ]
+        },
+        {
+          "id": "could-have",
+          "title": "could have и couldn't",
+          "theory": [
+            "could have + 3-я форма — «мог бы, но не сделал» или «могло случиться, но не случилось».",
+            {
+              "formula": [
+                "could have",
+                "+",
+                "3-я форма"
+              ]
+            },
+            {
+              "ex": "Why did you walk? I [could have driven] you.",
+              "tr": "Почему ты пошёл пешком? Я мог бы тебя подвезти."
+            },
+            {
+              "ex": "He was lucky. He [could have hurt] himself.",
+              "tr": "Ему повезло. Он мог пораниться."
+            },
+            "couldn't (do) — «я бы не смог», couldn't have (done) — «лучше и быть не могло / никак не получилось бы».",
+            {
+              "ex": "I [couldn't] live in a hot country.",
+              "tr": "Я бы не смог жить в жаркой стране."
+            },
+            {
+              "wrong": "You could came with us yesterday.",
+              "right": "You could have come with us yesterday."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "Why did you take a taxi? I {could have|could've} driven you.",
+              "hint": "can",
+              "tr": "Зачем ты взял такси? Я мог бы тебя отвезти.",
+              "why": "Мог, но не сделал — could have + 3-я форма."
+            },
+            {
+              "choice": "He was lucky. He {could have} broken his leg.",
+              "opts": [
+                "could",
+                "can have"
+              ],
+              "tr": "Ему повезло. Он мог сломать ногу.",
+              "why": "Могло случиться в прошлом — could have."
+            },
+            {
+              "order": "I couldn't live without my phone.",
+              "tr": "Я бы не смог жить без телефона."
+            },
+            {
+              "fix": "You {could came>could have come} with us yesterday.",
+              "tr": "Ты мог бы пойти с нами вчера.",
+              "why": "О прошлом — could have + 3-я форма."
+            }
+          ],
+          "review": [
+            {
+              "gap": "Nobody was hurt, but it {could have|could've} been a disaster.",
+              "hint": "can",
+              "tr": "Никто не пострадал, но могла случиться катастрофа."
+            },
+            {
+              "gap": "You {could have|could've} told me you were coming!",
+              "hint": "can",
+              "tr": "Мог бы и сказать, что приедешь!"
+            },
+            {
+              "gap": "I {couldn't|could not|wouldn't be able to} work in an office. I'd go crazy.",
+              "hint": "not / can",
+              "tr": "Я бы не смог работать в офисе. Я бы сошёл с ума."
+            },
+            {
+              "gap": "She {could have|could've} won, but she fell near the finish.",
+              "hint": "can",
+              "tr": "Она могла победить, но упала перед финишем."
+            },
+            {
+              "choice": "We {could have} missed the plane, but we got there just in time.",
+              "opts": [
+                "could",
+                "can have"
+              ],
+              "tr": "Мы могли опоздать на самолёт, но успели вовремя."
+            },
+            {
+              "choice": "The party was perfect. It {couldn't have} gone better.",
+              "opts": [
+                "can't",
+                "couldn't"
+              ],
+              "tr": "Вечеринка была идеальной. Лучше и быть не могло."
+            },
+            {
+              "choice": "Thanks so much. I {couldn't have} done it without you.",
+              "opts": [
+                "can't",
+                "couldn't"
+              ],
+              "tr": "Огромное спасибо. Без тебя я бы не справился."
+            },
+            {
+              "order": "You could have hurt yourself.",
+              "tr": "Ты мог пораниться."
+            },
+            {
+              "order": "I couldn't eat another bite.",
+              "tr": "Я больше не смогу съесть ни кусочка."
+            },
+            {
+              "fix": "I {could passed>could have passed} the exam if I'd studied.",
+              "tr": "Я мог бы сдать экзамен, если бы готовился."
+            },
+            {
+              "fix": "Why didn't you call? I {can have>could have} helped.",
+              "tr": "Почему ты не позвонил? Я мог бы помочь."
+            },
+            {
+              "fix": "That was dangerous! You {could have fall>could have fallen}.",
+              "tr": "Это было опасно! Ты мог упасть."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u28-must-and-cant",
+      "title": "must and can't",
+      "subtitle": "Юнит 28 · наверняка да или точно нет",
+      "level": "B1",
+      "points": [
+        {
+          "id": "present",
+          "title": "must be / can't be: сейчас",
+          "theory": [
+            "must здесь не «должен», а вывод: «наверняка, должно быть». can't — обратный вывод: «не может быть».",
+            {
+              "formula": [
+                "must / can't",
+                "+",
+                "be / be -ing / глагол"
+              ]
+            },
+            {
+              "ex": "You've been driving all day. You [must be] tired.",
+              "tr": "Ты весь день за рулём. Ты, наверное, устал."
+            },
+            {
+              "ex": "She's only just had lunch. She [can't be] hungry.",
+              "tr": "Она только что пообедала. Не может быть, что она голодна."
+            },
+            {
+              "wrong": "The lights are off. They mustn't be at home.",
+              "right": "The lights are off. They can't be at home."
+            },
+            {
+              "tip": "Противоположность выводного must — can't, а не mustn't. mustn't значит «нельзя»."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "You've been working all day. You {must} be exhausted.",
+              "hint": "must / can't",
+              "tr": "Ты работал весь день. Ты, должно быть, без сил.",
+              "why": "Уверенный вывод «да» — must."
+            },
+            {
+              "choice": "She's only just eaten. She {can't} be hungry again.",
+              "opts": [
+                "mustn't",
+                "must"
+              ],
+              "tr": "Она только что поела. Не может быть, что она снова голодна.",
+              "why": "Вывод «точно нет» — can't, не mustn't."
+            },
+            {
+              "order": "That must be the new teacher.",
+              "tr": "Это, должно быть, новый учитель."
+            },
+            {
+              "fix": "The lights are off. They {mustn't>can't} be at home.",
+              "tr": "Свет выключен. Их не может быть дома.",
+              "why": "Вывод «нет» — can't; mustn't значит запрет."
+            }
+          ],
+          "review": [
+            {
+              "gap": "Kate's coat is on the chair. She {must} be here somewhere.",
+              "hint": "must / can't",
+              "tr": "Пальто Кейт на стуле. Она, должно быть, где-то здесь."
+            },
+            {
+              "gap": "You {can't|cannot} be serious! That's a terrible idea.",
+              "hint": "must / can't",
+              "tr": "Ты не можешь говорить это всерьёз! Это ужасная идея."
+            },
+            {
+              "gap": "Listen to that crowd. The match {must} be starting.",
+              "hint": "must / can't",
+              "tr": "Слышишь толпу? Матч, наверное, начинается."
+            },
+            {
+              "gap": "He's lived in Paris for years. He {must} speak French well.",
+              "hint": "must / can't",
+              "tr": "Он много лет живёт в Париже. Он наверняка хорошо говорит по-французски."
+            },
+            {
+              "gap": "This bill {can't|cannot} be right. We only had two coffees.",
+              "hint": "must / can't",
+              "tr": "Этот счёт не может быть верным. Мы взяли всего два кофе."
+            },
+            {
+              "choice": "The restaurant is always empty. The food {can't} be very good.",
+              "opts": [
+                "mustn't",
+                "must"
+              ],
+              "tr": "В ресторане всегда пусто. Еда вряд ли там хорошая."
+            },
+            {
+              "choice": "Tom {must} be very rich. He's got three houses.",
+              "opts": [
+                "can't",
+                "mustn't"
+              ],
+              "tr": "Том, наверное, очень богат. У него три дома."
+            },
+            {
+              "choice": "Those shoes cost 500 dollars? They {must} be really good.",
+              "opts": [
+                "can't",
+                "mustn't"
+              ],
+              "tr": "Эти туфли стоят 500 долларов? Они, наверное, очень хорошие."
+            },
+            {
+              "order": "You must be Anna's brother.",
+              "tr": "Ты, наверное, брат Анны."
+            },
+            {
+              "order": "This can't be the right address.",
+              "tr": "Не может быть, что это тот самый адрес."
+            },
+            {
+              "fix": "Mark {must to be>must be} tired after the flight.",
+              "tr": "Марк, должно быть, устал после перелёта."
+            },
+            {
+              "fix": "It's only nine. The shop {mustn't>can't} be closed yet.",
+              "tr": "Всего девять. Магазин не может быть уже закрыт."
+            }
+          ]
+        },
+        {
+          "id": "past",
+          "title": "must have / can't have: прошлое",
+          "theory": [
+            "Вывод о прошлом: must have / can't have + 3-я форма. Вместо can't have можно couldn't have.",
+            {
+              "formula": [
+                "must / can't",
+                "+",
+                "have",
+                "+",
+                "3-я форма"
+              ]
+            },
+            {
+              "ex": "The streets are wet. It [must have rained].",
+              "tr": "Улицы мокрые. Видимо, шёл дождь."
+            },
+            {
+              "ex": "He didn't say hello. He [can't have seen] me.",
+              "tr": "Он не поздоровался. Он не мог меня видеть."
+            },
+            {
+              "ex": "They [must have been waiting] for ages.",
+              "tr": "Они, наверное, ждали целую вечность."
+            },
+            {
+              "wrong": "She must be asleep when I called.",
+              "right": "She must have been asleep when I called."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "The ground is wet. It {must have rained|must've rained} in the night.",
+              "hint": "must / rain",
+              "tr": "Земля мокрая. Ночью, наверное, шёл дождь.",
+              "why": "Вывод о прошлом — must have + 3-я форма."
+            },
+            {
+              "choice": "Sam hasn't replied. He {can't have} seen my message.",
+              "opts": [
+                "mustn't have",
+                "can't"
+              ],
+              "tr": "Сэм не ответил. Не может быть, что он видел моё сообщение.",
+              "why": "«Не может быть, что видел» — can't have."
+            },
+            {
+              "order": "I must have left my wallet at home.",
+              "tr": "Я, должно быть, оставил кошелёк дома."
+            },
+            {
+              "fix": "She {must be>must have been} asleep when I called.",
+              "tr": "Она, наверное, спала, когда я звонил.",
+              "why": "Про прошлое — must have been."
+            }
+          ],
+          "review": [
+            {
+              "gap": "The window is broken. Someone {must have|must've} thrown a stone.",
+              "hint": "must",
+              "tr": "Окно разбито. Кто-то, видимо, бросил камень."
+            },
+            {
+              "gap": "He {can't have|cannot have|couldn't have|could not have} finished already. He only started ten minutes ago.",
+              "hint": "can't",
+              "tr": "Не может быть, что он уже закончил. Он начал десять минут назад."
+            },
+            {
+              "gap": "You {must have|must've} been very worried.",
+              "hint": "must",
+              "tr": "Ты, наверное, очень волновался."
+            },
+            {
+              "gap": "They {can't have|cannot have|couldn't have|could not have} heard us. We were very quiet.",
+              "hint": "can't",
+              "tr": "Они не могли нас услышать. Мы вели себя очень тихо."
+            },
+            {
+              "choice": "Jack looks tired. He {must have} stayed up late.",
+              "opts": [
+                "must",
+                "can't have"
+              ],
+              "tr": "Джек выглядит усталым. Он, наверное, поздно лёг."
+            },
+            {
+              "choice": "Emma got 100%. The test {can't have} been that hard.",
+              "opts": [
+                "mustn't have",
+                "must have"
+              ],
+              "tr": "Эмма набрала 100%. Тест не мог быть таким уж трудным."
+            },
+            {
+              "choice": "I {must have} dropped my glove on the bus.",
+              "opts": [
+                "must",
+                "can't have"
+              ],
+              "tr": "Я, наверное, уронил перчатку в автобусе."
+            },
+            {
+              "order": "She can't have forgotten our meeting.",
+              "tr": "Не может быть, чтобы она забыла о нашей встрече."
+            },
+            {
+              "order": "They must have been waiting for hours.",
+              "tr": "Они, наверное, ждали несколько часов."
+            },
+            {
+              "fix": "The door was open. Somebody {must forget>must have forgotten} to lock it.",
+              "tr": "Дверь была открыта. Кто-то, видимо, забыл её запереть."
+            },
+            {
+              "fix": "He {mustn't have>can't have} seen me. He didn't wave.",
+              "tr": "Он не мог меня видеть — он даже не помахал."
+            },
+            {
+              "fix": "You {must have see>must have seen} the sign.",
+              "tr": "Ты наверняка видел табличку."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u29-may-and-might-1",
+      "title": "may and might 1",
+      "subtitle": "Юнит 29 · возможно, сейчас и в прошлом",
+      "level": "B1",
+      "points": [
+        {
+          "id": "present",
+          "title": "may / might: возможно сейчас",
+          "theory": [
+            "may и might значат «возможно, может быть». Разницы почти нет, оба подходят. После них глагол без to.",
+            {
+              "formula": [
+                "may / might (not)",
+                "+",
+                "be / be -ing / глагол"
+              ]
+            },
+            {
+              "ex": "Ask Lena. She [might know].",
+              "tr": "Спроси Лену. Может, она знает."
+            },
+            {
+              "ex": "Don't call him now. He [may be sleeping].",
+              "tr": "Не звони ему сейчас. Он, может, спит."
+            },
+            {
+              "tip": "may be — два слова, это глагол: It may be true. maybe — одно слово, «может быть»: Maybe it's true."
+            },
+            {
+              "wrong": "May be she's right.",
+              "right": "Maybe she's right."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "Ask Lena. She {might|may} know his number.",
+              "hint": "may / might",
+              "tr": "Спроси Лену. Может, она знает его номер.",
+              "why": "«Возможно» — may или might + глагол."
+            },
+            {
+              "choice": "Ben {may be} in the kitchen.",
+              "opts": [
+                "maybe",
+                "may is"
+              ],
+              "tr": "Бен, может быть, на кухне.",
+              "why": "Здесь нужен глагол: may be — два слова."
+            },
+            {
+              "order": "They might be having dinner now.",
+              "tr": "Возможно, они сейчас ужинают."
+            },
+            {
+              "fix": "{May be>Maybe} she's right, I'm not sure.",
+              "tr": "Может, она и права, не знаю.",
+              "why": "В начале фразы «может быть» — одно слово maybe."
+            }
+          ],
+          "review": [
+            {
+              "gap": "Don't call now. He {may be sleeping|might be sleeping}.",
+              "hint": "may / sleep",
+              "tr": "Не звони сейчас. Он, может, спит."
+            },
+            {
+              "gap": "This answer {may not|might not|mightn't} be correct.",
+              "hint": "may / not",
+              "tr": "Этот ответ, возможно, неверный."
+            },
+            {
+              "gap": "She {may|might} want to come with us.",
+              "hint": "may / might",
+              "tr": "Возможно, она захочет пойти с нами."
+            },
+            {
+              "gap": "{Maybe|Perhaps} it's a good idea, maybe not.",
+              "hint": "may be / maybe",
+              "tr": "Может, это хорошая идея, а может, и нет."
+            },
+            {
+              "choice": "I'm not sure, but they {might} be on holiday.",
+              "opts": [
+                "maybe",
+                "might to"
+              ],
+              "tr": "Не уверен, но, возможно, они в отпуске."
+            },
+            {
+              "choice": "'Is Ali coming?' '{Maybe}. He hasn't decided.'",
+              "opts": [
+                "May be",
+                "Might"
+              ],
+              "tr": "«Али придёт?» — «Может быть. Он ещё не решил»."
+            },
+            {
+              "choice": "That {may not} be a good idea.",
+              "opts": [
+                "not may",
+                "may to not"
+              ],
+              "tr": "Возможно, это не лучшая идея."
+            },
+            {
+              "order": "He may be working from home today.",
+              "tr": "Возможно, он сегодня работает из дома."
+            },
+            {
+              "order": "Maybe the shop is closed today.",
+              "tr": "Может быть, магазин сегодня закрыт."
+            },
+            {
+              "fix": "She {mights>might} know the way.",
+              "tr": "Она, может, знает дорогу."
+            },
+            {
+              "fix": "He might {is>be} in a meeting right now.",
+              "tr": "Возможно, он сейчас на встрече."
+            },
+            {
+              "fix": "The rumour {may to>may} be true after all.",
+              "tr": "Слух, может быть, всё-таки правда."
+            }
+          ]
+        },
+        {
+          "id": "past",
+          "title": "may have / might have",
+          "theory": [
+            "Предположение о прошлом: may have / might have + 3-я форма — «возможно, сделал».",
+            {
+              "formula": [
+                "may / might (not)",
+                "+",
+                "have",
+                "+",
+                "3-я форма"
+              ]
+            },
+            {
+              "ex": "I can't find my keys. I [might have left] them at work.",
+              "tr": "Не могу найти ключи. Может, я оставил их на работе."
+            },
+            {
+              "ex": "She [may not have heard] the news.",
+              "tr": "Возможно, она не слышала новость."
+            },
+            {
+              "ex": "He [might have been feeling] ill.",
+              "tr": "Возможно, он плохо себя чувствовал."
+            },
+            {
+              "wrong": "She may be at the gym yesterday.",
+              "right": "She may have been at the gym yesterday."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "I can't find my phone. I {may have|might have|may've|might've} left it in the taxi.",
+              "hint": "may / might",
+              "tr": "Не могу найти телефон. Может, я оставил его в такси.",
+              "why": "Предположение о прошлом — may/might have + 3-я форма."
+            },
+            {
+              "choice": "Anna didn't come. She {might not have} known about the party.",
+              "opts": [
+                "might not",
+                "mightn't to"
+              ],
+              "tr": "Анна не пришла. Возможно, она не знала о вечеринке.",
+              "why": "Прошлое: might not have + known."
+            },
+            {
+              "order": "He may have missed the last bus.",
+              "tr": "Возможно, он опоздал на последний автобус."
+            },
+            {
+              "fix": "She {may be>may have been} at the gym yesterday.",
+              "tr": "Вчера она, возможно, была в спортзале.",
+              "why": "yesterday — нужно may have been."
+            }
+          ],
+          "review": [
+            {
+              "gap": "They're late. They {may have|might have|may've|might've} got lost.",
+              "hint": "may / might",
+              "tr": "Они опаздывают. Может, они заблудились."
+            },
+            {
+              "gap": "He {may not have|might not have} heard the alarm.",
+              "hint": "may / might, not",
+              "tr": "Возможно, он не услышал будильник."
+            },
+            {
+              "gap": "I'm not sure, but you {might have|may have|might've|may've} met her at my party.",
+              "hint": "may / might",
+              "tr": "Не уверен, но, может, ты видел её у меня на вечеринке."
+            },
+            {
+              "gap": "Why was Max so quiet? He {may have been|might have been} tired.",
+              "hint": "may / might, be",
+              "tr": "Почему Макс был такой тихий? Может, он устал."
+            },
+            {
+              "choice": "Kate didn't answer. She {may have} been in the shower.",
+              "opts": [
+                "may",
+                "maybe have"
+              ],
+              "tr": "Кейт не ответила. Может, она была в душе."
+            },
+            {
+              "choice": "The letter {might have} gone to the wrong address.",
+              "opts": [
+                "might",
+                "might has"
+              ],
+              "tr": "Письмо, возможно, ушло не по тому адресу."
+            },
+            {
+              "choice": "Maria {may not have} understood the question.",
+              "opts": [
+                "may not",
+                "not may have"
+              ],
+              "tr": "Возможно, Мария не поняла вопрос."
+            },
+            {
+              "order": "They might have taken a different road.",
+              "tr": "Возможно, они поехали другой дорогой."
+            },
+            {
+              "order": "She may not have got my email.",
+              "tr": "Возможно, она не получила моё письмо."
+            },
+            {
+              "fix": "I {might forget>might have forgotten} to lock the door last night.",
+              "tr": "Возможно, вчера вечером я забыл запереть дверь."
+            },
+            {
+              "fix": "He {may has>may have} left early.",
+              "tr": "Возможно, он ушёл рано."
+            },
+            {
+              "fix": "Sara {might have went>might have gone} home already.",
+              "tr": "Сара, возможно, уже ушла домой."
+            }
+          ]
+        },
+        {
+          "id": "could",
+          "title": "could и couldn't have",
+          "theory": [
+            "could тоже значит «возможно» — как may и might.",
+            {
+              "ex": "It sounds strange, but it [could] work.",
+              "tr": "Звучит странно, но это может сработать."
+            },
+            {
+              "ex": "You [could have left] it on the bus.",
+              "tr": "Ты мог оставить это в автобусе."
+            },
+            "Но в отрицании смысл разный: couldn't have — «никак не мог», а might not / may not have — «возможно, не…».",
+            {
+              "table": [
+                [
+                  "couldn't have seen",
+                  "точно не видел"
+                ],
+                [
+                  "might not have seen",
+                  "может, не видел, а может, видел"
+                ]
+              ]
+            },
+            {
+              "ex": "He [couldn't have taken] it. He was with me.",
+              "tr": "Он никак не мог это взять. Он был со мной."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "It's a crazy plan, but it {could} work.",
+              "hint": "can",
+              "tr": "План безумный, но он может сработать.",
+              "why": "could = возможно."
+            },
+            {
+              "choice": "Ali {couldn't have} taken the money. He was with me all evening.",
+              "opts": [
+                "might not have",
+                "may not have"
+              ],
+              "tr": "Али никак не мог взять деньги. Он весь вечер был со мной.",
+              "why": "Уверенное «никак не мог» — couldn't have."
+            },
+            {
+              "order": "Your keys could be in your other jacket.",
+              "tr": "Ключи могут быть в другой куртке."
+            },
+            {
+              "fix": "I'm not sure. She {couldn't>might not} have seen my text.",
+              "tr": "Не знаю. Возможно, она не видела моё сообщение.",
+              "why": "Неуверенное «возможно, не» — might not have, не couldn't."
+            }
+          ],
+          "review": [
+            {
+              "gap": "Who knows? This {could} be the start of something big.",
+              "hint": "can",
+              "tr": "Кто знает? Может, это начало чего-то большого."
+            },
+            {
+              "gap": "You {could have|could've} left your bag on the train.",
+              "hint": "can",
+              "tr": "Ты мог оставить сумку в поезде."
+            },
+            {
+              "gap": "Tom {couldn't have|could not have|can't have|cannot have} broken the vase. He wasn't here.",
+              "hint": "not / can",
+              "tr": "Том никак не мог разбить вазу. Его здесь не было."
+            },
+            {
+              "gap": "It {could} rain this afternoon.",
+              "hint": "can",
+              "tr": "Днём может пойти дождь."
+            },
+            {
+              "choice": "I'm not sure. He {might not have} got the invitation.",
+              "opts": [
+                "couldn't have",
+                "can't have"
+              ],
+              "tr": "Не знаю. Возможно, он не получил приглашение."
+            },
+            {
+              "choice": "The test results {could} be ready tomorrow.",
+              "opts": [
+                "can",
+                "maybe"
+              ],
+              "tr": "Результаты анализов могут быть готовы завтра."
+            },
+            {
+              "choice": "Max {couldn't have} stolen it. He was in hospital.",
+              "opts": [
+                "might not have",
+                "may not have"
+              ],
+              "tr": "Макс никак не мог это украсть. Он был в больнице."
+            },
+            {
+              "order": "She couldn't have known about it.",
+              "tr": "Она никак не могла об этом знать."
+            },
+            {
+              "order": "The match could be cancelled because of rain.",
+              "tr": "Матч могут отменить из-за дождя."
+            },
+            {
+              "fix": "That {can>could} be Dan at the door.",
+              "tr": "Может, это Дэн стучит в дверь."
+            },
+            {
+              "fix": "Perhaps she was busy. She {couldn't>may not} have had time.",
+              "tr": "Может, она была занята. Возможно, у неё не было времени."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u30-may-and-might-2",
+      "title": "may and might 2",
+      "subtitle": "Юнит 30 · возможно в будущем, might as well",
+      "level": "B1",
+      "points": [
+        {
+          "id": "future",
+          "title": "may / might: возможно потом",
+          "theory": [
+            "may и might говорят о возможном будущем: «может быть, сделаю». will — уверенно, may/might — не точно.",
+            {
+              "table": [
+                [
+                  "I'm going to buy a bike.",
+                  "точно"
+                ],
+                [
+                  "I may buy a bike.",
+                  "возможно"
+                ],
+                [
+                  "I might buy a bike.",
+                  "возможно"
+                ]
+              ]
+            },
+            {
+              "ex": "Take a coat. It [might snow] tonight.",
+              "tr": "Возьми пальто. Ночью может пойти снег."
+            },
+            {
+              "ex": "We [may have to] change our plans.",
+              "tr": "Возможно, нам придётся изменить планы."
+            },
+            "Если ситуация нереальная (if + прошедшее), подходит только might, не may.",
+            {
+              "ex": "If the job paid more, I [might] take it.",
+              "tr": "Если бы за эту работу платили больше, я бы, может, согласился."
+            },
+            {
+              "wrong": "I might to go to Rome.",
+              "right": "I might go to Rome."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "Take a coat. It {might|may} snow tonight.",
+              "hint": "may / might",
+              "tr": "Возьми пальто. Ночью может пойти снег.",
+              "why": "Возможное будущее — may или might."
+            },
+            {
+              "choice": "If I had more money, I {might} buy a boat.",
+              "opts": [
+                "may",
+                "will"
+              ],
+              "tr": "Если бы у меня было больше денег, я бы, может, купил лодку.",
+              "why": "Нереальное условие — только might."
+            },
+            {
+              "order": "I may not be able to come.",
+              "tr": "Возможно, я не смогу прийти."
+            },
+            {
+              "fix": "I {might to go>might go} to Rome next summer.",
+              "tr": "Возможно, следующим летом я поеду в Рим.",
+              "why": "После might — глагол без to."
+            }
+          ],
+          "review": [
+            {
+              "gap": "The train {may not|might not|mightn't} be on time today.",
+              "hint": "may / might, not",
+              "tr": "Поезд сегодня, возможно, придёт не вовремя."
+            },
+            {
+              "gap": "Ask Dan. He {might be able to|may be able to} help you.",
+              "hint": "might / able",
+              "tr": "Спроси Дэна. Возможно, он сможет тебе помочь."
+            },
+            {
+              "gap": "We {might have to|may have to} cancel the trip.",
+              "hint": "might / have to",
+              "tr": "Возможно, нам придётся отменить поездку."
+            },
+            {
+              "gap": "If the hotel were cheaper, we {might} stay longer.",
+              "hint": "may / might",
+              "tr": "Если бы отель был дешевле, мы бы, может, остались подольше.",
+              "why": "Нереальное условие — might."
+            },
+            {
+              "choice": "I {may} see you at the conference next week.",
+              "opts": [
+                "maybe",
+                "may to"
+              ],
+              "tr": "Возможно, увидимся на конференции на следующей неделе."
+            },
+            {
+              "choice": "If they offered me the job, I {might} take it.",
+              "opts": [
+                "may",
+                "will"
+              ],
+              "tr": "Если бы мне предложили эту работу, я бы, может, согласился."
+            },
+            {
+              "choice": "There {might not} be enough chairs for everyone.",
+              "opts": [
+                "might no",
+                "not might"
+              ],
+              "tr": "Стульев может не хватить на всех."
+            },
+            {
+              "order": "She may change her mind tomorrow.",
+              "tr": "Завтра она может передумать."
+            },
+            {
+              "order": "It might be cold in the mountains.",
+              "tr": "В горах может быть холодно."
+            },
+            {
+              "fix": "If I lived nearer, I {may>might} visit more often.",
+              "tr": "Если бы я жил ближе, я бы, может, чаще приезжал."
+            },
+            {
+              "fix": "We may {can>be able to} finish early today.",
+              "tr": "Возможно, сегодня мы сможем закончить пораньше."
+            },
+            {
+              "fix": "Don't wait for me. I {might being>might be} late.",
+              "tr": "Не ждите меня. Я могу опоздать."
+            }
+          ]
+        },
+        {
+          "id": "be-ing",
+          "title": "might be -ing: возможные планы",
+          "theory": [
+            "might/may be -ing — «возможно, буду в процессе» в какой-то момент будущего. Сравни с уверенным will be -ing.",
+            {
+              "table": [
+                [
+                  "I'll be working at six.",
+                  "точно буду работать"
+                ],
+                [
+                  "I might be working at six.",
+                  "возможно, буду работать"
+                ]
+              ]
+            },
+            "То же для возможных планов: am going → might be going.",
+            {
+              "ex": "We [might be moving] to Lisbon next year.",
+              "tr": "Возможно, в следующем году мы переедем в Лиссабон."
+            },
+            {
+              "ex": "Don't wait up. I [may be working] late.",
+              "tr": "Не жди меня. Я, возможно, буду работать допоздна."
+            },
+            {
+              "wrong": "I might driving at eight.",
+              "right": "I might be driving at eight."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "Don't call at eight. I {might be driving|may be driving} then.",
+              "hint": "may / might, drive",
+              "tr": "Не звони в восемь. Я, возможно, буду за рулём.",
+              "why": "Возможно в процессе в будущем — might be -ing."
+            },
+            {
+              "choice": "I'm not sure yet, but I {might be} moving to Berlin.",
+              "opts": [
+                "will be",
+                "am"
+              ],
+              "tr": "Я пока не уверен, но, возможно, перееду в Берлин.",
+              "why": "«Не уверен» — значит might, а не will или am."
+            },
+            {
+              "order": "We might be going to Spain in May.",
+              "tr": "Возможно, в мае мы поедем в Испанию."
+            },
+            {
+              "fix": "Text me, don't call. I {may sleeping>may be sleeping} by then.",
+              "tr": "Пиши, а не звони. К тому времени я, может, уже буду спать.",
+              "why": "Нужно be: may be sleeping."
+            }
+          ],
+          "review": [
+            {
+              "gap": "She {might be working|may be working} late tonight.",
+              "hint": "may / might, work",
+              "tr": "Возможно, она сегодня будет работать допоздна."
+            },
+            {
+              "gap": "Don't come at six. We {will be having|'ll be having} dinner then.",
+              "hint": "will / have",
+              "tr": "Не приходи в шесть. Мы будем ужинать.",
+              "why": "Уверенно — will be -ing."
+            },
+            {
+              "gap": "I {may be leaving|might be leaving} my job soon.",
+              "hint": "may / might, leave",
+              "tr": "Возможно, я скоро уйду с работы."
+            },
+            {
+              "gap": "At this time tomorrow I {might be flying|may be flying} to Tokyo.",
+              "hint": "might / fly",
+              "tr": "Завтра в это время я, возможно, буду лететь в Токио."
+            },
+            {
+              "choice": "Call me after ten. I {will be} watching the match until then.",
+              "opts": [
+                "might",
+                "might to"
+              ],
+              "tr": "Звони после десяти. До этого я буду смотреть матч."
+            },
+            {
+              "choice": "They {might be} getting married next year.",
+              "opts": [
+                "might",
+                "may to be"
+              ],
+              "tr": "Возможно, в следующем году они поженятся."
+            },
+            {
+              "choice": "Be quiet, the baby {may be} sleeping.",
+              "opts": [
+                "may",
+                "maybe"
+              ],
+              "tr": "Тише, ребёнок, может, спит."
+            },
+            {
+              "order": "He might be staying with his parents.",
+              "tr": "Возможно, он живёт у родителей."
+            },
+            {
+              "order": "I may be working from home tomorrow.",
+              "tr": "Завтра я, возможно, буду работать из дома."
+            },
+            {
+              "fix": "Don't call. I {might be study>might be studying} then.",
+              "tr": "Не звони. Я, возможно, буду заниматься."
+            },
+            {
+              "fix": "We {may going>may be going} away this weekend.",
+              "tr": "Возможно, на этих выходных мы уедем."
+            }
+          ]
+        },
+        {
+          "id": "as-well",
+          "title": "might as well",
+          "theory": [
+            "might as well + глагол — «можно и…, почему бы нет»: лучшего варианта нет, так что сделаем это. may as well — то же самое.",
+            {
+              "formula": [
+                "might / may as well",
+                "+",
+                "глагол"
+              ]
+            },
+            {
+              "ex": "The café is closed. We [might as well] cook at home.",
+              "tr": "Кафе закрыто. Можно и дома приготовить."
+            },
+            {
+              "ex": "I'm ready, so I [may as well] leave now.",
+              "tr": "Я готов, так что, пожалуй, выйду сейчас."
+            },
+            {
+              "wrong": "We might as well to go home.",
+              "right": "We might as well go home."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "The next bus is in an hour. We {might as well|may as well} walk.",
+              "hint": "might / well",
+              "tr": "Следующий автобус через час. Можно и пешком пойти.",
+              "why": "Лучшего варианта нет — might as well."
+            },
+            {
+              "choice": "Nobody's using this old bike. You {might as well} take it.",
+              "opts": [
+                "might as good",
+                "might well as"
+              ],
+              "tr": "Этим старым велосипедом никто не пользуется. Можешь его забрать."
+            },
+            {
+              "order": "We might as well start without them.",
+              "tr": "Можно и без них начинать."
+            },
+            {
+              "fix": "The shop is closed. We might as well {to go>go} home.",
+              "tr": "Магазин закрыт. Можно и домой идти.",
+              "why": "После might as well — глагол без to."
+            }
+          ],
+          "review": [
+            {
+              "gap": "Dinner isn't ready yet, so I {might as well|may as well} check my email.",
+              "hint": "might / well",
+              "tr": "Ужин ещё не готов, так что я пока проверю почту."
+            },
+            {
+              "gap": "It's raining anyway. We {may as well|might as well} stay in.",
+              "hint": "may / well",
+              "tr": "Всё равно идёт дождь. Можно и дома остаться."
+            },
+            {
+              "gap": "Tickets are cheap. You {might as well|may as well} buy two.",
+              "hint": "might / well",
+              "tr": "Билеты дешёвые. Можешь сразу купить два."
+            },
+            {
+              "gap": "There's nothing on TV. I {might as well|may as well} go to bed.",
+              "hint": "might / well",
+              "tr": "По телевизору ничего нет. Пойду-ка я спать."
+            },
+            {
+              "choice": "We've missed the start. We {might as well} watch it online later.",
+              "opts": [
+                "might so well",
+                "might as good"
+              ],
+              "tr": "Мы пропустили начало. Можно посмотреть потом в интернете."
+            },
+            {
+              "choice": "The flight is cheaper than the train, so we {may as well} fly.",
+              "opts": [
+                "may so well",
+                "maybe as well"
+              ],
+              "tr": "Самолёт дешевле поезда, так что можно и полететь."
+            },
+            {
+              "choice": "'Shall we take a taxi?' 'We {might as well}.'",
+              "opts": [
+                "might so",
+                "might as good"
+              ],
+              "tr": "«Возьмём такси?» — «Почему бы и нет»."
+            },
+            {
+              "order": "You might as well tell him the truth.",
+              "tr": "Можешь уже сказать ему правду."
+            },
+            {
+              "order": "I may as well finish this tonight.",
+              "tr": "Пожалуй, закончу это сегодня вечером."
+            },
+            {
+              "fix": "Everyone's gone, so we might as well {finishing>finish} early.",
+              "tr": "Все ушли, так что можно закончить пораньше."
+            },
+            {
+              "fix": "The car is old. You {might as good>might as well} sell it.",
+              "tr": "Машина старая. Можно её и продать."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u31-have-to-and-must",
+      "title": "have to and must",
+      "subtitle": "Юнит 31 · надо, приходится, не обязательно",
+      "level": "B1",
+      "points": [
+        {
+          "id": "have-to",
+          "title": "have to: формы",
+          "theory": [
+            "have to — «надо, приходится». Это обычный глагол have: вопросы и отрицания строятся через do / does / did.",
+            {
+              "table": [
+                [
+                  "сейчас",
+                  "I have to · she has to"
+                ],
+                [
+                  "вопрос",
+                  "Do you have to…?"
+                ],
+                [
+                  "нет",
+                  "doesn't have to"
+                ],
+                [
+                  "прошлое",
+                  "had to"
+                ],
+                [
+                  "будущее",
+                  "will have to"
+                ]
+              ]
+            },
+            {
+              "ex": "Last week I [had to] work every evening.",
+              "tr": "На прошлой неделе мне приходилось работать каждый вечер."
+            },
+            {
+              "ex": "[Do you have to] wear a uniform?",
+              "tr": "Тебе нужно носить форму?"
+            },
+            {
+              "tip": "В разговоре можно have got to: I've got to go = I have to go."
+            },
+            {
+              "wrong": "She hasn't to wear a uniform.",
+              "right": "She doesn't have to wear a uniform."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "{Did you have to} wait long at the airport?",
+              "hint": "you / have to",
+              "tr": "Тебе пришлось долго ждать в аэропорту?",
+              "why": "Вопрос в прошлом — Did you have to."
+            },
+            {
+              "choice": "Sorry, I can't stay. I {have to} pick up my son.",
+              "opts": [
+                "must to",
+                "have"
+              ],
+              "tr": "Извини, не могу остаться. Мне нужно забрать сына."
+            },
+            {
+              "order": "We had to leave the party early.",
+              "tr": "Нам пришлось рано уйти с вечеринки."
+            },
+            {
+              "fix": "She {hasn't to>doesn't have to} wear a uniform.",
+              "tr": "Ей не нужно носить форму.",
+              "why": "Отрицание have to — через doesn't."
+            }
+          ],
+          "review": [
+            {
+              "gap": "Last year I {had to} travel a lot for work.",
+              "hint": "have to",
+              "tr": "В прошлом году мне приходилось много ездить по работе."
+            },
+            {
+              "gap": "What time {does she have to|has she got to} start?",
+              "hint": "she / have to",
+              "tr": "Во сколько ей нужно начинать?"
+            },
+            {
+              "gap": "My laptop is broken, so I'll {have to} buy a new one.",
+              "hint": "have to",
+              "tr": "Мой ноутбук сломался, так что придётся покупать новый."
+            },
+            {
+              "gap": "He {doesn't have to|does not have to|hasn't got to} get up early on Sundays.",
+              "hint": "not / have to",
+              "tr": "По воскресеньям ему не нужно рано вставать."
+            },
+            {
+              "choice": "{Do} you have to show your passport?",
+              "opts": [
+                "Have",
+                "Are"
+              ],
+              "tr": "Нужно показывать паспорт?"
+            },
+            {
+              "choice": "Yesterday I {had to} stay at work until nine.",
+              "opts": [
+                "must",
+                "have to"
+              ],
+              "tr": "Вчера мне пришлось сидеть на работе до девяти."
+            },
+            {
+              "choice": "I {haven't had to} see a doctor for years.",
+              "opts": [
+                "haven't have to",
+                "hadn't to"
+              ],
+              "tr": "Мне уже много лет не приходилось ходить к врачу."
+            },
+            {
+              "order": "Do you have to wear a suit at work?",
+              "tr": "Тебе нужно носить костюм на работе?"
+            },
+            {
+              "order": "I've got to finish this report today.",
+              "tr": "Мне нужно закончить этот отчёт сегодня."
+            },
+            {
+              "fix": "Does he {has to>have to} work late?",
+              "tr": "Ему нужно работать допоздна?"
+            },
+            {
+              "fix": "We {must>had to} wait two hours yesterday.",
+              "tr": "Вчера нам пришлось ждать два часа."
+            },
+            {
+              "fix": "You'll {must>have to} show your ID at the door.",
+              "tr": "На входе нужно будет показать удостоверение."
+            }
+          ]
+        },
+        {
+          "id": "must-vs",
+          "title": "must или have to",
+          "theory": [
+            "Часто подходят оба. must — когда это ваше мнение, совет, решение. have to — обязанность «снаружи»: работа, правила, обстоятельства.",
+            {
+              "ex": "This film is brilliant. You [must] see it.",
+              "tr": "Фильм потрясающий. Ты обязательно должен его посмотреть."
+            },
+            {
+              "ex": "In my job I [have to] start at seven.",
+              "tr": "На моей работе приходится начинать в семь."
+            },
+            "В письменных правилах и инструкциях — must.",
+            {
+              "ex": "Passengers [must] keep their bags with them.",
+              "tr": "Пассажиры должны держать багаж при себе."
+            },
+            {
+              "wrong": "Yesterday I must leave early.",
+              "right": "Yesterday I had to leave early."
+            },
+            {
+              "tip": "У must нет прошедшего и будущего: прошлое — had to, будущее — will have to."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "This book is amazing. You {must|have to} read it.",
+              "hint": "must / have to",
+              "tr": "Эта книга потрясающая. Ты обязательно должен её прочитать.",
+              "why": "Совет от себя — must или have to."
+            },
+            {
+              "choice": "Passengers {must} wear seat belts at all times.",
+              "opts": [
+                "have",
+                "must to"
+              ],
+              "tr": "Пассажиры должны всё время быть пристёгнутыми.",
+              "why": "Письменное правило — must."
+            },
+            {
+              "order": "I really must call my grandmother.",
+              "tr": "Мне обязательно надо позвонить бабушке."
+            },
+            {
+              "fix": "When I was at school, we {must>had to} wear a tie.",
+              "tr": "Когда я учился в школе, мы должны были носить галстук.",
+              "why": "Прошлое — только had to."
+            }
+          ],
+          "review": [
+            {
+              "gap": "You {must|have to} try this cake. It's delicious.",
+              "hint": "must / have to",
+              "tr": "Ты обязательно должен попробовать этот торт. Он восхитительный."
+            },
+            {
+              "gap": "In my job I {have to} answer about fifty emails a day.",
+              "hint": "must / have to",
+              "tr": "На работе мне приходится отвечать примерно на пятьдесят писем в день.",
+              "why": "Факт об обязанностях — have to."
+            },
+            {
+              "gap": "Last month Ana {had to} work every weekend.",
+              "hint": "must / have to",
+              "tr": "В прошлом месяце Ане приходилось работать каждые выходные."
+            },
+            {
+              "gap": "All visitors {must|have to} sign in at reception.",
+              "hint": "must / have to",
+              "tr": "Все посетители должны отметиться на ресепшене."
+            },
+            {
+              "choice": "Nurses often {have to} work at night.",
+              "opts": [
+                "must to",
+                "has to"
+              ],
+              "tr": "Медсёстрам часто приходится работать ночью."
+            },
+            {
+              "choice": "I {had to} cancel my trip because I was ill.",
+              "opts": [
+                "must",
+                "musted"
+              ],
+              "tr": "Мне пришлось отменить поездку, потому что я заболел."
+            },
+            {
+              "choice": "Mobile phones {must} be switched off during the exam.",
+              "opts": [
+                "must to",
+                "have"
+              ],
+              "tr": "Во время экзамена телефоны должны быть выключены."
+            },
+            {
+              "order": "Tom has to drive his kids to school.",
+              "tr": "Тому приходится возить детей в школу."
+            },
+            {
+              "order": "You must come and visit us sometime.",
+              "tr": "Ты обязательно должен как-нибудь к нам приехать."
+            },
+            {
+              "fix": "Sorry I was late. I {must>had to} take my cat to the vet.",
+              "tr": "Извините за опоздание: пришлось везти кошку к ветеринару."
+            },
+            {
+              "fix": "I {must to>must} remember to buy milk.",
+              "tr": "Мне нужно не забыть купить молоко."
+            },
+            {
+              "fix": "She {have to>has to} travel a lot for her job.",
+              "tr": "Ей приходится много ездить по работе."
+            }
+          ]
+        },
+        {
+          "id": "mustnt",
+          "title": "mustn't или don't have to",
+          "theory": [
+            "Это противоположные вещи. mustn't — «нельзя». don't have to — «не обязательно, можно не делать».",
+            {
+              "table": [
+                [
+                  "You mustn't go.",
+                  "Нельзя идти."
+                ],
+                [
+                  "You don't have to go.",
+                  "Можешь не идти."
+                ]
+              ]
+            },
+            {
+              "ex": "It's a secret. You [mustn't] tell anyone.",
+              "tr": "Это секрет. Никому нельзя говорить."
+            },
+            {
+              "ex": "It's free. You [don't have to] pay.",
+              "tr": "Это бесплатно. Платить не нужно."
+            },
+            {
+              "wrong": "The museum is free. You mustn't buy a ticket.",
+              "right": "The museum is free. You don't have to buy a ticket."
+            },
+            {
+              "tip": "Русское «не должен» бывает и тем, и другим — спросите себя: запрет или «не обязательно»?"
+            }
+          ],
+          "practice": [
+            {
+              "gap": "It's a secret. You {mustn't|must not} tell your parents.",
+              "hint": "not / must",
+              "tr": "Это секрет. Родителям говорить нельзя.",
+              "why": "Запрет — mustn't."
+            },
+            {
+              "choice": "It's Saturday, so I {don't have to} get up early.",
+              "opts": [
+                "mustn't",
+                "haven't to"
+              ],
+              "tr": "Сегодня суббота, так что можно не вставать рано.",
+              "why": "Не обязательно — don't have to."
+            },
+            {
+              "order": "You don't have to pay for children.",
+              "tr": "За детей платить не нужно."
+            },
+            {
+              "fix": "The museum is free. You {mustn't>don't have to} buy a ticket.",
+              "tr": "Музей бесплатный, билет покупать не нужно.",
+              "why": "Это не запрет, а «не нужно» — don't have to."
+            }
+          ],
+          "review": [
+            {
+              "gap": "You {mustn't|must not} park here. It's for ambulances.",
+              "hint": "not / must",
+              "tr": "Здесь парковаться нельзя. Это место для скорой."
+            },
+            {
+              "gap": "We {don't have to|do not have to} hurry. The film starts at nine.",
+              "hint": "not / have to",
+              "tr": "Нам не нужно спешить. Фильм начинается в девять."
+            },
+            {
+              "gap": "She {doesn't have to|does not have to} come if she's busy.",
+              "hint": "not / have to",
+              "tr": "Она может не приходить, если занята."
+            },
+            {
+              "gap": "Passengers {mustn't|must not} smoke on board.",
+              "hint": "not / must",
+              "tr": "Пассажирам запрещено курить на борту."
+            },
+            {
+              "choice": "You {mustn't} touch the paintings in the museum.",
+              "opts": [
+                "don't have to",
+                "haven't to"
+              ],
+              "tr": "В музее нельзя трогать картины."
+            },
+            {
+              "choice": "I can drive, so you {don't have to} take me.",
+              "opts": [
+                "mustn't",
+                "don't must"
+              ],
+              "tr": "Я сам могу доехать, так что тебе не нужно меня отвозить."
+            },
+            {
+              "choice": "We {mustn't} forget Mum's birthday again!",
+              "opts": [
+                "don't have to",
+                "don't must"
+              ],
+              "tr": "Нам нельзя опять забыть про мамин день рождения!"
+            },
+            {
+              "order": "You mustn't use your phone in class.",
+              "tr": "На уроке нельзя пользоваться телефоном."
+            },
+            {
+              "order": "He doesn't have to work on Fridays.",
+              "tr": "По пятницам ему не нужно работать."
+            },
+            {
+              "fix": "You {don't have to>mustn't} drive after drinking.",
+              "tr": "Нельзя садиться за руль после выпивки."
+            },
+            {
+              "fix": "Breakfast is included, so you {mustn't>don't have to} pay extra.",
+              "tr": "Завтрак включён, доплачивать не нужно."
+            },
+            {
+              "fix": "You {don't must>mustn't} be late for the interview.",
+              "tr": "На собеседование нельзя опаздывать."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u32-must-mustnt-neednt",
+      "title": "must, mustn't, needn't",
+      "subtitle": "Юнит 32 · нельзя, не нужно, зря сделал",
+      "level": "B2",
+      "points": [
+        {
+          "id": "neednt",
+          "title": "needn't или mustn't",
+          "theory": [
+            "needn't — «не нужно, можно не делать». То же — don't need to. А mustn't — «нельзя».",
+            {
+              "formula": [
+                "needn't",
+                "+",
+                "глагол",
+                "=",
+                "don't need to",
+                "+",
+                "глагол"
+              ]
+            },
+            {
+              "ex": "We have plenty of time. We [needn't] rush.",
+              "tr": "Времени полно. Можно не торопиться."
+            },
+            {
+              "ex": "You [mustn't] open it. It's a surprise.",
+              "tr": "Его нельзя открывать. Это сюрприз."
+            },
+            {
+              "tip": "needn't — без to: needn't come. А don't need to — с to: don't need to come."
+            },
+            {
+              "wrong": "You needn't to call me.",
+              "right": "You needn't call me. / You don't need to call me."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "We have lots of time. We {needn't|need not|don't need to|do not need to} rush.",
+              "hint": "need / not",
+              "tr": "У нас много времени. Можно не торопиться.",
+              "why": "Не нужно — needn't или don't need to."
+            },
+            {
+              "choice": "You {needn't} bring anything. We have plenty of food.",
+              "opts": [
+                "mustn't",
+                "needn't to"
+              ],
+              "tr": "Ничего не приноси. У нас полно еды.",
+              "why": "Не нужно, а не запрещено — needn't."
+            },
+            {
+              "order": "You don't need to wait for me.",
+              "tr": "Тебе не нужно меня ждать."
+            },
+            {
+              "fix": "You {needn't to>needn't} call before you come.",
+              "tr": "Не нужно звонить перед приходом.",
+              "why": "После needn't — без to."
+            }
+          ],
+          "review": [
+            {
+              "gap": "He {doesn't need to|does not need to|needn't} come to the meeting.",
+              "hint": "need / not",
+              "tr": "Ему не нужно приходить на совещание."
+            },
+            {
+              "gap": "You {mustn't|must not} open this door. The alarm will go off.",
+              "hint": "must / not",
+              "tr": "Эту дверь открывать нельзя. Сработает сигнализация."
+            },
+            {
+              "gap": "It's not cold. You {needn't|need not|don't need to|do not need to} take a coat.",
+              "hint": "need / not",
+              "tr": "Сейчас не холодно. Пальто можно не брать."
+            },
+            {
+              "gap": "You {needn't|need not|don't need to|do not need to} explain. I understand.",
+              "hint": "need / not",
+              "tr": "Не надо объяснять. Я понимаю."
+            },
+            {
+              "choice": "You {mustn't} tell Mum. It's a surprise.",
+              "opts": [
+                "needn't",
+                "don't need to"
+              ],
+              "tr": "Маме говорить нельзя. Это сюрприз."
+            },
+            {
+              "choice": "She {doesn't need to} buy a dictionary. She can borrow mine.",
+              "opts": [
+                "mustn't",
+                "doesn't need"
+              ],
+              "tr": "Ей не нужно покупать словарь. Она может взять мой."
+            },
+            {
+              "choice": "I'll do the dishes. You {needn't} help.",
+              "opts": [
+                "mustn't",
+                "needn't to"
+              ],
+              "tr": "Я помою посуду. Можешь не помогать."
+            },
+            {
+              "order": "We needn't decide right now.",
+              "tr": "Не нужно решать прямо сейчас."
+            },
+            {
+              "order": "You mustn't lose this ticket.",
+              "tr": "Этот билет нельзя потерять."
+            },
+            {
+              "fix": "You {mustn't>needn't} worry about the money. I'll pay.",
+              "tr": "Не беспокойся о деньгах — я заплачу."
+            },
+            {
+              "fix": "She {doesn't need>doesn't need to} hurry.",
+              "tr": "Ей не нужно торопиться."
+            },
+            {
+              "fix": "You {needn't>mustn't} feed the animals. It's forbidden.",
+              "tr": "Животных кормить нельзя — это запрещено."
+            }
+          ]
+        },
+        {
+          "id": "neednt-have",
+          "title": "needn't have или didn't need to",
+          "theory": [
+            "needn't have + 3-я форма — «сделал, но зря: оказалось, не нужно было».",
+            {
+              "formula": [
+                "needn't have",
+                "+",
+                "3-я форма"
+              ]
+            },
+            {
+              "ex": "We [needn't have booked]. The café was empty.",
+              "tr": "Зря мы бронировали. Кафе было пустое."
+            },
+            "didn't need to + глагол — «не было нужно». Обычно значит, что и не делали.",
+            {
+              "ex": "I [didn't need to] take a taxi, so I walked.",
+              "tr": "Такси было не нужно, и я пошёл пешком."
+            },
+            {
+              "table": [
+                [
+                  "You needn't worry.",
+                  "не волнуйся (сейчас)"
+                ],
+                [
+                  "You needn't have worried.",
+                  "зря ты волновался"
+                ]
+              ]
+            }
+          ],
+          "practice": [
+            {
+              "gap": "We {needn't have|need not have} cooked so much. Only three people came.",
+              "hint": "need / not",
+              "tr": "Зря мы столько наготовили. Пришли всего трое.",
+              "why": "Сделали, но зря — needn't have + 3-я форма."
+            },
+            {
+              "choice": "The exam was easy. I {needn't have} studied all weekend.",
+              "opts": [
+                "needn't",
+                "mustn't have"
+              ],
+              "tr": "Экзамен был лёгким. Можно было не сидеть над учебниками все выходные.",
+              "why": "Занимался, но зря — needn't have."
+            },
+            {
+              "order": "You needn't have bought me a present.",
+              "tr": "Не стоило покупать мне подарок."
+            },
+            {
+              "fix": "I {needn't to take>needn't have taken} an umbrella. It didn't rain.",
+              "tr": "Зонт можно было не брать — дождя не было.",
+              "why": "Про лишнее действие в прошлом — needn't have + 3-я форма."
+            }
+          ],
+          "review": [
+            {
+              "gap": "You {needn't have|need not have} waited for me. I had a key.",
+              "hint": "need / not",
+              "tr": "Зря ты меня ждал. У меня был ключ."
+            },
+            {
+              "gap": "I {didn't need to|did not need to|didn't have to|did not have to} go to work, so I stayed in bed.",
+              "hint": "need / not",
+              "tr": "На работу было не нужно, так что я остался в постели."
+            },
+            {
+              "gap": "She {needn't have|need not have} worried. Everything went well.",
+              "hint": "need / not",
+              "tr": "Зря она волновалась. Всё прошло хорошо."
+            },
+            {
+              "gap": "We {didn't need to|did not need to|didn't have to|did not have to} queue, because we had tickets.",
+              "hint": "need / not",
+              "tr": "Нам не пришлось стоять в очереди: у нас были билеты."
+            },
+            {
+              "choice": "The hotel was half empty. We {needn't have} booked.",
+              "opts": [
+                "needn't",
+                "mustn't have"
+              ],
+              "tr": "Отель был полупустой. Зря мы бронировали."
+            },
+            {
+              "choice": "I {didn't need to} take a taxi, so I walked to the office.",
+              "opts": [
+                "needn't have",
+                "mustn't"
+              ],
+              "tr": "Такси было не нужно, поэтому я дошёл до офиса пешком."
+            },
+            {
+              "choice": "Don't worry, you {needn't} pay now.",
+              "opts": [
+                "needn't have",
+                "needn't to"
+              ],
+              "tr": "Не волнуйся, сейчас платить не нужно."
+            },
+            {
+              "order": "He needn't have shouted at her.",
+              "tr": "Ему незачем было на неё кричать."
+            },
+            {
+              "order": "We didn't need to change trains.",
+              "tr": "Нам не нужно было делать пересадку."
+            },
+            {
+              "fix": "You {needn't have bring>needn't have brought} wine, but thank you!",
+              "tr": "Не нужно было приносить вино, но спасибо!"
+            },
+            {
+              "fix": "I {needn't>needn't have} watered the flowers. It's raining now.",
+              "tr": "Зря я поливал цветы — теперь идёт дождь."
+            },
+            {
+              "fix": "Everything was fine. You {mustn't have>needn't have} worried.",
+              "tr": "Всё было хорошо. Зря ты волновался."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u33-should-1",
+      "title": "should 1",
+      "subtitle": "Юнит 33 · стоит, должно, надо было",
+      "level": "B1",
+      "points": [
+        {
+          "id": "advice",
+          "title": "should: совет и мнение",
+          "theory": [
+            "should — «стоит, следует»: так правильно или полезно. Это совет, а не жёсткая обязанность, как must или have to.",
+            {
+              "formula": [
+                "should / shouldn't",
+                "+",
+                "глагол"
+              ]
+            },
+            {
+              "ex": "You look tired. You [should] go to bed.",
+              "tr": "Ты выглядишь усталым. Тебе стоит лечь спать."
+            },
+            {
+              "ex": "Do you think I [should] take the job?",
+              "tr": "Как думаешь, мне стоит согласиться на эту работу?"
+            },
+            {
+              "tip": "С think отрицание ставят в think: I don't think you should… звучит естественнее, чем I think you shouldn't…"
+            },
+            {
+              "wrong": "You should to try this.",
+              "right": "You should try this."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "You look pale. You {should see|ought to see} a doctor.",
+              "hint": "should / see",
+              "tr": "Ты бледный. Тебе стоит сходить к врачу.",
+              "why": "Совет — should + глагол."
+            },
+            {
+              "choice": "I {don't think} you should quit your job.",
+              "opts": [
+                "not think",
+                "think don't"
+              ],
+              "tr": "Не думаю, что тебе стоит уходить с работы.",
+              "why": "Отрицание ставят в think: I don't think."
+            },
+            {
+              "order": "Do you think I should call him?",
+              "tr": "Как думаешь, мне стоит ему позвонить?"
+            },
+            {
+              "fix": "You {should to>should} try this restaurant.",
+              "tr": "Тебе стоит сходить в этот ресторан.",
+              "why": "После should — глагол без to."
+            }
+          ],
+          "review": [
+            {
+              "gap": "You {shouldn't|should not|ought not to} drink coffee before bed.",
+              "hint": "should / not",
+              "tr": "Не стоит пить кофе перед сном."
+            },
+            {
+              "gap": "{Should we} take a taxi or walk?",
+              "hint": "we / should",
+              "tr": "Нам взять такси или пойти пешком?"
+            },
+            {
+              "gap": "I think you {should apologise|should apologize|ought to apologise|ought to apologize} to her.",
+              "hint": "should / apologise",
+              "tr": "Думаю, тебе стоит перед ней извиниться."
+            },
+            {
+              "gap": "Students {shouldn't|should not} use phones during lessons.",
+              "hint": "should / not",
+              "tr": "Ученикам не стоит пользоваться телефонами на уроках."
+            },
+            {
+              "choice": "It's only advice. You {should} talk to him, but you don't have to.",
+              "opts": [
+                "must",
+                "have to"
+              ],
+              "tr": "Это просто совет. Тебе стоит с ним поговорить, но ты не обязан.",
+              "why": "Мягкий совет — should; must и have to — обязательность."
+            },
+            {
+              "choice": "You {should} wear a helmet when you cycle.",
+              "opts": [
+                "should to",
+                "are should"
+              ],
+              "tr": "Когда катаешься на велосипеде, стоит надевать шлем."
+            },
+            {
+              "choice": "I {don't think} we should wait any longer.",
+              "opts": [
+                "not think",
+                "think not"
+              ],
+              "tr": "Не думаю, что нам стоит ждать дольше."
+            },
+            {
+              "order": "You shouldn't work so late every night.",
+              "tr": "Тебе не стоит каждый вечер работать допоздна."
+            },
+            {
+              "order": "What do you think I should do?",
+              "tr": "Как думаешь, что мне делать?"
+            },
+            {
+              "fix": "I think you {don't should>shouldn't} tell her yet.",
+              "tr": "Думаю, тебе пока не стоит ей говорить."
+            },
+            {
+              "fix": "{Do we should>Should we} book a table?",
+              "tr": "Нам стоит забронировать столик?"
+            },
+            {
+              "fix": "He should {goes>go} to bed earlier.",
+              "tr": "Ему стоит ложиться спать раньше."
+            }
+          ]
+        },
+        {
+          "id": "expect",
+          "title": "should: так ожидается",
+          "theory": [
+            "should также значит «по идее, должно быть так»: мы этого ожидаем, или так было бы правильно.",
+            {
+              "ex": "Dan left an hour ago. He [should be] home by now.",
+              "tr": "Дэн ушёл час назад. Он уже должен быть дома."
+            },
+            {
+              "ex": "She's prepared well, so she [should pass].",
+              "tr": "Она хорошо подготовилась, так что должна сдать."
+            },
+            {
+              "ex": "It [shouldn't take] long.",
+              "tr": "Это не должно занять много времени."
+            },
+            {
+              "tip": "Это не уверенный вывод, как must, а ожидание: «по плану», «по логике»."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "The parcel was sent on Monday. It {should arrive|ought to arrive} tomorrow.",
+              "hint": "should / arrive",
+              "tr": "Посылку отправили в понедельник. Она должна прийти завтра.",
+              "why": "Ожидаем, что так будет, — should."
+            },
+            {
+              "choice": "He's been training hard, so he {should} win easily.",
+              "opts": [
+                "must to",
+                "should to"
+              ],
+              "tr": "Он усердно тренировался, так что должен легко победить."
+            },
+            {
+              "order": "The test shouldn't take more than an hour.",
+              "tr": "Тест не должен занять больше часа."
+            },
+            {
+              "fix": "The price is wrong. It {should to be>should be} ten euros.",
+              "tr": "Цена неправильная. Должно быть десять евро.",
+              "why": "should + глагол без to."
+            }
+          ],
+          "review": [
+            {
+              "gap": "The film {should be|ought to be} good. It got great reviews.",
+              "hint": "should / be",
+              "tr": "Фильм должен быть хорошим. У него отличные отзывы."
+            },
+            {
+              "gap": "It {shouldn't be|should not be|ought not to be} difficult to find a parking space.",
+              "hint": "should / not, be",
+              "tr": "Найти место для парковки не должно быть трудно."
+            },
+            {
+              "gap": "Mia left an hour ago. She {should be|ought to be} at the station by now.",
+              "hint": "should / be",
+              "tr": "Миа ушла час назад. Она уже должна быть на вокзале."
+            },
+            {
+              "gap": "If you leave now, you {should get|ought to get} there by noon.",
+              "hint": "should / get",
+              "tr": "Если выедешь сейчас, должен быть там к полудню."
+            },
+            {
+              "choice": "The bus {should} come in five minutes.",
+              "opts": [
+                "should to",
+                "shoulds"
+              ],
+              "tr": "Автобус должен прийти через пять минут."
+            },
+            {
+              "choice": "Your new phone {should} arrive by Friday.",
+              "opts": [
+                "should to",
+                "would to"
+              ],
+              "tr": "Твой новый телефон должен прийти к пятнице."
+            },
+            {
+              "choice": "Where's Max? He {should} be here already.",
+              "opts": [
+                "should to",
+                "shouldn't"
+              ],
+              "tr": "Где Макс? Он уже должен быть здесь."
+            },
+            {
+              "order": "Everything should be ready by six.",
+              "tr": "Всё должно быть готово к шести."
+            },
+            {
+              "order": "The weather should be nice tomorrow.",
+              "tr": "Завтра должна быть хорошая погода."
+            },
+            {
+              "fix": "There {shouldn't to be>shouldn't be} any problems.",
+              "tr": "Проблем быть не должно."
+            },
+            {
+              "fix": "The answer {should being>should be} on page ten.",
+              "tr": "Ответ должен быть на десятой странице."
+            }
+          ]
+        },
+        {
+          "id": "should-have",
+          "title": "should have и ought to",
+          "theory": [
+            "should have + 3-я форма — «надо было, но не сделали». shouldn't have — «не надо было, а сделали».",
+            {
+              "formula": [
+                "should (not)",
+                "+",
+                "have",
+                "+",
+                "3-я форма"
+              ]
+            },
+            {
+              "ex": "We missed the train. We [should have left] earlier.",
+              "tr": "Мы опоздали на поезд. Надо было выйти раньше."
+            },
+            {
+              "ex": "I [shouldn't have said] that.",
+              "tr": "Не надо было мне этого говорить."
+            },
+            "ought to = should, но с to. Звучит чуть книжнее.",
+            {
+              "ex": "You [ought to] call your mum.",
+              "tr": "Тебе следует позвонить маме."
+            },
+            {
+              "wrong": "You should come to the concert yesterday.",
+              "right": "You should have come to the concert yesterday."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "We missed the train. We {should have|should've|ought to have} left earlier.",
+              "hint": "should",
+              "tr": "Мы опоздали на поезд. Надо было выйти раньше.",
+              "why": "Надо было, но не сделали — should have + 3-я форма."
+            },
+            {
+              "choice": "My head hurts. I {shouldn't have} stayed up so late.",
+              "opts": [
+                "shouldn't",
+                "mustn't have"
+              ],
+              "tr": "Голова болит. Не надо было так поздно ложиться.",
+              "why": "Сделал, а не стоило — shouldn't have."
+            },
+            {
+              "order": "You ought to see a dentist.",
+              "tr": "Тебе следует сходить к стоматологу."
+            },
+            {
+              "fix": "You {should come>should have come} to the concert yesterday.",
+              "tr": "Тебе стоило вчера прийти на концерт.",
+              "why": "О прошлом — should have + 3-я форма."
+            }
+          ],
+          "review": [
+            {
+              "gap": "You {should have|should've|ought to have} told me about the problem.",
+              "hint": "should",
+              "tr": "Тебе надо было сказать мне о проблеме."
+            },
+            {
+              "gap": "I {shouldn't have|should not have|ought not to have} said that. I'm sorry.",
+              "hint": "should / not",
+              "tr": "Не надо было мне этого говорить. Прости."
+            },
+            {
+              "gap": "They {ought to} fix this road soon.",
+              "hint": "ought",
+              "tr": "Им следует скоро отремонтировать эту дорогу.",
+              "why": "ought всегда с to."
+            },
+            {
+              "gap": "She {should have|should've|ought to have} been here an hour ago.",
+              "hint": "should",
+              "tr": "Она должна была быть здесь час назад."
+            },
+            {
+              "choice": "You {ought to} be more careful.",
+              "opts": [
+                "ought",
+                "ought be"
+              ],
+              "tr": "Тебе следует быть осторожнее."
+            },
+            {
+              "choice": "We {should have} booked a table. The restaurant is full.",
+              "opts": [
+                "should",
+                "must have"
+              ],
+              "tr": "Надо было забронировать столик. Ресторан полный."
+            },
+            {
+              "choice": "He {shouldn't have} driven so fast. Now he's got a fine.",
+              "opts": [
+                "shouldn't",
+                "should have"
+              ],
+              "tr": "Не надо было ему так гнать. Теперь у него штраф."
+            },
+            {
+              "order": "I should have brought a warmer jacket.",
+              "tr": "Надо было взять куртку потеплее."
+            },
+            {
+              "order": "You shouldn't have paid for me.",
+              "tr": "Зря ты за меня заплатил."
+            },
+            {
+              "fix": "You {ought>ought to} call your parents more often.",
+              "tr": "Тебе следует чаще звонить родителям."
+            },
+            {
+              "fix": "I {should have know>should have known} he was lying.",
+              "tr": "Мне следовало догадаться, что он врёт."
+            },
+            {
+              "fix": "Yesterday you {should told>should have told} the teacher.",
+              "tr": "Вчера тебе следовало сказать учителю."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u34-should-2",
+      "title": "should 2",
+      "subtitle": "Юнит 34 · suggest that, strange that, should you",
+      "level": "B2",
+      "points": [
+        {
+          "id": "suggest",
+          "title": "suggest / insist that… (should)",
+          "theory": [
+            "После insist, demand, recommend, suggest, propose и It's important / essential / vital that… ставят should + глагол или просто глагол в начальной форме (should опускают).",
+            {
+              "formula": [
+                "suggest / insist that",
+                "+",
+                "кто",
+                "+",
+                "(should) глагол"
+              ]
+            },
+            {
+              "ex": "The doctor insisted that I [should rest].",
+              "tr": "Врач настоял, чтобы я отдохнул."
+            },
+            {
+              "ex": "It's vital that she [be] on time.",
+              "tr": "Очень важно, чтобы она пришла вовремя."
+            },
+            {
+              "tip": "Можно и обычное время: I suggested that she took a break. Но после suggest не бывает конструкции «кого-то + to»."
+            },
+            {
+              "wrong": "She suggested me to take a break.",
+              "right": "She suggested that I take a break."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "The doctor recommended that I {should rest|rest|rested} for a week.",
+              "hint": "should / rest",
+              "tr": "Врач посоветовал мне отдохнуть неделю.",
+              "why": "recommend that + (should) глагол."
+            },
+            {
+              "choice": "What do you suggest we {buy} for her birthday?",
+              "opts": [
+                "to buy",
+                "buying"
+              ],
+              "tr": "Что, по-твоему, нам подарить ей на день рождения?",
+              "why": "suggest + кто + глагол без to."
+            },
+            {
+              "order": "It's important that she should know the truth.",
+              "tr": "Важно, чтобы она узнала правду."
+            },
+            {
+              "fix": "My friend suggested {me to take>that I take} a break.",
+              "tr": "Друг предложил мне сделать перерыв.",
+              "why": "suggest + кого-то + to — ошибка; нужно suggest that I take."
+            }
+          ],
+          "review": [
+            {
+              "gap": "They insisted that we {should stay|stay|stayed} for dinner.",
+              "hint": "should / stay",
+              "tr": "Они настояли, чтобы мы остались на ужин."
+            },
+            {
+              "gap": "It's vital that the patient {should rest|rest|rests} completely.",
+              "hint": "should / rest",
+              "tr": "Пациенту крайне важно полностью отдыхать."
+            },
+            {
+              "gap": "I suggest that you {should book|book} early.",
+              "hint": "should / book",
+              "tr": "Советую тебе забронировать заранее."
+            },
+            {
+              "choice": "She suggested {going} to the beach.",
+              "opts": [
+                "to go",
+                "us to go"
+              ],
+              "tr": "Она предложила пойти на пляж.",
+              "why": "После suggest — -ing или that…, но не to."
+            },
+            {
+              "choice": "The manager demanded that the report {be} finished today.",
+              "opts": [
+                "to be",
+                "being"
+              ],
+              "tr": "Менеджер потребовал, чтобы отчёт был готов сегодня."
+            },
+            {
+              "choice": "He suggested {that I} call the bank.",
+              "opts": [
+                "me to",
+                "to me to"
+              ],
+              "tr": "Он предложил мне позвонить в банк."
+            },
+            {
+              "choice": "It's essential that every child {should} learn to swim.",
+              "opts": [
+                "must to",
+                "would"
+              ],
+              "tr": "Очень важно, чтобы каждый ребёнок научился плавать."
+            },
+            {
+              "order": "Doctors recommend that we drink more water.",
+              "tr": "Врачи рекомендуют пить больше воды."
+            },
+            {
+              "order": "What do you suggest I should wear?",
+              "tr": "Что, по-твоему, мне надеть?"
+            },
+            {
+              "fix": "The teacher suggested {us to read>that we read} more.",
+              "tr": "Учитель посоветовал нам больше читать."
+            },
+            {
+              "fix": "Ken proposed {us to meet>that we meet} on Monday.",
+              "tr": "Кен предложил встретиться в понедельник."
+            },
+            {
+              "fix": "They insisted that he {should paid>should pay} the bill.",
+              "tr": "Они настояли, чтобы он оплатил счёт."
+            }
+          ]
+        },
+        {
+          "id": "strange",
+          "title": "strange that… should",
+          "theory": [
+            "После strange, odd, funny, typical, natural, interesting, surprised / surprising можно ставить should + глагол. Так подчёркивают удивление или оценку.",
+            {
+              "formula": [
+                "It's strange that",
+                "+",
+                "кто",
+                "+",
+                "should",
+                "+",
+                "глагол"
+              ]
+            },
+            {
+              "ex": "It's strange that he [should be] so late.",
+              "tr": "Странно, что он так опаздывает."
+            },
+            {
+              "ex": "I was surprised that she [should leave] so early.",
+              "tr": "Я удивился, что она ушла так рано."
+            },
+            {
+              "tip": "Обычное время тоже верно: It's strange that he is so late. should здесь не значит «стоит»."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "It's typical that he {should be|is} late again.",
+              "hint": "should / be",
+              "tr": "Как это на него похоже — опять опаздывает.",
+              "why": "После typical that можно should + глагол."
+            },
+            {
+              "choice": "We were surprised that he {should} refuse our offer.",
+              "opts": [
+                "would to",
+                "should to"
+              ],
+              "tr": "Мы удивились, что он отказался от нашего предложения."
+            },
+            {
+              "order": "It's natural that you should feel nervous.",
+              "tr": "Естественно, что ты волнуешься."
+            },
+            {
+              "fix": "It's funny that you {should to mention>should mention} that.",
+              "tr": "Забавно, что ты об этом заговорил.",
+              "why": "После should — глагол без to."
+            }
+          ],
+          "review": [
+            {
+              "gap": "It's strange that nobody {should notice|noticed|has noticed} the mistake.",
+              "hint": "should / notice",
+              "tr": "Странно, что никто не заметил ошибку."
+            },
+            {
+              "gap": "It's only natural that parents {should worry|worry} about their children.",
+              "hint": "should / worry",
+              "tr": "Вполне естественно, что родители волнуются за детей."
+            },
+            {
+              "gap": "I'm surprised that you {should think|think} so.",
+              "hint": "should / think",
+              "tr": "Удивлён, что ты так думаешь."
+            },
+            {
+              "choice": "It's odd that he {should} leave without saying goodbye.",
+              "opts": [
+                "should to",
+                "must to"
+              ],
+              "tr": "Странно, что он ушёл не попрощавшись."
+            },
+            {
+              "choice": "It's interesting that you {should} ask about that.",
+              "opts": [
+                "should to",
+                "would to"
+              ],
+              "tr": "Интересно, что ты об этом спрашиваешь."
+            },
+            {
+              "choice": "It's strange that the shop {should} close so early.",
+              "opts": [
+                "should to",
+                "must to"
+              ],
+              "tr": "Странно, что магазин закрывается так рано."
+            },
+            {
+              "order": "It's odd that she should be so quiet.",
+              "tr": "Странно, что она такая тихая."
+            },
+            {
+              "order": "It's funny that we should meet here.",
+              "tr": "Забавно, что мы встретились именно здесь."
+            },
+            {
+              "fix": "It's strange that he {should forgot>should forget} your birthday.",
+              "tr": "Странно, что он забыл о твоём дне рождения."
+            },
+            {
+              "fix": "I was surprised that she {should to quit>should quit} her job.",
+              "tr": "Я удивился, что она бросила работу."
+            }
+          ]
+        },
+        {
+          "id": "if-should",
+          "title": "If… should / Should you…",
+          "theory": [
+            "If + should + глагол — «если вдруг»: так говорят, когда событие маловероятно. Часто в вежливых и официальных фразах.",
+            {
+              "ex": "If you [should need] anything, just call me.",
+              "tr": "Если вдруг что-то понадобится, просто позвони."
+            },
+            "Можно убрать if и начать с should — это ещё официальнее.",
+            {
+              "formula": [
+                "Should",
+                "+",
+                "кто",
+                "+",
+                "глагол",
+                ",",
+                "…"
+              ]
+            },
+            {
+              "ex": "[Should] you have any questions, please ask.",
+              "tr": "Если у вас будут вопросы, пожалуйста, спрашивайте."
+            },
+            {
+              "wrong": "If should the train be late, we'll take a taxi.",
+              "right": "Should the train be late, we'll take a taxi."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "If you {should need|need} help with the move, just call me.",
+              "hint": "should / need",
+              "tr": "Если вдруг понадобится помощь с переездом, просто позвони.",
+              "why": "If + should + глагол — «если вдруг»."
+            },
+            {
+              "choice": "{Should} you have any problems, please contact us.",
+              "opts": [
+                "Would",
+                "Shall"
+              ],
+              "tr": "Если у вас возникнут проблемы, свяжитесь с нами.",
+              "why": "В начале вместо if ставится только should."
+            },
+            {
+              "order": "If anyone should call, take a message.",
+              "tr": "Если кто-нибудь позвонит, запиши, что передать."
+            },
+            {
+              "fix": "{If should>Should} the train be late, we'll take a taxi.",
+              "tr": "Если поезд опоздает, возьмём такси.",
+              "why": "Либо If the train is late, либо Should the train be late — не вместе."
+            }
+          ],
+          "review": [
+            {
+              "gap": "{Should|If} you see Mike, tell him to call me.",
+              "hint": "if / should",
+              "tr": "Если увидишь Майка, скажи ему позвонить мне."
+            },
+            {
+              "gap": "If the weather {should change|changes}, we'll stay inside.",
+              "hint": "should / change",
+              "tr": "Если вдруг погода испортится, останемся в помещении."
+            },
+            {
+              "gap": "If anything {should happen|happens}, call the police.",
+              "hint": "should / happen",
+              "tr": "Если что-нибудь случится, звоните в полицию."
+            },
+            {
+              "choice": "{Should} the flight be cancelled, you will get a refund.",
+              "opts": [
+                "If",
+                "Would"
+              ],
+              "tr": "Если рейс отменят, вам вернут деньги."
+            },
+            {
+              "choice": "If you {should} lose your card, call the bank at once.",
+              "opts": [
+                "would",
+                "shall"
+              ],
+              "tr": "Если вдруг потеряете карту, сразу звоните в банк."
+            },
+            {
+              "choice": "Should you {need} help, ask at reception.",
+              "opts": [
+                "needs",
+                "to need"
+              ],
+              "tr": "Если понадобится помощь, обращайтесь на ресепшен."
+            },
+            {
+              "order": "Should you change your mind, let me know.",
+              "tr": "Если передумаешь, дай мне знать."
+            },
+            {
+              "order": "If it should rain, the party will be indoors.",
+              "tr": "Если пойдёт дождь, вечеринка будет в помещении."
+            },
+            {
+              "fix": "{Should you will>Should you} need a taxi, call this number.",
+              "tr": "Если понадобится такси, звоните по этому номеру."
+            },
+            {
+              "fix": "If he {should calls>should call}, say I'm out.",
+              "tr": "Если он позвонит, скажи, что меня нет."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u35-had-better-its-time",
+      "title": "I'd better… it's time…",
+      "subtitle": "Юнит 35 · лучше бы, пора бы",
+      "level": "B1",
+      "points": [
+        {
+          "id": "had-better",
+          "title": "had better: форма",
+          "theory": [
+            "had better ('d better) — «лучше сделай, а то будет плохо». Несмотря на had, речь о сейчас или будущем.",
+            {
+              "formula": [
+                "'d better (not)",
+                "+",
+                "глагол"
+              ]
+            },
+            {
+              "ex": "It's late. We['d better] go.",
+              "tr": "Уже поздно. Нам лучше уйти."
+            },
+            {
+              "ex": "You['d better not] miss the train.",
+              "tr": "Смотри не опоздай на поезд."
+            },
+            {
+              "wrong": "You'd better to leave now.",
+              "right": "You'd better leave now."
+            },
+            {
+              "tip": "Отрицание — 'd better not, без don't. Хвостик вопроса: I'd better go, hadn't I?"
+            }
+          ],
+          "practice": [
+            {
+              "gap": "It's getting late. We {had better|'d better} go home.",
+              "hint": "better",
+              "tr": "Становится поздно. Нам лучше пойти домой.",
+              "why": "Совет с риском «а то…» — 'd better."
+            },
+            {
+              "choice": "You'd better {not} tell anyone.",
+              "opts": [
+                "don't",
+                "to not"
+              ],
+              "tr": "Лучше никому не говори.",
+              "why": "Отрицание — 'd better not."
+            },
+            {
+              "order": "We'd better take some water with us.",
+              "tr": "Лучше взять с собой воды."
+            },
+            {
+              "fix": "You'd better {to leave>leave} now, or you'll miss the bus.",
+              "tr": "Тебе лучше выйти сейчас, иначе опоздаешь на автобус.",
+              "why": "После 'd better — глагол без to."
+            }
+          ],
+          "review": [
+            {
+              "gap": "I {had better|'d better} charge my phone before we go.",
+              "hint": "better",
+              "tr": "Мне лучше зарядить телефон перед выходом."
+            },
+            {
+              "gap": "You {had better not|'d better not} be late again.",
+              "hint": "better / not",
+              "tr": "Смотри больше не опаздывай."
+            },
+            {
+              "gap": "The roads are icy. We {had better|'d better} drive slowly.",
+              "hint": "better",
+              "tr": "Дороги обледенели. Лучше ехать медленно."
+            },
+            {
+              "gap": "She {had better|'d better} see a doctor about that cough.",
+              "hint": "better",
+              "tr": "Ей лучше показаться врачу с этим кашлем."
+            },
+            {
+              "choice": "You'd better {hurry}. The shop closes in five minutes.",
+              "opts": [
+                "to hurry",
+                "hurrying"
+              ],
+              "tr": "Тебе лучше поторопиться. Магазин закрывается через пять минут."
+            },
+            {
+              "choice": "We{'d better not} wake the baby.",
+              "opts": [
+                "'d not better",
+                "don't better"
+              ],
+              "tr": "Лучше не будить малыша."
+            },
+            {
+              "choice": "I'd better phone Sam, {hadn't} I?",
+              "opts": [
+                "didn't",
+                "wouldn't"
+              ],
+              "tr": "Мне лучше позвонить Сэму, да?"
+            },
+            {
+              "order": "You'd better not forget your passport.",
+              "tr": "Смотри не забудь паспорт."
+            },
+            {
+              "order": "I'd better finish this before lunch.",
+              "tr": "Мне лучше закончить это до обеда."
+            },
+            {
+              "fix": "We {better had>had better} leave now.",
+              "tr": "Нам лучше уйти сейчас."
+            },
+            {
+              "fix": "You'd {better don't>better not} drink the tap water here.",
+              "tr": "Лучше не пей здесь воду из-под крана."
+            }
+          ]
+        },
+        {
+          "id": "vs-should",
+          "title": "had better или should",
+          "theory": [
+            "had better — только про конкретную ситуацию, и если не послушаться, будет проблема. should — любой совет, в том числе общий.",
+            {
+              "table": [
+                [
+                  "You'd better go now, or you'll miss it.",
+                  "сейчас + риск"
+                ],
+                [
+                  "You should read more.",
+                  "в целом"
+                ]
+              ]
+            },
+            {
+              "ex": "The film starts at eight. We['d better] leave now.",
+              "tr": "Фильм в восемь. Нам лучше выйти сейчас."
+            },
+            {
+              "ex": "It's a great show. You [should] see it.",
+              "tr": "Отличное шоу. Тебе стоит его посмотреть."
+            },
+            {
+              "wrong": "People had better exercise more.",
+              "right": "People should exercise more."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "People {should} drink more water.",
+              "hint": "should / had better",
+              "tr": "Людям стоит пить больше воды.",
+              "why": "Общий совет — should, не had better."
+            },
+            {
+              "choice": "You're always tired. You {should} go to bed earlier.",
+              "opts": [
+                "'d better to",
+                "had better to"
+              ],
+              "tr": "Ты всегда уставший. Тебе стоит ложиться раньше.",
+              "why": "Совет про привычку — should."
+            },
+            {
+              "order": "It's a great book. You should read it.",
+              "tr": "Отличная книга. Тебе стоит её прочитать."
+            },
+            {
+              "fix": "Parents {had better>should} read to their children every day.",
+              "tr": "Родителям стоит читать детям каждый день.",
+              "why": "Общий совет — should."
+            }
+          ],
+          "review": [
+            {
+              "gap": "Children {should} spend more time outside.",
+              "hint": "should / had better",
+              "tr": "Детям стоит больше времени проводить на улице."
+            },
+            {
+              "gap": "Everyone {should} learn to cook.",
+              "hint": "should / had better",
+              "tr": "Каждому стоит научиться готовить."
+            },
+            {
+              "gap": "Hurry up! We {had better|'d better|should} leave now, or we'll miss the flight.",
+              "hint": "should / had better",
+              "tr": "Скорее! Нам лучше выйти сейчас, иначе опоздаем на рейс."
+            },
+            {
+              "choice": "You {should} visit Rome one day. It's beautiful.",
+              "opts": [
+                "'d better",
+                "had better to"
+              ],
+              "tr": "Тебе стоит когда-нибудь побывать в Риме. Он прекрасен."
+            },
+            {
+              "choice": "Teachers {should} be patient with students.",
+              "opts": [
+                "had better",
+                "had better to"
+              ],
+              "tr": "Учителям стоит быть терпеливыми с учениками."
+            },
+            {
+              "choice": "I think people {should} use public transport more.",
+              "opts": [
+                "had better",
+                "'d better to"
+              ],
+              "tr": "Думаю, людям стоит чаще ездить на общественном транспорте."
+            },
+            {
+              "order": "You should exercise at least three times a week.",
+              "tr": "Тебе стоит заниматься спортом хотя бы три раза в неделю."
+            },
+            {
+              "order": "The film starts soon. We'd better hurry.",
+              "tr": "Фильм скоро начнётся. Надо поторопиться."
+            },
+            {
+              "fix": "In general, students {had better>should} ask more questions.",
+              "tr": "Вообще студентам стоит задавать больше вопросов."
+            },
+            {
+              "fix": "Everybody {had better>should} have a hobby.",
+              "tr": "Каждому стоит иметь хобби."
+            }
+          ]
+        },
+        {
+          "id": "its-time",
+          "title": "It's time…",
+          "theory": [
+            "It's time (for someone) to + глагол — «пора что-то сделать».",
+            {
+              "ex": "It's late. [It's time to go].",
+              "tr": "Поздно. Пора идти."
+            },
+            "It's time + кто + прошедшее время — тоже «пора», но с оттенком «давно пора, уже опаздываем». Форма прошедшая, смысл — сейчас.",
+            {
+              "formula": [
+                "It's (about) time",
+                "+",
+                "кто",
+                "+",
+                "2-я форма"
+              ]
+            },
+            {
+              "ex": "[It's time you found] a proper job.",
+              "tr": "Тебе давно пора найти нормальную работу."
+            },
+            {
+              "wrong": "It's time we go home.",
+              "right": "It's time we went home."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "It's late. It's time we {went} home.",
+              "hint": "go",
+              "tr": "Уже поздно. Нам пора домой.",
+              "why": "It's time + we + прошедшее: went."
+            },
+            {
+              "choice": "It's time you {found} a proper job.",
+              "opts": [
+                "find",
+                "will find"
+              ],
+              "tr": "Тебе пора найти нормальную работу.",
+              "why": "После It's time you — прошедшая форма."
+            },
+            {
+              "order": "It's time for us to leave.",
+              "tr": "Нам пора уходить."
+            },
+            {
+              "fix": "It's time she {starts>started} thinking about her future.",
+              "tr": "Ей пора задуматься о будущем.",
+              "why": "It's time + кто + 2-я форма."
+            }
+          ],
+          "review": [
+            {
+              "gap": "It's ten o'clock. It's time the kids {went} to bed.",
+              "hint": "go",
+              "tr": "Уже десять. Детям пора спать."
+            },
+            {
+              "gap": "It's about time you {cleaned} your room!",
+              "hint": "clean",
+              "tr": "Давно пора убраться в комнате!"
+            },
+            {
+              "gap": "Come on, it's time {to go} to the airport.",
+              "hint": "go",
+              "tr": "Давай, пора ехать в аэропорт."
+            },
+            {
+              "gap": "It's time somebody {told} him the truth.",
+              "hint": "tell",
+              "tr": "Пора бы кому-нибудь сказать ему правду."
+            },
+            {
+              "choice": "It's time we {had} a holiday.",
+              "opts": [
+                "have",
+                "will have"
+              ],
+              "tr": "Нам пора в отпуск."
+            },
+            {
+              "choice": "It's time {to start} the meeting.",
+              "opts": [
+                "starting",
+                "we start"
+              ],
+              "tr": "Пора начинать совещание."
+            },
+            {
+              "choice": "It's about time he {learned} to cook.",
+              "opts": [
+                "learns",
+                "will learn"
+              ],
+              "tr": "Ему давно пора научиться готовить."
+            },
+            {
+              "order": "It's time you went to bed.",
+              "tr": "Тебе пора спать."
+            },
+            {
+              "order": "It's about time they fixed this road.",
+              "tr": "Давно пора отремонтировать эту дорогу."
+            },
+            {
+              "fix": "It's time we {go>went} to the station.",
+              "tr": "Нам пора на вокзал."
+            },
+            {
+              "fix": "It's time {to we>for us to} order food.",
+              "tr": "Нам пора заказать еду."
+            },
+            {
+              "fix": "It's about time you {stop>stopped} complaining.",
+              "tr": "Пора тебе перестать жаловаться."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u36-would",
+      "title": "would",
+      "subtitle": "Юнит 36 · бы, обещал, раньше бывало",
+      "level": "B1",
+      "points": [
+        {
+          "id": "imagine",
+          "title": "would и would have: «бы»",
+          "theory": [
+            "would ('d) — «бы»: представляем ситуацию, которой нет. would have + 3-я форма — то же о прошлом, которого не было.",
+            {
+              "table": [
+                [
+                  "сейчас",
+                  "I'd call her, but I don't have her number."
+                ],
+                [
+                  "прошлое",
+                  "I'd have called her, but I didn't have her number."
+                ]
+              ]
+            },
+            {
+              "ex": "A bigger flat [would be] nice.",
+              "tr": "Квартира побольше была бы кстати."
+            },
+            {
+              "ex": "You [would have enjoyed] the trip.",
+              "tr": "Тебе бы понравилась эта поездка."
+            },
+            "will — реально и точно, would — воображаемо, «но не получается».",
+            {
+              "wrong": "I will help you, but I'm too busy.",
+              "right": "I would help you, but I'm too busy."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "A bigger kitchen {would be|'d be} really useful.",
+              "hint": "be",
+              "tr": "Кухня побольше была бы очень кстати.",
+              "why": "Воображаемая ситуация — would."
+            },
+            {
+              "choice": "I {would} help you, but I'm really busy.",
+              "opts": [
+                "will",
+                "would have"
+              ],
+              "tr": "Я бы тебе помог, но я очень занят.",
+              "why": "Помочь не могу — значит would, не will."
+            },
+            {
+              "order": "You would have loved that concert.",
+              "tr": "Тебе бы понравился тот концерт."
+            },
+            {
+              "fix": "I {would call>would have called} you, but my phone was dead.",
+              "tr": "Я бы тебе позвонил, но у меня сел телефон.",
+              "why": "О прошлом — would have + 3-я форма."
+            }
+          ],
+          "review": [
+            {
+              "gap": "I {would buy|'d buy} that jacket, but it's too expensive.",
+              "hint": "buy",
+              "tr": "Я бы купил эту куртку, но она слишком дорогая."
+            },
+            {
+              "gap": "Thanks for your help. I {would have failed|'d have failed|would've failed} without you.",
+              "hint": "fail",
+              "tr": "Спасибо за помощь. Без тебя я бы провалился."
+            },
+            {
+              "gap": "Don't tell Max. He {wouldn't understand|would not understand}.",
+              "hint": "not / understand",
+              "tr": "Не говори Максу. Он бы не понял."
+            },
+            {
+              "gap": "We {would have|'d have|would've} come, but nobody invited us.",
+              "hint": "would",
+              "tr": "Мы бы пришли, но нас никто не пригласил."
+            },
+            {
+              "choice": "We {would} stay longer, but our flight is at six.",
+              "opts": [
+                "will",
+                "would have"
+              ],
+              "tr": "Мы бы остались подольше, но у нас рейс в шесть."
+            },
+            {
+              "choice": "It's a pity you missed the party. You {would have} enjoyed it.",
+              "opts": [
+                "would",
+                "will have"
+              ],
+              "tr": "Жаль, что ты пропустил вечеринку. Тебе бы понравилось."
+            },
+            {
+              "choice": "Don't worry, I {will} lend you the money. I've got plenty.",
+              "opts": [
+                "would have",
+                "would to"
+              ],
+              "tr": "Не волнуйся, я одолжу тебе денег. У меня полно.",
+              "why": "Реально и точно — will."
+            },
+            {
+              "order": "I wouldn't say anything if I were you.",
+              "tr": "На твоём месте я бы ничего не говорил."
+            },
+            {
+              "order": "We would have been lost without the map.",
+              "tr": "Без карты мы бы заблудились."
+            },
+            {
+              "fix": "I {will>would} invite them, but they never come.",
+              "tr": "Я бы их пригласил, но они никогда не приходят."
+            },
+            {
+              "fix": "I {wouldn't knew>wouldn't have known} what to do.",
+              "tr": "Я бы не знал, что делать."
+            },
+            {
+              "fix": "She would {has>have} liked the film.",
+              "tr": "Ей бы понравился этот фильм."
+            }
+          ]
+        },
+        {
+          "id": "past-will",
+          "title": "would как прошлое от will",
+          "theory": [
+            "Когда пересказываем прошлое, will превращается в would: «сказал, что сделает».",
+            {
+              "table": [
+                [
+                  "Ben: I'll call you.",
+                  "Ben said he would call me."
+                ],
+                [
+                  "I think it will rain.",
+                  "I thought it would rain."
+                ]
+              ]
+            },
+            {
+              "ex": "Anna promised she [would help] me.",
+              "tr": "Анна обещала, что поможет мне."
+            },
+            "wouldn't — ещё и «никак не хотел, отказывался». Так говорят и о технике.",
+            {
+              "ex": "The printer [wouldn't work] this morning.",
+              "tr": "Утром принтер никак не хотел работать."
+            },
+            {
+              "wrong": "I thought it will be easier.",
+              "right": "I thought it would be easier."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "Ben promised he {would call|'d call} me after work.",
+              "hint": "call",
+              "tr": "Бен обещал позвонить мне после работы.",
+              "why": "После promised (прошлое) will → would."
+            },
+            {
+              "choice": "I asked him to help, but he {wouldn't} listen.",
+              "opts": [
+                "won't",
+                "doesn't"
+              ],
+              "tr": "Я просил его помочь, но он и слушать не хотел.",
+              "why": "Отказывался в прошлом — wouldn't."
+            },
+            {
+              "order": "She said she would be here at eight.",
+              "tr": "Она сказала, что будет здесь в восемь."
+            },
+            {
+              "fix": "Yesterday my laptop {won't>wouldn't} turn on.",
+              "tr": "Вчера мой ноутбук никак не включался.",
+              "why": "Прошлое — wouldn't, не won't."
+            }
+          ],
+          "review": [
+            {
+              "gap": "Anna said she {would send|'d send} the photos later.",
+              "hint": "send",
+              "tr": "Анна сказала, что пришлёт фото позже."
+            },
+            {
+              "gap": "The door {wouldn't open|would not open}, so we called a locksmith.",
+              "hint": "not / open",
+              "tr": "Дверь никак не открывалась, и мы вызвали слесаря."
+            },
+            {
+              "gap": "I knew you {would like|'d like} this place.",
+              "hint": "like",
+              "tr": "Я знал, что тебе понравится это место."
+            },
+            {
+              "gap": "He {wouldn't tell|would not tell} me where he had been.",
+              "hint": "not / tell",
+              "tr": "Он ни в какую не говорил мне, где был."
+            },
+            {
+              "choice": "They promised they {would} finish by Friday.",
+              "opts": [
+                "will to",
+                "would to"
+              ],
+              "tr": "Они обещали закончить к пятнице."
+            },
+            {
+              "choice": "The kids {wouldn't} go to sleep last night.",
+              "opts": [
+                "won't",
+                "don't"
+              ],
+              "tr": "Вчера вечером дети никак не хотели засыпать."
+            },
+            {
+              "choice": "I thought it {would} be easier.",
+              "opts": [
+                "will",
+                "would to"
+              ],
+              "tr": "Я думал, будет проще.",
+              "why": "После thought (прошлое) — would."
+            },
+            {
+              "order": "My dog wouldn't eat anything yesterday.",
+              "tr": "Вчера моя собака отказывалась от еды."
+            },
+            {
+              "order": "He told me he would never leave.",
+              "tr": "Он сказал мне, что никогда не уйдёт."
+            },
+            {
+              "fix": "She promised she {will>would} help me, but she didn't.",
+              "tr": "Она обещала помочь, но не помогла."
+            },
+            {
+              "fix": "I was sure you {will>would} win.",
+              "tr": "Я был уверен, что ты победишь."
+            },
+            {
+              "fix": "The car {doesn't>wouldn't} start this morning.",
+              "tr": "Сегодня утром машина никак не заводилась."
+            }
+          ]
+        },
+        {
+          "id": "habit",
+          "title": "would: раньше бывало",
+          "theory": [
+            "would также рассказывает о повторяющихся действиях в прошлом — как used to: «бывало, раньше мы…».",
+            {
+              "ex": "Every summer we [would go] camping.",
+              "tr": "Каждое лето мы ездили в поход."
+            },
+            "Но только о действиях. О состояниях (have, be, live, own, like) — только used to.",
+            {
+              "table": [
+                [
+                  "действие",
+                  "would · used to"
+                ],
+                [
+                  "состояние",
+                  "только used to"
+                ]
+              ]
+            },
+            {
+              "wrong": "We would live in a small village.",
+              "right": "We used to live in a small village."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "Every summer we {would go|'d go|used to go} to the lake.",
+              "hint": "go",
+              "tr": "Каждое лето мы ездили на озеро.",
+              "why": "Повторяющееся действие в прошлом — would или used to."
+            },
+            {
+              "choice": "When I was a kid, I {used to} have a cat.",
+              "opts": [
+                "would",
+                "was used to"
+              ],
+              "tr": "В детстве у меня была кошка.",
+              "why": "have — состояние, would не подходит."
+            },
+            {
+              "order": "My grandad would tell us long stories.",
+              "tr": "Дедушка рассказывал нам длинные истории."
+            },
+            {
+              "fix": "We {would live>used to live} in a small village.",
+              "tr": "Раньше мы жили в маленькой деревне.",
+              "why": "live — состояние, нужно used to."
+            }
+          ],
+          "review": [
+            {
+              "gap": "On Sundays my dad {would cook|'d cook|used to cook} pancakes.",
+              "hint": "cook",
+              "tr": "По воскресеньям папа пёк блины."
+            },
+            {
+              "gap": "Whenever it rained, we {would play|'d play|used to play} board games.",
+              "hint": "play",
+              "tr": "Когда шёл дождь, мы играли в настольные игры."
+            },
+            {
+              "gap": "As a student, she {would study|'d study|used to study} all night before exams.",
+              "hint": "study",
+              "tr": "Студенткой она занималась ночи напролёт перед экзаменами."
+            },
+            {
+              "choice": "He {used to} be very shy.",
+              "opts": [
+                "would",
+                "was use to"
+              ],
+              "tr": "Раньше он был очень застенчивым."
+            },
+            {
+              "choice": "Every evening my mum {would} read to us.",
+              "opts": [
+                "will",
+                "was"
+              ],
+              "tr": "Каждый вечер мама читала нам вслух."
+            },
+            {
+              "choice": "We {used to} own a small boat.",
+              "opts": [
+                "would",
+                "were used to"
+              ],
+              "tr": "Когда-то у нас была небольшая лодка."
+            },
+            {
+              "order": "Every morning she would walk to work.",
+              "tr": "Каждое утро она ходила на работу пешком."
+            },
+            {
+              "order": "We would spend hours at the beach.",
+              "tr": "Мы, бывало, часами сидели на пляже."
+            },
+            {
+              "fix": "I {would>used to} have long hair at school.",
+              "tr": "В школе у меня были длинные волосы."
+            },
+            {
+              "fix": "My grandparents {would>used to} live in Kazan.",
+              "tr": "Мои бабушка с дедушкой раньше жили в Казани."
+            },
+            {
+              "fix": "When we were kids, we {will>would} play outside all day.",
+              "tr": "В детстве мы целыми днями играли на улице."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u37-requests-offers-permission",
+      "title": "can/could/would you…? etc.",
+      "subtitle": "Юнит 37 · просьбы, разрешение, предложения",
+      "level": "B1",
+      "points": [
+        {
+          "id": "requests",
+          "title": "Просьбы: Can / Could you…?",
+          "theory": [
+            "Попросить кого-то что-то сделать: Can you…? или вежливее Could you…? Ещё мягче — Do you think you could…?",
+            {
+              "ex": "[Could you] open the window, please?",
+              "tr": "Не могли бы вы открыть окно?"
+            },
+            {
+              "ex": "Do you think you [could] help me tomorrow?",
+              "tr": "Ты не мог бы мне завтра помочь?"
+            },
+            "Попросить вещь: Can I have…? / Could I have…? / Can I get…? May I have…? — официальнее.",
+            {
+              "ex": "[Can I have] the bill, please?",
+              "tr": "Можно счёт, пожалуйста?"
+            },
+            {
+              "wrong": "Do you think you can lend me some money?",
+              "right": "Do you think you could lend me some money?"
+            },
+            {
+              "tip": "May you…? для просьбы не бывает: may — только May I…?"
+            }
+          ],
+          "practice": [
+            {
+              "gap": "Do you think you {could} help me move on Saturday?",
+              "hint": "can",
+              "tr": "Ты не мог бы помочь мне с переездом в субботу?",
+              "why": "После Do you think you — только could."
+            },
+            {
+              "choice": "{Could} you turn the music down, please?",
+              "opts": [
+                "Do",
+                "May"
+              ],
+              "tr": "Не могли бы вы сделать музыку потише?",
+              "why": "Просьба — Can / Could you; May you не бывает."
+            },
+            {
+              "order": "Can you send me the file, please?",
+              "tr": "Можешь прислать мне файл?"
+            },
+            {
+              "fix": "Do you think you {can>could} lend me ten pounds?",
+              "tr": "Ты не мог бы одолжить мне десять фунтов?",
+              "why": "Do you think you could…, не can."
+            }
+          ],
+          "review": [
+            {
+              "gap": "{Could|Can} you close the window, please?",
+              "hint": "can / could",
+              "tr": "Не могли бы вы закрыть окно?"
+            },
+            {
+              "gap": "{Can I have|Could I have|Can I get|May I have} a glass of water, please?",
+              "hint": "have",
+              "tr": "Можно мне стакан воды?"
+            },
+            {
+              "gap": "Do you think you {could} pick me up at six?",
+              "hint": "can",
+              "tr": "Ты не мог бы забрать меня в шесть?"
+            },
+            {
+              "gap": "{Could we have|Can we have|Can we get|May we have} the bill, please?",
+              "hint": "we / have",
+              "tr": "Можно нам счёт, пожалуйста?"
+            },
+            {
+              "choice": "{Could} you check my essay, please?",
+              "opts": [
+                "Do",
+                "May"
+              ],
+              "tr": "Не мог бы ты проверить моё эссе?"
+            },
+            {
+              "choice": "Excuse me, {could} you show me the way to the museum?",
+              "opts": [
+                "may",
+                "do"
+              ],
+              "tr": "Простите, не могли бы вы показать, как пройти к музею?"
+            },
+            {
+              "choice": "Do you think you could {give} me a hand?",
+              "opts": [
+                "to give",
+                "giving"
+              ],
+              "tr": "Ты не мог бы мне помочь?"
+            },
+            {
+              "order": "Could you speak a bit more slowly?",
+              "tr": "Не могли бы вы говорить чуть медленнее?"
+            },
+            {
+              "order": "Can I have a coffee, please?",
+              "tr": "Можно мне кофе?"
+            },
+            {
+              "fix": "{May you>Could you} wait here for a moment?",
+              "tr": "Не могли бы вы подождать здесь минутку?"
+            },
+            {
+              "fix": "Could you {to help>help} me with my bags?",
+              "tr": "Не могли бы вы помочь мне с сумками?"
+            },
+            {
+              "fix": "Could I {to have>have} the menu, please?",
+              "tr": "Можно мне меню?"
+            }
+          ]
+        },
+        {
+          "id": "permission",
+          "title": "Разрешение: Can I / May I…?",
+          "theory": [
+            "Спросить разрешения: Can I…? / Could I…? May I…? — официальнее.",
+            {
+              "ex": "[May I] ask you something?",
+              "tr": "Можно вас кое о чём спросить?"
+            },
+            "Ещё варианты: Do you mind if I…? / Is it OK (all right) if I…? После if — обычное настоящее время.",
+            {
+              "formula": [
+                "Do you mind if I",
+                "/",
+                "Is it OK if I",
+                "+",
+                "глагол"
+              ]
+            },
+            {
+              "ex": "[Is it OK if I] leave a bit early?",
+              "tr": "Ничего, если я уйду чуть пораньше?"
+            },
+            {
+              "wrong": "Do you mind if I will use your laptop?",
+              "right": "Do you mind if I use your laptop?"
+            }
+          ],
+          "practice": [
+            {
+              "gap": "{Do you mind if} I open the window?",
+              "hint": "mind",
+              "tr": "Вы не против, если я открою окно?",
+              "why": "Спросить разрешения — Do you mind if I…"
+            },
+            {
+              "choice": "{May} I ask you a personal question?",
+              "opts": [
+                "Do",
+                "Am"
+              ],
+              "tr": "Можно задать вам личный вопрос?"
+            },
+            {
+              "order": "Is it all right if I leave early?",
+              "tr": "Ничего, если я уйду пораньше?"
+            },
+            {
+              "fix": "Do you mind if I {will use>use} your laptop?",
+              "tr": "Ты не против, если я возьму твой ноутбук?",
+              "why": "После if — настоящее время, без will."
+            }
+          ],
+          "review": [
+            {
+              "gap": "Hello, {can I|could I|may I} speak to Mr Brown, please?",
+              "hint": "can / could",
+              "tr": "Здравствуйте, можно поговорить с мистером Брауном?"
+            },
+            {
+              "gap": "Do you think I {could} borrow your car?",
+              "hint": "can",
+              "tr": "Можно мне взять твою машину?"
+            },
+            {
+              "gap": "Is it all right if I {bring} a friend?",
+              "hint": "bring",
+              "tr": "Ничего, если я приведу друга?"
+            },
+            {
+              "gap": "{Could I|Can I|May I} take a photo of you?",
+              "hint": "can / could",
+              "tr": "Можно вас сфотографировать?"
+            },
+            {
+              "choice": "Do you mind if I {close} the door?",
+              "opts": [
+                "will close",
+                "to close"
+              ],
+              "tr": "Вы не против, если я закрою дверь?"
+            },
+            {
+              "choice": "{Is it} OK if I park here?",
+              "opts": [
+                "Does it",
+                "Do"
+              ],
+              "tr": "Можно здесь припарковаться?"
+            },
+            {
+              "choice": "Do you think I {could} use your phone?",
+              "opts": [
+                "could to",
+                "can to"
+              ],
+              "tr": "Можно воспользоваться твоим телефоном?"
+            },
+            {
+              "order": "May I see your ticket, please?",
+              "tr": "Можно ваш билет?"
+            },
+            {
+              "order": "Do you mind if I join you?",
+              "tr": "Не возражаете, если я присоединюсь?"
+            },
+            {
+              "fix": "{Do I can>Can I} use the bathroom?",
+              "tr": "Можно мне в туалет?"
+            },
+            {
+              "fix": "May I {to sit>sit} next to you?",
+              "tr": "Можно сесть рядом с вами?"
+            }
+          ]
+        },
+        {
+          "id": "offers",
+          "title": "Предложения: Would you like…?",
+          "theory": [
+            "Предложить помощь: Can I…? Предложить что-то или пригласить: Would you like…? — не Do you like (это «тебе нравится?»).",
+            {
+              "ex": "[Can I] carry your bag?",
+              "tr": "Давай я понесу твою сумку?"
+            },
+            {
+              "ex": "[Would you like] some more soup?",
+              "tr": "Хочешь ещё супа?"
+            },
+            "I'd like… — вежливо сказать, что вы хотите. После would like — существительное или to + глагол.",
+            {
+              "ex": "[I'd like to] book a table for two.",
+              "tr": "Я бы хотел забронировать столик на двоих."
+            },
+            {
+              "wrong": "Do you like a piece of cake?",
+              "right": "Would you like a piece of cake?"
+            }
+          ],
+          "practice": [
+            {
+              "gap": "{Would you like} some tea?",
+              "hint": "like",
+              "tr": "Хочешь чаю?",
+              "why": "Предложение — Would you like…?"
+            },
+            {
+              "choice": "{Would} you like to come to dinner on Friday?",
+              "opts": [
+                "Do",
+                "Will"
+              ],
+              "tr": "Хочешь прийти к нам на ужин в пятницу?",
+              "why": "Приглашение — Would you like, не Do you like."
+            },
+            {
+              "order": "Can I get you something to drink?",
+              "tr": "Принести тебе что-нибудь попить?"
+            },
+            {
+              "fix": "{Do you like>Would you like} a piece of cake?",
+              "tr": "Хочешь кусочек торта?",
+              "why": "Do you like = «тебе нравится?», а предлагают через Would you like."
+            }
+          ],
+          "review": [
+            {
+              "gap": "{Would you like} to join us for lunch?",
+              "hint": "like",
+              "tr": "Хочешь пообедать с нами?"
+            },
+            {
+              "gap": "I {would like|'d like} a table for two, please.",
+              "hint": "like",
+              "tr": "Мне, пожалуйста, столик на двоих."
+            },
+            {
+              "gap": "{Can I|Shall I|Could I} help you with that?",
+              "hint": "can",
+              "tr": "Помочь тебе с этим?"
+            },
+            {
+              "gap": "I {would like|'d like} to book a room for tonight.",
+              "hint": "like",
+              "tr": "Я бы хотел забронировать номер на сегодня."
+            },
+            {
+              "choice": "{Would} you like me to carry that?",
+              "opts": [
+                "Do",
+                "Will"
+              ],
+              "tr": "Хочешь, я это понесу?"
+            },
+            {
+              "choice": "I'd like {to order} a pizza, please.",
+              "opts": [
+                "order",
+                "ordering"
+              ],
+              "tr": "Я бы хотел заказать пиццу."
+            },
+            {
+              "choice": "{Can} I take your coat?",
+              "opts": [
+                "Do",
+                "Am"
+              ],
+              "tr": "Давайте я возьму ваше пальто?"
+            },
+            {
+              "order": "Would you like to see my photos?",
+              "tr": "Хочешь посмотреть мои фотографии?"
+            },
+            {
+              "order": "I'd like some information about tours.",
+              "tr": "Мне нужна информация об экскурсиях."
+            },
+            {
+              "fix": "Would you like {coming>to come} with us?",
+              "tr": "Хочешь пойти с нами?"
+            },
+            {
+              "fix": "I {like>would like} a coffee and a croissant, please.",
+              "tr": "Мне, пожалуйста, кофе и круассан."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "r037-review-modals",
+      "title": "Review: Modals",
+      "subtitle": "Повторение · юниты 26–37",
+      "level": "B2",
+      "points": [
+        {
+          "id": "could-managed",
+          "title": "could или managed to",
+          "theory": [
+            {
+              "table": [
+                [
+                  "умел вообще",
+                  "could"
+                ],
+                [
+                  "удалось в этот раз",
+                  "was able to · managed to"
+                ],
+                [
+                  "не смог",
+                  "couldn't — всегда"
+                ]
+              ]
+            },
+            {
+              "ex": "At ten she [could] swim across the lake.",
+              "tr": "В десять лет она могла переплыть озеро."
+            },
+            {
+              "ex": "The lift broke, but we [managed to] get out.",
+              "tr": "Лифт сломался, но нам удалось выбраться."
+            },
+            {
+              "ex": "I [couldn't] remember his name.",
+              "tr": "Я не мог вспомнить, как его зовут."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "The road was blocked, but we {managed to|were able to} find another way.",
+              "hint": "manage",
+              "tr": "Дорогу перекрыли, но мы нашли другой путь.",
+              "why": "Удалось в конкретной ситуации — managed to."
+            },
+            {
+              "choice": "At sixteen my brother {could} play three instruments.",
+              "opts": [
+                "managed to",
+                "was able"
+              ],
+              "tr": "В шестнадцать мой брат умел играть на трёх инструментах.",
+              "why": "Умение вообще — could."
+            },
+            {
+              "order": "I couldn't open the window yesterday.",
+              "tr": "Вчера я не смог открыть окно."
+            },
+            {
+              "fix": "Luckily, the pilot {could>was able to} land the plane safely.",
+              "tr": "К счастью, пилоту удалось благополучно посадить самолёт.",
+              "why": "Конкретный успех — was able to, не could."
+            }
+          ],
+          "review": [
+            {
+              "gap": "We searched for hours and finally {managed to|were able to} find the cat.",
+              "hint": "manage",
+              "tr": "Мы искали несколько часов и наконец нашли кошку."
+            },
+            {
+              "gap": "When I lived in Spain, I {could|was able to} speak Spanish quite well.",
+              "hint": "can",
+              "tr": "Когда я жил в Испании, я неплохо говорил по-испански."
+            },
+            {
+              "gap": "The music was so loud we {couldn't|could not|weren't able to|were not able to} hear each other.",
+              "hint": "not / can",
+              "tr": "Музыка была такой громкой, что мы не слышали друг друга."
+            },
+            {
+              "choice": "The car broke down, but we {managed to} get home.",
+              "opts": [
+                "could",
+                "can"
+              ],
+              "tr": "Машина сломалась, но мы всё-таки добрались домой."
+            },
+            {
+              "choice": "My grandmother {could} knit without looking.",
+              "opts": [
+                "managed to",
+                "can to"
+              ],
+              "tr": "Моя бабушка умела вязать не глядя."
+            },
+            {
+              "choice": "After a long talk, I {was able to} calm her down.",
+              "opts": [
+                "could",
+                "can"
+              ],
+              "tr": "После долгого разговора мне удалось её успокоить."
+            },
+            {
+              "choice": "I {couldn't} reach the top shelf, so I asked for help.",
+              "opts": [
+                "can't",
+                "didn't can"
+              ],
+              "tr": "Я не мог дотянуться до верхней полки и попросил помощи."
+            },
+            {
+              "order": "She managed to get a good seat.",
+              "tr": "Ей удалось занять хорошее место."
+            },
+            {
+              "order": "My dad could fix anything with his hands.",
+              "tr": "Мой папа мог починить своими руками что угодно."
+            },
+            {
+              "fix": "In the end we {could>managed to} persuade him.",
+              "tr": "В конце концов нам удалось его уговорить."
+            },
+            {
+              "fix": "Yesterday I {can't>couldn't} sleep at all.",
+              "tr": "Вчера я совсем не мог уснуть."
+            },
+            {
+              "fix": "Two prisoners {could>were able to} escape last night.",
+              "tr": "Прошлой ночью двум заключённым удалось сбежать."
+            }
+          ]
+        },
+        {
+          "id": "certainty",
+          "title": "must, might или can't",
+          "theory": [
+            {
+              "table": [
+                [
+                  "уверен, что да",
+                  "must",
+                  "must have done"
+                ],
+                [
+                  "возможно",
+                  "may · might · could",
+                  "may · might · could have done"
+                ],
+                [
+                  "уверен, что нет",
+                  "can't · couldn't",
+                  "can't · couldn't have done"
+                ]
+              ]
+            },
+            {
+              "ex": "His car is outside. He [must be] at home.",
+              "tr": "Его машина у дома. Он, должно быть, дома."
+            },
+            {
+              "ex": "I'm not sure. He [might be] at the gym.",
+              "tr": "Не знаю. Может, он в спортзале."
+            },
+            {
+              "ex": "She was in Rome. She [can't have seen] you.",
+              "tr": "Она была в Риме. Она не могла тебя видеть."
+            },
+            {
+              "wrong": "She mustn't be at home.",
+              "right": "She can't be at home."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "Nobody's answering. They {must have|must've} gone out.",
+              "hint": "must / can't / might",
+              "tr": "Никто не отвечает. Они, должно быть, ушли.",
+              "why": "Единственное объяснение — must have."
+            },
+            {
+              "choice": "I'm not sure where Jo is. She {might} be at the library.",
+              "opts": [
+                "must",
+                "can't"
+              ],
+              "tr": "Не знаю, где Джо. Может, она в библиотеке.",
+              "why": "«Не уверен» — значит might."
+            },
+            {
+              "order": "He can't have been at the party.",
+              "tr": "Не может быть, чтобы он был на вечеринке."
+            },
+            {
+              "fix": "She's in Rome this week. She {mustn't>can't} be at the office.",
+              "tr": "Она на этой неделе в Риме. Её не может быть в офисе.",
+              "why": "Вывод «точно нет» — can't, не mustn't."
+            }
+          ],
+          "review": [
+            {
+              "gap": "You got the job? You {must} be so happy!",
+              "hint": "must / can't / might",
+              "tr": "Тебя взяли на работу? Ты, наверное, так рад!"
+            },
+            {
+              "gap": "Jake hasn't eaten all day. He {must} be starving.",
+              "hint": "must / can't / might",
+              "tr": "Джейк весь день не ел. Он, должно быть, умирает с голоду."
+            },
+            {
+              "gap": "That {can't|cannot|couldn't|could not} be Ella. She's in Canada.",
+              "hint": "must / can't / might",
+              "tr": "Это не может быть Элла. Она в Канаде."
+            },
+            {
+              "gap": "I'm not sure, but I {might have|may have|could have|might've} left it at school.",
+              "hint": "must / can't / might",
+              "tr": "Не уверен, но, может, я оставил это в школе."
+            },
+            {
+              "choice": "I'm not sure. Leo {might not} be at home now.",
+              "opts": [
+                "can't",
+                "mustn't"
+              ],
+              "tr": "Не знаю. Лео, может, сейчас нет дома."
+            },
+            {
+              "choice": "She speaks perfect Japanese. She {must have} lived in Japan.",
+              "opts": [
+                "can't have",
+                "must"
+              ],
+              "tr": "Она отлично говорит по-японски. Наверное, жила в Японии."
+            },
+            {
+              "choice": "He {can't have} done it alone. It's far too heavy.",
+              "opts": [
+                "mustn't have",
+                "must have"
+              ],
+              "tr": "Он не мог сделать это один. Это слишком тяжело."
+            },
+            {
+              "choice": "The lights are on. Someone {must} be at home.",
+              "opts": [
+                "can't",
+                "mustn't"
+              ],
+              "tr": "Свет горит. Наверное, кто-то дома."
+            },
+            {
+              "order": "They might have missed the train.",
+              "tr": "Возможно, они опоздали на поезд."
+            },
+            {
+              "order": "You must be very proud of her.",
+              "tr": "Ты, должно быть, очень ею гордишься."
+            },
+            {
+              "fix": "He {must forget>must have forgotten} about our meeting.",
+              "tr": "Он, наверное, забыл о нашей встрече."
+            },
+            {
+              "fix": "It {mustn't>can't} be true. I saw him an hour ago.",
+              "tr": "Это не может быть правдой — я видел его час назад."
+            }
+          ]
+        },
+        {
+          "id": "obligation",
+          "title": "mustn't, don't have to, needn't",
+          "theory": [
+            {
+              "table": [
+                [
+                  "нельзя",
+                  "mustn't"
+                ],
+                [
+                  "не нужно, можно не делать",
+                  "don't have to · needn't"
+                ],
+                [
+                  "сделал, но зря",
+                  "needn't have done"
+                ],
+                [
+                  "не было нужно",
+                  "didn't need to · didn't have to"
+                ]
+              ]
+            },
+            {
+              "ex": "You [mustn't] smoke here.",
+              "tr": "Здесь курить нельзя."
+            },
+            {
+              "ex": "It's free. You [don't have to] pay.",
+              "tr": "Это бесплатно. Платить не нужно."
+            },
+            {
+              "ex": "You [needn't have] come so early.",
+              "tr": "Можно было не приходить так рано."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "The tour is free. You {don't have to|do not have to} pay.",
+              "hint": "not / have to",
+              "tr": "Экскурсия бесплатная. Платить не нужно.",
+              "why": "Не нужно — don't have to."
+            },
+            {
+              "choice": "You {mustn't} cross the road when the light is red.",
+              "opts": [
+                "don't have to",
+                "needn't"
+              ],
+              "tr": "Нельзя переходить дорогу на красный свет.",
+              "why": "Запрет — mustn't."
+            },
+            {
+              "order": "You needn't have cleaned the kitchen.",
+              "tr": "Можно было не убирать кухню."
+            },
+            {
+              "fix": "It's a holiday. We {mustn't>don't have to} go to school.",
+              "tr": "Сегодня праздник, в школу идти не нужно.",
+              "why": "Не запрет, а «не нужно» — don't have to."
+            }
+          ],
+          "review": [
+            {
+              "gap": "You {mustn't|must not} touch the oven. It's very hot.",
+              "hint": "not / must",
+              "tr": "Нельзя трогать духовку. Она очень горячая."
+            },
+            {
+              "gap": "I {didn't have to|did not have to} wait, because the doctor was free.",
+              "hint": "not / have to",
+              "tr": "Мне не пришлось ждать: врач был свободен."
+            },
+            {
+              "gap": "We {needn't have|need not have} taken so much food.",
+              "hint": "need / not",
+              "tr": "Зря мы взяли столько еды."
+            },
+            {
+              "gap": "She {doesn't have to|does not have to} work tomorrow. It's Sunday.",
+              "hint": "not / have to",
+              "tr": "Ей завтра не нужно на работу. Воскресенье."
+            },
+            {
+              "choice": "Don't worry. You {don't have to} decide today.",
+              "opts": [
+                "mustn't",
+                "needn't to"
+              ],
+              "tr": "Не волнуйся. Сегодня решать не обязательно."
+            },
+            {
+              "choice": "Children {mustn't} play near the river. It's dangerous.",
+              "opts": [
+                "don't have to",
+                "needn't"
+              ],
+              "tr": "Детям нельзя играть у реки. Это опасно."
+            },
+            {
+              "choice": "The hotel had towels, so I {needn't have} packed mine.",
+              "opts": [
+                "mustn't have",
+                "needn't"
+              ],
+              "tr": "В отеле были полотенца, так что зря я брал своё."
+            },
+            {
+              "choice": "You {needn't} come early. We start at ten.",
+              "opts": [
+                "mustn't",
+                "needn't to"
+              ],
+              "tr": "Не нужно приходить рано. Мы начинаем в десять."
+            },
+            {
+              "order": "You mustn't leave your bag here.",
+              "tr": "Сумку здесь оставлять нельзя."
+            },
+            {
+              "order": "We didn't have to show our passports.",
+              "tr": "Нам не пришлось показывать паспорта."
+            },
+            {
+              "fix": "The exam is easy. You {mustn't>needn't} worry.",
+              "tr": "Экзамен лёгкий. Не нужно волноваться."
+            },
+            {
+              "fix": "This is a secret. You {don't have to>mustn't} tell him.",
+              "tr": "Это секрет. Ему нельзя говорить."
+            }
+          ]
+        },
+        {
+          "id": "advice",
+          "title": "should, had better, have to",
+          "theory": [
+            {
+              "table": [
+                [
+                  "совет, мнение, в целом",
+                  "should · ought to"
+                ],
+                [
+                  "сейчас, иначе будет плохо",
+                  "had better"
+                ],
+                [
+                  "обязанность, правило",
+                  "have to · must"
+                ]
+              ]
+            },
+            {
+              "ex": "You [should] sleep more.",
+              "tr": "Тебе стоит больше спать."
+            },
+            {
+              "ex": "It's late. You['d better] call a taxi.",
+              "tr": "Поздно. Лучше вызови такси."
+            },
+            {
+              "ex": "At work I [have to] wear a badge.",
+              "tr": "На работе мне приходится носить бейдж."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "You look tired. I think you {should|ought to} take a day off.",
+              "hint": "should",
+              "tr": "Ты выглядишь усталым. Думаю, тебе стоит взять выходной.",
+              "why": "Совет — should."
+            },
+            {
+              "choice": "The battery is almost dead. I{'d better} charge it now.",
+              "opts": [
+                "'d better to",
+                "better had"
+              ],
+              "tr": "Батарея почти села. Лучше зарядить её сейчас.",
+              "why": "Конкретная ситуация с риском — 'd better + глагол."
+            },
+            {
+              "order": "You ought to be more patient.",
+              "tr": "Тебе следует быть терпеливее."
+            },
+            {
+              "fix": "People {had better>should} travel more. It's good for them.",
+              "tr": "Людям стоит больше путешествовать — это полезно.",
+              "why": "Общий совет — should."
+            }
+          ],
+          "review": [
+            {
+              "gap": "In my country, men {have to} do military service.",
+              "hint": "have to / should",
+              "tr": "В моей стране мужчины обязаны служить в армии.",
+              "why": "Обязанность по закону — have to."
+            },
+            {
+              "gap": "It's going to rain. You {had better|'d better} take an umbrella.",
+              "hint": "better",
+              "tr": "Будет дождь. Лучше возьми зонт."
+            },
+            {
+              "gap": "You {shouldn't|should not|ought not to} spend so much time online.",
+              "hint": "should / not",
+              "tr": "Тебе не стоит столько времени проводить в интернете."
+            },
+            {
+              "gap": "We {should have|should've|ought to have} asked for directions.",
+              "hint": "should",
+              "tr": "Надо было спросить дорогу."
+            },
+            {
+              "choice": "I'll be late. I {had better} call my boss.",
+              "opts": [
+                "had better to",
+                "have better"
+              ],
+              "tr": "Я опоздаю. Лучше позвоню начальнику."
+            },
+            {
+              "choice": "You {should} try yoga. It might help.",
+              "opts": [
+                "had to",
+                "must to"
+              ],
+              "tr": "Тебе стоит попробовать йогу. Может, поможет."
+            },
+            {
+              "choice": "At my school we {had to} wear a uniform.",
+              "opts": [
+                "should",
+                "had better"
+              ],
+              "tr": "В моей школе нужно было носить форму."
+            },
+            {
+              "choice": "Everybody {should} learn first aid.",
+              "opts": [
+                "had better",
+                "have better"
+              ],
+              "tr": "Каждому стоит научиться оказывать первую помощь."
+            },
+            {
+              "order": "You'd better not miss the last train.",
+              "tr": "Смотри не опоздай на последний поезд."
+            },
+            {
+              "order": "Do you think I should buy it?",
+              "tr": "Как думаешь, мне стоит это купить?"
+            },
+            {
+              "fix": "You'd better {to call>call} her back.",
+              "tr": "Лучше перезвони ей."
+            },
+            {
+              "fix": "Doctors say we {had better>should} sleep eight hours.",
+              "tr": "Врачи говорят, что стоит спать по восемь часов."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1965,5 +1965,908 @@
     }
    ]
   }
+ ],
+ "courses": [
+  {
+   "id": "en-ru-grammar-in-use",
+   "version": 1,
+   "title": "English Grammar in Use",
+   "basedOn": "Raymond Murphy · English Grammar in Use · 5th edition",
+   "description": {
+    "en": "All 145 units of Raymond Murphy's English Grammar in Use (5th edition) as lessons in the book's order, plus 15 review lessons. Explanations in Russian in Jattap's own words, 7 000+ practice sentences for typing, choosing, building and spotting the mistake. Rules come back for spaced review with new sentences every time.",
+    "ru": "Все 145 юнитов книги Рэймонда Мёрфи English Grammar in Use (5-е издание) уроками в порядке книги и 15 уроков-повторений. Объяснения по-русски своими словами, 7 000+ предложений для ввода, выбора, сборки и поиска ошибки. Правила возвращаются на повторение каждый раз с новыми предложениями."
+   },
+   "targetLang": "en",
+   "nativeLang": "ru",
+   "level": "B1–B2",
+   "lessonCount": 160,
+   "ruleCount": 469,
+   "sentenceCount": 7355,
+   "file": "courses/en-ru-grammar-in-use.json",
+   "bytes": 1697361,
+   "sha256": "a204ac94e872e82e84221353f2eb4ab60897d4f2987be94d460ca95cceea9583",
+   "chapters": [
+    {
+     "title": "Present and past",
+     "lessons": [
+      {
+       "id": "u01-present-continuous",
+       "title": "Present continuous (I am doing)",
+       "subtitle": "Юнит 1 · действие идёт сейчас"
+      },
+      {
+       "id": "u02-present-simple",
+       "title": "Present simple (I do)",
+       "subtitle": "Юнит 2 · обычно, всегда, вообще"
+      },
+      {
+       "id": "u03-present-continuous-and-simple-1",
+       "title": "Present continuous and simple 1",
+       "subtitle": "Юнит 3 · сейчас или вообще"
+      },
+      {
+       "id": "u04-present-continuous-and-simple-2",
+       "title": "Present continuous and simple 2",
+       "subtitle": "Юнит 4 · глаголы состояния"
+      },
+      {
+       "id": "u05-past-simple",
+       "title": "Past simple (I did)",
+       "subtitle": "Юнит 5 · законченное в прошлом"
+      },
+      {
+       "id": "u06-past-continuous",
+       "title": "Past continuous (I was doing)",
+       "subtitle": "Юнит 6 · что шло в момент прошлого"
+      },
+      {
+       "id": "r06-review-present-past",
+       "title": "Review: Present and past",
+       "subtitle": "Повторение · юниты 1–6"
+      }
+     ]
+    },
+    {
+     "title": "Present perfect and past",
+     "lessons": [
+      {
+       "id": "u07-present-perfect-1",
+       "title": "Present perfect 1",
+       "subtitle": "Юнит 7 · результат сейчас, just, yet"
+      },
+      {
+       "id": "u08-present-perfect-2",
+       "title": "Present perfect 2",
+       "subtitle": "Юнит 8 · опыт и период до сейчас"
+      },
+      {
+       "id": "u09-present-perfect-continuous",
+       "title": "Present perfect continuous",
+       "subtitle": "Юнит 9 · have been doing"
+      },
+      {
+       "id": "u10-perfect-continuous-vs-simple",
+       "title": "Present perfect continuous and simple",
+       "subtitle": "Юнит 10 · have been doing или have done"
+      },
+      {
+       "id": "u11-how-long",
+       "title": "How long have you (been)…?",
+       "subtitle": "Юнит 11 · как долго длится до сейчас"
+      },
+      {
+       "id": "u12-for-and-since",
+       "title": "For and since; when and how long",
+       "subtitle": "Юнит 12 · for, since, when, how long"
+      },
+      {
+       "id": "u13-present-perfect-and-past-1",
+       "title": "Present perfect and past 1",
+       "subtitle": "Юнит 13 · have done или did"
+      },
+      {
+       "id": "u14-present-perfect-and-past-2",
+       "title": "Present perfect and past 2",
+       "subtitle": "Юнит 14 · законченное и незаконченное время"
+      },
+      {
+       "id": "u15-past-perfect",
+       "title": "Past perfect",
+       "subtitle": "Юнит 15 · had done: раньше другого"
+      },
+      {
+       "id": "u16-past-perfect-continuous",
+       "title": "Past perfect continuous",
+       "subtitle": "Юнит 16 · had been doing"
+      },
+      {
+       "id": "u17-have-and-have-got",
+       "title": "Have and have got",
+       "subtitle": "Юнит 17 · «есть» и have как действие"
+      },
+      {
+       "id": "u18-used-to",
+       "title": "Used to (do)",
+       "subtitle": "Юнит 18 · раньше было, а теперь нет"
+      },
+      {
+       "id": "r18-review-present-perfect-past",
+       "title": "Review: Present perfect and past",
+       "subtitle": "Повторение · юниты 7–18"
+      }
+     ]
+    },
+    {
+     "title": "Future",
+     "lessons": [
+      {
+       "id": "u19-present-tenses-for-future",
+       "title": "Present tenses for the future",
+       "subtitle": "Юнит 19 · планы и расписания"
+      },
+      {
+       "id": "u20-going-to",
+       "title": "I'm going to (do)",
+       "subtitle": "Юнит 20 · намерения и явные признаки"
+      },
+      {
+       "id": "u21-will-shall-1",
+       "title": "will and shall 1",
+       "subtitle": "Юнит 21 · решаю сейчас, обещаю, предлагаю"
+      },
+      {
+       "id": "u22-will-shall-2",
+       "title": "will and shall 2",
+       "subtitle": "Юнит 22 · прогнозы о будущем"
+      },
+      {
+       "id": "u23-will-and-going-to",
+       "title": "I will and I'm going to",
+       "subtitle": "Юнит 23 · will или going to"
+      },
+      {
+       "id": "u24-will-be-doing-will-have-done",
+       "title": "will be doing and will have done",
+       "subtitle": "Юнит 24 · будет в процессе, будет сделано"
+      },
+      {
+       "id": "u25-when-i-do-if-and-when",
+       "title": "when I do / when I've done; if and when",
+       "subtitle": "Юнит 25 · будущее после when и if"
+      },
+      {
+       "id": "r025-review-future",
+       "title": "Review: The future",
+       "subtitle": "Повторение · юниты 19–25"
+      }
+     ]
+    },
+    {
+     "title": "Modals",
+     "lessons": [
+      {
+       "id": "u26-can-could-be-able-to",
+       "title": "can, could and (be) able to",
+       "subtitle": "Юнит 26 · умею, могу, удалось"
+      },
+      {
+       "id": "u27-could-and-could-have",
+       "title": "could (do) and could have (done)",
+       "subtitle": "Юнит 27 · мог бы, мог бы тогда"
+      },
+      {
+       "id": "u28-must-and-cant",
+       "title": "must and can't",
+       "subtitle": "Юнит 28 · наверняка да или точно нет"
+      },
+      {
+       "id": "u29-may-and-might-1",
+       "title": "may and might 1",
+       "subtitle": "Юнит 29 · возможно, сейчас и в прошлом"
+      },
+      {
+       "id": "u30-may-and-might-2",
+       "title": "may and might 2",
+       "subtitle": "Юнит 30 · возможно в будущем, might as well"
+      },
+      {
+       "id": "u31-have-to-and-must",
+       "title": "have to and must",
+       "subtitle": "Юнит 31 · надо, приходится, не обязательно"
+      },
+      {
+       "id": "u32-must-mustnt-neednt",
+       "title": "must, mustn't, needn't",
+       "subtitle": "Юнит 32 · нельзя, не нужно, зря сделал"
+      },
+      {
+       "id": "u33-should-1",
+       "title": "should 1",
+       "subtitle": "Юнит 33 · стоит, должно, надо было"
+      },
+      {
+       "id": "u34-should-2",
+       "title": "should 2",
+       "subtitle": "Юнит 34 · suggest that, strange that, should you"
+      },
+      {
+       "id": "u35-had-better-its-time",
+       "title": "I'd better… it's time…",
+       "subtitle": "Юнит 35 · лучше бы, пора бы"
+      },
+      {
+       "id": "u36-would",
+       "title": "would",
+       "subtitle": "Юнит 36 · бы, обещал, раньше бывало"
+      },
+      {
+       "id": "u37-requests-offers-permission",
+       "title": "can/could/would you…? etc.",
+       "subtitle": "Юнит 37 · просьбы, разрешение, предложения"
+      },
+      {
+       "id": "r037-review-modals",
+       "title": "Review: Modals",
+       "subtitle": "Повторение · юниты 26–37"
+      }
+     ]
+    },
+    {
+     "title": "if and wish",
+     "lessons": [
+      {
+       "id": "u38-if-i-do-if-i-did",
+       "title": "if I do … and if I did …",
+       "subtitle": "Юнит 38 · реальное и воображаемое условие"
+      },
+      {
+       "id": "u39-if-i-knew-i-wish-i-knew",
+       "title": "if I knew … I wish I knew …",
+       "subtitle": "Юнит 39 · нереальное сейчас и сожаление"
+      },
+      {
+       "id": "u40-if-i-had-known",
+       "title": "if I had known … I wish I had known …",
+       "subtitle": "Юнит 40 · нереальное прошлое"
+      },
+      {
+       "id": "u41-wish",
+       "title": "wish",
+       "subtitle": "Юнит 41 · wish и hope, wish … would"
+      },
+      {
+       "id": "r41-review-if-wish",
+       "title": "Review: if and wish",
+       "subtitle": "Повторение · юниты 38–41"
+      }
+     ]
+    },
+    {
+     "title": "Passive",
+     "lessons": [
+      {
+       "id": "u42-passive-1",
+       "title": "Passive 1 (is done / was done)",
+       "subtitle": "Юнит 42 · страдательный залог"
+      },
+      {
+       "id": "u43-passive-2",
+       "title": "Passive 2 (been done / being done)",
+       "subtitle": "Юнит 43 · пассив в других временах"
+      },
+      {
+       "id": "u44-passive-3",
+       "title": "Passive 3",
+       "subtitle": "Юнит 44 · I was given, I was born, get hurt"
+      },
+      {
+       "id": "u45-it-is-said",
+       "title": "it is said that … he is said to …",
+       "subtitle": "Юнит 45 · говорят, что…; be supposed to"
+      },
+      {
+       "id": "u46-have-something-done",
+       "title": "have something done",
+       "subtitle": "Юнит 46 · мне что-то сделали"
+      },
+      {
+       "id": "r46-review-passive",
+       "title": "Review: Passive",
+       "subtitle": "Повторение · юниты 42–46"
+      }
+     ]
+    },
+    {
+     "title": "Reported speech",
+     "lessons": [
+      {
+       "id": "u47-reported-speech-1",
+       "title": "Reported speech 1 (he said that…)",
+       "subtitle": "Юнит 47 · косвенная речь: сдвиг времён"
+      },
+      {
+       "id": "u48-reported-speech-2",
+       "title": "Reported speech 2",
+       "subtitle": "Юнит 48 · say или tell, tell somebody to"
+      }
+     ]
+    },
+    {
+     "title": "Questions and auxiliary verbs",
+     "lessons": [
+      {
+       "id": "u49-questions-1",
+       "title": "Questions 1",
+       "subtitle": "Юнит 49 · порядок слов, who как подлежащее"
+      },
+      {
+       "id": "u50-questions-2",
+       "title": "Questions 2 (do you know where…?)",
+       "subtitle": "Юнит 50 · косвенный вопрос: где он живёт"
+      },
+      {
+       "id": "u51-auxiliary-verbs",
+       "title": "Auxiliary verbs; I think so",
+       "subtitle": "Юнит 51 · Yes, I have / So do I / I hope so"
+      },
+      {
+       "id": "u52-question-tags",
+       "title": "Question tags (do you? isn't it?)",
+       "subtitle": "Юнит 52 · хвостики: …, isn't it?"
+      },
+      {
+       "id": "r52-review-reported-questions",
+       "title": "Review: Reported speech and questions",
+       "subtitle": "Повторение · юниты 47–52"
+      }
+     ]
+    },
+    {
+     "title": "-ing and to …",
+     "lessons": [
+      {
+       "id": "u53-verb-ing",
+       "title": "Verb + -ing (enjoy doing)",
+       "subtitle": "Юнит 53 · глаголы, после которых -ing"
+      },
+      {
+       "id": "u54-verb-to",
+       "title": "Verb + to … (decide to …)",
+       "subtitle": "Юнит 54 · глаголы, после которых to"
+      },
+      {
+       "id": "u55-verb-object-to",
+       "title": "Verb + object + to (want you to)",
+       "subtitle": "Юнит 55 · хочу, чтобы ты…"
+      },
+      {
+       "id": "u56-ing-or-to-remember",
+       "title": "-ing or to 1 (remember, regret)",
+       "subtitle": "Юнит 56 · смысл меняется от формы"
+      },
+      {
+       "id": "u57-try-need-help",
+       "title": "-ing or to 2 (try, need, help)",
+       "subtitle": "Юнит 57 · try, need, help"
+      },
+      {
+       "id": "u58-like-would-like",
+       "title": "-ing or to 3 (like / would like)",
+       "subtitle": "Юнит 58 · like doing и would like to"
+      },
+      {
+       "id": "u59-prefer-would-rather",
+       "title": "prefer and would rather",
+       "subtitle": "Юнит 59 · предпочитать и «лучше бы»"
+      },
+      {
+       "id": "u60-preposition-ing",
+       "title": "Preposition + -ing",
+       "subtitle": "Юнит 60 · после предлога — -ing"
+      },
+      {
+       "id": "u61-be-get-used-to",
+       "title": "be/get used to (I'm used to …)",
+       "subtitle": "Юнит 61 · привык и привыкаю"
+      },
+      {
+       "id": "u62-verb-preposition-ing",
+       "title": "Verb + preposition + -ing",
+       "subtitle": "Юнит 62 · insist on doing и др."
+      },
+      {
+       "id": "u63-no-point-worth",
+       "title": "there's no point in -ing, it's worth -ing",
+       "subtitle": "Юнит 63 · нет смысла, стоит того"
+      },
+      {
+       "id": "u64-to-for-so-that",
+       "title": "to …, for … and so that …",
+       "subtitle": "Юнит 64 · цель: чтобы, для"
+      },
+      {
+       "id": "u65-adjective-to",
+       "title": "Adjective + to …",
+       "subtitle": "Юнит 65 · трудно понять, рад видеть"
+      },
+      {
+       "id": "u66-afraid-to-afraid-of",
+       "title": "afraid to do and afraid of -ing",
+       "subtitle": "Юнит 66 · to или предлог + -ing"
+      },
+      {
+       "id": "u67-see-somebody-do",
+       "title": "see somebody do / doing",
+       "subtitle": "Юнит 67 · видел, как он сделал / делал"
+      },
+      {
+       "id": "u68-ing-clauses",
+       "title": "-ing clauses (hurt his knee playing)",
+       "subtitle": "Юнит 68 · обороты с -ing"
+      },
+      {
+       "id": "r68-review-ing-to",
+       "title": "Review: -ing and to",
+       "subtitle": "Повторение · юниты 53–68"
+      }
+     ]
+    },
+    {
+     "title": "Articles and nouns",
+     "lessons": [
+      {
+       "id": "u69-countable-uncountable-1",
+       "title": "Countable and uncountable 1",
+       "subtitle": "Юнит 69 · что можно посчитать, а что нет"
+      },
+      {
+       "id": "u70-countable-uncountable-2",
+       "title": "Countable and uncountable 2",
+       "subtitle": "Юнит 70 · advice, news, a paper и paper"
+      },
+      {
+       "id": "u71-countable-nouns-a-some",
+       "title": "Countable nouns with a/an and some",
+       "subtitle": "Юнит 71 · a teacher, teachers, some friends"
+      },
+      {
+       "id": "u72-a-an-and-the",
+       "title": "a/an and the",
+       "subtitle": "Юнит 72 · какой-то или тот самый"
+      },
+      {
+       "id": "u73-the-1",
+       "title": "the 1",
+       "subtitle": "Юнит 73 · единственное, the sky, room 12"
+      },
+      {
+       "id": "u74-the-2-school",
+       "title": "the 2 (school / the school)",
+       "subtitle": "Юнит 74 · school, hospital, work, home"
+      },
+      {
+       "id": "u75-the-3-children",
+       "title": "the 3 (children / the children)",
+       "subtitle": "Юнит 75 · вообще или конкретно"
+      },
+      {
+       "id": "u76-the-4-types-groups",
+       "title": "the 4 (the giraffe / the old)",
+       "subtitle": "Юнит 76 · виды, группы людей, нации"
+      },
+      {
+       "id": "u77-names-with-the-1",
+       "title": "Names with and without the 1",
+       "subtitle": "Юнит 77 · страны, реки, горы, регионы"
+      },
+      {
+       "id": "u78-names-with-the-2",
+       "title": "Names with and without the 2",
+       "subtitle": "Юнит 78 · улицы, здания, газеты, фирмы"
+      },
+      {
+       "id": "u79-singular-and-plural",
+       "title": "Singular and plural",
+       "subtitle": "Юнит 79 · jeans are, news is, police are"
+      },
+      {
+       "id": "u80-noun-plus-noun",
+       "title": "Noun + noun (a bus driver)",
+       "subtitle": "Юнит 80 · a phone number, a two-hour flight"
+      },
+      {
+       "id": "u81-s-and-of",
+       "title": "-'s (your sister's name) and of",
+       "subtitle": "Юнит 81 · Anna's phone, the end of the film"
+      },
+      {
+       "id": "r81-review-articles-nouns",
+       "title": "Review: Articles and nouns",
+       "subtitle": "Повторение · юниты 69–81"
+      }
+     ]
+    },
+    {
+     "title": "Pronouns and determiners",
+     "lessons": [
+      {
+       "id": "u82-myself-yourself",
+       "title": "myself / yourself / themselves",
+       "subtitle": "Юнит 82 · возвратные местоимения"
+      },
+      {
+       "id": "u83-a-friend-of-mine",
+       "title": "a friend of mine, my own, by myself",
+       "subtitle": "Юнит 83 · мой друг, свой, в одиночку"
+      },
+      {
+       "id": "u84-there-and-it",
+       "title": "there … and it …",
+       "subtitle": "Юнит 84 · есть / находится и «это»"
+      },
+      {
+       "id": "u85-some-and-any",
+       "title": "some and any",
+       "subtitle": "Юнит 85 · некоторый, какой-нибудь, любой"
+      },
+      {
+       "id": "u86-no-none-nothing",
+       "title": "no / none / any, nothing / nobody",
+       "subtitle": "Юнит 86 · никакой, ничего, никто"
+      },
+      {
+       "id": "u87-much-many-little-few",
+       "title": "much, many, little, few, a lot, plenty",
+       "subtitle": "Юнит 87 · много и мало"
+      },
+      {
+       "id": "u88-all-most-none-of",
+       "title": "all / most / some / none (of)",
+       "subtitle": "Юнит 88 · большинство, часть, никто из"
+      },
+      {
+       "id": "u89-both-neither-either",
+       "title": "both / neither / either",
+       "subtitle": "Юнит 89 · оба, ни один, любой из двух"
+      },
+      {
+       "id": "u90-all-every-whole",
+       "title": "all, every and whole",
+       "subtitle": "Юнит 90 · все, каждый, целый"
+      },
+      {
+       "id": "u91-each-and-every",
+       "title": "each and every",
+       "subtitle": "Юнит 91 · каждый по отдельности и все"
+      },
+      {
+       "id": "r91-review-pronouns-determiners",
+       "title": "Review: Pronouns and determiners",
+       "subtitle": "Повторение · юниты 82–91"
+      }
+     ]
+    },
+    {
+     "title": "Relative clauses",
+     "lessons": [
+      {
+       "id": "u92-relative-who-that-which",
+       "title": "Relative clauses: who / that / which",
+       "subtitle": "Юнит 92 · который: who, that, which"
+      },
+      {
+       "id": "u93-relative-omitting",
+       "title": "Relative clauses: with and without who/that",
+       "subtitle": "Юнит 93 · когда «который» можно опустить"
+      },
+      {
+       "id": "u94-whose-whom-where",
+       "title": "Relative clauses: whose / whom / where",
+       "subtitle": "Юнит 94 · чей, кого, где"
+      },
+      {
+       "id": "u95-extra-information-clauses",
+       "title": "Relative clauses: extra information (1)",
+       "subtitle": "Юнит 95 · придаточные с запятыми"
+      },
+      {
+       "id": "u96-extra-information-clauses-2",
+       "title": "Relative clauses: extra information (2)",
+       "subtitle": "Юнит 96 · of which, all of whom, which"
+      },
+      {
+       "id": "u97-ing-and-ed-clauses",
+       "title": "-ing and -ed clauses",
+       "subtitle": "Юнит 97 · причастные обороты"
+      },
+      {
+       "id": "r97-review-relative-clauses",
+       "title": "Review: Relative clauses",
+       "subtitle": "Повторение · юниты 92–97"
+      }
+     ]
+    },
+    {
+     "title": "Adjectives and adverbs",
+     "lessons": [
+      {
+       "id": "u098-ing-ed-adjectives",
+       "title": "Adjectives ending in -ing and -ed",
+       "subtitle": "Юнит 98 · boring или bored"
+      },
+      {
+       "id": "u099-adjective-order",
+       "title": "Adjectives: a nice new house",
+       "subtitle": "Юнит 99 · порядок, look tired"
+      },
+      {
+       "id": "u100-adjectives-adverbs-1",
+       "title": "Adjectives and adverbs 1 (quick/quickly)",
+       "subtitle": "Юнит 100 · quick или quickly"
+      },
+      {
+       "id": "u101-adjectives-adverbs-2",
+       "title": "Adjectives and adverbs 2 (well, hardly)",
+       "subtitle": "Юнит 101 · well, fast, hard, hardly"
+      },
+      {
+       "id": "u102-so-and-such",
+       "title": "so and such",
+       "subtitle": "Юнит 102 · такой и так: so или such"
+      },
+      {
+       "id": "u103-enough-and-too",
+       "title": "enough and too",
+       "subtitle": "Юнит 103 · достаточно и слишком"
+      },
+      {
+       "id": "u104-quite-pretty-rather-fairly",
+       "title": "quite, pretty, rather and fairly",
+       "subtitle": "Юнит 104 · довольно, вполне, совсем"
+      },
+      {
+       "id": "u105-comparative-1",
+       "title": "Comparative 1 (cheaper, more expensive)",
+       "subtitle": "Юнит 105 · -er или more"
+      },
+      {
+       "id": "u106-comparative-2",
+       "title": "Comparative 2 (much better / any better)",
+       "subtitle": "Юнит 106 · намного, всё больше, чем…тем"
+      },
+      {
+       "id": "u107-comparative-3",
+       "title": "Comparative 3 (as … as / than)",
+       "subtitle": "Юнит 107 · такой же, как; не такой, как"
+      },
+      {
+       "id": "u108-superlative",
+       "title": "Superlative (the longest / the most …)",
+       "subtitle": "Юнит 108 · самый: the -est, the most"
+      },
+      {
+       "id": "u109-word-order-1",
+       "title": "Word order 1: verb + object; place and time",
+       "subtitle": "Юнит 109 · глагол + дополнение, где и когда"
+      },
+      {
+       "id": "u110-word-order-2",
+       "title": "Word order 2: adverbs with the verb",
+       "subtitle": "Юнит 110 · always, also, probably в середине"
+      },
+      {
+       "id": "u111-still-any-more-yet-already",
+       "title": "still, any more, yet, already",
+       "subtitle": "Юнит 111 · всё ещё, больше не, уже"
+      },
+      {
+       "id": "u112-even",
+       "title": "even",
+       "subtitle": "Юнит 112 · даже, ещё лучше, даже если"
+      },
+      {
+       "id": "r112-review-adjectives-adverbs",
+       "title": "Review: Adjectives and adverbs",
+       "subtitle": "Повторение · юниты 98–112"
+      }
+     ]
+    },
+    {
+     "title": "Conjunctions and prepositions",
+     "lessons": [
+      {
+       "id": "u113-although-despite",
+       "title": "Although / in spite of / despite",
+       "subtitle": "Юнит 113 · хотя и несмотря на"
+      },
+      {
+       "id": "u114-in-case",
+       "title": "In case",
+       "subtitle": "Юнит 114 · на случай, если"
+      },
+      {
+       "id": "u115-unless-as-long-as",
+       "title": "Unless / as long as / provided",
+       "subtitle": "Юнит 115 · если не и при условии, что"
+      },
+      {
+       "id": "u116-as",
+       "title": "As (as I walked… / as I was…)",
+       "subtitle": "Юнит 116 · as: «когда» и «так как»"
+      },
+      {
+       "id": "u117-like-and-as",
+       "title": "Like and as",
+       "subtitle": "Юнит 117 · «как»: like или as"
+      },
+      {
+       "id": "u118-like-as-if",
+       "title": "Like / as if / as though",
+       "subtitle": "Юнит 118 · будто, как будто"
+      },
+      {
+       "id": "u119-for-during-while",
+       "title": "For, during and while",
+       "subtitle": "Юнит 119 · в течение и во время"
+      },
+      {
+       "id": "u120-by-until",
+       "title": "By and until · By the time",
+       "subtitle": "Юнит 120 · к сроку и до момента"
+      },
+      {
+       "id": "r120-review-conjunctions",
+       "title": "Review: Conjunctions",
+       "subtitle": "Повторение · юниты 113–120"
+      }
+     ]
+    },
+    {
+     "title": "Prepositions",
+     "lessons": [
+      {
+       "id": "u121-at-on-in-time",
+       "title": "At / on / in (time)",
+       "subtitle": "Юнит 121 · предлоги времени"
+      },
+      {
+       "id": "u122-on-time-in-the-end",
+       "title": "On time / in time, at / in the end",
+       "subtitle": "Юнит 122 · вовремя, в конце, в итоге"
+      },
+      {
+       "id": "u123-in-at-on-position-1",
+       "title": "In / at / on (position) 1",
+       "subtitle": "Юнит 123 · внутри, у, на поверхности"
+      },
+      {
+       "id": "u124-in-at-on-position-2",
+       "title": "In / at / on (position) 2",
+       "subtitle": "Юнит 124 · на фото, в списке, в углу"
+      },
+      {
+       "id": "u125-in-at-on-position-3",
+       "title": "In / at / on (position) 3",
+       "subtitle": "Юнит 125 · дома, на вечеринке, в автобусе"
+      },
+      {
+       "id": "u126-to-at-in-into",
+       "title": "To / at / in / into",
+       "subtitle": "Юнит 126 · куда и где"
+      },
+      {
+       "id": "u127-in-on-at-other-uses",
+       "title": "In / on / at (other uses)",
+       "subtitle": "Юнит 127 · in love, on TV, at 18"
+      },
+      {
+       "id": "u128-by",
+       "title": "By",
+       "subtitle": "Юнит 128 · by car, by mistake, by 10%"
+      },
+      {
+       "id": "u129-noun-preposition",
+       "title": "Noun + preposition",
+       "subtitle": "Юнит 129 · reason for, cause of, solution to"
+      },
+      {
+       "id": "u130-adjective-preposition-1",
+       "title": "Adjective + preposition 1",
+       "subtitle": "Юнит 130 · nice of you, angry with, sorry for"
+      },
+      {
+       "id": "u131-adjective-preposition-2",
+       "title": "Adjective + preposition 2",
+       "subtitle": "Юнит 131 · afraid of, good at, keen on"
+      },
+      {
+       "id": "u132-verb-preposition-to-at",
+       "title": "Verb + preposition 1: to and at",
+       "subtitle": "Юнит 132 · listen to, look at, call без to"
+      },
+      {
+       "id": "u133-verb-preposition-about-for",
+       "title": "Verb + preposition 2: about/for",
+       "subtitle": "Юнит 133 · discuss без about, wait for"
+      },
+      {
+       "id": "u134-verb-preposition-about-of",
+       "title": "Verb + preposition 3: about and of",
+       "subtitle": "Юнит 134 · hear of / from, remind of"
+      },
+      {
+       "id": "u135-verb-preposition-of-for-from-on",
+       "title": "Verb + preposition 4: of/for/from/on",
+       "subtitle": "Юнит 135 · accuse of, blame for, depend on"
+      },
+      {
+       "id": "u136-verb-preposition-in-into-with-to-on",
+       "title": "Verb + preposition 5: in/into/with/to/on",
+       "subtitle": "Юнит 136 · succeed in, prefer to, insist on"
+      },
+      {
+       "id": "r136-review-prepositions",
+       "title": "Review: Prepositions",
+       "subtitle": "Повторение · юниты 121–136"
+      }
+     ]
+    },
+    {
+     "title": "Phrasal verbs",
+     "lessons": [
+      {
+       "id": "u137-phrasal-verbs-introduction",
+       "title": "Phrasal verbs 1: Introduction",
+       "subtitle": "Юнит 137 · что такое фразовый глагол"
+      },
+      {
+       "id": "u138-phrasal-verbs-in-out",
+       "title": "Phrasal verbs 2: in/out",
+       "subtitle": "Юнит 138 · move in, check out, drop out"
+      },
+      {
+       "id": "u139-phrasal-verbs-out",
+       "title": "Phrasal verbs 3: out",
+       "subtitle": "Юнит 139 · put out, work out, run out"
+      },
+      {
+       "id": "u140-phrasal-verbs-on-off-1",
+       "title": "Phrasal verbs 4: on/off (1)",
+       "subtitle": "Юнит 140 · turn on, put off, set off"
+      },
+      {
+       "id": "u141-phrasal-verbs-on-off-2",
+       "title": "Phrasal verbs 5: on/off (2)",
+       "subtitle": "Юнит 141 · carry on, get on, tell off"
+      },
+      {
+       "id": "u142-phrasal-verbs-up-down",
+       "title": "Phrasal verbs 6: up/down",
+       "subtitle": "Юнит 142 · pick up, slow down, let down"
+      },
+      {
+       "id": "u143-phrasal-verbs-up-1",
+       "title": "Phrasal verbs 7: up (1)",
+       "subtitle": "Юнит 143 · set up, grow up, end up"
+      },
+      {
+       "id": "u144-phrasal-verbs-up-2",
+       "title": "Phrasal verbs 8: up (2)",
+       "subtitle": "Юнит 144 · come up with, put up with"
+      },
+      {
+       "id": "u145-phrasal-verbs-away-back",
+       "title": "Phrasal verbs 9: away/back",
+       "subtitle": "Юнит 145 · throw away, call back"
+      },
+      {
+       "id": "r145-review-phrasal-verbs",
+       "title": "Review: Phrasal verbs",
+       "subtitle": "Повторение · юниты 137–145"
+      }
+     ]
+    }
+   ]
+  }
  ]
 }

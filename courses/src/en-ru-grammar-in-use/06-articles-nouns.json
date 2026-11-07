@@ -1,0 +1,5425 @@
+{
+  "format": 1,
+  "kind": "course",
+  "id": "grammar-06-articles-nouns",
+  "title": "Артикли и существительные",
+  "targetLang": "en",
+  "nativeLang": "ru",
+  "level": "B1",
+  "lessons": [
+    {
+      "id": "u69-countable-uncountable-1",
+      "title": "Countable and uncountable 1",
+      "subtitle": "Юнит 69 · что можно посчитать, а что нет",
+      "level": "A2",
+      "points": [
+        {
+          "id": "kinds",
+          "title": "Исчисляемые и неисчисляемые",
+          "theory": [
+            "Исчисляемые существительные можно посчитать: у них есть единственное и множественное число (a lemon — two lemons).",
+            "Неисчисляемые — это вещество, масса или понятие (rice, water, music, money). У них одна форма: без -s и без чисел.",
+            {
+              "table": [
+                [
+                  "исчисляемые",
+                  "a bag · two bags · bags"
+                ],
+                [
+                  "неисчисляемые",
+                  "sand · water · electricity"
+                ]
+              ]
+            },
+            {
+              "ex": "I bought [two lemons] and [some milk].",
+              "tr": "Я купил два лимона и немного молока."
+            },
+            {
+              "ex": "There's [sand] in my shoes.",
+              "tr": "У меня в ботинках песок."
+            },
+            {
+              "tip": "Чтобы посчитать неисчисляемое, нужна «упаковка»: a bottle of water, a bowl of rice, a piece of cake."
+            },
+            {
+              "wrong": "I listen to a music every evening.",
+              "right": "I listen to music every evening."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "We bought three {loaves} of bread for the picnic.",
+              "hint": "loaf",
+              "tr": "Мы купили три буханки хлеба для пикника.",
+              "why": "Хлеб не считают, считают буханки: loaf → loaves."
+            },
+            {
+              "choice": "There's {sand} in my bag after the beach.",
+              "opts": [
+                "a sand",
+                "sands"
+              ],
+              "tr": "После пляжа у меня в сумке песок.",
+              "why": "Sand — неисчисляемое: без a и без -s."
+            },
+            {
+              "order": "We don't have enough chairs for everyone.",
+              "tr": "У нас не хватает стульев на всех."
+            },
+            {
+              "fix": "I listened to {a music>music} on the train.",
+              "tr": "В поезде я слушал музыку.",
+              "why": "Music неисчисляемое, a/an с ним не ставят."
+            }
+          ],
+          "review": [
+            {
+              "gap": "I need two new {batteries} for my mouse.",
+              "hint": "battery",
+              "tr": "Мне нужны две новые батарейки для мышки.",
+              "why": "Battery исчисляемое: две → batteries."
+            },
+            {
+              "gap": "There were three {accidents} on this road last month.",
+              "hint": "accident",
+              "tr": "В прошлом месяце на этой дороге было три аварии."
+            },
+            {
+              "gap": "She drinks two {glasses} of milk a day.",
+              "hint": "glass",
+              "tr": "Она выпивает два стакана молока в день.",
+              "why": "Молоко не считают, считают стаканы."
+            },
+            {
+              "choice": "There's {blood} on your sleeve.",
+              "opts": [
+                "a blood",
+                "bloods"
+              ],
+              "tr": "У тебя на рукаве кровь."
+            },
+            {
+              "choice": "I eat {rice} almost every day.",
+              "opts": [
+                "a rice",
+                "rices"
+              ],
+              "tr": "Я ем рис почти каждый день."
+            },
+            {
+              "choice": "Is there {a beach} near the hotel?",
+              "opts": [
+                "beach",
+                "a beaches"
+              ],
+              "tr": "Рядом с отелем есть пляж?"
+            },
+            {
+              "choice": "We don't have enough {water} for the hike.",
+              "opts": [
+                "waters",
+                "a water"
+              ],
+              "tr": "Нам не хватит воды на поход."
+            },
+            {
+              "order": "There is no electricity in the village.",
+              "tr": "В деревне нет электричества."
+            },
+            {
+              "order": "Accidents can happen to anyone.",
+              "tr": "Аварии могут случиться с кем угодно."
+            },
+            {
+              "fix": "It wasn't your fault, it was just {a bad luck>bad luck}.",
+              "tr": "Ты не виноват, просто не повезло.",
+              "why": "Luck неисчисляемое, без a."
+            },
+            {
+              "fix": "There's {a water>water} all over the kitchen floor.",
+              "tr": "На кухне весь пол в воде.",
+              "why": "Water неисчисляемое, без a."
+            },
+            {
+              "fix": "Can I have two {rices>bowls of rice}, please?",
+              "tr": "Можно мне две порции риса?",
+              "why": "Rice не бывает во множественном числе — считаем порции."
+            }
+          ]
+        },
+        {
+          "id": "alone",
+          "title": "Когда слово может стоять одно",
+          "theory": [
+            "Исчисляемое в единственном числе не может стоять одно: перед ним нужно a/an, the, my, this и т. п.",
+            "Исчисляемое во множественном числе и неисчисляемое могут стоять одни — так говорят о вещах вообще.",
+            {
+              "formula": [
+                "a / an / the / my",
+                "+",
+                "исчисляемое в ед. ч."
+              ]
+            },
+            {
+              "ex": "Do you have [an umbrella]?",
+              "tr": "У тебя есть зонт?"
+            },
+            {
+              "ex": "I like [cats]. [Coffee] keeps me awake.",
+              "tr": "Я люблю кошек. От кофе я не могу уснуть."
+            },
+            {
+              "wrong": "I have car.",
+              "right": "I have a car."
+            },
+            {
+              "tip": "В русском артиклей нет, поэтому главная ошибка — пропустить a. Проверка: можно ли сказать «один такой»? Если да — нужен a/an."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "Do you want {an} orange?",
+              "hint": "a / an",
+              "tr": "Хочешь апельсин?",
+              "why": "Orange исчисляемое и начинается с гласного звука → an."
+            },
+            {
+              "choice": "My brother is looking for {a flat} in the centre.",
+              "opts": [
+                "flat",
+                "a flats"
+              ],
+              "tr": "Мой брат ищет квартиру в центре.",
+              "why": "Flat — исчисляемое в ед. ч., одно стоять не может."
+            },
+            {
+              "order": "Do you have a pen I can borrow?",
+              "tr": "У тебя не найдётся ручки?"
+            },
+            {
+              "fix": "There's been {accident>an accident} on the motorway.",
+              "tr": "На трассе произошла авария.",
+              "why": "Accident исчисляемое в ед. ч. — нужен an."
+            }
+          ],
+          "review": [
+            {
+              "gap": "He's got {an} interview tomorrow morning.",
+              "hint": "a / an",
+              "tr": "Завтра утром у него собеседование."
+            },
+            {
+              "gap": "It takes {an} hour to get there by bus.",
+              "hint": "a / an",
+              "tr": "Дорога на автобусе занимает час.",
+              "why": "В hour h не читается, слово начинается с гласного звука → an."
+            },
+            {
+              "gap": "My cousin has just bought {a} motorbike.",
+              "hint": "a / an",
+              "tr": "Мой двоюродный брат только что купил мотоцикл."
+            },
+            {
+              "choice": "I bought {a new laptop} last week.",
+              "opts": [
+                "new laptop",
+                "a new laptops"
+              ],
+              "tr": "На прошлой неделе я купил новый ноутбук."
+            },
+            {
+              "choice": "{Dogs} need a lot of attention.",
+              "opts": [
+                "A dogs",
+                "Dog"
+              ],
+              "tr": "Собакам нужно много внимания.",
+              "why": "О собаках вообще — множественное число без артикля."
+            },
+            {
+              "choice": "Is there {a cash machine} near here?",
+              "opts": [
+                "cash machine",
+                "the cash machines"
+              ],
+              "tr": "Здесь поблизости есть банкомат?"
+            },
+            {
+              "choice": "I don't drink {coffee} after six.",
+              "opts": [
+                "coffees",
+                "a coffees"
+              ],
+              "tr": "Я не пью кофе после шести."
+            },
+            {
+              "order": "My sister wants to buy a bike.",
+              "tr": "Моя сестра хочет купить велосипед."
+            },
+            {
+              "order": "Mistakes help us learn faster.",
+              "tr": "Ошибки помогают нам учиться быстрее."
+            },
+            {
+              "fix": "Can you lend me {umbrella>an umbrella} for today?",
+              "tr": "Можешь одолжить мне зонт на сегодня?"
+            },
+            {
+              "fix": "I need to write {email>an email} to my boss.",
+              "tr": "Мне нужно написать письмо начальнику."
+            }
+          ]
+        },
+        {
+          "id": "quantity",
+          "title": "some/any, many/much, few/little",
+          "theory": [
+            "some и any подходят и к исчисляемым во множественном числе, и к неисчисляемым.",
+            "А вот слова «много» и «мало» разные: many и few — с исчисляемыми, much и little — с неисчисляемыми.",
+            {
+              "table": [
+                [
+                  "исчисляемые (мн. ч.)",
+                  "some / any apples",
+                  "many · few"
+                ],
+                [
+                  "неисчисляемые",
+                  "some / any juice",
+                  "much · little"
+                ]
+              ]
+            },
+            {
+              "ex": "We didn't see [many] tourists in town.",
+              "tr": "Туристов в городе мы видели немного."
+            },
+            {
+              "ex": "I've got [a little] free time tonight.",
+              "tr": "Сегодня вечером у меня есть немного свободного времени."
+            },
+            {
+              "wrong": "How much people came?",
+              "right": "How many people came?"
+            },
+            {
+              "tip": "Much в утвердительных предложениях звучит книжно, обычно говорят a lot of: We did a lot of shopping."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "How {many} tickets did you buy?",
+              "hint": "much / many",
+              "tr": "Сколько билетов ты купил?",
+              "why": "Tickets — исчисляемое во мн. ч. → many."
+            },
+            {
+              "choice": "There isn't {much} milk left.",
+              "opts": [
+                "many",
+                "few"
+              ],
+              "tr": "Молока осталось немного.",
+              "why": "Milk неисчисляемое → much."
+            },
+            {
+              "order": "Did you buy any bread at the shop?",
+              "tr": "Ты купил хлеба в магазине?"
+            },
+            {
+              "fix": "I don't have {many>much} homework today.",
+              "tr": "Сегодня у меня немного домашки.",
+              "why": "Homework неисчисляемое → much."
+            }
+          ],
+          "review": [
+            {
+              "gap": "We don't have {much} time before the train.",
+              "hint": "much / many",
+              "tr": "До поезда у нас не так много времени."
+            },
+            {
+              "gap": "There weren't {many} people at the concert.",
+              "hint": "much / many",
+              "tr": "На концерте было немного людей."
+            },
+            {
+              "gap": "I only have {a few} questions about the contract.",
+              "hint": "a few / a little",
+              "tr": "У меня всего несколько вопросов по договору."
+            },
+            {
+              "gap": "Add {a little} salt to the soup.",
+              "hint": "a few / a little",
+              "tr": "Добавь в суп немного соли."
+            },
+            {
+              "choice": "How {much} luggage do you have?",
+              "opts": [
+                "many",
+                "few"
+              ],
+              "tr": "Сколько у тебя багажа?",
+              "why": "Luggage неисчисляемое → much."
+            },
+            {
+              "choice": "She has very {few} friends at her new school.",
+              "opts": [
+                "little",
+                "much"
+              ],
+              "tr": "В новой школе у неё совсем мало друзей."
+            },
+            {
+              "choice": "Can I have {some} water, please?",
+              "opts": [
+                "many",
+                "a"
+              ],
+              "tr": "Можно мне воды?"
+            },
+            {
+              "order": "They didn't eat much food at the party.",
+              "tr": "На вечеринке они ели мало."
+            },
+            {
+              "order": "There are a few shops near my house.",
+              "tr": "Рядом с моим домом есть несколько магазинов."
+            },
+            {
+              "fix": "How {many>much} money did you spend in Rome?",
+              "tr": "Сколько денег ты потратил в Риме?"
+            },
+            {
+              "fix": "There are {little>few} cars on the road this early.",
+              "tr": "В такую рань машин на дороге мало."
+            },
+            {
+              "fix": "I drank too {many>much} coffee yesterday.",
+              "tr": "Вчера я выпил слишком много кофе."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u70-countable-uncountable-2",
+      "title": "Countable and uncountable 2",
+      "subtitle": "Юнит 70 · advice, news, a paper и paper",
+      "level": "B1",
+      "points": [
+        {
+          "id": "two-meanings",
+          "title": "Одно слово — два значения",
+          "theory": [
+            "Многие слова бывают и исчисляемыми, и неисчисляемыми — и смысл при этом меняется.",
+            {
+              "table": [
+                [
+                  "a noise — какой-то звук",
+                  "noise — шум вообще"
+                ],
+                [
+                  "a paper — газета",
+                  "paper — бумага"
+                ],
+                [
+                  "a hair — один волосок",
+                  "hair — волосы на голове"
+                ],
+                [
+                  "a room — комната",
+                  "room — место, пространство"
+                ],
+                [
+                  "an experience — случай, впечатление",
+                  "experience — опыт"
+                ],
+                [
+                  "a time — раз; a great time — хорошо провести время",
+                  "time — время"
+                ]
+              ]
+            },
+            {
+              "ex": "I need [some paper] to print the tickets.",
+              "tr": "Мне нужна бумага, чтобы распечатать билеты."
+            },
+            {
+              "ex": "We had [a great time] in Lisbon.",
+              "tr": "Мы отлично провели время в Лиссабоне."
+            },
+            {
+              "tip": "Напитки неисчисляемые (I like tea), но в кафе можно сказать a tea, two coffees — это «чашка», «две чашки»."
+            },
+            {
+              "wrong": "She has very long hairs.",
+              "right": "She has very long hair."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "I've had some strange {experiences} while travelling.",
+              "hint": "experience",
+              "tr": "В поездках со мной случались странные истории.",
+              "why": "Здесь experiences — отдельные случаи, их можно посчитать."
+            },
+            {
+              "choice": "Sorry, I can't help now. I don't have {time}.",
+              "opts": [
+                "a time",
+                "times"
+              ],
+              "tr": "Извини, сейчас не могу помочь. У меня нет времени.",
+              "why": "Time в значении «время» неисчисляемое."
+            },
+            {
+              "order": "Could we have two coffees, please?",
+              "tr": "Можно нам два кофе?"
+            },
+            {
+              "fix": "You've got very long {hairs>hair}.",
+              "tr": "У тебя очень длинные волосы.",
+              "why": "Hair — все волосы на голове, неисчисляемое."
+            }
+          ],
+          "review": [
+            {
+              "gap": "I can't work here, there's too much {noise}.",
+              "hint": "noise",
+              "tr": "Я не могу здесь работать — слишком шумно.",
+              "why": "Шум вообще — неисчисляемое, без -s."
+            },
+            {
+              "gap": "He got the job because he has a lot of {experience}.",
+              "hint": "experience",
+              "tr": "Он получил работу, потому что у него большой опыт.",
+              "why": "Опыт — неисчисляемое, без -s."
+            },
+            {
+              "gap": "I've been to Paris three {times}.",
+              "hint": "time",
+              "tr": "Я был в Париже три раза.",
+              "why": "Time в значении «раз» исчисляемое."
+            },
+            {
+              "choice": "I bought {a paper} at the station to read.",
+              "opts": [
+                "paper",
+                "a papers"
+              ],
+              "tr": "Я купил на вокзале газету почитать.",
+              "why": "A paper — газета, исчисляемое."
+            },
+            {
+              "choice": "Can I sit here? Is there {room} on this bench?",
+              "opts": [
+                "a room",
+                "rooms"
+              ],
+              "tr": "Можно сесть? На скамейке есть место?",
+              "why": "Room в значении «место» неисчисляемое."
+            },
+            {
+              "choice": "Have {a good time} at the party!",
+              "opts": [
+                "good time",
+                "a good times"
+              ],
+              "tr": "Хорошо тебе повеселиться на вечеринке!"
+            },
+            {
+              "choice": "We need some {paper} for the printer.",
+              "opts": [
+                "a paper",
+                "a papers"
+              ],
+              "tr": "Нам нужна бумага для принтера."
+            },
+            {
+              "order": "I heard a strange noise in the kitchen.",
+              "tr": "Я услышал странный звук на кухне."
+            },
+            {
+              "order": "Do you have time for a quick coffee?",
+              "tr": "У тебя есть время на быстрый кофе?"
+            },
+            {
+              "fix": "She has a lot of {experiences>experience} with children.",
+              "tr": "У неё большой опыт работы с детьми."
+            },
+            {
+              "fix": "I need {a paper>some paper} to write on.",
+              "tr": "Мне нужна бумага, чтобы писать.",
+              "why": "Бумага как материал — неисчисляемое; a paper — газета."
+            },
+            {
+              "fix": "We had {great time>a great time} at the festival.",
+              "tr": "Мы отлично провели время на фестивале."
+            }
+          ]
+        },
+        {
+          "id": "uncountable-list",
+          "title": "advice, news, furniture и другие",
+          "theory": [
+            "Некоторые слова в английском неисчисляемые, хотя по-русски их легко посчитать. С ними нет a/an и нет -s.",
+            {
+              "table": [
+                [
+                  "advice",
+                  "совет, советы"
+                ],
+                [
+                  "information",
+                  "информация, сведения"
+                ],
+                [
+                  "news",
+                  "новость, новости"
+                ],
+                [
+                  "furniture",
+                  "мебель"
+                ],
+                [
+                  "luggage / baggage",
+                  "багаж, чемоданы"
+                ],
+                [
+                  "accommodation",
+                  "жильё"
+                ],
+                [
+                  "traffic",
+                  "движение, машины на дороге"
+                ],
+                [
+                  "permission · progress · damage",
+                  "разрешение · успехи · ущерб"
+                ]
+              ]
+            },
+            {
+              "ex": "Can you give me [some advice]?",
+              "tr": "Можешь дать мне совет?"
+            },
+            {
+              "ex": "[The news is] great!",
+              "tr": "Новости отличные!"
+            },
+            {
+              "wrong": "The news are bad.",
+              "right": "The news is bad."
+            },
+            {
+              "tip": "Глагол после них — в единственном числе: The information is wrong. This furniture is old."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "The news {is|'s} better than we expected.",
+              "hint": "be",
+              "tr": "Новости лучше, чем мы ожидали.",
+              "why": "News неисчисляемое, глагол в ед. ч."
+            },
+            {
+              "choice": "Let me know if you need {more information}.",
+              "opts": [
+                "more informations",
+                "an information"
+              ],
+              "tr": "Дай знать, если нужно больше информации.",
+              "why": "Information не бывает с a и с -s."
+            },
+            {
+              "order": "We had a lot of luggage at the airport.",
+              "tr": "В аэропорту у нас было много багажа."
+            },
+            {
+              "fix": "Can I give you {an advice>some advice}?",
+              "tr": "Можно дать тебе совет?",
+              "why": "Advice неисчисляемое: some advice или a piece of advice."
+            }
+          ],
+          "review": [
+            {
+              "gap": "The furniture in this flat {is|'s} quite old.",
+              "hint": "be",
+              "tr": "Мебель в этой квартире довольно старая."
+            },
+            {
+              "gap": "The information you gave me yesterday {was} wrong.",
+              "hint": "be",
+              "tr": "Информация, которую ты дал мне вчера, оказалась неверной.",
+              "why": "Information — ед. ч., значит was."
+            },
+            {
+              "gap": "Her advice {is|was|'s} always useful.",
+              "hint": "be",
+              "tr": "Её советы всегда полезны."
+            },
+            {
+              "choice": "We had {terrible weather} in Scotland.",
+              "opts": [
+                "a terrible weather",
+                "terrible weathers"
+              ],
+              "tr": "В Шотландии у нас была ужасная погода."
+            },
+            {
+              "choice": "There was a lot of {traffic} this morning.",
+              "opts": [
+                "traffics",
+                "a traffic"
+              ],
+              "tr": "Сегодня утром на дорогах было много машин."
+            },
+            {
+              "choice": "You need {permission} to film here.",
+              "opts": [
+                "a permission",
+                "permissions"
+              ],
+              "tr": "Чтобы здесь снимать, нужно разрешение."
+            },
+            {
+              "choice": "The storm caused a lot of {damage}.",
+              "opts": [
+                "damages",
+                "a damage"
+              ],
+              "tr": "Буря нанесла большой ущерб."
+            },
+            {
+              "order": "Let me give you some good advice.",
+              "tr": "Дам тебе хороший совет."
+            },
+            {
+              "order": "Where should we put all this furniture?",
+              "tr": "Куда нам поставить всю эту мебель?"
+            },
+            {
+              "fix": "Sorry, the {traffics were>traffic was} terrible today.",
+              "tr": "Извините, сегодня были ужасные пробки."
+            },
+            {
+              "fix": "My little brother has made good {progresses>progress} at school.",
+              "tr": "Мой младший брат сделал в школе большие успехи."
+            },
+            {
+              "fix": "Let's buy {a bread>some bread} for breakfast.",
+              "tr": "Давай купим хлеба к завтраку.",
+              "why": "Bread неисчисляемое: some bread или a loaf of bread."
+            }
+          ]
+        },
+        {
+          "id": "one-item",
+          "title": "Как сказать «одна штука»",
+          "theory": [
+            "Если нужно назвать одну вещь, берут исчисляемое слово-пару или «упаковку».",
+            {
+              "table": [
+                [
+                  "advice",
+                  "a piece of advice"
+                ],
+                [
+                  "news · information",
+                  "a piece of news · information"
+                ],
+                [
+                  "bread",
+                  "a loaf · a slice of bread"
+                ],
+                [
+                  "furniture",
+                  "a piece of furniture · a chair"
+                ],
+                [
+                  "luggage",
+                  "a bag · a suitcase"
+                ],
+                [
+                  "work",
+                  "a job"
+                ],
+                [
+                  "travel",
+                  "a trip · a journey"
+                ]
+              ]
+            },
+            {
+              "ex": "I'm looking for [a job]. = I'm looking for [work].",
+              "tr": "Я ищу работу."
+            },
+            {
+              "ex": "We had a wonderful [trip] to Norway.",
+              "tr": "Мы чудесно съездили в Норвегию."
+            },
+            {
+              "wrong": "Have a good travel!",
+              "right": "Have a good trip!"
+            },
+            {
+              "tip": "Travel — путешествия вообще: She spends a lot on travel. Одна поездка — a trip или a journey."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "Let me give you {a piece|one piece} of advice.",
+              "hint": "piece",
+              "tr": "Позволь дать тебе один совет.",
+              "why": "Один совет — a piece of advice."
+            },
+            {
+              "choice": "She's looking for {a job} in marketing.",
+              "opts": [
+                "a work",
+                "works"
+              ],
+              "tr": "Она ищет работу в маркетинге.",
+              "why": "Work неисчисляемое; одна вакансия — a job."
+            },
+            {
+              "order": "How was your trip to Istanbul?",
+              "tr": "Как съездил в Стамбул?"
+            },
+            {
+              "fix": "It was a long {travel>journey} from Moscow to Vladivostok.",
+              "tr": "Дорога из Москвы во Владивосток была долгой.",
+              "why": "Travel не бывает с a; одна поездка — a journey или a trip."
+            }
+          ],
+          "review": [
+            {
+              "gap": "I'd like two {slices} of bread, please.",
+              "hint": "slice",
+              "tr": "Мне два ломтика хлеба, пожалуйста."
+            },
+            {
+              "gap": "That's a nice {piece} of furniture.",
+              "hint": "piece",
+              "tr": "Красивый предмет мебели."
+            },
+            {
+              "gap": "He has three part-time {jobs} at the moment.",
+              "hint": "job",
+              "tr": "Сейчас у него три подработки.",
+              "why": "Job исчисляемое, в отличие от work."
+            },
+            {
+              "choice": "Have a good {trip}!",
+              "opts": [
+                "travel",
+                "travels"
+              ],
+              "tr": "Хорошей поездки!"
+            },
+            {
+              "choice": "I've got {some news} for you.",
+              "opts": [
+                "a news",
+                "some new"
+              ],
+              "tr": "У меня для тебя новости."
+            },
+            {
+              "choice": "My cousin is out of {work} at the moment.",
+              "opts": [
+                "a work",
+                "job"
+              ],
+              "tr": "Мой двоюродный брат сейчас без работы."
+            },
+            {
+              "choice": "We only have one {suitcase}, so we'll be quick.",
+              "opts": [
+                "luggage",
+                "baggage"
+              ],
+              "tr": "У нас всего один чемодан, так что мы быстро."
+            },
+            {
+              "order": "I have a piece of good news.",
+              "tr": "У меня есть одна хорошая новость."
+            },
+            {
+              "order": "My uncle spends a lot on travel.",
+              "tr": "Мой дядя тратит много денег на путешествия."
+            },
+            {
+              "fix": "Thanks for {an information>the information} about the hotel.",
+              "tr": "Спасибо за информацию об отеле."
+            },
+            {
+              "fix": "I found {a work>a job} in a café near home.",
+              "tr": "Я нашёл работу в кафе рядом с домом."
+            },
+            {
+              "fix": "We need {a new furniture>new furniture} for the office.",
+              "tr": "Нам нужна новая мебель для офиса."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u71-countable-nouns-a-some",
+      "title": "Countable nouns with a/an and some",
+      "subtitle": "Юнит 71 · a teacher, teachers, some friends",
+      "level": "A2",
+      "points": [
+        {
+          "id": "kind",
+          "title": "a/an: кто это, что это",
+          "theory": [
+            "a/an говорит, к какому виду относится вещь или человек: «это — кошка», «она — юрист».",
+            {
+              "table": [
+                [
+                  "ед. ч.",
+                  "A cat is a pet.",
+                  "She's a lawyer."
+                ],
+                [
+                  "мн. ч.",
+                  "Cats are pets.",
+                  "They're lawyers."
+                ]
+              ]
+            },
+            "Во множественном числе a просто исчезает — some здесь не нужен.",
+            {
+              "ex": "My mother is [an engineer].",
+              "tr": "Моя мама — инженер."
+            },
+            {
+              "ex": "These are [great photos].",
+              "tr": "Это отличные фотографии."
+            },
+            {
+              "wrong": "My brother is programmer.",
+              "right": "My brother is a programmer."
+            },
+            {
+              "tip": "Профессия — всегда с a/an: He's a chef. I want to be an architect."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "My aunt is {an} architect.",
+              "hint": "a / an",
+              "tr": "Моя тётя — архитектор.",
+              "why": "Профессия с a/an; architect начинается с гласного звука."
+            },
+            {
+              "choice": "Those are {nice shoes}.",
+              "opts": [
+                "some nice shoes",
+                "a nice shoes"
+              ],
+              "tr": "Это хорошие туфли.",
+              "why": "Во мн. ч. «что это» — без a и без some."
+            },
+            {
+              "order": "My father is a taxi driver.",
+              "tr": "Мой папа — таксист."
+            },
+            {
+              "fix": "Anna wants to be {doctor>a doctor} one day.",
+              "tr": "Анна хочет когда-нибудь стать врачом.",
+              "why": "Профессия в ед. ч. — с a/an."
+            }
+          ],
+          "review": [
+            {
+              "gap": "Is your sister {a} student?",
+              "hint": "a / an",
+              "tr": "Твоя сестра — студентка?"
+            },
+            {
+              "gap": "He's {an} honest man.",
+              "hint": "a / an",
+              "tr": "Он честный человек.",
+              "why": "В honest h не читается → an."
+            },
+            {
+              "gap": "My best friend is {a} university lecturer.",
+              "hint": "a / an",
+              "tr": "Мой лучший друг — преподаватель в университете.",
+              "why": "University начинается со звука [ju] → a."
+            },
+            {
+              "choice": "A whale is {a mammal}, not a fish.",
+              "opts": [
+                "mammal",
+                "the mammal"
+              ],
+              "tr": "Кит — млекопитающее, а не рыба."
+            },
+            {
+              "choice": "Jake and Lucy are {good teachers}.",
+              "opts": [
+                "a good teachers",
+                "some good teachers"
+              ],
+              "tr": "Джейк и Люси — хорошие учителя."
+            },
+            {
+              "choice": "My grandfather was {a pilot} in the army.",
+              "opts": [
+                "pilot",
+                "the pilots"
+              ],
+              "tr": "Мой дедушка был лётчиком в армии."
+            },
+            {
+              "choice": "Penguins are {birds} that can't fly.",
+              "opts": [
+                "some birds",
+                "a birds"
+              ],
+              "tr": "Пингвины — птицы, которые не умеют летать."
+            },
+            {
+              "order": "She is a very good singer.",
+              "tr": "Она очень хорошая певица."
+            },
+            {
+              "order": "Are you a student here?",
+              "tr": "Вы здесь учитесь?"
+            },
+            {
+              "fix": "My parents are both {a teachers>teachers}.",
+              "tr": "Мои родители оба учителя."
+            },
+            {
+              "fix": "Is your brother {engineer>an engineer} too?",
+              "tr": "Твой брат тоже инженер?"
+            },
+            {
+              "fix": "I'm not {nurse>a nurse}, I'm a doctor.",
+              "tr": "Я не медсестра, я врач."
+            }
+          ]
+        },
+        {
+          "id": "what-a",
+          "title": "What a …! и внешность",
+          "theory": [
+            "В восклицании What …! с исчисляемым в ед. ч. нужен a/an. С множественным и неисчисляемым — без a.",
+            {
+              "formula": [
+                "What a / an",
+                "+",
+                "(прилагательное) + сущ. в ед. ч.",
+                "!"
+              ]
+            },
+            {
+              "ex": "[What a] beautiful view!",
+              "tr": "Какой красивый вид!"
+            },
+            {
+              "ex": "[What] lovely weather!",
+              "tr": "Какая чудесная погода!"
+            },
+            "О внешности говорят с a или без артикля, но не с the: a small nose, long legs.",
+            {
+              "ex": "He has [a beard] and [dark eyes].",
+              "tr": "У него борода и тёмные глаза."
+            },
+            {
+              "wrong": "She has the blue eyes.",
+              "right": "She has blue eyes."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "What {a} stupid mistake!",
+              "hint": "a / an",
+              "tr": "Какая глупая ошибка!",
+              "why": "Mistake — исчисляемое в ед. ч., в восклицании нужен a."
+            },
+            {
+              "choice": "What {awful} weather!",
+              "opts": [
+                "an awful",
+                "the awful"
+              ],
+              "tr": "Какая ужасная погода!",
+              "why": "Weather неисчисляемое — после What без a."
+            },
+            {
+              "order": "Your daughter has a lovely smile.",
+              "tr": "У твоей дочки чудесная улыбка."
+            },
+            {
+              "fix": "My brother has {the long legs>long legs}.",
+              "tr": "У моего брата длинные ноги.",
+              "why": "О внешности не говорят с the."
+            }
+          ],
+          "review": [
+            {
+              "gap": "What {an} amazing idea!",
+              "hint": "a / an",
+              "tr": "Какая потрясающая идея!"
+            },
+            {
+              "gap": "He has {a} scar on his chin.",
+              "hint": "a / an",
+              "tr": "У него шрам на подбородке."
+            },
+            {
+              "choice": "What {beautiful} flowers!",
+              "opts": [
+                "a beautiful",
+                "the beautiful"
+              ],
+              "tr": "Какие красивые цветы!",
+              "why": "Flowers — мн. ч., после What без a."
+            },
+            {
+              "choice": "What {a} mess!",
+              "opts": [
+                "the",
+                "an"
+              ],
+              "tr": "Какой бардак!"
+            },
+            {
+              "choice": "Tom has {a big} nose.",
+              "opts": [
+                "the big",
+                "big"
+              ],
+              "tr": "У Тома большой нос."
+            },
+            {
+              "choice": "What {delicious} food!",
+              "opts": [
+                "a delicious",
+                "the delicious"
+              ],
+              "tr": "Какая вкусная еда!"
+            },
+            {
+              "order": "What a long day it was!",
+              "tr": "Какой же это был длинный день!"
+            },
+            {
+              "order": "My cat has green eyes.",
+              "tr": "У моей кошки зелёные глаза."
+            },
+            {
+              "fix": "What {lovely dress>a lovely dress}!",
+              "tr": "Какое милое платье!"
+            },
+            {
+              "fix": "She has {the short hair>short hair} now.",
+              "tr": "Теперь у неё короткие волосы."
+            },
+            {
+              "fix": "What {a terrible news>terrible news}!",
+              "tr": "Какие ужасные новости!",
+              "why": "News неисчисляемое — после What без a."
+            }
+          ]
+        },
+        {
+          "id": "some",
+          "title": "some: несколько или некоторые",
+          "theory": [
+            "Some со множественным числом значит «несколько, какие-то» или «некоторые, но не все».",
+            {
+              "ex": "I've read [some] interesting articles about it.",
+              "tr": "Я прочитал об этом несколько интересных статей."
+            },
+            {
+              "ex": "[Some] students passed, but most failed.",
+              "tr": "Некоторые студенты сдали, но большинство провалились."
+            },
+            "Часто some можно опустить: I need (some) new headphones. Но о вещах вообще some не ставят.",
+            {
+              "wrong": "I love some cats.",
+              "right": "I love cats."
+            },
+            {
+              "tip": "Со словами-парами: I need some new jeans = I need a new pair of jeans."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "{Some} shops are closed on Sundays, but not all.",
+              "hint": "a / some",
+              "tr": "Некоторые магазины по воскресеньям закрыты, но не все.",
+              "why": "Some = некоторые, но не все."
+            },
+            {
+              "choice": "I love {strawberries}.",
+              "opts": [
+                "some strawberries",
+                "a strawberries"
+              ],
+              "tr": "Я обожаю клубнику.",
+              "why": "О клубнике вообще — без some."
+            },
+            {
+              "order": "Some friends of mine live in Canada.",
+              "tr": "Несколько моих друзей живут в Канаде."
+            },
+            {
+              "fix": "I'm afraid of {some spiders>spiders}.",
+              "tr": "Я боюсь пауков.",
+              "why": "Пауки вообще — без some."
+            }
+          ],
+          "review": [
+            {
+              "gap": "There are {some} letters for you on the table.",
+              "hint": "a / some",
+              "tr": "На столе для тебя несколько писем."
+            },
+            {
+              "gap": "I need {some} new trainers for the gym.",
+              "hint": "a / some",
+              "tr": "Мне нужны новые кроссовки для спортзала."
+            },
+            {
+              "gap": "{Some} people prefer working at night.",
+              "hint": "a / some",
+              "tr": "Некоторые люди предпочитают работать ночью."
+            },
+            {
+              "choice": "Do you like {horror films}?",
+              "opts": [
+                "some horror films",
+                "a horror films"
+              ],
+              "tr": "Ты любишь фильмы ужасов?"
+            },
+            {
+              "choice": "{Some} museums are free on Mondays.",
+              "opts": [
+                "A",
+                "Any"
+              ],
+              "tr": "Некоторые музеи по понедельникам бесплатные."
+            },
+            {
+              "choice": "I need {a new pair of} jeans.",
+              "opts": [
+                "a new",
+                "new a pair of"
+              ],
+              "tr": "Мне нужны новые джинсы.",
+              "why": "Jeans — мн. ч., a с ними нельзя; можно a pair of."
+            },
+            {
+              "order": "Some children learn languages very quickly.",
+              "tr": "Некоторые дети очень быстро учат языки."
+            },
+            {
+              "order": "We bought some souvenirs for our friends.",
+              "tr": "Мы купили сувениры для друзей."
+            },
+            {
+              "fix": "{Any>Some} restaurants in this area stay open late.",
+              "tr": "Некоторые рестораны в этом районе работают допоздна."
+            },
+            {
+              "fix": "Do you eat {some meat>meat}?",
+              "tr": "Ты ешь мясо?",
+              "why": "Вопрос о мясе вообще — без some."
+            },
+            {
+              "fix": "I've got {a new glasses>some new glasses}.",
+              "tr": "У меня новые очки."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u72-a-an-and-the",
+      "title": "a/an and the",
+      "subtitle": "Юнит 72 · какой-то или тот самый",
+      "level": "B1",
+      "points": [
+        {
+          "id": "first-mention",
+          "title": "a — впервые, the — уже знаем",
+          "theory": [
+            "a/an — когда говорим о чём-то впервые: слушатель ещё не знает, о каком предмете речь. the — когда уже ясно, о каком именно.",
+            {
+              "table": [
+                [
+                  "a / an",
+                  "какой-то, один из многих, упоминаем впервые"
+                ],
+                [
+                  "the",
+                  "тот самый, понятно какой"
+                ]
+              ]
+            },
+            {
+              "ex": "I got [a parcel] and a letter today. [The parcel] was from my aunt.",
+              "tr": "Сегодня мне пришли посылка и письмо. Посылка была от тёти."
+            },
+            {
+              "ex": "We stayed in [a small hotel]. [The hotel] had a pool.",
+              "tr": "Мы жили в маленькой гостинице. В гостинице был бассейн."
+            },
+            {
+              "wrong": "I saw a film yesterday. A film was boring.",
+              "right": "I saw a film yesterday. The film was boring."
+            },
+            {
+              "tip": "Русские «какой-то», «один» подсказывают a; «этот», «тот самый» — the."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "I bought a shirt and a jacket. {The} jacket was cheaper.",
+              "hint": "a / the",
+              "tr": "Я купил рубашку и куртку. Куртка оказалась дешевле.",
+              "why": "Куртку уже упомянули — теперь the."
+            },
+            {
+              "choice": "There's {a} cat in our garden. I don't know whose it is.",
+              "opts": [
+                "the",
+                "an"
+              ],
+              "tr": "У нас в саду какая-то кошка. Не знаю, чья она.",
+              "why": "Кошка упоминается впервые и неизвестно, какая."
+            },
+            {
+              "order": "We watched a film, but the film was boring.",
+              "tr": "Мы посмотрели фильм, но фильм был скучный."
+            },
+            {
+              "fix": "A man and a woman came in. {A man>The man} looked tired.",
+              "tr": "Вошли мужчина и женщина. Мужчина выглядел усталым.",
+              "why": "Мужчину уже упомянули — нужен the."
+            }
+          ],
+          "review": [
+            {
+              "gap": "We ordered {a} pizza and a salad.",
+              "hint": "a / the",
+              "tr": "Мы заказали пиццу и салат."
+            },
+            {
+              "gap": "I met a girl at the party. {The} girl turned out to be my neighbour.",
+              "hint": "a / the",
+              "tr": "Я познакомился с девушкой на вечеринке. Она оказалась моей соседкой."
+            },
+            {
+              "gap": "I don't have {a} car, so I cycle to work.",
+              "hint": "a / the",
+              "tr": "У меня нет машины, поэтому я езжу на работу на велосипеде."
+            },
+            {
+              "choice": "Can you pass me {the} book on top of the pile?",
+              "opts": [
+                "a",
+                "an"
+              ],
+              "tr": "Подашь мне книгу, которая лежит сверху стопки?",
+              "why": "Понятно, какая именно книга — та, что сверху."
+            },
+            {
+              "choice": "Yesterday I ran into {an} old friend at the station.",
+              "opts": [
+                "the",
+                "a"
+              ],
+              "tr": "Вчера я столкнулся на вокзале со старым другом."
+            },
+            {
+              "choice": "I've got two kids, a boy and a girl. {The} boy is six.",
+              "opts": [
+                "A",
+                "An"
+              ],
+              "tr": "У меня двое детей, мальчик и девочка. Мальчику шесть."
+            },
+            {
+              "choice": "We stayed at {a} really cheap hotel in Rome.",
+              "opts": [
+                "the",
+                "an"
+              ],
+              "tr": "В Риме мы жили в очень дешёвой гостинице."
+            },
+            {
+              "order": "The café where we met has closed.",
+              "tr": "Кафе, где мы познакомились, закрылось."
+            },
+            {
+              "order": "I bought a lamp, but the lamp doesn't work.",
+              "tr": "Я купил лампу, но она не работает."
+            },
+            {
+              "fix": "Is there {the>a} pharmacy near here?",
+              "tr": "Здесь поблизости есть аптека?",
+              "why": "Спрашиваем про любую аптеку — a."
+            },
+            {
+              "fix": "We saw a play and a concert. {A>The} concert was better.",
+              "tr": "Мы сходили на спектакль и на концерт. Концерт понравился больше."
+            },
+            {
+              "fix": "My uncle has {the>a} farm in Wales.",
+              "tr": "У моего дяди ферма в Уэльсе."
+            }
+          ]
+        },
+        {
+          "id": "clear",
+          "title": "the: понятно из ситуации",
+          "theory": [
+            "The ставят, когда из ситуации ясно, о чём речь: в комнате — the door, the light; в городе — the station, the centre.",
+            {
+              "ex": "Could you close [the window]?",
+              "tr": "Можешь закрыть окно?"
+            },
+            {
+              "ex": "I'd like to speak to [the manager].",
+              "tr": "Я хотел бы поговорить с менеджером."
+            },
+            "Так же говорят go to the bank, the post office, the doctor, the dentist — обычно имеется в виду «свой» банк или врач.",
+            {
+              "table": [
+                [
+                  "the",
+                  "I have to go to the bank.",
+                  "She's gone to the dentist."
+                ],
+                [
+                  "a",
+                  "Is there a bank near here?",
+                  "My sister is a dentist."
+                ]
+              ]
+            },
+            {
+              "wrong": "I'm going to dentist tomorrow.",
+              "right": "I'm going to the dentist tomorrow."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "Can you turn on {the} heating? It's cold.",
+              "hint": "a / the",
+              "tr": "Можешь включить отопление? Холодно.",
+              "why": "Ясно, какое отопление — в этой квартире."
+            },
+            {
+              "choice": "I'm taking a taxi to {the} airport.",
+              "opts": [
+                "a",
+                "an"
+              ],
+              "tr": "Я еду в аэропорт на такси.",
+              "why": "Понятно, какой аэропорт — тот, что в нашем городе."
+            },
+            {
+              "order": "She has gone to the dentist.",
+              "tr": "Она ушла к зубному."
+            },
+            {
+              "fix": "Excuse me, where is {a>the} exit?",
+              "tr": "Простите, где выход?",
+              "why": "В здании понятно, о каком выходе речь."
+            }
+          ],
+          "review": [
+            {
+              "gap": "Please close {the} door when you leave.",
+              "hint": "a / the",
+              "tr": "Пожалуйста, закрой дверь, когда будешь уходить."
+            },
+            {
+              "gap": "I have to go to {the} post office.",
+              "hint": "a / the",
+              "tr": "Мне нужно сходить на почту."
+            },
+            {
+              "gap": "Is there {a} supermarket near your flat?",
+              "hint": "a / the",
+              "tr": "Рядом с твоей квартирой есть супермаркет?"
+            },
+            {
+              "choice": "My cousin is {a} dentist in Omsk.",
+              "opts": [
+                "the",
+                "an"
+              ],
+              "tr": "Мой двоюродный брат — стоматолог в Омске."
+            },
+            {
+              "choice": "Waiter, can I speak to {the} chef?",
+              "opts": [
+                "a",
+                "an"
+              ],
+              "tr": "Официант, можно поговорить с шеф-поваром?"
+            },
+            {
+              "choice": "Let's meet in front of {the} station.",
+              "opts": [
+                "a",
+                "an"
+              ],
+              "tr": "Давай встретимся перед вокзалом."
+            },
+            {
+              "choice": "Could you pass me {the} salt?",
+              "opts": [
+                "a",
+                "an"
+              ],
+              "tr": "Передай мне соль, пожалуйста."
+            },
+            {
+              "order": "The floor in the kitchen is wet.",
+              "tr": "На кухне мокрый пол."
+            },
+            {
+              "order": "Is there a bank near the hotel?",
+              "tr": "Рядом с отелем есть банк?"
+            },
+            {
+              "fix": "I'm going to {bank>the bank} after work.",
+              "tr": "После работы я иду в банк."
+            },
+            {
+              "fix": "Could you open {a>the} window? It's hot in here.",
+              "tr": "Можешь открыть окно? Здесь жарко."
+            },
+            {
+              "fix": "I'm going to {dentist>the dentist} on Friday.",
+              "tr": "В пятницу я иду к зубному."
+            }
+          ]
+        },
+        {
+          "id": "per",
+          "title": "once a week, two euros a kilo",
+          "theory": [
+            "«В неделю», «за килограмм», «в час» по-английски — через a/an: once a week, 50 km an hour.",
+            {
+              "formula": [
+                "сколько раз / сумма",
+                "+",
+                "a / an",
+                "+",
+                "период или единица"
+              ]
+            },
+            {
+              "ex": "I go swimming [twice a week].",
+              "tr": "Я хожу плавать два раза в неделю."
+            },
+            {
+              "ex": "Apples are two euros [a kilo].",
+              "tr": "Яблоки — два евро за кило."
+            },
+            {
+              "wrong": "three times in a day",
+              "right": "three times a day"
+            },
+            {
+              "tip": "Перед hour — an: 100 km an hour."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "Take these pills three times {a} day.",
+              "hint": "a / the",
+              "tr": "Принимайте эти таблетки три раза в день.",
+              "why": "«В день» — a day."
+            },
+            {
+              "choice": "He earns twenty pounds {an hour}.",
+              "opts": [
+                "in hour",
+                "the hour"
+              ],
+              "tr": "Он зарабатывает двадцать фунтов в час."
+            },
+            {
+              "order": "We visit our grandparents once a month.",
+              "tr": "Мы навещаем бабушку с дедушкой раз в месяц."
+            },
+            {
+              "fix": "I check my email ten times {in a day>a day}.",
+              "tr": "Я проверяю почту десять раз в день.",
+              "why": "Без предлога: ten times a day."
+            }
+          ],
+          "review": [
+            {
+              "gap": "The train goes 300 km {an} hour.",
+              "hint": "a / an",
+              "tr": "Поезд едет со скоростью 300 км в час."
+            },
+            {
+              "gap": "Tomatoes are three euros {a} kilo today.",
+              "hint": "a / an",
+              "tr": "Помидоры сегодня по три евро за кило."
+            },
+            {
+              "gap": "My brother plays tennis twice {a} week.",
+              "hint": "a / an",
+              "tr": "Мой брат играет в теннис два раза в неделю."
+            },
+            {
+              "choice": "She works ten hours {a} day.",
+              "opts": [
+                "the",
+                "in"
+              ],
+              "tr": "Она работает по десять часов в день."
+            },
+            {
+              "choice": "The gym costs forty dollars {a month}.",
+              "opts": [
+                "the month",
+                "in month"
+              ],
+              "tr": "Спортзал стоит сорок долларов в месяц."
+            },
+            {
+              "choice": "I call my parents once {a} week.",
+              "opts": [
+                "the",
+                "in"
+              ],
+              "tr": "Я звоню родителям раз в неделю."
+            },
+            {
+              "order": "I drink coffee three times a day.",
+              "tr": "Я пью кофе три раза в день."
+            },
+            {
+              "order": "He runs about fifty kilometres a week.",
+              "tr": "Он пробегает около пятидесяти километров в неделю."
+            },
+            {
+              "fix": "The speed limit here is 50 km {in hour>an hour}.",
+              "tr": "Здесь ограничение скорости — 50 км в час."
+            },
+            {
+              "fix": "We have English lessons twice {in week>a week}.",
+              "tr": "У нас английский два раза в неделю."
+            },
+            {
+              "fix": "I see my dentist once {in year>a year}.",
+              "tr": "Я хожу к стоматологу раз в год."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u73-the-1",
+      "title": "the 1",
+      "subtitle": "Юнит 73 · единственное, the sky, room 12",
+      "level": "B1",
+      "points": [
+        {
+          "id": "unique",
+          "title": "Единственное в своём роде",
+          "theory": [
+            "The ставят, когда предмет один-единственный: the capital of Spain, the end of the film, the equator.",
+            {
+              "ex": "Madrid is [the capital] of Spain.",
+              "tr": "Мадрид — столица Испании."
+            },
+            {
+              "ex": "I'll be away until [the end] of June.",
+              "tr": "Меня не будет до конца июня."
+            },
+            "Превосходная степень — всегда с the: the best, the oldest, the most expensive. И the same тоже всегда с the.",
+            {
+              "ex": "It's [the tallest building] in the city.",
+              "tr": "Это самое высокое здание в городе."
+            },
+            {
+              "wrong": "We have same phone.",
+              "right": "We have the same phone."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "What's {the} best way to get to the airport?",
+              "hint": "a / the",
+              "tr": "Как лучше всего добраться до аэропорта?",
+              "why": "Превосходная степень — с the."
+            },
+            {
+              "choice": "Our flat is {on the fifth floor}.",
+              "opts": [
+                "on fifth floor",
+                "on a fifth floor"
+              ],
+              "tr": "Наша квартира на шестом этаже.",
+              "why": "Этаж в доме один такой — the."
+            },
+            {
+              "order": "This is the oldest bridge in the city.",
+              "tr": "Это самый старый мост в городе."
+            },
+            {
+              "fix": "My sister and I go to {same>the same} gym.",
+              "tr": "Мы с сестрой ходим в один и тот же спортзал.",
+              "why": "Same всегда с the."
+            }
+          ],
+          "review": [
+            {
+              "gap": "Who is {the} president of France?",
+              "hint": "a / the",
+              "tr": "Кто президент Франции?"
+            },
+            {
+              "gap": "We arrived just before {the} end of the film.",
+              "hint": "a / the",
+              "tr": "Мы пришли перед самым концом фильма."
+            },
+            {
+              "gap": "That was {the} worst meal I've ever had.",
+              "hint": "a / the",
+              "tr": "Это была худшая еда в моей жизни."
+            },
+            {
+              "choice": "Your bag is {the same} colour as mine.",
+              "opts": [
+                "same",
+                "a same"
+              ],
+              "tr": "Твоя сумка того же цвета, что и моя."
+            },
+            {
+              "choice": "Jupiter is {the} largest planet in the solar system.",
+              "opts": [
+                "a",
+                "an"
+              ],
+              "tr": "Юпитер — самая большая планета Солнечной системы."
+            },
+            {
+              "choice": "Mars is {a} planet, not a star.",
+              "opts": [
+                "the",
+                "an"
+              ],
+              "tr": "Марс — планета, а не звезда.",
+              "why": "Одна из многих планет — a."
+            },
+            {
+              "choice": "Canberra is {the} capital of Australia.",
+              "opts": [
+                "a",
+                "an"
+              ],
+              "tr": "Канберра — столица Австралии."
+            },
+            {
+              "order": "Is this the right way to the museum?",
+              "tr": "Это правильная дорога к музею?"
+            },
+            {
+              "order": "We have the same birthday.",
+              "tr": "У нас день рождения в один день."
+            },
+            {
+              "fix": "It's {a>the} most popular app in Russia.",
+              "tr": "Это самое популярное приложение в России."
+            },
+            {
+              "fix": "I'll call you at {end>the end} of the week.",
+              "tr": "Я позвоню тебе в конце недели."
+            },
+            {
+              "fix": "Everest is {highest>the highest} mountain in the world.",
+              "tr": "Эверест — самая высокая гора в мире."
+            }
+          ]
+        },
+        {
+          "id": "world-sky",
+          "title": "the sky, the sea, the internet",
+          "theory": [
+            "С the всегда: the world, the sun, the moon, the sky, the sea, the ground, the country (= сельская местность).",
+            {
+              "ex": "Look at [the sky]! It's full of stars.",
+              "tr": "Посмотри на небо! Оно всё в звёздах."
+            },
+            "Space (космос) — без the. Earth тоже без the, когда говорим о ней как о планете в ряду с Mars.",
+            {
+              "table": [
+                [
+                  "с the",
+                  "the cinema · the theatre · the radio · the internet"
+                ],
+                [
+                  "без the",
+                  "TV · television (но the TV — сам телевизор)"
+                ]
+              ]
+            },
+            {
+              "ex": "I listen to [the radio] in the car, but I rarely watch [TV].",
+              "tr": "В машине я слушаю радио, а телевизор смотрю редко."
+            },
+            {
+              "wrong": "I found it on internet.",
+              "right": "I found it on the internet."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "My cousins spent July in {the} country, away from the city.",
+              "hint": "a / the",
+              "tr": "Мои двоюродные братья провели июль за городом, подальше от суеты.",
+              "why": "The country — сельская местность, всегда с the."
+            },
+            {
+              "choice": "Astronauts spend months in {space}.",
+              "opts": [
+                "the space",
+                "a space"
+              ],
+              "tr": "Космонавты проводят в космосе по нескольку месяцев.",
+              "why": "Космос — space без the."
+            },
+            {
+              "order": "My parents love going to the theatre.",
+              "tr": "Мои родители любят ходить в театр."
+            },
+            {
+              "fix": "You can find everything on {internet>the internet}.",
+              "tr": "В интернете можно найти всё.",
+              "why": "The internet — всегда с the."
+            }
+          ],
+          "review": [
+            {
+              "gap": "The sun was shining and {the} sky was blue.",
+              "hint": "a / the",
+              "tr": "Светило солнце, и небо было голубым."
+            },
+            {
+              "gap": "She loves swimming in {the} sea.",
+              "hint": "a / the",
+              "tr": "Она обожает плавать в море."
+            },
+            {
+              "gap": "My grandparents live in {the} country.",
+              "hint": "a / the",
+              "tr": "Мои бабушка с дедушкой живут в деревне."
+            },
+            {
+              "choice": "I dropped my phone on {the} ground.",
+              "opts": [
+                "a",
+                "an"
+              ],
+              "tr": "Я уронил телефон на землю."
+            },
+            {
+              "choice": "Do you listen to {the radio} in the morning?",
+              "opts": [
+                "radio",
+                "a radio"
+              ],
+              "tr": "Ты слушаешь радио по утрам?"
+            },
+            {
+              "choice": "Is there life in {space}?",
+              "opts": [
+                "the space",
+                "a space"
+              ],
+              "tr": "Есть ли жизнь в космосе?"
+            },
+            {
+              "choice": "We're going to {the cinema} tonight.",
+              "opts": [
+                "cinema",
+                "cinemas"
+              ],
+              "tr": "Сегодня вечером мы идём в кино."
+            },
+            {
+              "order": "There are no clouds in the sky.",
+              "tr": "На небе ни облачка."
+            },
+            {
+              "order": "I bought these headphones on the internet.",
+              "tr": "Я купил эти наушники в интернете."
+            },
+            {
+              "fix": "Can you turn off {TV>the TV}? I'm trying to read.",
+              "tr": "Можешь выключить телевизор? Я пытаюсь читать.",
+              "why": "Телевизор как прибор — the TV."
+            },
+            {
+              "fix": "Millions of stars are out there in {the space>space}.",
+              "tr": "Там, в космосе, миллионы звёзд."
+            },
+            {
+              "fix": "{Sun>The sun} is very strong today.",
+              "tr": "Солнце сегодня очень жаркое."
+            }
+          ]
+        },
+        {
+          "id": "meals-numbers",
+          "title": "lunch, room 12 — без the",
+          "theory": [
+            "Приёмы пищи — без артикля: have breakfast, for dinner. Но если перед ними прилагательное, нужен a: a quick lunch.",
+            {
+              "ex": "What did you have for [lunch]?",
+              "tr": "Что ты ел на обед?"
+            },
+            {
+              "ex": "We had [a lovely dinner] at Anna's.",
+              "tr": "Мы чудесно поужинали у Анны."
+            },
+            "Слово с номером после него — без the: room 214, platform 3, page 50, gate 12, size 40, bus 7.",
+            {
+              "ex": "Our flight leaves from [gate 12].",
+              "tr": "Наш рейс вылетает от выхода 12."
+            },
+            {
+              "wrong": "The train leaves from the platform 4.",
+              "right": "The train leaves from platform 4."
+            },
+            {
+              "tip": "С порядковым числительным the нужен: the fourth platform, the second page."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "We had {a} quick breakfast and left.",
+              "hint": "a / the",
+              "tr": "Мы быстро позавтракали и ушли.",
+              "why": "Перед breakfast есть прилагательное — нужен a."
+            },
+            {
+              "choice": "Please open your books at {page} 45.",
+              "opts": [
+                "the page",
+                "a page"
+              ],
+              "tr": "Откройте книги на странице 45.",
+              "why": "Слово с номером — без артикля."
+            },
+            {
+              "order": "What time do you usually have dinner?",
+              "tr": "Во сколько ты обычно ужинаешь?"
+            },
+            {
+              "fix": "Let's meet for {the lunch>lunch} on Friday.",
+              "tr": "Давай встретимся за обедом в пятницу.",
+              "why": "Приёмы пищи — без артикля."
+            }
+          ],
+          "review": [
+            {
+              "gap": "We had {a} wonderful dinner by the river.",
+              "hint": "a / the",
+              "tr": "Мы чудесно поужинали у реки."
+            },
+            {
+              "gap": "I never have {a} big breakfast on weekdays.",
+              "hint": "a / the",
+              "tr": "По будням я никогда плотно не завтракаю."
+            },
+            {
+              "choice": "I'm staying in {room} 305.",
+              "opts": [
+                "the room",
+                "a room"
+              ],
+              "tr": "Я живу в номере 305."
+            },
+            {
+              "choice": "Our train leaves from {platform} 7.",
+              "opts": [
+                "the platform",
+                "a platform"
+              ],
+              "tr": "Наш поезд отходит с седьмой платформы."
+            },
+            {
+              "choice": "Do you have these jeans in {size} 32?",
+              "opts": [
+                "the size",
+                "a size"
+              ],
+              "tr": "У вас есть эти джинсы 32-го размера?"
+            },
+            {
+              "choice": "What's for {dinner} tonight?",
+              "opts": [
+                "the dinner",
+                "a dinner"
+              ],
+              "tr": "Что сегодня на ужин?"
+            },
+            {
+              "order": "Breakfast is served from seven to ten.",
+              "tr": "Завтрак подают с семи до десяти."
+            },
+            {
+              "order": "We had a very late lunch.",
+              "tr": "Мы очень поздно пообедали."
+            },
+            {
+              "fix": "Take {the bus 12>bus 12} to the station.",
+              "tr": "Садитесь на двенадцатый автобус до вокзала."
+            },
+            {
+              "fix": "Read the text on {the page 20>page 20} for homework.",
+              "tr": "Прочитайте к уроку текст на странице 20."
+            },
+            {
+              "fix": "I had {very nice lunch>a very nice lunch} at work.",
+              "tr": "Я очень вкусно пообедал на работе."
+            },
+            {
+              "fix": "Let's discuss it after {the breakfast>breakfast}.",
+              "tr": "Давай обсудим это после завтрака."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u74-the-2-school",
+      "title": "the 2 (school / the school)",
+      "subtitle": "Юнит 74 · school, hospital, work, home",
+      "level": "B1",
+      "points": [
+        {
+          "id": "institutions",
+          "title": "school или the school",
+          "theory": [
+            "School, university, college, hospital, prison, church — без the, когда речь о назначении места: учиться, лечиться, сидеть в тюрьме, молиться.",
+            "Если человек пришёл туда по другому делу — как родитель, посетитель, рабочий, — это конкретное здание, и нужен the.",
+            {
+              "table": [
+                [
+                  "без the — по назначению",
+                  "go to school · be in prison · go to university"
+                ],
+                [
+                  "the — конкретное здание",
+                  "go to the school to see a teacher · visit a friend at the hospital"
+                ]
+              ]
+            },
+            {
+              "ex": "My son starts [school] in September.",
+              "tr": "Мой сын в сентябре идёт в школу."
+            },
+            {
+              "ex": "I went to [the hospital] to visit my aunt.",
+              "tr": "Я ездил в больницу навестить тётю."
+            },
+            {
+              "wrong": "After the school I want to go to the university.",
+              "right": "After school I want to go to university."
+            },
+            {
+              "tip": "В американском английском пациент обычно in the hospital, а студент — in college."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "Her brother is in {prison} for fraud.",
+              "hint": "prison / the prison",
+              "tr": "Её брат сидит в тюрьме за мошенничество.",
+              "why": "Он заключённый — prison по назначению, без the."
+            },
+            {
+              "choice": "Mark went to {the school} to meet his son's teacher.",
+              "opts": [
+                "school",
+                "a school"
+              ],
+              "tr": "Марк пошёл в школу встретиться с учителем сына.",
+              "why": "Марк не ученик, он пришёл в конкретное здание."
+            },
+            {
+              "order": "When did you leave school?",
+              "tr": "Когда ты окончил школу?"
+            },
+            {
+              "fix": "Tom wants to go to {the college>college} to study design.",
+              "tr": "Том хочет поступить в колледж учиться на дизайнера.",
+              "why": "Он будет студентом — college без the."
+            }
+          ],
+          "review": [
+            {
+              "gap": "In Finland children don't start {school} until seven.",
+              "hint": "school / the school",
+              "tr": "В Финляндии дети идут в школу только в семь лет."
+            },
+            {
+              "gap": "Workers came to fix the roof of {the church}.",
+              "hint": "church / the church",
+              "tr": "Рабочие пришли чинить крышу церкви.",
+              "why": "Речь о здании, а не о службе."
+            },
+            {
+              "gap": "After school, Kate wants to go to {university}.",
+              "hint": "university / the university",
+              "tr": "После школы Кейт хочет поступить в университет."
+            },
+            {
+              "choice": "He spent three years in {prison} for robbery.",
+              "opts": [
+                "the prison",
+                "prisons"
+              ],
+              "tr": "Он отсидел три года за ограбление."
+            },
+            {
+              "choice": "I went to {the hospital} to visit my friend.",
+              "opts": [
+                "hospital",
+                "hospitals"
+              ],
+              "tr": "Я ходил в больницу навестить друга.",
+              "why": "Я посетитель, а не пациент — the."
+            },
+            {
+              "choice": "Some parents came to {the school} for the concert.",
+              "opts": [
+                "school",
+                "schools"
+              ],
+              "tr": "Некоторые родители пришли в школу на концерт."
+            },
+            {
+              "choice": "Children under six don't have to go to {school}.",
+              "opts": [
+                "the school",
+                "schools"
+              ],
+              "tr": "Детям до шести лет не обязательно ходить в школу."
+            },
+            {
+              "order": "My cousin is studying medicine at university.",
+              "tr": "Мой двоюродный брат учится на медицинском."
+            },
+            {
+              "order": "Her father was taken to hospital by ambulance.",
+              "tr": "Её отца увезли в больницу на скорой."
+            },
+            {
+              "fix": "Jane left {the school>school} at seventeen.",
+              "tr": "Джейн окончила школу в семнадцать."
+            },
+            {
+              "fix": "The thief is now in {the prison>prison}.",
+              "tr": "Вор теперь в тюрьме."
+            },
+            {
+              "fix": "The police went to {prison>the prison} to question him.",
+              "tr": "Полиция поехала в тюрьму, чтобы его допросить.",
+              "why": "Полицейские — посетители, это конкретное здание."
+            }
+          ]
+        },
+        {
+          "id": "bed-work-home",
+          "title": "bed, work, home без the",
+          "theory": [
+            "Без the говорят: go to bed / be in bed, go to work / be at work / finish work, go home / be at home.",
+            {
+              "table": [
+                [
+                  "bed",
+                  "go to bed · be in bed",
+                  "но: sit on the bed — мебель"
+                ],
+                [
+                  "work",
+                  "go to work · at work · finish work",
+                  "work — место работы"
+                ],
+                [
+                  "home",
+                  "go home · get home · at home",
+                  "после go — без to"
+                ]
+              ]
+            },
+            {
+              "ex": "I usually go to [bed] at midnight.",
+              "tr": "Обычно я ложусь спать в полночь."
+            },
+            {
+              "ex": "What time do you [get home] from [work]?",
+              "tr": "Во сколько ты приходишь домой с работы?"
+            },
+            {
+              "wrong": "I go to home after work.",
+              "right": "I go home after work."
+            },
+            {
+              "tip": "После go, come, get, arrive слово home идёт без предлога. Но be at home, stay at home."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "It's late. I'm going to {bed}.",
+              "hint": "bed / the bed",
+              "tr": "Уже поздно. Я иду спать.",
+              "why": "Go to bed — ложиться спать, без the."
+            },
+            {
+              "choice": "I'll call you when I get {home}.",
+              "opts": [
+                "to home",
+                "at home"
+              ],
+              "tr": "Я позвоню тебе, когда доберусь домой.",
+              "why": "После get — просто home."
+            },
+            {
+              "order": "She usually finishes work at six.",
+              "tr": "Обычно она заканчивает работу в шесть."
+            },
+            {
+              "fix": "We arrived {to home>home} very late.",
+              "tr": "Мы приехали домой очень поздно.",
+              "why": "Arrive home — без предлога."
+            }
+          ],
+          "review": [
+            {
+              "gap": "Dad leaves for {work} at seven every morning.",
+              "hint": "work / the work",
+              "tr": "Папа каждое утро уходит на работу в семь."
+            },
+            {
+              "gap": "Don't put your shoes on {the bed}!",
+              "hint": "bed / the bed",
+              "tr": "Не ставь обувь на кровать!",
+              "why": "Здесь кровать — предмет мебели, нужен the."
+            },
+            {
+              "gap": "The kids are still in {bed}.",
+              "hint": "bed / the bed",
+              "tr": "Дети ещё в постели."
+            },
+            {
+              "choice": "I usually start {work} at nine.",
+              "opts": [
+                "the work",
+                "a work"
+              ],
+              "tr": "Обычно я начинаю работать в девять."
+            },
+            {
+              "choice": "Are you {at home} this evening?",
+              "opts": [
+                "at the home",
+                "in home"
+              ],
+              "tr": "Ты сегодня вечером дома?"
+            },
+            {
+              "choice": "He forgot his laptop and went back {home}.",
+              "opts": [
+                "to home",
+                "the home"
+              ],
+              "tr": "Он забыл ноутбук и вернулся домой."
+            },
+            {
+              "choice": "Sorry, I can't talk, I'm {at work}.",
+              "opts": [
+                "at the work",
+                "on work"
+              ],
+              "tr": "Извини, не могу говорить, я на работе."
+            },
+            {
+              "order": "My husband often works from home.",
+              "tr": "Мой муж часто работает из дома."
+            },
+            {
+              "order": "What time did you go to bed?",
+              "tr": "Во сколько ты лёг спать?"
+            },
+            {
+              "fix": "She stayed in {the bed>bed} because she was ill.",
+              "tr": "Она осталась в постели, потому что заболела."
+            },
+            {
+              "fix": "How do you get to {the work>work}?",
+              "tr": "Как ты добираешься до работы?"
+            },
+            {
+              "fix": "I want to go {to home>home} now.",
+              "tr": "Я хочу домой."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u75-the-3-children",
+      "title": "the 3 (children / the children)",
+      "subtitle": "Юнит 75 · вообще или конкретно",
+      "level": "B1",
+      "points": [
+        {
+          "id": "general",
+          "title": "Вообще — без the",
+          "theory": [
+            "Когда говорим о людях или вещах вообще, the не ставят: dogs, music, life, history, football.",
+            {
+              "ex": "[Cats] sleep a lot.",
+              "tr": "Кошки много спят."
+            },
+            {
+              "ex": "I'm not very interested in [politics].",
+              "tr": "Я не особо интересуюсь политикой."
+            },
+            "Сюда же — виды спорта, школьные предметы, языки, еда и отвлечённые понятия: love, nature, time.",
+            {
+              "wrong": "The life is beautiful.",
+              "right": "Life is beautiful."
+            },
+            {
+              "wrong": "The most people like holidays.",
+              "right": "Most people like holidays."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "{Most} people in my town work in tourism.",
+              "hint": "most / the most",
+              "tr": "Большинство людей в моём городе работают в туризме.",
+              "why": "«Большинство» — most без the."
+            },
+            {
+              "choice": "I'm really interested in {history}.",
+              "opts": [
+                "the history",
+                "a history"
+              ],
+              "tr": "Мне очень интересна история.",
+              "why": "История как предмет вообще — без артикля."
+            },
+            {
+              "order": "I don't really like classical music.",
+              "tr": "Я не очень люблю классическую музыку."
+            },
+            {
+              "fix": "{The life>Life} is too short to worry about everything.",
+              "tr": "Жизнь слишком коротка, чтобы обо всём переживать.",
+              "why": "Жизнь вообще — без the."
+            }
+          ],
+          "review": [
+            {
+              "gap": "{Most} shops here close at eight.",
+              "hint": "most / the most",
+              "tr": "Большинство магазинов здесь закрываются в восемь."
+            },
+            {
+              "gap": "He's crazy about {football}.",
+              "hint": "football / the football",
+              "tr": "Он помешан на футболе."
+            },
+            {
+              "choice": "My favourite sport is {tennis}.",
+              "opts": [
+                "the tennis",
+                "a tennis"
+              ],
+              "tr": "Мой любимый вид спорта — теннис."
+            },
+            {
+              "choice": "Do you like {Japanese food} in general?",
+              "opts": [
+                "the Japanese food",
+                "a Japanese food"
+              ],
+              "tr": "Тебе вообще нравится японская кухня?"
+            },
+            {
+              "choice": "{Sugar} is bad for your teeth.",
+              "opts": [
+                "The sugar",
+                "A sugar"
+              ],
+              "tr": "Сахар вреден для зубов."
+            },
+            {
+              "choice": "She's been afraid of {dogs} since she was a child.",
+              "opts": [
+                "the dogs",
+                "a dogs"
+              ],
+              "tr": "Она с детства боится собак."
+            },
+            {
+              "order": "Doctors usually earn more than teachers.",
+              "tr": "Врачи обычно зарабатывают больше учителей."
+            },
+            {
+              "order": "Money doesn't always make people happy.",
+              "tr": "Деньги не всегда делают людей счастливыми."
+            },
+            {
+              "fix": "{The nature>Nature} is the best medicine.",
+              "tr": "Природа — лучшее лекарство."
+            },
+            {
+              "fix": "I've always been good at {the maths>maths}.",
+              "tr": "Мне всегда хорошо давалась математика."
+            },
+            {
+              "fix": "{The most>Most} teenagers spend hours on their phones.",
+              "tr": "Большинство подростков часами сидят в телефонах."
+            },
+            {
+              "fix": "Do you believe in {the love>love} at first sight?",
+              "tr": "Ты веришь в любовь с первого взгляда?"
+            }
+          ]
+        },
+        {
+          "id": "specific",
+          "title": "Конкретно — с the",
+          "theory": [
+            "The ставят, когда имеем в виду конкретных людей или вещи: эти дети, музыка из этого фильма, сахар на столе.",
+            {
+              "table": [
+                [
+                  "вообще",
+                  "конкретно"
+                ],
+                [
+                  "Children like games.",
+                  "The children are in the garden."
+                ],
+                [
+                  "I love music.",
+                  "I loved the music in that film."
+                ],
+                [
+                  "Sugar is bad for you.",
+                  "Pass the sugar, please."
+                ]
+              ]
+            },
+            {
+              "ex": "[The coffee] in this café is excellent.",
+              "tr": "Кофе в этом кафе отличный."
+            },
+            "All + существительное — все вообще; all the + существительное — все из конкретной группы.",
+            {
+              "ex": "[All the] students in my group passed.",
+              "tr": "Все студенты моей группы сдали."
+            },
+            {
+              "wrong": "I didn't like food in that café.",
+              "right": "I didn't like the food in that café."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "Can you pass me {the} butter, please?",
+              "hint": "a / the",
+              "tr": "Передай мне, пожалуйста, масло.",
+              "why": "Конкретное масло — то, что на столе."
+            },
+            {
+              "choice": "I loved {the people} I met in Georgia.",
+              "opts": [
+                "people",
+                "a people"
+              ],
+              "tr": "Мне очень понравились люди, с которыми я познакомился в Грузии.",
+              "why": "Конкретные люди — те, кого я встретил."
+            },
+            {
+              "order": "The water in this lake is very cold.",
+              "tr": "Вода в этом озере очень холодная."
+            },
+            {
+              "fix": "{Children>The children} next door are very noisy.",
+              "tr": "Соседские дети очень шумные.",
+              "why": "Конкретные дети — соседские."
+            }
+          ],
+          "review": [
+            {
+              "gap": "Where are {the} keys I left on the table?",
+              "hint": "a / the",
+              "tr": "Где ключи, которые я оставил на столе?"
+            },
+            {
+              "gap": "{The} weather in Sochi was perfect last week.",
+              "hint": "a / the",
+              "tr": "На прошлой неделе погода в Сочи была идеальной."
+            },
+            {
+              "gap": "Turn off {the} music, I'm trying to sleep.",
+              "hint": "a / the",
+              "tr": "Выключи музыку, я пытаюсь уснуть."
+            },
+            {
+              "choice": "Did you enjoy {the concert} last night?",
+              "opts": [
+                "concert",
+                "a concert"
+              ],
+              "tr": "Тебе понравился вчерашний концерт?"
+            },
+            {
+              "choice": "{The} flowers you gave me are beautiful.",
+              "opts": [
+                "A",
+                "An"
+              ],
+              "tr": "Цветы, которые ты мне подарил, прекрасны."
+            },
+            {
+              "choice": "I can't find {the} money I put in my bag.",
+              "opts": [
+                "a",
+                "an"
+              ],
+              "tr": "Не могу найти деньги, которые я положил в сумку."
+            },
+            {
+              "choice": "I really liked {the music} in that film.",
+              "opts": [
+                "music",
+                "a music"
+              ],
+              "tr": "Мне очень понравилась музыка в этом фильме."
+            },
+            {
+              "order": "The children are playing in the garden.",
+              "tr": "Дети играют в саду."
+            },
+            {
+              "order": "Did you read the article I sent you?",
+              "tr": "Ты прочитал статью, которую я тебе прислал?"
+            },
+            {
+              "fix": "{Information>The information} on this website is out of date.",
+              "tr": "Информация на этом сайте устарела."
+            },
+            {
+              "fix": "I gave {money>the money} back to my brother.",
+              "tr": "Я вернул деньги брату."
+            },
+            {
+              "fix": "{Milk>The milk} in the fridge has gone off.",
+              "tr": "Молоко в холодильнике прокисло."
+            }
+          ]
+        },
+        {
+          "id": "general-narrow",
+          "title": "people who…: всё ещё вообще",
+          "theory": [
+            "Иногда понятие сужено, но остаётся общим: «люди, которые говорят прямо», «крепкий чёрный кофе». The здесь не нужен.",
+            {
+              "table": [
+                [
+                  "общее, хоть и сужено",
+                  "I like people who are honest."
+                ],
+                [
+                  "конкретное",
+                  "I like the people I work with."
+                ]
+              ]
+            },
+            {
+              "ex": "I like [people who] tell the truth.",
+              "tr": "Мне нравятся люди, которые говорят правду."
+            },
+            {
+              "ex": "I don't drink [strong black coffee].",
+              "tr": "Я не пью крепкий чёрный кофе."
+            },
+            {
+              "ex": "[The people] I work with are great.",
+              "tr": "Люди, с которыми я работаю, — замечательные."
+            },
+            {
+              "tip": "Проверка: можно ли на них показать пальцем? Да — the. Если это тип, вид — без the."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "I get on well with {the} people in my team.",
+              "hint": "a / the",
+              "tr": "Я хорошо лажу с людьми из моей команды.",
+              "why": "Конкретные люди — моя команда."
+            },
+            {
+              "choice": "In general, I prefer {films} with a happy ending.",
+              "opts": [
+                "the films",
+                "a films"
+              ],
+              "tr": "Вообще я предпочитаю фильмы со счастливым концом.",
+              "why": "Это тип фильмов, а не конкретные фильмы."
+            },
+            {
+              "order": "I love books that make me laugh.",
+              "tr": "Я люблю книги, которые меня смешат."
+            },
+            {
+              "fix": "{The people>People} who drive fast are dangerous.",
+              "tr": "Люди, которые гоняют, опасны.",
+              "why": "Речь о типе людей вообще — без the."
+            }
+          ],
+          "review": [
+            {
+              "gap": "{The} coffee we had this morning was awful.",
+              "hint": "a / the",
+              "tr": "Кофе, который мы пили утром, был ужасным."
+            },
+            {
+              "gap": "{The} friends I made at university still call me.",
+              "hint": "a / the",
+              "tr": "Друзья, которых я завёл в университете, до сих пор мне звонят."
+            },
+            {
+              "gap": "I liked {the} hotel we stayed in.",
+              "hint": "a / the",
+              "tr": "Мне понравился отель, в котором мы жили."
+            },
+            {
+              "choice": "I don't trust {people} who never smile.",
+              "opts": [
+                "the people",
+                "a people"
+              ],
+              "tr": "Я не доверяю людям, которые никогда не улыбаются."
+            },
+            {
+              "choice": "She mostly reads {novels} about history.",
+              "opts": [
+                "the novels",
+                "a novels"
+              ],
+              "tr": "Она в основном читает исторические романы."
+            },
+            {
+              "choice": "{Dark chocolate} is better for you than milk chocolate.",
+              "opts": [
+                "The dark chocolate",
+                "A dark chocolate"
+              ],
+              "tr": "Горький шоколад полезнее молочного."
+            },
+            {
+              "choice": "I like {music} that I can dance to.",
+              "opts": [
+                "the musics",
+                "a music"
+              ],
+              "tr": "Я люблю музыку, под которую можно танцевать."
+            },
+            {
+              "order": "Small children often ask difficult questions.",
+              "tr": "Маленькие дети часто задают трудные вопросы."
+            },
+            {
+              "order": "I enjoy working with people who are creative.",
+              "tr": "Мне нравится работать с творческими людьми."
+            },
+            {
+              "fix": "{The cheap clothes>Cheap clothes} don't last long.",
+              "tr": "Дешёвая одежда долго не служит."
+            },
+            {
+              "fix": "Did you like {people>the people} at the party?",
+              "tr": "Тебе понравились люди на вечеринке?"
+            },
+            {
+              "fix": "{The fresh bread>Fresh bread} smells wonderful.",
+              "tr": "Свежий хлеб чудесно пахнет."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u76-the-4-types-groups",
+      "title": "the 4 (the giraffe / the old)",
+      "subtitle": "Юнит 76 · виды, группы людей, нации",
+      "level": "B1",
+      "points": [
+        {
+          "id": "type",
+          "title": "the tiger, the piano: целый вид",
+          "theory": [
+            "The + существительное в ед. ч. может обозначать целый вид: the tiger — тигры как вид, the smartphone — смартфон как изобретение.",
+            {
+              "ex": "[The tiger] is in danger of extinction.",
+              "tr": "Тигр находится под угрозой исчезновения."
+            },
+            {
+              "ex": "Who invented [the telephone]?",
+              "tr": "Кто изобрёл телефон?"
+            },
+            "Музыкальные инструменты тоже с the: play the piano, play the violin.",
+            {
+              "ex": "My daughter plays [the violin].",
+              "tr": "Моя дочь играет на скрипке."
+            },
+            {
+              "tip": "Сравните: I want to buy a guitar (одну вещь) — I can play the guitar (инструмент вообще). Man без the — человечество: the history of man."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "Can you play {the} piano?",
+              "hint": "a / the",
+              "tr": "Ты умеешь играть на пианино?",
+              "why": "Инструмент вообще — с the."
+            },
+            {
+              "choice": "{The} computer has changed our lives.",
+              "opts": [
+                "A",
+                "An"
+              ],
+              "tr": "Компьютер изменил нашу жизнь.",
+              "why": "Речь о компьютере как изобретении, а не об одном аппарате."
+            },
+            {
+              "order": "Who invented the light bulb?",
+              "tr": "Кто изобрёл лампочку?"
+            },
+            {
+              "fix": "{A>The} wheel was invented thousands of years ago.",
+              "tr": "Колесо изобрели тысячи лет назад.",
+              "why": "Изобретение как таковое — the."
+            }
+          ],
+          "review": [
+            {
+              "gap": "Has your sister ever played {the} drums?",
+              "hint": "a / the",
+              "tr": "Твоя сестра когда-нибудь играла на барабанах?"
+            },
+            {
+              "gap": "Who invented {the} printing press?",
+              "hint": "a / the",
+              "tr": "Кто изобрёл печатный станок?"
+            },
+            {
+              "gap": "When was {the} television invented?",
+              "hint": "a / the",
+              "tr": "Когда изобрели телевизор?"
+            },
+            {
+              "choice": "{The} dolphin is a very intelligent animal.",
+              "opts": [
+                "Dolphin",
+                "Some"
+              ],
+              "tr": "Дельфин — очень умное животное."
+            },
+            {
+              "choice": "She's learning to play {the cello}.",
+              "opts": [
+                "cellos",
+                "a cellos"
+              ],
+              "tr": "Она учится играть на виолончели."
+            },
+            {
+              "choice": "I'd like to buy {a} guitar, but they're expensive.",
+              "opts": [
+                "the",
+                "an"
+              ],
+              "tr": "Я бы купил гитару, но они дорогие.",
+              "why": "Купить одну вещь — a; играть на инструменте — the."
+            },
+            {
+              "choice": "{The} smartphone has changed how we communicate.",
+              "opts": [
+                "A",
+                "An"
+              ],
+              "tr": "Смартфон изменил то, как мы общаемся."
+            },
+            {
+              "order": "The shark is not as dangerous as people think.",
+              "tr": "Акула не так опасна, как думают люди."
+            },
+            {
+              "order": "My grandfather played the accordion beautifully.",
+              "tr": "Мой дедушка прекрасно играл на аккордеоне."
+            },
+            {
+              "fix": "Who invented {a>the} telescope?",
+              "tr": "Кто изобрёл телескоп?"
+            },
+            {
+              "fix": "Can your brother play {a>the} trumpet?",
+              "tr": "Твой брат умеет играть на трубе?"
+            },
+            {
+              "fix": "{Penguin>The penguin} lives in the southern hemisphere.",
+              "tr": "Пингвин обитает в Южном полушарии."
+            }
+          ]
+        },
+        {
+          "id": "adj-groups",
+          "title": "the rich, the young: группы",
+          "theory": [
+            "The + прилагательное без существительного обозначает группу людей: the rich — богатые, the young — молодёжь.",
+            {
+              "table": [
+                [
+                  "the rich · the poor",
+                  "богатые · бедные"
+                ],
+                [
+                  "the old · the elderly",
+                  "пожилые"
+                ],
+                [
+                  "the young",
+                  "молодёжь"
+                ],
+                [
+                  "the homeless · the unemployed",
+                  "бездомные · безработные"
+                ],
+                [
+                  "the sick · the injured · the blind",
+                  "больные · раненые · слепые"
+                ]
+              ]
+            },
+            "Это множественное число: глагол во мн. ч., а -s к прилагательному не добавляют.",
+            {
+              "ex": "[The unemployed] need more support.",
+              "tr": "Безработным нужна большая поддержка."
+            },
+            {
+              "wrong": "The poors are getting poorer.",
+              "right": "The poor are getting poorer."
+            },
+            {
+              "wrong": "She's a homeless.",
+              "right": "She's a homeless woman."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "The government should do more for {the} elderly.",
+              "hint": "a / the",
+              "tr": "Правительству стоит больше делать для пожилых.",
+              "why": "Группа людей — the + прилагательное."
+            },
+            {
+              "choice": "{The young} often see the world differently.",
+              "opts": [
+                "Young",
+                "The youngs"
+              ],
+              "tr": "Молодёжь часто видит мир иначе.",
+              "why": "Нужен the, а -s не добавляется."
+            },
+            {
+              "order": "Doctors treated the injured at the scene.",
+              "tr": "Врачи оказали помощь раненым на месте."
+            },
+            {
+              "fix": "My uncle helps {the homelesses>the homeless} in winter.",
+              "tr": "Зимой мой дядя помогает бездомным.",
+              "why": "К прилагательному -s не добавляют."
+            }
+          ],
+          "review": [
+            {
+              "gap": "Life is hard for {the} unemployed.",
+              "hint": "a / the",
+              "tr": "Безработным живётся тяжело."
+            },
+            {
+              "gap": "Should {the} rich pay more taxes?",
+              "hint": "a / the",
+              "tr": "Должны ли богатые платить больше налогов?"
+            },
+            {
+              "gap": "This charity helps {the} poor.",
+              "hint": "a / the",
+              "tr": "Этот фонд помогает бедным."
+            },
+            {
+              "choice": "We met {a homeless man} near the station.",
+              "opts": [
+                "a homeless",
+                "the homeless"
+              ],
+              "tr": "Возле вокзала мы встретили бездомного.",
+              "why": "Про одного человека нужно существительное: a homeless man."
+            },
+            {
+              "choice": "The sick {are} treated for free here.",
+              "opts": [
+                "is",
+                "does"
+              ],
+              "tr": "Больных здесь лечат бесплатно.",
+              "why": "The sick — множественное число."
+            },
+            {
+              "choice": "This park is popular with {the old}.",
+              "opts": [
+                "the olds",
+                "old"
+              ],
+              "tr": "Этот парк любят пожилые люди."
+            },
+            {
+              "choice": "My grandmother works with {the} blind.",
+              "opts": [
+                "a",
+                "an"
+              ],
+              "tr": "Моя бабушка работает со слепыми."
+            },
+            {
+              "order": "The rich are getting richer every year.",
+              "tr": "Богатые с каждым годом становятся богаче."
+            },
+            {
+              "order": "This app was designed for the elderly.",
+              "tr": "Это приложение создано для пожилых."
+            },
+            {
+              "fix": "{Poor>The poor} often can't afford good food.",
+              "tr": "Бедные часто не могут позволить себе хорошую еду."
+            },
+            {
+              "fix": "Our neighbour is {a rich>a rich man}.",
+              "tr": "Наш сосед — богатый человек."
+            },
+            {
+              "fix": "The young {is>are} more interested in technology.",
+              "tr": "Молодёжь больше интересуется технологиями."
+            }
+          ]
+        },
+        {
+          "id": "nationalities",
+          "title": "the French, Italians: нации",
+          "theory": [
+            "Национальности на -ch и -sh (French, Dutch, British, English, Spanish) — с the во мн. ч.: the French — французы. Про одного: a French woman, an Englishman.",
+            "На -ese и -ss (Chinese, Japanese, Swiss) тоже с the: the Swiss — швейцарцы. Но можно сказать и a Japanese.",
+            {
+              "table": [
+                [
+                  "-ch / -sh",
+                  "the French · the British",
+                  "a French woman"
+                ],
+                [
+                  "-ese / -ss",
+                  "the Japanese · the Swiss",
+                  "a Japanese"
+                ],
+                [
+                  "остальные",
+                  "Italians · Russians · Brazilians",
+                  "an Italian"
+                ]
+              ]
+            },
+            {
+              "ex": "[The Dutch] love cycling.",
+              "tr": "Голландцы обожают ездить на велосипеде."
+            },
+            {
+              "ex": "[Russians] often drink tea with lemon.",
+              "tr": "Русские часто пьют чай с лимоном."
+            },
+            {
+              "tip": "Всегда можно сказать прилагательное + people: Spanish people, Thai people."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "{The} British drink a lot of tea.",
+              "hint": "a / the",
+              "tr": "Британцы пьют много чая.",
+              "why": "British на -sh: о народе — the British."
+            },
+            {
+              "choice": "My new colleague is {a Spanish woman}.",
+              "opts": [
+                "a Spanish",
+                "the Spanish"
+              ],
+              "tr": "Моя новая коллега — испанка.",
+              "why": "Про одного: a Spanish woman, не a Spanish."
+            },
+            {
+              "order": "Brazilians are famous for their love of football.",
+              "tr": "Бразильцы славятся любовью к футболу."
+            },
+            {
+              "fix": "{French>The French} are proud of their cuisine.",
+              "tr": "Французы гордятся своей кухней.",
+              "why": "Народ на -ch — с the."
+            }
+          ],
+          "review": [
+            {
+              "gap": "{The} Swiss make excellent watches.",
+              "hint": "a / the",
+              "tr": "Швейцарцы делают отличные часы."
+            },
+            {
+              "gap": "{The} Spanish usually have dinner very late.",
+              "hint": "a / the",
+              "tr": "Испанцы обычно ужинают очень поздно."
+            },
+            {
+              "choice": "I met {an English guy} on the train.",
+              "opts": [
+                "an English",
+                "the English"
+              ],
+              "tr": "В поезде я познакомился с англичанином."
+            },
+            {
+              "choice": "{Italians} are known for their coffee.",
+              "opts": [
+                "The Italian",
+                "Italian"
+              ],
+              "tr": "Итальянцы известны своим кофе."
+            },
+            {
+              "choice": "{The Japanese} eat a lot of fish.",
+              "opts": [
+                "Japaneses",
+                "The Japaneses"
+              ],
+              "tr": "Японцы едят много рыбы."
+            },
+            {
+              "choice": "My neighbour is {Dutch}.",
+              "opts": [
+                "a Dutch",
+                "the Dutch"
+              ],
+              "tr": "Мой сосед — голландец."
+            },
+            {
+              "order": "The French take long lunch breaks.",
+              "tr": "У французов долгие обеденные перерывы."
+            },
+            {
+              "order": "Chinese people celebrate New Year in winter.",
+              "tr": "Китайцы празднуют Новый год зимой."
+            },
+            {
+              "fix": "Our guide was {a French>a Frenchman}.",
+              "tr": "Наш гид был французом."
+            },
+            {
+              "fix": "{The Mexican>Mexicans} are very friendly.",
+              "tr": "Мексиканцы очень дружелюбные."
+            },
+            {
+              "fix": "There are many {Chineses>Chinese} students here.",
+              "tr": "Здесь много китайских студентов."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u77-names-with-the-1",
+      "title": "Names with and without the 1",
+      "subtitle": "Юнит 77 · страны, реки, горы, регионы",
+      "level": "B1",
+      "points": [
+        {
+          "id": "no-the",
+          "title": "Люди, страны, города — без the",
+          "theory": [
+            "Имена людей и большинство географических названий — без the: континенты, страны, города, острова, отдельные горы.",
+            {
+              "table": [
+                [
+                  "без the",
+                  "Europe · Spain · Siberia · Paris · Cyprus · Elbrus"
+                ],
+                [
+                  "с the",
+                  "the UK · the USA · the Czech Republic · the United Arab Emirates"
+                ]
+              ]
+            },
+            "The нужен, если в названии страны есть Republic, Kingdom, States, Emirates.",
+            "Титул + имя — без the: Doctor Ivanov, President Lincoln, Uncle Tom. Так же Mount и Lake + имя: Lake Baikal, Mount Fuji.",
+            {
+              "ex": "We climbed [Mount Fuji] last summer.",
+              "tr": "Прошлым летом мы поднялись на Фудзи."
+            },
+            {
+              "ex": "Have you been to [the United States]?",
+              "tr": "Ты бывал в США?"
+            },
+            {
+              "wrong": "I live in the Russia.",
+              "right": "I live in Russia."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "My cousin works in {the} United Arab Emirates.",
+              "hint": "the / —",
+              "tr": "Мой двоюродный брат работает в ОАЭ.",
+              "why": "В названии есть Emirates — нужен the."
+            },
+            {
+              "choice": "We spent a week on {Lake Baikal}.",
+              "opts": [
+                "the Lake Baikal",
+                "a Lake Baikal"
+              ],
+              "tr": "Мы провели неделю на Байкале.",
+              "why": "Lake + имя — без the."
+            },
+            {
+              "order": "Professor Smith teaches at our university.",
+              "tr": "Профессор Смит преподаёт в нашем университете."
+            },
+            {
+              "fix": "My parents met in {the Italy>Italy}.",
+              "tr": "Мои родители познакомились в Италии.",
+              "why": "Страны обычно без the."
+            }
+          ],
+          "review": [
+            {
+              "gap": "Have you ever been to {the} Czech Republic?",
+              "hint": "the / —",
+              "tr": "Ты когда-нибудь был в Чехии?"
+            },
+            {
+              "gap": "Edinburgh is in Scotland, part of {the} United Kingdom.",
+              "hint": "the / —",
+              "tr": "Эдинбург находится в Шотландии, части Соединённого Королевства."
+            },
+            {
+              "choice": "{Doctor Green} will see you now.",
+              "opts": [
+                "The Doctor Green",
+                "A Doctor Green"
+              ],
+              "tr": "Доктор Грин сейчас вас примет.",
+              "why": "Титул + имя — без the."
+            },
+            {
+              "choice": "We're flying to {Australia} next month.",
+              "opts": [
+                "the Australia",
+                "an Australia"
+              ],
+              "tr": "В следующем месяце мы летим в Австралию."
+            },
+            {
+              "choice": "Everest is higher than {Mount Kilimanjaro}.",
+              "opts": [
+                "the Mount Kilimanjaro",
+                "the Kilimanjaro"
+              ],
+              "tr": "Эверест выше Килиманджаро."
+            },
+            {
+              "choice": "My uncle lives in {the USA}.",
+              "opts": [
+                "USA",
+                "a USA"
+              ],
+              "tr": "Мой дядя живёт в США."
+            },
+            {
+              "order": "Queen Elizabeth visited Canada many times.",
+              "tr": "Королева Елизавета много раз бывала в Канаде."
+            },
+            {
+              "order": "Have you ever been to South Korea?",
+              "tr": "Ты когда-нибудь был в Южной Корее?"
+            },
+            {
+              "fix": "{The President Lincoln>President Lincoln} was born in Kentucky.",
+              "tr": "Президент Линкольн родился в Кентукки."
+            },
+            {
+              "fix": "We went skiing in {the Switzerland>Switzerland}.",
+              "tr": "Мы катались на лыжах в Швейцарии."
+            },
+            {
+              "fix": "Our hotel was near {the Lake Geneva>Lake Geneva}.",
+              "tr": "Наш отель был рядом с Женевским озером."
+            }
+          ]
+        },
+        {
+          "id": "water-plural",
+          "title": "Реки, моря и мн. число — с the",
+          "theory": [
+            "Водные названия — с the: океаны, моря, реки, каналы (the Pacific, the Black Sea, the Volga, the Panama Canal). Пустыни тоже: the Sahara.",
+            "Названия во множественном числе — с the: the Alps, the Urals, the Maldives, the Netherlands, the Smiths (семья Смит).",
+            {
+              "table": [
+                [
+                  "с the",
+                  "the Atlantic · the Volga · the Sahara · the Alps · the Petrovs"
+                ],
+                [
+                  "без the",
+                  "Lake Baikal · Mount Elbrus · Cyprus"
+                ]
+              ]
+            },
+            {
+              "ex": "[The Volga] flows into [the Caspian Sea].",
+              "tr": "Волга впадает в Каспийское море."
+            },
+            {
+              "ex": "We're having dinner with [the Petrovs].",
+              "tr": "Мы ужинаем у Петровых."
+            },
+            {
+              "wrong": "We crossed Atlantic by ship.",
+              "right": "We crossed the Atlantic by ship."
+            },
+            {
+              "tip": "Отдельная гора — без the (Elbrus), горная цепь — с the (the Caucasus)."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "Our ship sailed across {the} Mediterranean.",
+              "hint": "the / —",
+              "tr": "Наш корабль пересёк Средиземное море.",
+              "why": "Моря — с the."
+            },
+            {
+              "choice": "They spent their honeymoon in {the Maldives}.",
+              "opts": [
+                "Maldives",
+                "a Maldives"
+              ],
+              "tr": "Они провели медовый месяц на Мальдивах.",
+              "why": "Группа островов, название во мн. ч. — с the."
+            },
+            {
+              "order": "The Danube flows through Vienna and Budapest.",
+              "tr": "Дунай протекает через Вену и Будапешт."
+            },
+            {
+              "fix": "We went hiking in {Alps>the Alps}.",
+              "tr": "Мы ходили в поход по Альпам.",
+              "why": "Горная цепь, мн. ч. — с the."
+            }
+          ],
+          "review": [
+            {
+              "gap": "Moscow stands on {the} Moskva River.",
+              "hint": "the / —",
+              "tr": "Москва стоит на Москве-реке."
+            },
+            {
+              "gap": "Have you ever swum in {the} Red Sea?",
+              "hint": "the / —",
+              "tr": "Ты когда-нибудь купался в Красном море?"
+            },
+            {
+              "gap": "Very few people live in {the} Sahara.",
+              "hint": "the / —",
+              "tr": "В Сахаре живёт очень мало людей."
+            },
+            {
+              "choice": "Siberia lies east of {the Urals}.",
+              "opts": [
+                "Urals",
+                "Ural"
+              ],
+              "tr": "Сибирь лежит к востоку от Урала."
+            },
+            {
+              "choice": "Amsterdam is the capital of {the Netherlands}.",
+              "opts": [
+                "Netherlands",
+                "a Netherlands"
+              ],
+              "tr": "Амстердам — столица Нидерландов."
+            },
+            {
+              "choice": "{The Smiths} have invited us to dinner.",
+              "opts": [
+                "Smiths",
+                "The Smith"
+              ],
+              "tr": "Смиты пригласили нас на ужин."
+            },
+            {
+              "choice": "Ships save weeks by using {the Suez Canal}.",
+              "opts": [
+                "Suez Canal",
+                "a Suez Canal"
+              ],
+              "tr": "Корабли экономят недели, проходя через Суэцкий канал."
+            },
+            {
+              "order": "We flew over the Pacific Ocean.",
+              "tr": "Мы пролетели над Тихим океаном."
+            },
+            {
+              "order": "The Canary Islands belong to Spain.",
+              "tr": "Канарские острова принадлежат Испании."
+            },
+            {
+              "fix": "Most of {Amazon>the Amazon} flows through Brazil.",
+              "tr": "Большая часть Амазонки течёт по Бразилии."
+            },
+            {
+              "fix": "Cairo stands on {Nile>the Nile}.",
+              "tr": "Каир стоит на Ниле."
+            },
+            {
+              "fix": "Many tourists visit {Philippines>the Philippines} every year.",
+              "tr": "Каждый год Филиппины посещает много туристов."
+            }
+          ]
+        },
+        {
+          "id": "north",
+          "title": "the north of Spain, northern Spain",
+          "theory": [
+            "Часть страны с of — с the: the north of Spain, the south-east of England. С прилагательным на -ern — без the: northern Spain.",
+            {
+              "formula": [
+                "the north / south / east / west",
+                "+",
+                "of + страна"
+              ]
+            },
+            {
+              "formula": [
+                "northern / southern / eastern / western",
+                "+",
+                "страна"
+              ]
+            },
+            {
+              "ex": "Murmansk is in [the north] of Russia.",
+              "tr": "Мурманск находится на севере России."
+            },
+            {
+              "ex": "They live in [southern] France.",
+              "tr": "Они живут на юге Франции."
+            },
+            "В некоторых названиях стран и регионов North / South — без the: North America, South Africa, South Korea.",
+            {
+              "wrong": "She lives in the northern Italy.",
+              "right": "She lives in northern Italy."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "Sochi is in {the} south of Russia.",
+              "hint": "the / —",
+              "tr": "Сочи находится на юге России.",
+              "why": "The south of + страна."
+            },
+            {
+              "choice": "Oslo is in {northern} Europe.",
+              "opts": [
+                "the northern",
+                "north"
+              ],
+              "tr": "Осло находится в Северной Европе.",
+              "why": "Прилагательное на -ern — без the."
+            },
+            {
+              "order": "My grandparents live in the west of Ireland.",
+              "tr": "Мои бабушка с дедушкой живут на западе Ирландии."
+            },
+            {
+              "fix": "Many people speak German in {the northern Italy>northern Italy}.",
+              "tr": "На севере Италии многие говорят по-немецки.",
+              "why": "Northern + страна — без the."
+            }
+          ],
+          "review": [
+            {
+              "gap": "The weather is warmer in {the} south.",
+              "hint": "the / —",
+              "tr": "На юге погода теплее."
+            },
+            {
+              "gap": "Vladivostok is in {the} far east of Russia.",
+              "hint": "the / —",
+              "tr": "Владивосток находится на Дальнем Востоке России."
+            },
+            {
+              "gap": "We spent a week in {southern} Spain.",
+              "hint": "south / southern",
+              "tr": "Мы провели неделю на юге Испании."
+            },
+            {
+              "choice": "Canada is in {North America}.",
+              "opts": [
+                "the North America",
+                "the north America"
+              ],
+              "tr": "Канада находится в Северной Америке."
+            },
+            {
+              "choice": "I was born in {the north} of England.",
+              "opts": [
+                "north",
+                "northern"
+              ],
+              "tr": "Я родился на севере Англии."
+            },
+            {
+              "choice": "Cape Town is in {South Africa}.",
+              "opts": [
+                "the South Africa",
+                "the south Africa"
+              ],
+              "tr": "Кейптаун находится в ЮАР."
+            },
+            {
+              "choice": "They have a house in {eastern} Germany.",
+              "opts": [
+                "the eastern",
+                "east of"
+              ],
+              "tr": "У них дом на востоке Германии."
+            },
+            {
+              "order": "Scotland is in the north of Britain.",
+              "tr": "Шотландия находится на севере Британии."
+            },
+            {
+              "order": "Snow is rare in southern Europe.",
+              "tr": "На юге Европы снег — редкость."
+            },
+            {
+              "fix": "Seville is in {south Spain>southern Spain}.",
+              "tr": "Севилья находится на юге Испании."
+            },
+            {
+              "fix": "We stayed in {north>the north} of Scotland.",
+              "tr": "Мы жили на севере Шотландии."
+            },
+            {
+              "fix": "I'd love to travel around {the South America>South America}.",
+              "tr": "Я бы с удовольствием попутешествовал по Южной Америке."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u78-names-with-the-2",
+      "title": "Names with and without the 2",
+      "subtitle": "Юнит 78 · улицы, здания, газеты, фирмы",
+      "level": "B1",
+      "points": [
+        {
+          "id": "streets",
+          "title": "Улицы, парки, вокзалы — без the",
+          "theory": [
+            "Улицы, проспекты, площади и парки — без the: Tverskaya Street, Red Square, Gorky Park, Fifth Avenue.",
+            "Названия из двух слов «место или человек + Airport / Station / University / Castle / Cathedral» — тоже без the: Heathrow Airport, Oxford University, Windsor Castle.",
+            {
+              "table": [
+                [
+                  "без the",
+                  "Oxford Street · Central Park · Heathrow Airport · Windsor Castle"
+                ],
+                [
+                  "с the",
+                  "the Royal Palace · the Old Bridge — первое слово не имя, а прилагательное"
+                ]
+              ]
+            },
+            {
+              "ex": "Let's meet in [Red Square].",
+              "tr": "Давай встретимся на Красной площади."
+            },
+            {
+              "ex": "I'm flying from [Sheremetyevo Airport].",
+              "tr": "Я вылетаю из Шереметьево."
+            },
+            {
+              "wrong": "We walked along the Oxford Street.",
+              "right": "We walked along Oxford Street."
+            },
+            {
+              "tip": "Если первое слово — прилагательное (Royal, Old, National), the нужен: the Royal Palace."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "We took photos outside {the} Royal Palace.",
+              "hint": "the / —",
+              "tr": "Мы фотографировались у Королевского дворца.",
+              "why": "Royal — прилагательное, а не имя, поэтому the."
+            },
+            {
+              "choice": "Our flight leaves from {Gatwick Airport}.",
+              "opts": [
+                "the Gatwick Airport",
+                "a Gatwick Airport"
+              ],
+              "tr": "Наш рейс вылетает из аэропорта Гатвик.",
+              "why": "Имя места + Airport — без the."
+            },
+            {
+              "order": "My office is on Baker Street.",
+              "tr": "Мой офис на Бейкер-стрит."
+            },
+            {
+              "fix": "Let's have a picnic in {the Hyde Park>Hyde Park}.",
+              "tr": "Давай устроим пикник в Гайд-парке.",
+              "why": "Парки — без the."
+            }
+          ],
+          "review": [
+            {
+              "gap": "Our guide showed us around {the} Old Town.",
+              "hint": "the / —",
+              "tr": "Гид показал нам Старый город."
+            },
+            {
+              "choice": "We walked along {Nevsky Prospekt} all evening.",
+              "opts": [
+                "the Nevsky Prospekt",
+                "a Nevsky Prospekt"
+              ],
+              "tr": "Мы весь вечер гуляли по Невскому проспекту."
+            },
+            {
+              "choice": "My brother studied at {Cambridge University}.",
+              "opts": [
+                "the Cambridge University",
+                "a Cambridge University"
+              ],
+              "tr": "Мой брат учился в Кембриджском университете."
+            },
+            {
+              "choice": "We visited {Prague Castle} on Sunday.",
+              "opts": [
+                "the Prague Castle",
+                "a Prague Castle"
+              ],
+              "tr": "В воскресенье мы побывали в Пражском Граде."
+            },
+            {
+              "choice": "The train leaves from {Paddington Station}.",
+              "opts": [
+                "the Paddington Station",
+                "a Paddington Station"
+              ],
+              "tr": "Поезд отправляется с вокзала Паддингтон."
+            },
+            {
+              "choice": "Tourists queue outside {the Royal Palace} in Madrid.",
+              "opts": [
+                "Royal Palace",
+                "a Royal Palace"
+              ],
+              "tr": "Туристы стоят в очереди у Королевского дворца в Мадриде."
+            },
+            {
+              "order": "We had lunch in Gorky Park.",
+              "tr": "Мы пообедали в парке Горького."
+            },
+            {
+              "order": "Is Victoria Station far from here?",
+              "tr": "Вокзал Виктория далеко отсюда?"
+            },
+            {
+              "fix": "I live near {the Kensington Gardens>Kensington Gardens}.",
+              "tr": "Я живу рядом с Кенсингтонскими садами."
+            },
+            {
+              "fix": "We got lost near {Old Bridge>the Old Bridge}.",
+              "tr": "Мы заблудились возле Старого моста."
+            },
+            {
+              "fix": "{The Red Square>Red Square} is the heart of Moscow.",
+              "tr": "Красная площадь — сердце Москвы."
+            }
+          ]
+        },
+        {
+          "id": "buildings",
+          "title": "Отели, музеи, театры — с the",
+          "theory": [
+            "Отели, театры, кинотеатры, музеи, галереи и большинство других зданий — с the: the Hilton, the Bolshoi Theatre, the Louvre, the Eiffel Tower.",
+            "Названия с of тоже с the: the Tower of London, the Bank of England, the University of Oxford.",
+            {
+              "table": [
+                [
+                  "с the",
+                  "the Ritz · the Bolshoi · the Hermitage · the Kremlin · the White House"
+                ],
+                [
+                  "с of",
+                  "the Bank of England · the Great Wall of China"
+                ]
+              ]
+            },
+            {
+              "ex": "We stayed at [the Ritz].",
+              "tr": "Мы останавливались в «Ритце»."
+            },
+            {
+              "ex": "Have you been to [the Hermitage]?",
+              "tr": "Ты был в Эрмитаже?"
+            },
+            {
+              "tip": "Сравните: Oxford University, но the University of Oxford."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "Let's go to {the} Tretyakov Gallery on Saturday.",
+              "hint": "the / —",
+              "tr": "Давай сходим в Третьяковскую галерею в субботу.",
+              "why": "Музеи и галереи — с the."
+            },
+            {
+              "choice": "The President lives in {the White House}.",
+              "opts": [
+                "White House",
+                "a White House"
+              ],
+              "tr": "Президент живёт в Белом доме.",
+              "why": "Здания — с the."
+            },
+            {
+              "order": "We saw a ballet at the Bolshoi Theatre.",
+              "tr": "Мы смотрели балет в Большом театре."
+            },
+            {
+              "fix": "We visited {Kremlin>the Kremlin} yesterday.",
+              "tr": "Вчера мы были в Кремле.",
+              "why": "The Kremlin — всегда с the."
+            }
+          ],
+          "review": [
+            {
+              "gap": "We're staying at {the} Hilton near the station.",
+              "hint": "the / —",
+              "tr": "Мы живём в «Хилтоне» у вокзала."
+            },
+            {
+              "gap": "I bought this poster at {the} Prado in Madrid.",
+              "hint": "the / —",
+              "tr": "Я купил этот постер в Прадо в Мадриде."
+            },
+            {
+              "gap": "Have you ever climbed {the} Eiffel Tower?",
+              "hint": "the / —",
+              "tr": "Ты когда-нибудь поднимался на Эйфелеву башню?"
+            },
+            {
+              "choice": "We spent a day at {the British Museum}.",
+              "opts": [
+                "British Museum",
+                "a British Museum"
+              ],
+              "tr": "Мы провели день в Британском музее."
+            },
+            {
+              "choice": "Tickets for {the Mariinsky Theatre} sell out fast.",
+              "opts": [
+                "Mariinsky Theatre",
+                "a Mariinsky Theatre"
+              ],
+              "tr": "Билеты в Мариинский театр быстро раскупают."
+            },
+            {
+              "choice": "He works for {the Bank of Canada}.",
+              "opts": [
+                "Bank of Canada",
+                "a Bank of Canada"
+              ],
+              "tr": "Он работает в Банке Канады.",
+              "why": "Название с of — с the."
+            },
+            {
+              "choice": "Can you really see {the Great Wall of China} from space?",
+              "opts": [
+                "Great Wall of China",
+                "a Great Wall of China"
+              ],
+              "tr": "Правда ли, что Великую Китайскую стену видно из космоса?"
+            },
+            {
+              "order": "The Hermitage is in St Petersburg.",
+              "tr": "Эрмитаж находится в Санкт-Петербурге."
+            },
+            {
+              "order": "Our hotel was close to the Colosseum.",
+              "tr": "Наш отель был недалеко от Колизея."
+            },
+            {
+              "fix": "We had coffee at {Savoy>the Savoy}.",
+              "tr": "Мы пили кофе в «Савое»."
+            },
+            {
+              "fix": "{Louvre>The Louvre} is the most visited museum in the world.",
+              "tr": "Лувр — самый посещаемый музей в мире."
+            },
+            {
+              "fix": "Let's watch a film at {Odeon>the Odeon} tonight.",
+              "tr": "Давай сходим сегодня в кино в «Одеон»."
+            }
+          ]
+        },
+        {
+          "id": "shops-companies",
+          "title": "McDonald's, Google, the Guardian",
+          "theory": [
+            "Магазины, рестораны и банки, названные по фамилии на -'s или -s, — без the: McDonald's, Harrods, Barclays. Соборы святых — тоже: St Paul's Cathedral.",
+            "Газеты и многие организации — с the: the Guardian, the Times, the UN, the Red Cross. Компании и авиакомпании — без the: Apple, Samsung, Aeroflot.",
+            {
+              "table": [
+                [
+                  "без the",
+                  "McDonald's · Harrods · St Paul's · Google · Aeroflot"
+                ],
+                [
+                  "с the",
+                  "the Guardian · the Times · the UN · the Red Cross"
+                ]
+              ]
+            },
+            {
+              "ex": "My brother works for [Google].",
+              "tr": "Мой брат работает в Google."
+            },
+            {
+              "ex": "I read it in [the Guardian].",
+              "tr": "Я прочитал это в «Гардиан»."
+            },
+            {
+              "wrong": "She works for the Apple.",
+              "right": "She works for Apple."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "My dad reads {the} Financial Times every day.",
+              "hint": "the / —",
+              "tr": "Мой папа каждый день читает «Файненшл таймс».",
+              "why": "Газеты — с the."
+            },
+            {
+              "choice": "Let's grab a burger at {McDonald's}.",
+              "opts": [
+                "the McDonald's",
+                "McDonald"
+              ],
+              "tr": "Давай перехватим бургер в «Макдоналдсе».",
+              "why": "Название по фамилии на -'s — без the."
+            },
+            {
+              "order": "My cousin works as a pilot for Aeroflot.",
+              "tr": "Мой двоюродный брат работает пилотом в «Аэрофлоте»."
+            },
+            {
+              "fix": "She got a job at {the Microsoft>Microsoft}.",
+              "tr": "Она устроилась на работу в Microsoft.",
+              "why": "Компании — без the."
+            }
+          ],
+          "review": [
+            {
+              "gap": "{The} United Nations was founded in 1945.",
+              "hint": "the / —",
+              "tr": "ООН была основана в 1945 году."
+            },
+            {
+              "gap": "This story was in {the} Washington Post yesterday.",
+              "hint": "the / —",
+              "tr": "Эта история вчера была в «Вашингтон пост»."
+            },
+            {
+              "gap": "Her mother volunteers for {the} Red Cross.",
+              "hint": "the / —",
+              "tr": "Её мама — волонтёр Красного Креста."
+            },
+            {
+              "choice": "He has worked for {Samsung} for ten years.",
+              "opts": [
+                "the Samsung",
+                "a Samsung"
+              ],
+              "tr": "Он работает в Samsung уже десять лет."
+            },
+            {
+              "choice": "We went shopping at {Harrods}.",
+              "opts": [
+                "the Harrods",
+                "a Harrods"
+              ],
+              "tr": "Мы ходили по магазинам в «Хэрродс»."
+            },
+            {
+              "choice": "{St Basil's Cathedral} is on Red Square.",
+              "opts": [
+                "The St Basil's Cathedral",
+                "A St Basil's Cathedral"
+              ],
+              "tr": "Собор Василия Блаженного стоит на Красной площади."
+            },
+            {
+              "choice": "Spain is a member of {the European Union}.",
+              "opts": [
+                "European Union",
+                "a European Union"
+              ],
+              "tr": "Испания — член Евросоюза."
+            },
+            {
+              "order": "I flew to Dubai with Emirates.",
+              "tr": "Я летал в Дубай авиакомпанией Emirates."
+            },
+            {
+              "order": "Have you read the New York Times today?",
+              "tr": "Ты сегодня читал «Нью-Йорк таймс»?"
+            },
+            {
+              "fix": "{The Domino's>Domino's} delivers pizza until midnight.",
+              "tr": "«Домино» доставляет пиццу до полуночи."
+            },
+            {
+              "fix": "My uncle works for {BBC>the BBC}.",
+              "tr": "Мой дядя работает на Би-би-си."
+            },
+            {
+              "fix": "I always fly with {the Lufthansa>Lufthansa}.",
+              "tr": "Я всегда летаю «Люфтганзой»."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u79-singular-and-plural",
+      "title": "Singular and plural",
+      "subtitle": "Юнит 79 · jeans are, news is, police are",
+      "level": "B1",
+      "points": [
+        {
+          "id": "pairs",
+          "title": "jeans, glasses: вещи из двух частей",
+          "theory": [
+            "Вещи из двух частей — всегда во мн. ч.: trousers, jeans, shorts, tights, pyjamas, glasses, scissors, headphones.",
+            "Глагол с ними тоже во мн. ч. Одну такую вещь считают через a pair of.",
+            {
+              "table": [
+                [
+                  "My glasses are new.",
+                  "These scissors aren't sharp."
+                ],
+                [
+                  "a pair of jeans",
+                  "two pairs of shorts"
+                ]
+              ]
+            },
+            {
+              "ex": "Where [are] my glasses?",
+              "tr": "Где мои очки?"
+            },
+            {
+              "ex": "I bought [a pair of] shorts.",
+              "tr": "Я купил шорты."
+            },
+            {
+              "wrong": "This trousers is too big.",
+              "right": "These trousers are too big."
+            },
+            {
+              "tip": "По-русски «пижама» — ед. ч., а pyjamas — мн. ч.: My pyjamas are blue."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "Your new jeans {look} great.",
+              "hint": "look",
+              "tr": "Твои новые джинсы отлично смотрятся.",
+              "why": "Jeans — мн. ч., поэтому look без -s."
+            },
+            {
+              "choice": "Where {are} my headphones?",
+              "opts": [
+                "is",
+                "does"
+              ],
+              "tr": "Где мои наушники?",
+              "why": "Headphones — мн. ч."
+            },
+            {
+              "order": "These shorts are too small for me.",
+              "tr": "Эти шорты мне малы."
+            },
+            {
+              "fix": "Her pyjamas {is>are} in the wash.",
+              "tr": "Её пижама в стирке.",
+              "why": "Pyjamas — мн. ч., глагол are."
+            }
+          ],
+          "review": [
+            {
+              "gap": "These scissors {aren't|are not} very sharp.",
+              "hint": "not / be",
+              "tr": "Эти ножницы не очень острые."
+            },
+            {
+              "gap": "My trousers {are} covered in mud.",
+              "hint": "be",
+              "tr": "Мои брюки все в грязи."
+            },
+            {
+              "gap": "I've bought two {pairs} of socks.",
+              "hint": "pair",
+              "tr": "Я купил две пары носков."
+            },
+            {
+              "choice": "Those are {nice jeans}.",
+              "opts": [
+                "a nice jeans",
+                "nice jean"
+              ],
+              "tr": "Классные джинсы.",
+              "why": "Jeans — мн. ч., без a."
+            },
+            {
+              "choice": "I can't read without {my glasses}.",
+              "opts": [
+                "my glass",
+                "a glasses"
+              ],
+              "tr": "Я не могу читать без очков."
+            },
+            {
+              "choice": "{Are} these binoculars yours?",
+              "opts": [
+                "Is",
+                "Does"
+              ],
+              "tr": "Это твой бинокль?"
+            },
+            {
+              "choice": "She bought {a pair of} tights.",
+              "opts": [
+                "a",
+                "an"
+              ],
+              "tr": "Она купила колготки."
+            },
+            {
+              "order": "My glasses are on the kitchen table.",
+              "tr": "Мои очки на кухонном столе."
+            },
+            {
+              "order": "I need a new pair of pyjamas.",
+              "tr": "Мне нужна новая пижама."
+            },
+            {
+              "fix": "These headphones {doesn't>don't} work.",
+              "tr": "Эти наушники не работают."
+            },
+            {
+              "fix": "{This trousers>These trousers} are too long.",
+              "tr": "Эти брюки слишком длинные."
+            },
+            {
+              "fix": "Where did you put {that scissors>those scissors}?",
+              "tr": "Куда ты дел те ножницы?"
+            }
+          ]
+        },
+        {
+          "id": "ics-news",
+          "title": "physics, news, series — ед. число",
+          "theory": [
+            "Слова на -ics — науки и занятия — в ед. ч.: physics, economics, politics, athletics, gymnastics, maths.",
+            {
+              "ex": "Economics [is] my favourite subject.",
+              "tr": "Экономика — мой любимый предмет."
+            },
+            "News — тоже ед. ч., хотя кончается на -s: The news is good.",
+            "Means, series, species одинаковы в ед. и мн. ч.: a TV series — three TV series.",
+            {
+              "table": [
+                [
+                  "ед. ч.",
+                  "a means of transport",
+                  "a series",
+                  "a species"
+                ],
+                [
+                  "мн. ч.",
+                  "many means of transport",
+                  "two series",
+                  "200 species"
+                ]
+              ]
+            },
+            {
+              "wrong": "Physics are difficult.",
+              "right": "Physics is difficult."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "Maths {is|'s} my worst subject.",
+              "hint": "be",
+              "tr": "Математика — мой худший предмет.",
+              "why": "Maths — предмет, ед. ч."
+            },
+            {
+              "choice": "This is a rare {species} of bird.",
+              "opts": [
+                "specie",
+                "specy"
+              ],
+              "tr": "Это редкий вид птиц.",
+              "why": "Species одинаков в ед. и мн. ч."
+            },
+            {
+              "order": "Politics is a popular topic in our family.",
+              "tr": "Политика — популярная тема в нашей семье."
+            },
+            {
+              "fix": "The evening news {start>starts} at nine.",
+              "tr": "Вечерние новости начинаются в девять.",
+              "why": "News — ед. ч., глагол с -s."
+            }
+          ],
+          "review": [
+            {
+              "gap": "Athletics {is|'s} my favourite sport to watch.",
+              "hint": "be",
+              "tr": "Лёгкая атлетика — мой любимый спорт для просмотра."
+            },
+            {
+              "gap": "Gymnastics {was} my hobby when I was little.",
+              "hint": "be",
+              "tr": "В детстве я занималась гимнастикой."
+            },
+            {
+              "gap": "I've watched three new TV {series} this month.",
+              "hint": "series",
+              "tr": "В этом месяце я посмотрел три новых сериала."
+            },
+            {
+              "choice": "The bike is a cheap {means} of transport.",
+              "opts": [
+                "mean",
+                "meaning"
+              ],
+              "tr": "Велосипед — дешёвый вид транспорта."
+            },
+            {
+              "choice": "The news {was} a big surprise.",
+              "opts": [
+                "were",
+                "are"
+              ],
+              "tr": "Новость стала большим сюрпризом."
+            },
+            {
+              "choice": "Economics {is} harder than I expected.",
+              "opts": [
+                "are",
+                "were"
+              ],
+              "tr": "Экономика оказалась сложнее, чем я ожидал."
+            },
+            {
+              "choice": "There are over 300 {species} of parrot.",
+              "opts": [
+                "specieses",
+                "specie"
+              ],
+              "tr": "Существует более 300 видов попугаев."
+            },
+            {
+              "order": "Electronics is my brother's favourite subject.",
+              "tr": "Электроника — любимый предмет моего брата."
+            },
+            {
+              "order": "That series was really popular with teenagers.",
+              "tr": "Этот сериал был очень популярен у подростков."
+            },
+            {
+              "fix": "Physics {are>is} easier for me than chemistry.",
+              "tr": "Физика даётся мне легче химии."
+            },
+            {
+              "fix": "That's {a great news>great news}!",
+              "tr": "Отличная новость!"
+            },
+            {
+              "fix": "Statistics {are>is} a required course for psychology students.",
+              "tr": "Статистика — обязательный курс для студентов-психологов.",
+              "why": "Statistics как предмет — ед. ч."
+            }
+          ]
+        },
+        {
+          "id": "groups-money",
+          "title": "team, police, people, ten euros",
+          "theory": [
+            "Слова-группы (team, family, staff, government, company) в британском английском часто идут с глаголом во мн. ч., когда думаем о людях. Ед. ч. тоже верно.",
+            {
+              "ex": "The team [are] training hard. = The team [is] training hard.",
+              "tr": "Команда усиленно тренируется."
+            },
+            "Police — всегда мн. ч. Один человек — a police officer. И people (а не persons) — мн. ч.",
+            {
+              "ex": "[The police are] looking for the driver.",
+              "tr": "Полиция ищет водителя."
+            },
+            "Сумма денег, срок, расстояние — одно целое, глагол в ед. ч.",
+            {
+              "ex": "Three hours [is] too long to wait.",
+              "tr": "Три часа — слишком долго, чтобы ждать."
+            },
+            {
+              "wrong": "The police is coming.",
+              "right": "The police are coming."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "The police {are|'re} questioning two men.",
+              "hint": "be",
+              "tr": "Полиция допрашивает двоих мужчин.",
+              "why": "Police — всегда мн. ч."
+            },
+            {
+              "choice": "Twenty euros {is} too much for a sandwich.",
+              "opts": [
+                "are",
+                "were"
+              ],
+              "tr": "Двадцать евро за бутерброд — это слишком.",
+              "why": "Сумма денег — одно целое, ед. ч."
+            },
+            {
+              "order": "Most people in my office are under thirty.",
+              "tr": "Большинству людей у меня в офисе нет тридцати."
+            },
+            {
+              "fix": "There were twenty {persons>people} at the meeting.",
+              "tr": "На встрече было двадцать человек.",
+              "why": "Мн. ч. от person — обычно people."
+            }
+          ],
+          "review": [
+            {
+              "gap": "The police {have} arrested the thief.",
+              "hint": "have",
+              "tr": "Полиция арестовала вора."
+            },
+            {
+              "gap": "Five years {is|'s} a long time to wait.",
+              "hint": "be",
+              "tr": "Пять лет — долгий срок ожидания."
+            },
+            {
+              "gap": "Many people {don't|do not} like flying.",
+              "hint": "not / like",
+              "tr": "Многие не любят летать."
+            },
+            {
+              "choice": "Two kilometres {isn't} far to walk.",
+              "opts": [
+                "aren't",
+                "weren't"
+              ],
+              "tr": "Два километра — это недалеко пешком."
+            },
+            {
+              "choice": "My uncle is {a police officer}.",
+              "opts": [
+                "a police",
+                "police"
+              ],
+              "tr": "Мой дядя — полицейский."
+            },
+            {
+              "choice": "She's a very kind {person}.",
+              "opts": [
+                "people",
+                "persons"
+              ],
+              "tr": "Она очень добрый человек."
+            },
+            {
+              "choice": "A hundred dollars {was} stolen from my bag.",
+              "opts": [
+                "were",
+                "have"
+              ],
+              "tr": "У меня из сумки украли сто долларов."
+            },
+            {
+              "order": "The police are still looking for him.",
+              "tr": "Полиция всё ещё его ищет."
+            },
+            {
+              "order": "Ten minutes is enough for a coffee.",
+              "tr": "Десяти минут хватит на кофе."
+            },
+            {
+              "fix": "The police {is>are} on their way.",
+              "tr": "Полиция уже едет."
+            },
+            {
+              "fix": "They are really nice {persons>people}.",
+              "tr": "Они очень приятные люди."
+            },
+            {
+              "fix": "Three weeks {are>is} not enough for a holiday.",
+              "tr": "Трёх недель на отпуск мало."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u80-noun-plus-noun",
+      "title": "Noun + noun (a bus driver)",
+      "subtitle": "Юнит 80 · a phone number, a two-hour flight",
+      "level": "B1",
+      "points": [
+        {
+          "id": "noun-noun",
+          "title": "Первое слово — как прилагательное",
+          "theory": [
+            "Два существительных подряд: первое работает как прилагательное и говорит, что это за предмет. Главное слово — последнее.",
+            {
+              "formula": [
+                "существительное «какой»",
+                "+",
+                "главное существительное"
+              ]
+            },
+            {
+              "ex": "My brother is [a football coach].",
+              "tr": "Мой брат — футбольный тренер."
+            },
+            {
+              "ex": "We need [a new washing machine].",
+              "tr": "Нам нужна новая стиральная машина."
+            },
+            "Первым может быть и слово на -ing — «для чего»: a swimming pool, a frying pan. Бывает и три слова подряд: a hotel reception desk.",
+            {
+              "wrong": "a driver bus · the centre city",
+              "right": "a bus driver · the city centre"
+            },
+            {
+              "tip": "Слитно или раздельно — твёрдых правил нет: toothpaste, a weekend, a car park. Не уверены — пишите раздельно."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "Can you give me your {phone number}?",
+              "hint": "number / phone",
+              "tr": "Дашь мне свой номер телефона?",
+              "why": "Главное слово — последнее: number, а phone говорит, какой номер."
+            },
+            {
+              "choice": "I'm waiting at the {bus stop}.",
+              "opts": [
+                "stop bus",
+                "bus's stop"
+              ],
+              "tr": "Я жду на автобусной остановке.",
+              "why": "Сначала «какая», потом главное: bus stop."
+            },
+            {
+              "order": "We stayed near the city centre.",
+              "tr": "Мы жили недалеко от центра города."
+            },
+            {
+              "fix": "I left my {card bank>bank card} at home.",
+              "tr": "Я забыл банковскую карту дома.",
+              "why": "Главное слово card стоит последним."
+            }
+          ],
+          "review": [
+            {
+              "gap": "Where is the {ticket office}?",
+              "hint": "office / ticket",
+              "tr": "Где билетная касса?"
+            },
+            {
+              "gap": "I bought a new {tennis racket}.",
+              "hint": "racket / tennis",
+              "tr": "Я купил новую теннисную ракетку."
+            },
+            {
+              "gap": "She works as a {hotel manager}.",
+              "hint": "manager / hotel",
+              "tr": "Она работает управляющей отелем."
+            },
+            {
+              "choice": "We swam in the hotel {swimming pool}.",
+              "opts": [
+                "pool swimming",
+                "swim pool"
+              ],
+              "tr": "Мы плавали в бассейне отеля."
+            },
+            {
+              "choice": "My {car keys} are in my bag.",
+              "opts": [
+                "keys car",
+                "car's keys"
+              ],
+              "tr": "Ключи от машины у меня в сумке."
+            },
+            {
+              "choice": "He has a terrible {headache}.",
+              "opts": [
+                "ache head",
+                "head's ache"
+              ],
+              "tr": "У него ужасно болит голова."
+            },
+            {
+              "choice": "Is there a {train timetable} on the website?",
+              "opts": [
+                "timetable train",
+                "train's timetable"
+              ],
+              "tr": "На сайте есть расписание поездов?"
+            },
+            {
+              "order": "The football match starts at seven.",
+              "tr": "Футбольный матч начинается в семь."
+            },
+            {
+              "order": "I left my sunglasses in the car park.",
+              "tr": "Я оставил солнечные очки на парковке."
+            },
+            {
+              "fix": "Do you have {a pan frying>a frying pan}?",
+              "tr": "У тебя есть сковородка?"
+            },
+            {
+              "fix": "I'm reading a {story detective>detective story}.",
+              "tr": "Я читаю детектив."
+            },
+            {
+              "fix": "She lost her {case pencil>pencil case}.",
+              "tr": "Она потеряла пенал."
+            }
+          ]
+        },
+        {
+          "id": "cup-of",
+          "title": "a coffee cup или a cup of coffee",
+          "theory": [
+            "Noun + noun говорит, для чего предмет. С of — что в нём лежит или налито.",
+            {
+              "table": [
+                [
+                  "a coffee cup",
+                  "чашка для кофе (может быть пустой)"
+                ],
+                [
+                  "a cup of coffee",
+                  "чашка с кофе"
+                ],
+                [
+                  "a shopping bag",
+                  "сумка для покупок"
+                ],
+                [
+                  "a bag of shopping",
+                  "сумка, полная покупок"
+                ],
+                [
+                  "a wine glass",
+                  "бокал для вина"
+                ],
+                [
+                  "a glass of wine",
+                  "бокал вина"
+                ]
+              ]
+            },
+            {
+              "ex": "Would you like [a cup of tea]?",
+              "tr": "Хочешь чашку чая?"
+            },
+            {
+              "ex": "These [wine glasses] are a gift from my aunt.",
+              "tr": "Эти бокалы для вина — подарок тёти."
+            },
+            {
+              "wrong": "I drank a coffee cup.",
+              "right": "I drank a cup of coffee."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "Can I have a {glass of} water, please?",
+              "hint": "glass",
+              "tr": "Можно мне стакан воды?",
+              "why": "Стакан, в котором вода, — a glass of water."
+            },
+            {
+              "choice": "I broke one of your {coffee cups}, sorry.",
+              "opts": [
+                "cups of coffee",
+                "coffee's cups"
+              ],
+              "tr": "Прости, я разбил одну из твоих кофейных чашек.",
+              "why": "Речь о посуде, а не о напитке."
+            },
+            {
+              "order": "She drank a bottle of water.",
+              "tr": "Она выпила бутылку воды."
+            },
+            {
+              "fix": "I'd like a {juice glass>glass of juice}, please.",
+              "tr": "Мне стакан сока, пожалуйста.",
+              "why": "Хотим напиток — значит glass of juice."
+            }
+          ],
+          "review": [
+            {
+              "gap": "He brought a {bag of} sweets for the kids.",
+              "hint": "bag",
+              "tr": "Он принёс детям пакет конфет."
+            },
+            {
+              "gap": "We ate a whole {box of} chocolates.",
+              "hint": "box",
+              "tr": "Мы съели целую коробку конфет."
+            },
+            {
+              "choice": "We need some new {wine glasses}.",
+              "opts": [
+                "glasses of wine",
+                "wine's glasses"
+              ],
+              "tr": "Нам нужны новые бокалы для вина."
+            },
+            {
+              "choice": "Could I have {a cup of tea}?",
+              "opts": [
+                "a tea cup",
+                "a cup tea"
+              ],
+              "tr": "Можно мне чашку чая?"
+            },
+            {
+              "choice": "Take {a shopping bag} with you to the supermarket.",
+              "opts": [
+                "a bag of shopping",
+                "a shopping's bag"
+              ],
+              "tr": "Возьми с собой в супермаркет сумку для покупок."
+            },
+            {
+              "choice": "She ordered {a bottle of} wine.",
+              "opts": [
+                "a wine bottle",
+                "a bottle wine"
+              ],
+              "tr": "Она заказала бутылку вина."
+            },
+            {
+              "order": "There's an empty milk bottle on the table.",
+              "tr": "На столе стоит пустая бутылка из-под молока."
+            },
+            {
+              "order": "I'd love a cup of hot chocolate.",
+              "tr": "Я бы с удовольствием выпил чашку горячего шоколада."
+            },
+            {
+              "fix": "He drank three {coffee cups>cups of coffee} this morning.",
+              "tr": "Сегодня утром он выпил три чашки кофе."
+            },
+            {
+              "fix": "The {glasses of wine>wine glasses} are in the top cupboard.",
+              "tr": "Бокалы для вина — в верхнем шкафу."
+            },
+            {
+              "fix": "Can you buy a {bread loaf>loaf of bread}?",
+              "tr": "Купишь буханку хлеба?"
+            }
+          ]
+        },
+        {
+          "id": "three-hour",
+          "title": "a three-hour flight: без -s",
+          "theory": [
+            "Первое существительное обычно в ед. ч., даже если по смыслу их много: a shoe shop — магазин обуви.",
+            "С числами — дефис и ед. ч.: a two-hour flight, a ten-pound note, a five-star hotel, a 12-year-old boy.",
+            {
+              "formula": [
+                "a",
+                "+",
+                "число-существительное в ед. ч.",
+                "+",
+                "существительное"
+              ]
+            },
+            {
+              "ex": "It was [a three-hour] flight.",
+              "tr": "Это был трёхчасовой перелёт."
+            },
+            {
+              "ex": "The flight took [three hours].",
+              "tr": "Перелёт занял три часа."
+            },
+            {
+              "wrong": "a five-days trip",
+              "right": "a five-day trip"
+            },
+            {
+              "tip": "После глагола — обычное мн. ч.: The course lasts four weeks."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "We went on a {ten-day|10-day} trip to Japan.",
+              "hint": "ten / day",
+              "tr": "Мы съездили в Японию на десять дней.",
+              "why": "Перед существительным: число-день в ед. ч. через дефис."
+            },
+            {
+              "choice": "There's {a five-minute} break between lessons.",
+              "opts": [
+                "a five-minutes",
+                "a five minute's"
+              ],
+              "tr": "Между уроками пятиминутный перерыв.",
+              "why": "Перед существительным — ед. ч. с дефисом."
+            },
+            {
+              "order": "She has a two-year-old daughter.",
+              "tr": "У неё двухлетняя дочь."
+            },
+            {
+              "fix": "We stayed in a {five-stars>five-star} hotel.",
+              "tr": "Мы жили в пятизвёздочном отеле.",
+              "why": "Первое слово — в ед. ч."
+            }
+          ],
+          "review": [
+            {
+              "gap": "It's a {two-hour|2-hour} drive to the coast.",
+              "hint": "two / hour",
+              "tr": "До побережья два часа езды."
+            },
+            {
+              "gap": "Do you have change for a {twenty-dollar|20-dollar} bill?",
+              "hint": "twenty / dollar",
+              "tr": "Не разменяете двадцатидолларовую купюру?"
+            },
+            {
+              "gap": "The flight to Bali lasts fourteen {hours}.",
+              "hint": "hour",
+              "tr": "Перелёт на Бали длится четырнадцать часов.",
+              "why": "После глагола — обычное мн. ч."
+            },
+            {
+              "choice": "I signed up for {a six-week} course.",
+              "opts": [
+                "a six-weeks",
+                "six-week"
+              ],
+              "tr": "Я записался на шестинедельный курс."
+            },
+            {
+              "choice": "He lives in a {ten-storey} building.",
+              "opts": [
+                "ten-storeys",
+                "ten storeys'"
+              ],
+              "tr": "Он живёт в десятиэтажном доме."
+            },
+            {
+              "choice": "We walked {five miles} yesterday.",
+              "opts": [
+                "five-mile",
+                "five mile"
+              ],
+              "tr": "Вчера мы прошли пять миль."
+            },
+            {
+              "choice": "My sister works in a {shoe shop}.",
+              "opts": [
+                "shoes shop",
+                "shoe's shop"
+              ],
+              "tr": "Моя сестра работает в обувном магазине."
+            },
+            {
+              "order": "The meeting lasted three hours.",
+              "tr": "Совещание длилось три часа."
+            },
+            {
+              "order": "Two 15-year-old boys won the competition.",
+              "tr": "Конкурс выиграли двое пятнадцатилетних мальчиков."
+            },
+            {
+              "fix": "It's a {three-days>three-day} festival.",
+              "tr": "Это трёхдневный фестиваль."
+            },
+            {
+              "fix": "The film lasts {two-hour>two hours}.",
+              "tr": "Фильм идёт два часа."
+            },
+            {
+              "fix": "I found a {fifty-euros>fifty-euro} note in my jacket.",
+              "tr": "Я нашёл в куртке купюру в пятьдесят евро."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u81-s-and-of",
+      "title": "-'s (your sister's name) and of",
+      "subtitle": "Юнит 81 · Anna's phone, the end of the film",
+      "level": "B1",
+      "points": [
+        {
+          "id": "people-s",
+          "title": "-'s у людей и животных",
+          "theory": [
+            "-'s обычно ставят после людей и животных: Anna's phone, my brother's car, the dog's bowl.",
+            {
+              "table": [
+                [
+                  "один владелец",
+                  "my sister's room",
+                  "-'s"
+                ],
+                [
+                  "несколько, слово на -s",
+                  "my sisters' room",
+                  "только '"
+                ],
+                [
+                  "мн. ч. не на -s",
+                  "the children's toys · the men's toilet",
+                  "-'s"
+                ]
+              ]
+            },
+            {
+              "ex": "Have you seen [Max's] new bike?",
+              "tr": "Ты видел новый велосипед Макса?"
+            },
+            {
+              "ex": "My [parents'] house is near the sea.",
+              "tr": "Дом моих родителей у моря."
+            },
+            {
+              "ex": "This isn't my umbrella, it's [my brother's].",
+              "tr": "Это не мой зонт, а брата."
+            },
+            {
+              "wrong": "the car of my father",
+              "right": "my father's car"
+            },
+            {
+              "tip": "Если владельцев двое: Anna and Tom's flat — -'s только у последнего."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "Is this {Kate's} laptop?",
+              "hint": "Kate",
+              "tr": "Это ноутбук Кейт?",
+              "why": "Владелец — человек: -'s."
+            },
+            {
+              "choice": "The {children's} books are on the bottom shelf.",
+              "opts": [
+                "childrens'",
+                "childrens"
+              ],
+              "tr": "Детские книги на нижней полке.",
+              "why": "Children — мн. ч. не на -s, поэтому -'s."
+            },
+            {
+              "order": "What is your best friend's name?",
+              "tr": "Как зовут твоего лучшего друга?"
+            },
+            {
+              "fix": "I borrowed {my sister bike>my sister's bike}.",
+              "tr": "Я взял велосипед сестры.",
+              "why": "Принадлежность человеку — через -'s."
+            }
+          ],
+          "review": [
+            {
+              "gap": "The {dog's|dogs'} bowl is empty again.",
+              "hint": "dog",
+              "tr": "Миска собаки опять пустая."
+            },
+            {
+              "gap": "We stayed at my {grandparents'} house.",
+              "hint": "grandparents",
+              "tr": "Мы жили у бабушки с дедушкой.",
+              "why": "Grandparents кончается на -s — только апостроф."
+            },
+            {
+              "gap": "The {women's} changing room is on the left.",
+              "hint": "women",
+              "tr": "Женская раздевалка слева."
+            },
+            {
+              "choice": "This isn't my phone. It's {Mark's}.",
+              "opts": [
+                "Mark",
+                "Marks'"
+              ],
+              "tr": "Это не мой телефон. Это телефон Марка."
+            },
+            {
+              "choice": "Have you met {Sam and Lucy's} baby?",
+              "opts": [
+                "Sam's and Lucy",
+                "Sam's and Lucy's"
+              ],
+              "tr": "Ты видел малыша Сэма и Люси?",
+              "why": "Ребёнок общий — -'s только у последнего имени."
+            },
+            {
+              "choice": "My {brother's} name is Pavel.",
+              "opts": [
+                "brothers",
+                "brother"
+              ],
+              "tr": "Моего брата зовут Павел."
+            },
+            {
+              "choice": "All the {students'} results were excellent.",
+              "opts": [
+                "student's",
+                "students"
+              ],
+              "tr": "Результаты у всех студентов были отличные."
+            },
+            {
+              "order": "Do you know Anna's phone number?",
+              "tr": "Ты знаешь номер телефона Анны?"
+            },
+            {
+              "order": "We went to the Ivanovs' party on Saturday.",
+              "tr": "В субботу мы ходили на вечеринку к Ивановым."
+            },
+            {
+              "fix": "This is my {friend car>friend's car}.",
+              "tr": "Это машина моего друга."
+            },
+            {
+              "fix": "The {mens'>men's} department is upstairs.",
+              "tr": "Мужской отдел наверху."
+            },
+            {
+              "fix": "We had dinner at {Olga's and Ivan's>Olga and Ivan's} flat.",
+              "tr": "Мы ужинали в квартире Ольги и Ивана."
+            }
+          ]
+        },
+        {
+          "id": "of",
+          "title": "of у вещей: the end of the film",
+          "theory": [
+            "С неодушевлёнными предметами обычно используют of: the price of the ticket, the name of the street.",
+            {
+              "ex": "What's [the name of] this song?",
+              "tr": "Как называется эта песня?"
+            },
+            "Всегда с of: the beginning / middle / end of, the top / bottom of, the front / back / side of.",
+            {
+              "ex": "Let's sit at [the back of] the bus.",
+              "tr": "Давай сядем в конце автобуса."
+            },
+            "После длинной группы слов -'s не ставят: the sister of the girl who sang, а не the girl who sang's sister.",
+            {
+              "wrong": "the film's end",
+              "right": "the end of the film"
+            }
+          ],
+          "practice": [
+            {
+              "gap": "Write your name at the top {of} the page.",
+              "hint": "of / 's",
+              "tr": "Напишите имя вверху страницы.",
+              "why": "The top of — всегда с of."
+            },
+            {
+              "choice": "{The end of the film} was really sad.",
+              "opts": [
+                "The film end",
+                "The end the film"
+              ],
+              "tr": "Конец фильма был очень грустным.",
+              "why": "The end of + что-то."
+            },
+            {
+              "order": "We met at the beginning of the summer.",
+              "tr": "Мы познакомились в начале лета."
+            },
+            {
+              "fix": "We had a picnic on {the hill's top>top of the hill}.",
+              "tr": "Мы устроили пикник на вершине холма.",
+              "why": "Top — с of, а не с -'s."
+            }
+          ],
+          "review": [
+            {
+              "gap": "I sat in the middle {of} the row.",
+              "hint": "of / 's",
+              "tr": "Я сидел в середине ряда."
+            },
+            {
+              "gap": "What's the population {of} Japan?",
+              "hint": "of / 's",
+              "tr": "Какое население у Японии?"
+            },
+            {
+              "gap": "My office is at the back {of} the building.",
+              "hint": "of / 's",
+              "tr": "Мой офис в задней части здания."
+            },
+            {
+              "choice": "Our seats are in {the middle of the row}.",
+              "opts": [
+                "the row middle",
+                "the middle the row"
+              ],
+              "tr": "Наши места в середине ряда."
+            },
+            {
+              "choice": "Who is {the owner of} that black car?",
+              "opts": [
+                "the owner",
+                "the owner's"
+              ],
+              "tr": "Кто владелец той чёрной машины?"
+            },
+            {
+              "choice": "Can you check {the temperature of} the water?",
+              "opts": [
+                "the temperature",
+                "the temperature's"
+              ],
+              "tr": "Можешь проверить температуру воды?"
+            },
+            {
+              "choice": "Read {the beginning of} the chapter again.",
+              "opts": [
+                "the beginning",
+                "the beginning's"
+              ],
+              "tr": "Перечитай начало главы."
+            },
+            {
+              "order": "The door at the back of the house was open.",
+              "tr": "Задняя дверь дома была открыта."
+            },
+            {
+              "order": "Do you know the name of this street?",
+              "tr": "Ты знаешь, как называется эта улица?"
+            },
+            {
+              "fix": "I put the box on {the wardrobe's top>top of the wardrobe}.",
+              "tr": "Я поставил коробку на шкаф."
+            },
+            {
+              "fix": "Our house is at the {street's end>end of the street}.",
+              "tr": "Наш дом в конце улицы."
+            }
+          ]
+        },
+        {
+          "id": "time-places",
+          "title": "today's news, a week's holiday",
+          "theory": [
+            "Для организаций и мест подходит и -'s, и of: the company's profits = the profits of the company; Moscow's metro, the world's population.",
+            "Со словами времени — -'s: today's news, yesterday's meeting, next week's exam, Saturday's match.",
+            "Со сроками тоже: a week's holiday, two weeks' holiday, ten minutes' walk. Во мн. ч. — только апостроф.",
+            {
+              "table": [
+                [
+                  "ед. ч.",
+                  "a day's work",
+                  "an hour's drive"
+                ],
+                [
+                  "мн. ч.",
+                  "three days' work",
+                  "two hours' drive"
+                ]
+              ]
+            },
+            {
+              "ex": "Did you read [today's] paper?",
+              "tr": "Ты читал сегодняшнюю газету?"
+            },
+            {
+              "ex": "The beach is only [five minutes'] walk from here.",
+              "tr": "До пляжа отсюда всего пять минут пешком."
+            },
+            {
+              "wrong": "the yesterday meeting",
+              "right": "yesterday's meeting"
+            }
+          ],
+          "practice": [
+            {
+              "gap": "Have you prepared for {tomorrow's} exam?",
+              "hint": "tomorrow",
+              "tr": "Ты подготовился к завтрашнему экзамену?",
+              "why": "Со словами времени — -'s."
+            },
+            {
+              "choice": "The hotel is {ten minutes'} walk from the beach.",
+              "opts": [
+                "ten minute's",
+                "ten minutes"
+              ],
+              "tr": "От отеля до пляжа десять минут пешком.",
+              "why": "Minutes — мн. ч. на -s, поэтому только апостроф."
+            },
+            {
+              "order": "Last night's concert was amazing.",
+              "tr": "Вчерашний концерт был потрясающим."
+            },
+            {
+              "fix": "I've got {two week's>two weeks'} holiday in July.",
+              "tr": "В июле у меня две недели отпуска.",
+              "why": "Weeks — мн. ч.: апостроф после s."
+            }
+          ],
+          "review": [
+            {
+              "gap": "{Today's} weather looks perfect for a picnic.",
+              "hint": "today",
+              "tr": "Сегодня погода идеальна для пикника."
+            },
+            {
+              "gap": "Did you watch {Saturday's} match?",
+              "hint": "Saturday",
+              "tr": "Ты смотрел субботний матч?"
+            },
+            {
+              "gap": "I need a good {night's} sleep.",
+              "hint": "night",
+              "tr": "Мне нужно как следует выспаться."
+            },
+            {
+              "choice": "It's about {an hour's} drive to the airport.",
+              "opts": [
+                "an hours'",
+                "an hour"
+              ],
+              "tr": "До аэропорта около часа езды."
+            },
+            {
+              "choice": "{The city's} parks are beautiful in autumn.",
+              "opts": [
+                "The citys'",
+                "The cities's"
+              ],
+              "tr": "Парки города прекрасны осенью."
+            },
+            {
+              "choice": "She earned {a month's} salary in one day.",
+              "opts": [
+                "a months'",
+                "a month"
+              ],
+              "tr": "Она заработала месячную зарплату за один день."
+            },
+            {
+              "choice": "Have you seen {last week's} episode?",
+              "opts": [
+                "last weeks",
+                "the last week"
+              ],
+              "tr": "Ты видел серию, которая вышла на прошлой неделе?"
+            },
+            {
+              "order": "The company's new office is in Kazan.",
+              "tr": "Новый офис компании находится в Казани."
+            },
+            {
+              "order": "Russia's population is about 146 million.",
+              "tr": "Население России — около 146 миллионов."
+            },
+            {
+              "fix": "Did you keep {the yesterday's>yesterday's} newspaper?",
+              "tr": "Ты сохранил вчерашнюю газету?"
+            },
+            {
+              "fix": "The station is only {five minutes>five minutes'} walk away.",
+              "tr": "До станции всего пять минут пешком."
+            },
+            {
+              "fix": "We need {a day>a day's} rest after the trip.",
+              "tr": "После поездки нам нужен день отдыха."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "r81-review-articles-nouns",
+      "title": "Review: Articles and nouns",
+      "subtitle": "Повторение · юниты 69–81",
+      "level": "B1",
+      "points": [
+        {
+          "id": "a-or-nothing",
+          "title": "a/an или без артикля",
+          "theory": [
+            "Сначала спросите себя: это можно посчитать? Исчисляемое в ед. ч. — с a/an. Неисчисляемое и мн. ч. могут стоять без артикля.",
+            {
+              "table": [
+                [
+                  "a / an",
+                  "a job · a trip · a suggestion · a loaf · a chair"
+                ],
+                [
+                  "без a",
+                  "work · travel · advice · bread · furniture"
+                ]
+              ]
+            },
+            {
+              "ex": "I need [a new laptop] and [some advice].",
+              "tr": "Мне нужны новый ноутбук и совет."
+            },
+            {
+              "ex": "She's [an engineer] with a lot of [experience].",
+              "tr": "Она инженер с большим опытом."
+            },
+            {
+              "tip": "Слово может менять смысл: a paper — газета, paper — бумага; a room — комната, room — место."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "Kate has just found {a} job in Berlin.",
+              "hint": "a / an / some",
+              "tr": "Кейт только что нашла работу в Берлине.",
+              "why": "Job исчисляемое, ед. ч. — нужен a."
+            },
+            {
+              "choice": "Can I ask you for {some advice}?",
+              "opts": [
+                "an advice",
+                "advices"
+              ],
+              "tr": "Можно попросить у тебя совета?",
+              "why": "Advice неисчисляемое: без a и без -s."
+            },
+            {
+              "order": "We had very bad weather on our trip.",
+              "tr": "Во время поездки у нас была ужасная погода."
+            },
+            {
+              "fix": "He has {an experience>experience} in sales.",
+              "tr": "У него есть опыт в продажах.",
+              "why": "Опыт — неисчисляемое."
+            }
+          ],
+          "review": [
+            {
+              "gap": "I heard {a} strange noise downstairs.",
+              "hint": "a / —",
+              "tr": "Я услышал странный звук внизу.",
+              "why": "Один звук — исчисляемое, a noise."
+            },
+            {
+              "gap": "We need {some} bread and a few eggs.",
+              "hint": "a / some",
+              "tr": "Нам нужен хлеб и несколько яиц."
+            },
+            {
+              "gap": "She wants to be {a} vet.",
+              "hint": "a / an",
+              "tr": "Она хочет стать ветеринаром."
+            },
+            {
+              "choice": "Our flat has {no furniture} yet.",
+              "opts": [
+                "no furnitures",
+                "not a furniture"
+              ],
+              "tr": "В нашей квартире пока нет мебели."
+            },
+            {
+              "choice": "I'm looking for {work} as a translator.",
+              "opts": [
+                "a work",
+                "works"
+              ],
+              "tr": "Я ищу работу переводчиком."
+            },
+            {
+              "choice": "Do you have {any information} about the tour?",
+              "opts": [
+                "an information",
+                "any informations"
+              ],
+              "tr": "У вас есть информация об экскурсии?"
+            },
+            {
+              "choice": "We had {a good trip}.",
+              "opts": [
+                "a good travel",
+                "good trip"
+              ],
+              "tr": "Мы хорошо съездили."
+            },
+            {
+              "order": "Is there room for my suitcase?",
+              "tr": "Найдётся место для моего чемодана?"
+            },
+            {
+              "order": "My sister gave me a piece of advice.",
+              "tr": "Сестра дала мне один совет."
+            },
+            {
+              "fix": "I'll buy {a bread>some bread} on the way home.",
+              "tr": "Я куплю хлеба по дороге домой."
+            },
+            {
+              "fix": "Mia is {nurse>a nurse} at the city hospital.",
+              "tr": "Мия — медсестра в городской больнице."
+            },
+            {
+              "fix": "The news {were>was} on every channel.",
+              "tr": "Новость передавали по всем каналам."
+            }
+          ]
+        },
+        {
+          "id": "a-or-the",
+          "title": "a/an или the",
+          "theory": [
+            {
+              "table": [
+                [
+                  "a / an",
+                  "впервые · какой-то · один из многих · кем работает · раз в неделю"
+                ],
+                [
+                  "the",
+                  "уже упоминали · ясно из ситуации · единственный · превосходная степень"
+                ]
+              ]
+            },
+            {
+              "ex": "I saw [a fox] in the park. [The fox] was looking for food.",
+              "tr": "Я видел в парке лису. Лиса искала еду."
+            },
+            {
+              "ex": "Close [the door], please.",
+              "tr": "Закрой дверь, пожалуйста."
+            },
+            {
+              "ex": "It's [the best] café in town.",
+              "tr": "Это лучшее кафе в городе."
+            },
+            {
+              "tip": "Русские «этот», «тот самый», «наш» подсказывают the; «какой-то», «один» — a."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "We stayed in a flat. {The} flat was tiny but cosy.",
+              "hint": "a / the",
+              "tr": "Мы жили в квартире. Квартира была крошечной, но уютной.",
+              "why": "Квартиру уже упомянули — теперь the."
+            },
+            {
+              "choice": "Is there {a} cinema near your house?",
+              "opts": [
+                "the",
+                "an"
+              ],
+              "tr": "Рядом с твоим домом есть кинотеатр?",
+              "why": "Спрашиваем про любой кинотеатр — a."
+            },
+            {
+              "order": "The man at the reception was very helpful.",
+              "tr": "Мужчина на ресепшене очень помог."
+            },
+            {
+              "fix": "It's {a>the} cheapest hotel in the area.",
+              "tr": "Это самый дешёвый отель в округе.",
+              "why": "Превосходная степень — с the."
+            }
+          ],
+          "review": [
+            {
+              "gap": "Can you turn off {the} oven, please?",
+              "hint": "a / the",
+              "tr": "Выключи, пожалуйста, духовку."
+            },
+            {
+              "gap": "My neighbour is {a} firefighter.",
+              "hint": "a / the",
+              "tr": "Мой сосед — пожарный."
+            },
+            {
+              "gap": "That was {the} funniest film I've seen.",
+              "hint": "a / the",
+              "tr": "Это был самый смешной фильм из всех, что я видел."
+            },
+            {
+              "choice": "I bought a dress and a hat. {The} hat was cheaper.",
+              "opts": [
+                "A",
+                "An"
+              ],
+              "tr": "Я купила платье и шляпу. Шляпа была дешевле."
+            },
+            {
+              "choice": "She works three days {a} week.",
+              "opts": [
+                "the",
+                "an"
+              ],
+              "tr": "Она работает три дня в неделю."
+            },
+            {
+              "choice": "Where's {the} remote? I can't find it.",
+              "opts": [
+                "a",
+                "an"
+              ],
+              "tr": "Где пульт? Не могу его найти."
+            },
+            {
+              "choice": "We met {an} interesting couple on holiday.",
+              "opts": [
+                "the",
+                "a"
+              ],
+              "tr": "В отпуске мы познакомились с интересной парой."
+            },
+            {
+              "order": "I had a sandwich, but the bread was stale.",
+              "tr": "Я съел бутерброд, но хлеб был чёрствый."
+            },
+            {
+              "order": "Is this the right bus to the airport?",
+              "tr": "Это нужный автобус до аэропорта?"
+            },
+            {
+              "fix": "My cousin has {the>a} dog and two cats.",
+              "tr": "У моей двоюродной сестры собака и две кошки."
+            },
+            {
+              "fix": "{Moon>The moon} looks huge tonight.",
+              "tr": "Луна сегодня кажется огромной."
+            },
+            {
+              "fix": "I have to go to {a>the} bank before it closes.",
+              "tr": "Мне надо успеть в банк, пока он не закрылся."
+            }
+          ]
+        },
+        {
+          "id": "the-or-nothing",
+          "title": "the или без артикля",
+          "theory": [
+            {
+              "table": [
+                [
+                  "без the",
+                  "вообще: dogs, music, life · school, work, home, bed по назначению · страны, города, улицы, Lake, Mount · компании"
+                ],
+                [
+                  "the",
+                  "конкретно: the dogs next door · the school (здание) · реки, моря, мн. ч.: the Alps · отели, музеи, газеты · the rich, the French"
+                ]
+              ]
+            },
+            {
+              "ex": "[Life] in a big city is fast.",
+              "tr": "Жизнь в большом городе стремительная."
+            },
+            {
+              "ex": "Kids go to [school]; parents go to [the school] for meetings.",
+              "tr": "Дети ходят в школу учиться, а родители — на собрания."
+            },
+            {
+              "ex": "We sailed down [the Volga] to [Kazan].",
+              "tr": "Мы плыли по Волге до Казани."
+            },
+            {
+              "tip": "Если можно добавить «этот, из этого места» — ставьте the. Если речь о виде, идее или назначении — без the."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "Most people in our office walk to {work}.",
+              "hint": "work / the work",
+              "tr": "Большинство людей в нашем офисе ходят на работу пешком.",
+              "why": "Go / walk to work — без the."
+            },
+            {
+              "choice": "{Life} is easier with good friends.",
+              "opts": [
+                "The life",
+                "A life"
+              ],
+              "tr": "С хорошими друзьями жить легче.",
+              "why": "Жизнь вообще — без артикля."
+            },
+            {
+              "order": "We spent a week in the Alps.",
+              "tr": "Мы провели неделю в Альпах."
+            },
+            {
+              "fix": "My parents live near {the Lake Ontario>Lake Ontario}.",
+              "tr": "Мои родители живут недалеко от озера Онтарио.",
+              "why": "Lake + имя — без the."
+            }
+          ],
+          "review": [
+            {
+              "gap": "Which ocean is bigger, {the} Atlantic or the Indian?",
+              "hint": "the / —",
+              "tr": "Какой океан больше — Атлантический или Индийский?"
+            },
+            {
+              "gap": "We went to {the} hospital to visit Grandma.",
+              "hint": "the / —",
+              "tr": "Мы ездили в больницу навестить бабушку.",
+              "why": "Мы посетители, а не пациенты — the."
+            },
+            {
+              "gap": "{The} Dutch are very tall on average.",
+              "hint": "the / —",
+              "tr": "Голландцы в среднем очень высокие."
+            },
+            {
+              "choice": "{Vegetables} are good for you.",
+              "opts": [
+                "The vegetables",
+                "A vegetables"
+              ],
+              "tr": "Овощи полезны."
+            },
+            {
+              "choice": "Lessons start at nine, so I leave for {school} at eight.",
+              "opts": [
+                "the schools",
+                "a school"
+              ],
+              "tr": "Уроки начинаются в девять, поэтому я выхожу в школу в восемь."
+            },
+            {
+              "choice": "I read about it in {the Times}.",
+              "opts": [
+                "Times",
+                "a Times"
+              ],
+              "tr": "Я читал об этом в «Таймс»."
+            },
+            {
+              "choice": "My cousin works for {Toyota}.",
+              "opts": [
+                "the Toyota",
+                "a Toyota"
+              ],
+              "tr": "Мой двоюродный брат работает в Toyota."
+            },
+            {
+              "order": "The French eat a lot of cheese.",
+              "tr": "Французы едят много сыра."
+            },
+            {
+              "order": "Doctors say sleep is very important.",
+              "tr": "Врачи говорят, что сон очень важен."
+            },
+            {
+              "fix": "{The most>Most} students in my group speak French.",
+              "tr": "Большинство студентов в моей группе говорят по-французски."
+            },
+            {
+              "fix": "Kids, it's late, go to {the bed>bed}!",
+              "tr": "Дети, уже поздно, марш спать!"
+            },
+            {
+              "fix": "We visited {the Spain>Spain} and Portugal.",
+              "tr": "Мы побывали в Испании и Португалии."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

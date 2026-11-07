@@ -1,0 +1,4478 @@
+{
+  "format": 1,
+  "kind": "course",
+  "id": "grammar-10-phrasal-verbs",
+  "title": "Фразовые глаголы",
+  "targetLang": "en",
+  "nativeLang": "ru",
+  "level": "B1",
+  "lessons": [
+    {
+      "id": "u137-phrasal-verbs-introduction",
+      "title": "Phrasal verbs 1: Introduction",
+      "subtitle": "Юнит 137 · что такое фразовый глагол",
+      "level": "B1",
+      "points": [
+        {
+          "id": "meaning",
+          "title": "Частица меняет смысл",
+          "theory": [
+            "Фразовый глагол — глагол + частица: on, off, out, up, down, away, back и др. Иногда частица просто показывает направление, а иногда даёт совсем новый смысл.",
+            {
+              "table": [
+                [
+                  "направление",
+                  "get on (сесть в автобус) · drive off · come back · turn round"
+                ],
+                [
+                  "новый смысл",
+                  "break down (сломаться) · find out (узнать) · give up (бросить) · take off (взлететь) · get by (справляться)"
+                ]
+              ]
+            },
+            {
+              "ex": "Our car [broke down] on the motorway.",
+              "tr": "Наша машина сломалась на трассе."
+            },
+            {
+              "ex": "How did you [find out] about the party?",
+              "tr": "Как ты узнал про вечеринку?"
+            },
+            {
+              "ex": "My Spanish is basic, but I can [get by].",
+              "tr": "Мой испанский на базовом уровне, но объясниться я могу."
+            },
+            {
+              "tip": "Смысл фразового глагола часто не складывается из частей: give up — не «дать вверх», а «бросить, сдаться». Учи их целиком."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "I tried to fix it many times, but in the end I {gave up}.",
+              "hint": "give / up",
+              "tr": "Я много раз пытался это починить, но в конце концов сдался.",
+              "why": "give up = перестать пытаться."
+            },
+            {
+              "choice": "The plane {took off} an hour late.",
+              "opts": [
+                "took up",
+                "took out"
+              ],
+              "tr": "Самолёт взлетел с опозданием на час.",
+              "why": "take off = взлететь."
+            },
+            {
+              "order": "She turned round and smiled at me.",
+              "tr": "Она обернулась и улыбнулась мне."
+            },
+            {
+              "fix": "My laptop {broke up>broke down} again.",
+              "tr": "Мой ноутбук опять сломался.",
+              "why": "Техника ломается — break down."
+            }
+          ],
+          "review": [
+            {
+              "gap": "When are you {coming back}?",
+              "hint": "come / back",
+              "tr": "Когда ты вернёшься?"
+            },
+            {
+              "gap": "I never {found out} who sent the letter.",
+              "hint": "find / out",
+              "tr": "Я так и не узнал, кто прислал письмо.",
+              "why": "find out = узнать, выяснить."
+            },
+            {
+              "gap": "The bus was so full that we couldn't {get on}.",
+              "hint": "get / on",
+              "tr": "Автобус был так переполнен, что мы не смогли сесть."
+            },
+            {
+              "choice": "How did you {get on} in the interview?",
+              "opts": [
+                "get by",
+                "get off"
+              ],
+              "tr": "Как прошло собеседование?",
+              "why": "get on = how did it go."
+            },
+            {
+              "choice": "He jumped into his car and {drove off}.",
+              "opts": [
+                "drove on",
+                "drove up"
+              ],
+              "tr": "Он прыгнул в машину и уехал.",
+              "why": "drive off = уехать."
+            },
+            {
+              "choice": "We don't earn much, but we {get by}.",
+              "opts": [
+                "get off",
+                "get out"
+              ],
+              "tr": "Мы зарабатываем немного, но справляемся.",
+              "why": "get by = справляться, хватает."
+            },
+            {
+              "order": "Our old car broke down again.",
+              "tr": "Наша старая машина снова сломалась."
+            },
+            {
+              "order": "Don't give up, you're almost there.",
+              "tr": "Не сдавайся, ты почти у цели."
+            },
+            {
+              "order": "He heard a noise and turned round.",
+              "tr": "Он услышал шум и обернулся."
+            },
+            {
+              "fix": "We need to {find up>find out} what went wrong.",
+              "tr": "Нам нужно выяснить, что пошло не так.",
+              "why": "Выяснить — find out."
+            },
+            {
+              "fix": "Fasten your seat belts, we're {taking up>taking off}.",
+              "tr": "Пристегните ремни, мы взлетаем.",
+              "why": "Взлетать — take off."
+            },
+            {
+              "fix": "My dad {gave off>gave up} smoking last year.",
+              "tr": "Мой папа бросил курить в прошлом году.",
+              "why": "Бросить привычку — give up."
+            }
+          ]
+        },
+        {
+          "id": "plus-preposition",
+          "title": "Фразовый глагол + предлог",
+          "theory": [
+            "Иногда после частицы нужен ещё и предлог — перед тем, к чему или от чего направлено действие.",
+            {
+              "table": [
+                [
+                  "run away from",
+                  "убежать от"
+                ],
+                [
+                  "keep up with",
+                  "не отставать от"
+                ],
+                [
+                  "look forward to",
+                  "ждать с нетерпением"
+                ],
+                [
+                  "look up at",
+                  "посмотреть вверх на"
+                ],
+                [
+                  "get on with",
+                  "ладить с"
+                ]
+              ]
+            },
+            {
+              "ex": "I'm [looking forward to] the holidays.",
+              "tr": "Я с нетерпением жду каникул."
+            },
+            {
+              "ex": "The dog [ran away from] the noise.",
+              "tr": "Собака убежала от шума."
+            },
+            {
+              "wrong": "I'm looking forward to see you.",
+              "right": "I'm looking forward to seeing you."
+            },
+            {
+              "tip": "В look forward to частица to — предлог, поэтому после неё глагол идёт с -ing."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "Slow down! I can't keep up {with} you.",
+              "hint": "предлог",
+              "tr": "Помедленнее! Я не успеваю за тобой.",
+              "why": "keep up with somebody."
+            },
+            {
+              "choice": "We're looking forward to {meeting} your parents.",
+              "opts": [
+                "meet",
+                "have met"
+              ],
+              "tr": "Мы с нетерпением ждём встречи с твоими родителями.",
+              "why": "look forward to + -ing."
+            },
+            {
+              "order": "The boy ran away from his parents.",
+              "tr": "Мальчик сбежал от родителей."
+            },
+            {
+              "fix": "We all looked {up on>up at} the stars.",
+              "tr": "Мы все посмотрели вверх на звёзды.",
+              "why": "look up at."
+            }
+          ],
+          "review": [
+            {
+              "gap": "I'm really looking forward {to} the concert.",
+              "hint": "предлог",
+              "tr": "Я очень жду концерта."
+            },
+            {
+              "gap": "Do you get on well {with} your boss?",
+              "hint": "предлог",
+              "tr": "Ты хорошо ладишь с начальником?"
+            },
+            {
+              "gap": "The cat ran away {from} the dog.",
+              "hint": "предлог",
+              "tr": "Кошка убежала от собаки."
+            },
+            {
+              "choice": "It's hard to keep up {with} all the news.",
+              "opts": [
+                "to",
+                "for"
+              ],
+              "tr": "Трудно успевать следить за всеми новостями."
+            },
+            {
+              "choice": "I look forward to {hearing} from you.",
+              "opts": [
+                "hear",
+                "be hearing"
+              ],
+              "tr": "Жду вашего ответа.",
+              "why": "look forward to + -ing."
+            },
+            {
+              "choice": "She doesn't get on {with} her sister.",
+              "opts": [
+                "to",
+                "by"
+              ],
+              "tr": "Она не ладит с сестрой."
+            },
+            {
+              "order": "We are looking forward to our trip.",
+              "tr": "Мы с нетерпением ждём нашей поездки."
+            },
+            {
+              "order": "Everyone looked up at the plane.",
+              "tr": "Все посмотрели вверх на самолёт."
+            },
+            {
+              "order": "He tried to keep up with the others.",
+              "tr": "Он старался не отставать от остальных."
+            },
+            {
+              "fix": "I'm looking forward {to see>to seeing} you again.",
+              "tr": "С нетерпением жду новой встречи с тобой.",
+              "why": "look forward to + -ing."
+            },
+            {
+              "fix": "Why did you run away {of>from} me?",
+              "tr": "Почему ты убежал от меня?",
+              "why": "run away from."
+            },
+            {
+              "fix": "She can't keep {up to>up with} her classmates.",
+              "tr": "Она не успевает за одноклассниками.",
+              "why": "keep up with."
+            }
+          ]
+        },
+        {
+          "id": "object",
+          "title": "Где стоит дополнение",
+          "theory": [
+            "Если у фразового глагола есть дополнение-существительное, оно может стоять до или после частицы. Если дополнение — местоимение (it, them, me, him...), оно стоит только между глаголом и частицей.",
+            {
+              "formula": [
+                "turn on",
+                "+",
+                "the light",
+                "или",
+                "turn",
+                "+",
+                "the light",
+                "+",
+                "on"
+              ]
+            },
+            {
+              "formula": [
+                "turn",
+                "+",
+                "it",
+                "+",
+                "on"
+              ]
+            },
+            {
+              "ex": "It's dark. Can you [turn it on]?",
+              "tr": "Темно. Можешь его включить?"
+            },
+            {
+              "ex": "These shoes hurt. I'll [take them off].",
+              "tr": "Эти туфли жмут. Я их сниму."
+            },
+            {
+              "wrong": "Don't wake up him.",
+              "right": "Don't wake him up."
+            },
+            {
+              "tip": "Правило касается глаголов, где частица — наречие: turn on, take off, wake up, throw away. С обычным предлогом всё иначе: look at it, а не look it at."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "The baby is sleeping, so please don't {wake her up}.",
+              "hint": "wake / her / up",
+              "tr": "Малышка спит, так что не буди её, пожалуйста.",
+              "why": "Местоимение — между глаголом и частицей."
+            },
+            {
+              "choice": "This box is useful, so don't {throw it away}.",
+              "opts": [
+                "throw away it",
+                "throw it"
+              ],
+              "tr": "Эта коробка пригодится, так что не выбрасывай её.",
+              "why": "throw + it + away."
+            },
+            {
+              "order": "Here are your gloves, put them on.",
+              "tr": "Вот твои перчатки, надень их."
+            },
+            {
+              "fix": "The TV is too loud. {Turn down it>Turn it down}, please.",
+              "tr": "Телевизор слишком громкий. Сделай потише, пожалуйста.",
+              "why": "Местоимение стоит перед частицей."
+            }
+          ],
+          "review": [
+            {
+              "gap": "Your music is too quiet. {Turn it up}!",
+              "hint": "turn / it / up",
+              "tr": "Музыка слишком тихая. Сделай погромче!"
+            },
+            {
+              "gap": "The heater is on. Can you {switch it off}?",
+              "hint": "switch / it / off",
+              "tr": "Обогреватель включён. Можешь его выключить?"
+            },
+            {
+              "gap": "Those are my keys. Please {give them back}.",
+              "hint": "give / them / back",
+              "tr": "Это мои ключи. Пожалуйста, верни их."
+            },
+            {
+              "choice": "My coat is wet, so I'll {take it off}.",
+              "opts": [
+                "take off it",
+                "take it"
+              ],
+              "tr": "Пальто мокрое, так что я его сниму."
+            },
+            {
+              "choice": "The alarm is ringing! {Turn it off}!",
+              "opts": [
+                "Turn off it",
+                "Turn off"
+              ],
+              "tr": "Будильник звонит! Выключи его!"
+            },
+            {
+              "choice": "I don't know this word. I'll {look it up}.",
+              "opts": [
+                "look up it",
+                "look it"
+              ],
+              "tr": "Я не знаю этого слова. Посмотрю его в словаре."
+            },
+            {
+              "order": "Don't wake him up before nine.",
+              "tr": "Не буди его раньше девяти."
+            },
+            {
+              "order": "I wrote it down in my notebook.",
+              "tr": "Я записал это в блокнот."
+            },
+            {
+              "order": "These jeans look great, try them on.",
+              "tr": "Эти джинсы отлично смотрятся, примерь их."
+            },
+            {
+              "fix": "That's my pen. Please {give back it>give it back}.",
+              "tr": "Это моя ручка. Пожалуйста, верни её.",
+              "why": "give + it + back."
+            },
+            {
+              "fix": "Your shoes are dirty. {Take off them>Take them off}.",
+              "tr": "Твои ботинки грязные. Сними их.",
+              "why": "Местоимение — между глаголом и частицей."
+            },
+            {
+              "fix": "Don't forget the lights. {Switch off them>Switch them off}.",
+              "tr": "Не забудь про свет. Выключи его.",
+              "why": "switch + them + off."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u138-phrasal-verbs-in-out",
+      "title": "Phrasal verbs 2: in/out",
+      "subtitle": "Юнит 138 · move in, check out, drop out",
+      "level": "B1",
+      "points": [
+        {
+          "id": "in-out-movement",
+          "title": "in и out: внутрь и наружу",
+          "theory": [
+            "in — внутрь здания, комнаты, машины; out — наружу. Частица стоит в конце, если место не названо. Если место названо, нужен предлог: into или out of.",
+            {
+              "table": [
+                [
+                  "in",
+                  "get in · come in · move in · check in · let somebody in · break in"
+                ],
+                [
+                  "out",
+                  "get out · go out · move out · check out · let somebody out · be locked out"
+                ]
+              ]
+            },
+            {
+              "formula": [
+                "move in",
+                "→",
+                "move into",
+                "+",
+                "место"
+              ]
+            },
+            {
+              "formula": [
+                "climb out",
+                "→",
+                "climb out of",
+                "+",
+                "место"
+              ]
+            },
+            {
+              "ex": "We [checked in] and went to our room.",
+              "tr": "Мы заселились и пошли в номер."
+            },
+            {
+              "ex": "I left my keys inside and got [locked out].",
+              "tr": "Я оставил ключи внутри и не смог попасть домой."
+            },
+            {
+              "wrong": "She got out the car.",
+              "right": "She got out of the car."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "We're {moving into} a new flat on Saturday.",
+              "hint": "move / in",
+              "tr": "В субботу мы переезжаем в новую квартиру.",
+              "why": "Место названо — move into."
+            },
+            {
+              "choice": "Knock before you {come in}.",
+              "opts": [
+                "come into",
+                "come out of"
+              ],
+              "tr": "Постучи, прежде чем войти.",
+              "why": "Место не названо — просто in."
+            },
+            {
+              "order": "We have to check out by eleven.",
+              "tr": "Нам нужно выехать из отеля до одиннадцати."
+            },
+            {
+              "fix": "He {climbed out the>climbed out of the} window.",
+              "tr": "Он вылез через окно.",
+              "why": "Место названо — out of."
+            }
+          ],
+          "review": [
+            {
+              "gap": "Open the door and {let the dog in|let in the dog}, please.",
+              "hint": "let / the dog / in",
+              "tr": "Открой дверь и впусти собаку, пожалуйста."
+            },
+            {
+              "gap": "My flatmate is {moving out} next month.",
+              "hint": "move / out",
+              "tr": "Мой сосед по квартире съезжает в следующем месяце."
+            },
+            {
+              "gap": "Thieves {broke in} through the back window.",
+              "hint": "break / in",
+              "tr": "Воры проникли через заднее окно."
+            },
+            {
+              "choice": "Stay in the car, don't {get out}.",
+              "opts": [
+                "get out of",
+                "get into"
+              ],
+              "tr": "Сиди в машине, не выходи.",
+              "why": "Место не названо после глагола — out."
+            },
+            {
+              "choice": "Passengers must {check in} two hours before the flight.",
+              "opts": [
+                "check out",
+                "check into"
+              ],
+              "tr": "Пассажиры должны зарегистрироваться за два часа до вылета."
+            },
+            {
+              "choice": "She walked {into} the kitchen.",
+              "opts": [
+                "at",
+                "on"
+              ],
+              "tr": "Она вошла на кухню.",
+              "why": "Место названо — into."
+            },
+            {
+              "order": "Who let the dog out of the house?",
+              "tr": "Кто выпустил собаку из дома?"
+            },
+            {
+              "order": "The door shut and I was locked out.",
+              "tr": "Дверь захлопнулась, и я остался снаружи."
+            },
+            {
+              "order": "We got out of the taxi.",
+              "tr": "Мы вышли из такси."
+            },
+            {
+              "fix": "We moved {in>into} our new house last week.",
+              "tr": "На прошлой неделе мы переехали в новый дом.",
+              "why": "Место названо — into."
+            },
+            {
+              "fix": "Get {out the>out of the} water, it's cold!",
+              "tr": "Вылезай из воды, она холодная!",
+              "why": "out of + место."
+            },
+            {
+              "fix": "Come {into>in}, the door's open.",
+              "tr": "Входи, дверь открыта.",
+              "why": "Место не названо — in."
+            }
+          ]
+        },
+        {
+          "id": "other-in",
+          "title": "fill in, drop in, plug in",
+          "theory": [
+            "С частицей in есть и устойчивые глаголы, где смысл нужно просто запомнить.",
+            {
+              "table": [
+                [
+                  "fill in / fill out",
+                  "заполнить форму"
+                ],
+                [
+                  "drop in",
+                  "заглянуть без договорённости"
+                ],
+                [
+                  "join in",
+                  "присоединиться к тому, что уже идёт"
+                ],
+                [
+                  "plug in",
+                  "включить в розетку"
+                ],
+                [
+                  "take somebody in",
+                  "обмануть, провести"
+                ]
+              ]
+            },
+            {
+              "ex": "Please [fill in] this form.",
+              "tr": "Пожалуйста, заполните эту анкету."
+            },
+            {
+              "ex": "I'll [drop in] on my way home.",
+              "tr": "Я загляну по дороге домой."
+            },
+            {
+              "ex": "The charger doesn't work. Did you [plug it in]?",
+              "tr": "Зарядка не работает. Ты её включил в розетку?"
+            },
+            {
+              "tip": "Не путай fill in a form (заполнить) и fill something with (наполнить чем-то)."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "Everyone was singing, so I {joined in}.",
+              "hint": "join / in",
+              "tr": "Все пели, и я присоединился.",
+              "why": "join in — включиться в то, что уже идёт."
+            },
+            {
+              "choice": "You need to {fill in} this application.",
+              "opts": [
+                "fill with",
+                "fill on"
+              ],
+              "tr": "Нужно заполнить это заявление.",
+              "why": "Заполнить форму — fill in / out."
+            },
+            {
+              "order": "The salesman was very convincing and we were taken in.",
+              "tr": "Продавец был очень убедителен, и нас провели."
+            },
+            {
+              "fix": "The lamp isn't on because you didn't {plug it>plug it in}.",
+              "tr": "Лампа не горит, потому что ты не включил её в розетку.",
+              "why": "plug in — включить в розетку."
+            }
+          ],
+          "review": [
+            {
+              "gap": "Feel free to {drop in} whenever you're nearby.",
+              "hint": "drop / in",
+              "tr": "Заходи в любое время, когда будешь рядом."
+            },
+            {
+              "gap": "Please {fill in|fill out} the form in capital letters.",
+              "hint": "fill / in",
+              "tr": "Пожалуйста, заполните форму печатными буквами."
+            },
+            {
+              "gap": "Don't let him {take you in}, he's lying.",
+              "hint": "take / you / in",
+              "tr": "Не дай ему себя обмануть, он врёт."
+            },
+            {
+              "choice": "The kids were playing football, so I {joined in}.",
+              "opts": [
+                "joined up",
+                "joined into"
+              ],
+              "tr": "Дети играли в футбол, и я к ним присоединился."
+            },
+            {
+              "choice": "Where can I {plug in} my laptop?",
+              "opts": [
+                "plug on",
+                "plug into"
+              ],
+              "tr": "Куда можно включить ноутбук?"
+            },
+            {
+              "choice": "My aunt {dropped in} for a coffee.",
+              "opts": [
+                "dropped out",
+                "dropped into"
+              ],
+              "tr": "Тётя заглянула на кофе."
+            },
+            {
+              "order": "We dropped in to see Grandma.",
+              "tr": "Мы заглянули к бабушке."
+            },
+            {
+              "order": "Don't forget to fill it in.",
+              "tr": "Не забудь её заполнить."
+            },
+            {
+              "order": "I was completely taken in by his story.",
+              "tr": "Я полностью поверил его выдумке."
+            },
+            {
+              "fix": "Can you {fill on>fill in} your address here?",
+              "tr": "Можете вписать сюда свой адрес?",
+              "why": "fill in."
+            },
+            {
+              "fix": "Why don't you {join to>join in}?",
+              "tr": "Почему бы тебе не присоединиться?",
+              "why": "join in."
+            },
+            {
+              "fix": "Please {drop out>drop in} when you're in town.",
+              "tr": "Заходи, когда будешь в городе.",
+              "why": "Заглянуть в гости — drop in."
+            }
+          ]
+        },
+        {
+          "id": "other-out",
+          "title": "eat out, drop out, leave out",
+          "theory": [
+            "Глаголы с out тоже часто имеют особый смысл.",
+            {
+              "table": [
+                [
+                  "eat out",
+                  "поесть в ресторане, не дома"
+                ],
+                [
+                  "drop out (of)",
+                  "бросить учёбу, курс, гонку"
+                ],
+                [
+                  "get out of",
+                  "отвертеться от того, что обещал"
+                ],
+                [
+                  "leave out",
+                  "пропустить, не включить"
+                ],
+                [
+                  "cross out",
+                  "зачеркнуть"
+                ]
+              ]
+            },
+            {
+              "ex": "We [eat out] about once a week.",
+              "tr": "Мы ходим в ресторан примерно раз в неделю."
+            },
+            {
+              "ex": "He [dropped out of] university after a year.",
+              "tr": "Он бросил университет через год."
+            },
+            {
+              "ex": "Please don't [leave] anyone [out].",
+              "tr": "Пожалуйста, никого не пропусти."
+            },
+            {
+              "tip": "drop out — без продолжения, drop out of — если названо, откуда: drop out of the race."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "I promised to help, and now I can't {get out of} it.",
+              "hint": "get / out / of",
+              "tr": "Я обещал помочь, и теперь не могу отвертеться.",
+              "why": "get out of = избежать обещанного."
+            },
+            {
+              "choice": "There's no food at home, let's {eat out}.",
+              "opts": [
+                "eat in",
+                "eat off"
+              ],
+              "tr": "Дома нет еды, давай поедим в кафе.",
+              "why": "eat out — поесть вне дома."
+            },
+            {
+              "order": "She crossed it out with a red pen.",
+              "tr": "Она зачеркнула это красной ручкой."
+            },
+            {
+              "fix": "Two runners dropped {out the>out of the} race.",
+              "tr": "Двое бегунов сошли с дистанции.",
+              "why": "drop out of + что."
+            }
+          ],
+          "review": [
+            {
+              "gap": "You {left out} the most important detail!",
+              "hint": "leave / out",
+              "tr": "Ты упустил самую важную деталь!"
+            },
+            {
+              "gap": "He {dropped out of} college to start a company.",
+              "hint": "drop / out / of",
+              "tr": "Он бросил колледж, чтобы открыть компанию."
+            },
+            {
+              "gap": "If you make a mistake, just {cross it out}.",
+              "hint": "cross / it / out",
+              "tr": "Если ошибёшься, просто зачеркни."
+            },
+            {
+              "choice": "We usually {eat out} on Fridays.",
+              "opts": [
+                "eat outside of",
+                "eat away"
+              ],
+              "tr": "По пятницам мы обычно ужинаем в ресторане."
+            },
+            {
+              "choice": "Don't {leave out} any words.",
+              "opts": [
+                "leave away",
+                "let out"
+              ],
+              "tr": "Не пропускай ни одного слова."
+            },
+            {
+              "choice": "She tried to {get out of} the meeting.",
+              "opts": [
+                "get off",
+                "get away"
+              ],
+              "tr": "Она пыталась отвертеться от встречи."
+            },
+            {
+              "order": "Too many students drop out of this course.",
+              "tr": "Слишком много студентов бросают этот курс."
+            },
+            {
+              "order": "I would love to get out of this meeting.",
+              "tr": "Я бы с радостью отвертелся от этой встречи."
+            },
+            {
+              "order": "They left my name out of the list.",
+              "tr": "Они не включили моё имя в список."
+            },
+            {
+              "fix": "We rarely cook, we {eat away>eat out} a lot.",
+              "tr": "Мы редко готовим, часто едим в кафе.",
+              "why": "Поесть в ресторане — eat out."
+            },
+            {
+              "fix": "He {left out of>left out} the last question.",
+              "tr": "Он пропустил последний вопрос.",
+              "why": "leave out something — без of."
+            },
+            {
+              "fix": "Sorry, I can't {get out it>get out of it}.",
+              "tr": "Извини, я не могу отвертеться.",
+              "why": "get out of something."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u139-phrasal-verbs-out",
+      "title": "Phrasal verbs 3: out",
+      "subtitle": "Юнит 139 · put out, work out, run out",
+      "level": "B1",
+      "points": [
+        {
+          "id": "not-burning",
+          "title": "out = погасить, погаснуть",
+          "theory": [
+            "out может значить «перестать гореть или светить». go out — само гаснет, put / turn / blow out — кто-то гасит.",
+            {
+              "table": [
+                [
+                  "go out",
+                  "погаснуть (свет, огонь)"
+                ],
+                [
+                  "put out",
+                  "потушить (пожар, сигарету, свет)"
+                ],
+                [
+                  "turn out",
+                  "выключить свет"
+                ],
+                [
+                  "blow out",
+                  "задуть (свечу)"
+                ]
+              ]
+            },
+            {
+              "ex": "Suddenly the lights [went out].",
+              "tr": "Вдруг погас свет."
+            },
+            {
+              "ex": "Firefighters [put out] the fire in an hour.",
+              "tr": "Пожарные потушили огонь за час."
+            },
+            {
+              "ex": "Make a wish and [blow out] the candles!",
+              "tr": "Загадай желание и задуй свечи!"
+            },
+            {
+              "wrong": "The fire went off by itself.",
+              "right": "The fire went out by itself."
+            },
+            {
+              "tip": "go out — без дополнения (гаснет само). put out, blow out — с дополнением; с местоимением: put it out, blow them out."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "The candle {went out} because of the wind.",
+              "hint": "go / out",
+              "tr": "Свеча погасла из-за ветра.",
+              "why": "Погасла сама — go out."
+            },
+            {
+              "choice": "Please {put out} your cigarette.",
+              "opts": [
+                "put off",
+                "go out"
+              ],
+              "tr": "Пожалуйста, потушите сигарету.",
+              "why": "Потушить — put out."
+            },
+            {
+              "order": "The candles were blown out by the wind.",
+              "tr": "Свечи задул ветер."
+            },
+            {
+              "fix": "Don't forget to {turn up>turn out} the lights.",
+              "tr": "Не забудь выключить свет.",
+              "why": "Выключить свет — turn out (или turn off)."
+            }
+          ],
+          "review": [
+            {
+              "gap": "The campfire {went out} during the night.",
+              "hint": "go / out",
+              "tr": "Костёр погас ночью."
+            },
+            {
+              "gap": "It took hours to {put out} the forest fire.",
+              "hint": "put / out",
+              "tr": "На то, чтобы потушить лесной пожар, ушло несколько часов."
+            },
+            {
+              "gap": "That candle is dangerous, please {blow it out}.",
+              "hint": "blow / it / out",
+              "tr": "Эта свеча опасна, задуй её, пожалуйста."
+            },
+            {
+              "choice": "All the street lamps {went out} at midnight.",
+              "opts": [
+                "put out",
+                "blew"
+              ],
+              "tr": "В полночь погасли все фонари.",
+              "why": "Погасли сами — went out."
+            },
+            {
+              "choice": "He {put out} the fire with a blanket.",
+              "opts": [
+                "went out",
+                "blew up"
+              ],
+              "tr": "Он потушил огонь одеялом."
+            },
+            {
+              "choice": "Turn the lights {out} when you leave.",
+              "opts": [
+                "in",
+                "away"
+              ],
+              "tr": "Выключи свет, когда будешь уходить."
+            },
+            {
+              "order": "The fire went out on its own.",
+              "tr": "Огонь погас сам."
+            },
+            {
+              "order": "Firefighters managed to put it out.",
+              "tr": "Пожарным удалось его потушить."
+            },
+            {
+              "order": "The kids blew them out together.",
+              "tr": "Дети вместе их задули."
+            },
+            {
+              "fix": "Suddenly all the lights {went away>went out}.",
+              "tr": "Вдруг погас весь свет.",
+              "why": "Погаснуть — go out."
+            },
+            {
+              "fix": "Can you {put it off>put it out}? There's smoke everywhere.",
+              "tr": "Можешь его потушить? Везде дым.",
+              "why": "Потушить — put out; put off = отложить."
+            },
+            {
+              "fix": "The match {put out>went out} before I could light the candle.",
+              "tr": "Спичка погасла, прежде чем я успел зажечь свечу.",
+              "why": "Погасла сама — go out."
+            }
+          ]
+        },
+        {
+          "id": "work-out",
+          "title": "Много смыслов work out",
+          "theory": [
+            "work out — один из самых частых фразовых глаголов. Смысл зависит от контекста.",
+            {
+              "table": [
+                [
+                  "work out",
+                  "тренироваться"
+                ],
+                [
+                  "work out (well)",
+                  "сложиться, получиться"
+                ],
+                [
+                  "work out at",
+                  "составить (о сумме)"
+                ],
+                [
+                  "work something out",
+                  "посчитать; понять, разобраться"
+                ],
+                [
+                  "figure out",
+                  "понять, разобраться (= work out)"
+                ]
+              ]
+            },
+            {
+              "ex": "I [work out] at the gym twice a week.",
+              "tr": "Я тренируюсь в спортзале два раза в неделю."
+            },
+            {
+              "ex": "I hope everything [works out] for you.",
+              "tr": "Надеюсь, у тебя всё сложится."
+            },
+            {
+              "ex": "I can't [work out] how to use this app.",
+              "tr": "Не могу разобраться, как пользоваться этим приложением."
+            },
+            {
+              "tip": "С местоимением: work it out, figure it out."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "The bill {works out} at twenty euros each.",
+              "hint": "work / out",
+              "tr": "Счёт выходит по двадцать евро на человека.",
+              "why": "О сумме — work out at."
+            },
+            {
+              "choice": "Their marriage didn't {work out}.",
+              "opts": [
+                "work up",
+                "work off"
+              ],
+              "tr": "Их брак не сложился.",
+              "why": "Сложиться — work out."
+            },
+            {
+              "order": "I need a calculator to work it out.",
+              "tr": "Мне нужен калькулятор, чтобы это посчитать."
+            },
+            {
+              "fix": "Don't worry, we'll {figure up>figure out} the problem.",
+              "tr": "Не переживай, мы разберёмся с проблемой.",
+              "why": "Разобраться — figure out."
+            }
+          ],
+          "review": [
+            {
+              "gap": "She {works out} every morning before work.",
+              "hint": "work / out",
+              "tr": "Она тренируется каждое утро перед работой."
+            },
+            {
+              "gap": "Detectives are trying to {work out|figure out} what happened.",
+              "hint": "work / out",
+              "tr": "Детективы пытаются выяснить, что произошло."
+            },
+            {
+              "gap": "This puzzle is hard, but I'll {figure it out|work it out}.",
+              "hint": "figure / it / out",
+              "tr": "Эта головоломка сложная, но я разберусь."
+            },
+            {
+              "choice": "My new job is {working out} really well.",
+              "opts": [
+                "working up",
+                "working off"
+              ],
+              "tr": "Новая работа складывается очень хорошо."
+            },
+            {
+              "choice": "Can you {work out} how much we owe?",
+              "opts": [
+                "work off",
+                "work in"
+              ],
+              "tr": "Можешь посчитать, сколько мы должны?"
+            },
+            {
+              "choice": "I {work out} in the park when it's sunny.",
+              "opts": [
+                "work up",
+                "work over"
+              ],
+              "tr": "Когда солнечно, я тренируюсь в парке."
+            },
+            {
+              "order": "Things didn't work out with my business partner.",
+              "tr": "С деловым партнёром ничего не сложилось."
+            },
+            {
+              "order": "The total works out at about a thousand dollars.",
+              "tr": "В итоге получается около тысячи долларов."
+            },
+            {
+              "order": "Nobody could figure it out.",
+              "tr": "Никто не смог в этом разобраться."
+            },
+            {
+              "fix": "I can't {work out it>work it out} in my head.",
+              "tr": "Я не могу посчитать это в уме.",
+              "why": "Местоимение — между work и out."
+            },
+            {
+              "fix": "He goes to the gym to {work up>work out}.",
+              "tr": "Он ходит в спортзал тренироваться.",
+              "why": "Тренироваться — work out."
+            },
+            {
+              "fix": "I hope your plans {work off>work out}.",
+              "tr": "Надеюсь, твои планы осуществятся.",
+              "why": "Сложиться — work out."
+            }
+          ]
+        },
+        {
+          "id": "other-out",
+          "title": "carry out, find out, run out",
+          "theory": [
+            "Другие частые глаголы с out:",
+            {
+              "table": [
+                [
+                  "carry out",
+                  "выполнить (план, исследование, приказ)"
+                ],
+                [
+                  "find out",
+                  "узнать, выяснить"
+                ],
+                [
+                  "point out",
+                  "указать, обратить внимание"
+                ],
+                [
+                  "sort out",
+                  "уладить, разобрать"
+                ],
+                [
+                  "turn out",
+                  "оказаться (в итоге)"
+                ],
+                [
+                  "run out (of)",
+                  "закончиться"
+                ],
+                [
+                  "give / hand out",
+                  "раздать"
+                ],
+                [
+                  "try out",
+                  "опробовать"
+                ]
+              ]
+            },
+            {
+              "ex": "We've [run out of] milk.",
+              "tr": "У нас закончилось молоко."
+            },
+            {
+              "ex": "The new teacher [turned out] to be very kind.",
+              "tr": "Новая учительница оказалась очень доброй."
+            },
+            {
+              "ex": "Let's [sort out] this problem today.",
+              "tr": "Давай решим эту проблему сегодня."
+            },
+            {
+              "wrong": "We have run out from coffee.",
+              "right": "We have run out of coffee."
+            },
+            {
+              "tip": "turn out to be / turn out that... = оказаться. run out — само заканчивается; run out of — у кого-то закончилось что-то."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "The scientists {carried out} several experiments.",
+              "hint": "carry / out",
+              "tr": "Учёные провели несколько экспериментов.",
+              "why": "Провести исследование — carry out."
+            },
+            {
+              "choice": "It {turned out} that we were neighbours.",
+              "opts": [
+                "found out",
+                "pointed out"
+              ],
+              "tr": "Оказалось, что мы соседи.",
+              "why": "Оказаться — turn out."
+            },
+            {
+              "order": "My phone has run out of battery.",
+              "tr": "У телефона села батарея."
+            },
+            {
+              "fix": "The teacher {handed off>handed out} the tests.",
+              "tr": "Учитель раздал контрольные.",
+              "why": "Раздать — hand out."
+            }
+          ],
+          "review": [
+            {
+              "gap": "I just {found out} that Mia is pregnant.",
+              "hint": "find / out",
+              "tr": "Я только что узнал, что Мия беременна."
+            },
+            {
+              "gap": "Thanks for {pointing out} my mistake.",
+              "hint": "point / out",
+              "tr": "Спасибо, что указал на мою ошибку."
+            },
+            {
+              "gap": "We need to {sort out} these papers.",
+              "hint": "sort / out",
+              "tr": "Нам нужно разобрать эти бумаги."
+            },
+            {
+              "choice": "The company is {trying out} a new app.",
+              "opts": [
+                "trying on",
+                "trying off"
+              ],
+              "tr": "Компания тестирует новое приложение.",
+              "why": "Опробовать — try out; try on — примерить одежду."
+            },
+            {
+              "choice": "We {ran out of} petrol on the way.",
+              "opts": [
+                "ran out",
+                "ran off"
+              ],
+              "tr": "По дороге у нас закончился бензин.",
+              "why": "run out of + что."
+            },
+            {
+              "choice": "The weather {turned out} nice in the end.",
+              "opts": [
+                "found out",
+                "worked off"
+              ],
+              "tr": "В итоге погода оказалась хорошей."
+            },
+            {
+              "order": "Can you find out when the train leaves?",
+              "tr": "Можешь узнать, когда отходит поезд?"
+            },
+            {
+              "order": "A full investigation was carried out.",
+              "tr": "Было проведено полное расследование."
+            },
+            {
+              "order": "Free samples were given out at the door.",
+              "tr": "У входа раздавали бесплатные пробники."
+            },
+            {
+              "fix": "We've {run out from>run out of} time.",
+              "tr": "У нас закончилось время.",
+              "why": "run out of."
+            },
+            {
+              "fix": "He turned out {be>to be} a great boss.",
+              "tr": "Он оказался отличным начальником.",
+              "why": "turn out to be."
+            },
+            {
+              "fix": "I'll {sort it up>sort it out} tomorrow.",
+              "tr": "Я улажу это завтра.",
+              "why": "Уладить — sort out."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u140-phrasal-verbs-on-off-1",
+      "title": "Phrasal verbs 4: on/off (1)",
+      "subtitle": "Юнит 140 · turn on, put off, set off",
+      "level": "B1",
+      "points": [
+        {
+          "id": "devices-events",
+          "title": "Техника и события",
+          "theory": [
+            "on и off — «включено» и «выключено». А у событий: put off — отложить, call off — отменить, go on — происходить.",
+            {
+              "table": [
+                [
+                  "turn / switch on · off",
+                  "включить · выключить"
+                ],
+                [
+                  "leave something on",
+                  "оставить включённым"
+                ],
+                [
+                  "put on music / the kettle",
+                  "поставить музыку / чайник"
+                ],
+                [
+                  "put off (doing)",
+                  "отложить"
+                ],
+                [
+                  "call off",
+                  "отменить"
+                ],
+                [
+                  "go on",
+                  "происходить"
+                ]
+              ]
+            },
+            {
+              "ex": "Can you [switch] the heating [on]?",
+              "tr": "Можешь включить отопление?"
+            },
+            {
+              "ex": "The match was [called off] because of the rain.",
+              "tr": "Матч отменили из-за дождя."
+            },
+            {
+              "ex": "What's [going on] here?",
+              "tr": "Что здесь происходит?"
+            },
+            {
+              "wrong": "Don't open the TV, I'm reading.",
+              "right": "Don't turn on the TV, I'm reading."
+            },
+            {
+              "tip": "Русское «открыть / закрыть свет, телевизор» — ошибка; нужно turn / switch on и off. put off doing: We put off buying a car."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "The meeting has been {put off} until next week.",
+              "hint": "put / off",
+              "tr": "Встречу перенесли на следующую неделю.",
+              "why": "Отложить — put off."
+            },
+            {
+              "choice": "Please {turn off} the lights when you leave.",
+              "opts": [
+                "close",
+                "turn up"
+              ],
+              "tr": "Пожалуйста, выключай свет, когда уходишь.",
+              "why": "Выключить — turn off."
+            },
+            {
+              "order": "Please don't turn it off yet.",
+              "tr": "Пожалуйста, пока не выключай его."
+            },
+            {
+              "fix": "They {called out>called off} the concert because of the storm.",
+              "tr": "Концерт отменили из-за грозы.",
+              "why": "Отменить — call off."
+            }
+          ],
+          "review": [
+            {
+              "gap": "Shall I {put some music on|put on some music}?",
+              "hint": "put / some music / on",
+              "tr": "Поставить музыку?"
+            },
+            {
+              "gap": "Don't {leave the oven on}, it's dangerous.",
+              "hint": "leave / the oven / on",
+              "tr": "Не оставляй духовку включённой, это опасно."
+            },
+            {
+              "gap": "There's a lot of noise outside. What's {going on}?",
+              "hint": "go / on",
+              "tr": "На улице очень шумно. Что происходит?"
+            },
+            {
+              "choice": "Is the heating {on}? It's so warm in here.",
+              "opts": [
+                "off",
+                "out"
+              ],
+              "tr": "Отопление включено? Здесь так тепло.",
+              "why": "Тепло — значит включено."
+            },
+            {
+              "choice": "We can't {put off} the decision any longer.",
+              "opts": [
+                "put out",
+                "call on"
+              ],
+              "tr": "Мы больше не можем откладывать решение."
+            },
+            {
+              "choice": "The wedding was {called off} at the last minute.",
+              "opts": [
+                "called out",
+                "put on"
+              ],
+              "tr": "Свадьбу отменили в последний момент."
+            },
+            {
+              "order": "Can you switch it off, please?",
+              "tr": "Можешь выключить его, пожалуйста?"
+            },
+            {
+              "order": "Something strange is going on next door.",
+              "tr": "У соседей происходит что-то странное."
+            },
+            {
+              "order": "I keep putting off going to the dentist.",
+              "tr": "Я всё откладываю поход к стоматологу."
+            },
+            {
+              "fix": "Can you {open>turn on} the light? It's dark in here.",
+              "tr": "Можешь включить свет? Здесь темно.",
+              "why": "Свет включают — turn / switch on."
+            },
+            {
+              "fix": "We put off {to buy>buying} a new car.",
+              "tr": "Мы отложили покупку новой машины.",
+              "why": "put off + -ing."
+            },
+            {
+              "fix": "Don't forget to {close>switch off} the TV.",
+              "tr": "Не забудь выключить компьютер.",
+              "why": "Выключить технику — switch / turn off."
+            }
+          ]
+        },
+        {
+          "id": "clothes",
+          "title": "Одежда: put on, try on, take off",
+          "theory": [
+            "С одеждой, очками, обувью и ремнём безопасности используем put on (надеть), take off (снять), try on (примерить).",
+            {
+              "table": [
+                [
+                  "put on",
+                  "надеть"
+                ],
+                [
+                  "take off",
+                  "снять"
+                ],
+                [
+                  "try on",
+                  "примерить"
+                ],
+                [
+                  "put on weight",
+                  "поправиться"
+                ]
+              ]
+            },
+            {
+              "ex": "[Put on] your seat belt, please.",
+              "tr": "Пристегните ремень, пожалуйста."
+            },
+            {
+              "ex": "Can I [try] these shoes [on]?",
+              "tr": "Можно примерить эти туфли?"
+            },
+            {
+              "ex": "I've [put on] three kilos this winter.",
+              "tr": "Этой зимой я набрал три килограмма."
+            },
+            {
+              "wrong": "Wear your coat, it's cold.",
+              "right": "Put on your coat, it's cold."
+            },
+            {
+              "tip": "put on — действие (надеть), wear — состояние (быть одетым): She's wearing a red dress."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "It's hot in here. I'm going to {take off} my jumper.",
+              "hint": "take / off",
+              "tr": "Здесь жарко. Сниму-ка я свитер.",
+              "why": "Снять одежду — take off."
+            },
+            {
+              "choice": "Can I {try on} this jacket?",
+              "opts": [
+                "try out",
+                "put off"
+              ],
+              "tr": "Можно примерить эту куртку?",
+              "why": "Примерить — try on."
+            },
+            {
+              "order": "She found her glasses and put them on.",
+              "tr": "Она нашла очки и надела их."
+            },
+            {
+              "fix": "{Wear>Put on} your helmet before you get on the bike.",
+              "tr": "Надень шлем, прежде чем садиться на велосипед.",
+              "why": "Действие «надеть» — put on."
+            }
+          ],
+          "review": [
+            {
+              "gap": "Please {take your shoes off|take off your shoes} at the door.",
+              "hint": "take / your shoes / off",
+              "tr": "Пожалуйста, снимите обувь у двери."
+            },
+            {
+              "gap": "He's {put on} a lot of weight since he stopped running.",
+              "hint": "put / on",
+              "tr": "Он сильно поправился с тех пор, как бросил бегать."
+            },
+            {
+              "gap": "These boots look nice. Can I {try them on}?",
+              "hint": "try / them / on",
+              "tr": "Эти ботинки хорошо смотрятся. Можно их примерить?"
+            },
+            {
+              "choice": "It's raining, so {put on} your raincoat.",
+              "opts": [
+                "wear on",
+                "take on"
+              ],
+              "tr": "Идёт дождь, так что надень плащ."
+            },
+            {
+              "choice": "She {was wearing} a beautiful blue dress.",
+              "opts": [
+                "was putting",
+                "wore on"
+              ],
+              "tr": "На ней было красивое синее платье.",
+              "why": "Состояние — wear."
+            },
+            {
+              "choice": "Take {off} your hat in church.",
+              "opts": [
+                "out",
+                "down"
+              ],
+              "tr": "Сними шляпу в церкви."
+            },
+            {
+              "order": "I tried them on in the shop.",
+              "tr": "Я примерил их в магазине."
+            },
+            {
+              "order": "Where are my gloves? I want to put them on.",
+              "tr": "Где мои перчатки? Хочу их надеть."
+            },
+            {
+              "order": "Shoes must be taken off at the door.",
+              "tr": "Обувь нужно снимать у двери."
+            },
+            {
+              "fix": "I need to {take down>take off} these wet socks.",
+              "tr": "Мне нужно снять эти мокрые носки.",
+              "why": "Снять одежду — take off."
+            },
+            {
+              "fix": "Did you {try it>try it on} before you bought it?",
+              "tr": "Ты примерил это перед покупкой?",
+              "why": "Примерить — try on."
+            },
+            {
+              "fix": "I've {put up>put on} two kilos this month.",
+              "tr": "За этот месяц я набрал два килограмма.",
+              "why": "Поправиться — put on weight."
+            }
+          ]
+        },
+        {
+          "id": "off-away",
+          "title": "off = уехать, отправиться",
+          "theory": [
+            "off часто значит «прочь, в путь».",
+            {
+              "table": [
+                [
+                  "set off",
+                  "отправиться в путь"
+                ],
+                [
+                  "take off",
+                  "взлететь (о самолёте)"
+                ],
+                [
+                  "see somebody off",
+                  "проводить (на вокзал, в аэропорт)"
+                ],
+                [
+                  "drive / ride / run off",
+                  "уехать, убежать"
+                ],
+                [
+                  "be off (to)",
+                  "уходить, уезжать"
+                ]
+              ]
+            },
+            {
+              "ex": "We [set off] at dawn to avoid traffic.",
+              "tr": "Мы выехали на рассвете, чтобы не попасть в пробки."
+            },
+            {
+              "ex": "Our plane [took off] on time.",
+              "tr": "Наш самолёт взлетел вовремя."
+            },
+            {
+              "ex": "My parents came to the station to [see] me [off].",
+              "tr": "Родители пришли на вокзал проводить меня."
+            },
+            {
+              "tip": "I'm off = я пошёл, я ухожу: Right, I'm off. See you tomorrow!"
+            }
+          ],
+          "practice": [
+            {
+              "gap": "We {set off} early in the morning.",
+              "hint": "set / off",
+              "tr": "Мы отправились рано утром.",
+              "why": "Отправиться в путь — set off."
+            },
+            {
+              "choice": "Lots of friends came to the airport to {see me off}.",
+              "opts": [
+                "see me out",
+                "see off me"
+              ],
+              "tr": "Много друзей пришли в аэропорт меня проводить.",
+              "why": "Проводить — see somebody off."
+            },
+            {
+              "order": "The thief jumped on a bike and rode off.",
+              "tr": "Вор вскочил на велосипед и уехал."
+            },
+            {
+              "fix": "The plane {took up>took off} twenty minutes late.",
+              "tr": "Самолёт взлетел с опозданием на двадцать минут.",
+              "why": "Взлететь — take off."
+            }
+          ],
+          "review": [
+            {
+              "gap": "The dog grabbed my sandwich and {ran off}.",
+              "hint": "run / off",
+              "tr": "Собака схватила мой бутерброд и убежала."
+            },
+            {
+              "gap": "What time are you {setting off} tomorrow?",
+              "hint": "set / off",
+              "tr": "Во сколько вы завтра выезжаете?"
+            },
+            {
+              "gap": "Right, I'm {off}. See you on Monday!",
+              "hint": "частица",
+              "tr": "Ну всё, я пошёл. Увидимся в понедельник!"
+            },
+            {
+              "choice": "Fasten your seat belts, we're about to {take off}.",
+              "opts": [
+                "set out",
+                "put off"
+              ],
+              "tr": "Пристегните ремни, мы сейчас взлетаем."
+            },
+            {
+              "choice": "She got into her car and {drove off}.",
+              "opts": [
+                "drove up",
+                "drove out of"
+              ],
+              "tr": "Она села в машину и уехала."
+            },
+            {
+              "choice": "We went to the station to {see her off}.",
+              "opts": [
+                "see off her",
+                "see her away"
+              ],
+              "tr": "Мы поехали на вокзал её проводить."
+            },
+            {
+              "order": "We set off before the sun came up.",
+              "tr": "Мы выехали до восхода солнца."
+            },
+            {
+              "order": "The helicopter took off from the roof.",
+              "tr": "Вертолёт взлетел с крыши."
+            },
+            {
+              "order": "We're off to the mountains.",
+              "tr": "Мы уезжаем в горы."
+            },
+            {
+              "fix": "Please come to the airport to {see off me>see me off}.",
+              "tr": "Пожалуйста, приезжай в аэропорт меня проводить.",
+              "why": "Местоимение — между see и off."
+            },
+            {
+              "fix": "We'll {set up>set off} at six to beat the traffic.",
+              "tr": "Мы выедем в шесть, чтобы не попасть в пробки.",
+              "why": "Отправиться в путь — set off."
+            },
+            {
+              "fix": "The bird {flew on>flew off} when I came closer.",
+              "tr": "Птица улетела, когда я подошёл ближе.",
+              "why": "Улететь — fly off."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u141-phrasal-verbs-on-off-2",
+      "title": "Phrasal verbs 5: on/off (2)",
+      "subtitle": "Юнит 141 · carry on, get on, tell off",
+      "level": "B2",
+      "points": [
+        {
+          "id": "continue",
+          "title": "on = продолжать",
+          "theory": [
+            "on после глагола часто значит «продолжать».",
+            {
+              "table": [
+                [
+                  "go on / carry on + -ing",
+                  "продолжать делать"
+                ],
+                [
+                  "go on / carry on with + сущ.",
+                  "продолжать что-то"
+                ],
+                [
+                  "keep on + -ing",
+                  "всё время, снова и снова"
+                ],
+                [
+                  "drive / walk / play on",
+                  "ехать / идти / играть дальше"
+                ]
+              ]
+            },
+            {
+              "ex": "Please [carry on] with your work.",
+              "tr": "Пожалуйста, продолжайте работать."
+            },
+            {
+              "ex": "He [keeps on] interrupting me.",
+              "tr": "Он всё время меня перебивает."
+            },
+            {
+              "ex": "We didn't stop and [drove on] to the next town.",
+              "tr": "Мы не остановились и поехали дальше, в следующий город."
+            },
+            {
+              "wrong": "Go on to talk, I'm listening.",
+              "right": "Go on talking, I'm listening."
+            },
+            {
+              "tip": "После go on / carry on / keep on — форма -ing. С существительным — with: carry on with the lesson."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "Sorry for interrupting. Please {carry on|go on}.",
+              "hint": "carry / on",
+              "tr": "Простите, что перебил. Продолжайте, пожалуйста.",
+              "why": "Продолжать — carry on / go on."
+            },
+            {
+              "choice": "My computer keeps on {crashing}.",
+              "opts": [
+                "crash",
+                "to crash"
+              ],
+              "tr": "Мой компьютер всё время зависает.",
+              "why": "keep on + -ing."
+            },
+            {
+              "order": "The party went on until three in the morning.",
+              "tr": "Вечеринка продолжалась до трёх часов ночи."
+            },
+            {
+              "fix": "After the break, we went on {the>with the} lesson.",
+              "tr": "После перерыва мы продолжили урок.",
+              "why": "carry on with + существительное."
+            }
+          ],
+          "review": [
+            {
+              "gap": "We can't go on {spending} so much money.",
+              "hint": "spend",
+              "tr": "Мы не можем и дальше тратить столько денег.",
+              "why": "go on + -ing."
+            },
+            {
+              "gap": "The referee let the players {play on}.",
+              "hint": "play / on",
+              "tr": "Судья позволил игрокам продолжить игру."
+            },
+            {
+              "gap": "She keeps on {asking} the same question.",
+              "hint": "ask",
+              "tr": "Она всё время задаёт один и тот же вопрос."
+            },
+            {
+              "choice": "Don't stop now, {carry on} reading!",
+              "opts": [
+                "carry off",
+                "keep off"
+              ],
+              "tr": "Не останавливайся, читай дальше!"
+            },
+            {
+              "choice": "After a short break, she went on {with} her story.",
+              "opts": [
+                "to",
+                "on"
+              ],
+              "tr": "После короткой паузы она продолжила свой рассказ.",
+              "why": "go on with + существительное."
+            },
+            {
+              "choice": "Shall we stop here or {drive on}?",
+              "opts": [
+                "drive over",
+                "drive in"
+              ],
+              "tr": "Остановимся здесь или поедем дальше?"
+            },
+            {
+              "order": "I don't want to carry on working here.",
+              "tr": "Я не хочу дальше здесь работать."
+            },
+            {
+              "order": "The rain kept on falling all day.",
+              "tr": "Дождь шёл весь день не переставая."
+            },
+            {
+              "order": "He walked on without saying a word.",
+              "tr": "Он пошёл дальше, не сказав ни слова."
+            },
+            {
+              "fix": "Why do you keep on {to call>calling} me?",
+              "tr": "Почему ты всё время мне звонишь?",
+              "why": "keep on + -ing."
+            },
+            {
+              "fix": "Please go on {your>with your} story.",
+              "tr": "Пожалуйста, продолжай свой рассказ.",
+              "why": "go on with + существительное."
+            },
+            {
+              "fix": "They carried on {play>playing} despite the rain.",
+              "tr": "Они продолжили играть, несмотря на дождь.",
+              "why": "carry on + -ing."
+            }
+          ]
+        },
+        {
+          "id": "get-on",
+          "title": "Три значения get on",
+          "theory": [
+            "У get on три частых значения.",
+            {
+              "table": [
+                [
+                  "get on (in / at)",
+                  "как идут дела, успехи"
+                ],
+                [
+                  "get on (well) with somebody",
+                  "ладить с кем-то"
+                ],
+                [
+                  "get on with something",
+                  "продолжить дело после перерыва"
+                ]
+              ]
+            },
+            {
+              "ex": "How are you [getting on] at your new school?",
+              "tr": "Как у тебя дела в новой школе?"
+            },
+            {
+              "ex": "I [get on] really well [with] my flatmates.",
+              "tr": "Я очень хорошо лажу с соседями по квартире."
+            },
+            {
+              "ex": "Stop chatting and [get on with] your homework.",
+              "tr": "Хватит болтать, займись уже домашним заданием."
+            },
+            {
+              "tip": "В американском английском вместо get on with somebody часто говорят get along with."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "My brother and I don't {get on}, we always argue.",
+              "hint": "get / on",
+              "tr": "Мы с братом не ладим, вечно ссоримся.",
+              "why": "Ладить — get on."
+            },
+            {
+              "choice": "How did you {get on} in your driving test?",
+              "opts": [
+                "get off",
+                "get up"
+              ],
+              "tr": "Как прошёл твой экзамен по вождению?",
+              "why": "Как прошло — get on."
+            },
+            {
+              "order": "I must get on with my essay.",
+              "tr": "Мне надо заняться своим эссе."
+            },
+            {
+              "fix": "Does she get on well {to>with} her colleagues?",
+              "tr": "Она хорошо ладит с коллегами?",
+              "why": "get on with somebody."
+            }
+          ],
+          "review": [
+            {
+              "gap": "How is Max {getting on} in his new job?",
+              "hint": "get / on",
+              "tr": "Как у Макса дела на новой работе?"
+            },
+            {
+              "gap": "Enough coffee, let's {get on with} the project.",
+              "hint": "get / on / with",
+              "tr": "Хватит пить кофе, давай займёмся проектом."
+            },
+            {
+              "gap": "Our cat and dog {get on|get along} surprisingly well.",
+              "hint": "get / on",
+              "tr": "Наши кошка и собака на удивление хорошо ладят."
+            },
+            {
+              "choice": "I {get on} well with my mother-in-law.",
+              "opts": [
+                "get off",
+                "get by"
+              ],
+              "tr": "Я хорошо лажу со свекровью."
+            },
+            {
+              "choice": "Leave me alone, I need to get on {with} my work.",
+              "opts": [
+                "to",
+                "for"
+              ],
+              "tr": "Оставь меня, мне надо работать.",
+              "why": "get on with something."
+            },
+            {
+              "choice": "How are you {getting on} with your Spanish?",
+              "opts": [
+                "getting off",
+                "getting over"
+              ],
+              "tr": "Как успехи с испанским?"
+            },
+            {
+              "order": "Do you get on with your neighbours?",
+              "tr": "Ты ладишь с соседями?"
+            },
+            {
+              "order": "How did you get on at the interview?",
+              "tr": "Как прошло собеседование?"
+            },
+            {
+              "order": "Let's stop talking and get on with it.",
+              "tr": "Давайте хватит болтать и займёмся делом."
+            },
+            {
+              "fix": "My sister doesn't {get on>get on with} her boss.",
+              "tr": "Моя сестра не ладит со своим начальником.",
+              "why": "get on with somebody."
+            },
+            {
+              "fix": "How are you {getting up>getting on} at university?",
+              "tr": "Как у тебя дела в университете?",
+              "why": "Как идут дела — get on."
+            },
+            {
+              "fix": "After the call, I {got on>got on with} my report.",
+              "tr": "После звонка я вернулся к своему отчёту.",
+              "why": "Продолжить дело — get on with."
+            }
+          ]
+        },
+        {
+          "id": "verb-off",
+          "title": "doze off, show off, tell off",
+          "theory": [
+            "Ещё несколько полезных глаголов с off.",
+            {
+              "table": [
+                [
+                  "doze / drop / nod off",
+                  "задремать"
+                ],
+                [
+                  "go off",
+                  "сработать (будильник, сигнализация)"
+                ],
+                [
+                  "show off",
+                  "выпендриваться, хвастаться"
+                ],
+                [
+                  "tell somebody off",
+                  "отругать"
+                ],
+                [
+                  "finish something off",
+                  "доделать"
+                ],
+                [
+                  "rip somebody off / be ripped off",
+                  "обдирать / переплатить"
+                ],
+                [
+                  "put somebody off (doing)",
+                  "отбить желание"
+                ]
+              ]
+            },
+            {
+              "ex": "My alarm didn't [go off] this morning.",
+              "tr": "Сегодня утром не сработал будильник."
+            },
+            {
+              "ex": "The teacher [told] him [off] for being late.",
+              "tr": "Учитель отругал его за опоздание."
+            },
+            {
+              "ex": "The long queue [put] us [off].",
+              "tr": "Длинная очередь отбила у нас всё желание."
+            },
+            {
+              "tip": "tell off — ругать за что-то: tell somebody off for doing something."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "I {dozed off} in front of the TV.",
+              "hint": "doze / off",
+              "tr": "Я задремал перед телевизором.",
+              "why": "Задремать — doze off."
+            },
+            {
+              "choice": "He's always {showing off} his new car.",
+              "opts": [
+                "showing out",
+                "telling off"
+              ],
+              "tr": "Он вечно хвастается своей новой машиной.",
+              "why": "Хвастаться — show off."
+            },
+            {
+              "order": "Mum told us off for making a mess.",
+              "tr": "Мама отругала нас за беспорядок."
+            },
+            {
+              "fix": "Two hundred euros for this? You were {ripped out>ripped off}!",
+              "tr": "Двести евро за это? Тебя обобрали!",
+              "why": "Обобрать — rip off."
+            }
+          ],
+          "review": [
+            {
+              "gap": "The car alarm {went off} in the middle of the night.",
+              "hint": "go / off",
+              "tr": "Посреди ночи сработала автомобильная сигнализация."
+            },
+            {
+              "gap": "I'll {finish it off} tomorrow morning.",
+              "hint": "finish / it / off",
+              "tr": "Я доделаю это завтра утром."
+            },
+            {
+              "gap": "The bad reviews {put me off} the restaurant.",
+              "hint": "put / me / off",
+              "tr": "Плохие отзывы отбили у меня желание идти в этот ресторан."
+            },
+            {
+              "choice": "He kept {nodding off} during the lecture.",
+              "opts": [
+                "nodding out",
+                "going on"
+              ],
+              "tr": "Он всё время клевал носом на лекции."
+            },
+            {
+              "choice": "My boss {told me off} for missing the deadline.",
+              "opts": [
+                "told off me",
+                "showed me off"
+              ],
+              "tr": "Начальник отругал меня за сорванный срок."
+            },
+            {
+              "choice": "Don't buy souvenirs there, they'll {rip you off}.",
+              "opts": [
+                "rip off you",
+                "rip you out"
+              ],
+              "tr": "Не покупай там сувениры, тебя обдерут."
+            },
+            {
+              "order": "The fire alarm went off again.",
+              "tr": "Снова сработала пожарная сигнализация."
+            },
+            {
+              "order": "Stop showing off in front of the girls.",
+              "tr": "Хватит выпендриваться перед девчонками."
+            },
+            {
+              "order": "What put you off studying medicine?",
+              "tr": "Что отбило у тебя желание изучать медицину?"
+            },
+            {
+              "fix": "The coach {told off them>told them off} for being lazy.",
+              "tr": "Тренер отругал их за лень.",
+              "why": "Местоимение — между told и off."
+            },
+            {
+              "fix": "I almost {dropped out>dropped off} on the train.",
+              "tr": "Я чуть не уснул в поезде.",
+              "why": "Уснуть — drop off; drop out — бросить учёбу."
+            },
+            {
+              "fix": "Did your alarm {go out>go off} this morning?",
+              "tr": "Твой будильник сработал сегодня утром?",
+              "why": "Сработать — go off."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u142-phrasal-verbs-up-down",
+      "title": "Phrasal verbs 6: up/down",
+      "subtitle": "Юнит 142 · pick up, slow down, let down",
+      "level": "B1",
+      "points": [
+        {
+          "id": "direction",
+          "title": "up и down: вверх и вниз",
+          "theory": [
+            "up — вверх, down — вниз. Часто пары противоположны.",
+            {
+              "table": [
+                [
+                  "put up (на стену)",
+                  "take down (со стены)"
+                ],
+                [
+                  "pick up (поднять)",
+                  "put down (положить)"
+                ],
+                [
+                  "stand up (встать)",
+                  "sit down / lie down / bend down"
+                ],
+                [
+                  "turn up (громче, сильнее)",
+                  "turn down (тише, слабее)"
+                ]
+              ]
+            },
+            {
+              "ex": "Could you [turn] the music [down]?",
+              "tr": "Можешь сделать музыку потише?"
+            },
+            {
+              "ex": "She [picked up] the phone and smiled.",
+              "tr": "Она взяла телефон и улыбнулась."
+            },
+            {
+              "ex": "We [put up] some posters in the hall.",
+              "tr": "Мы повесили в коридоре несколько плакатов."
+            },
+            {
+              "tip": "С местоимением: pick it up, turn it down, take them down."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "I can't hear the radio. Can you {turn it up}?",
+              "hint": "turn / it / up",
+              "tr": "Я не слышу радио. Можешь сделать погромче?",
+              "why": "Громче — turn up; местоимение в середине."
+            },
+            {
+              "choice": "Everyone {stood up} when the judge came in.",
+              "opts": [
+                "stood down",
+                "sat up"
+              ],
+              "tr": "Все встали, когда вошёл судья.",
+              "why": "Встать — stand up."
+            },
+            {
+              "order": "He bent down to tie his shoelace.",
+              "tr": "Он нагнулся, чтобы завязать шнурок."
+            },
+            {
+              "fix": "There's a coin on the floor. Can you {pick up it>pick it up}?",
+              "tr": "На полу монета. Можешь её поднять?",
+              "why": "Местоимение — между pick и up."
+            }
+          ],
+          "review": [
+            {
+              "gap": "I didn't like the poster, so I {took it down}.",
+              "hint": "take / it / down",
+              "tr": "Мне не нравился плакат, и я его снял."
+            },
+            {
+              "gap": "Please {sit down} and wait.",
+              "hint": "sit / down",
+              "tr": "Пожалуйста, присядьте и подождите."
+            },
+            {
+              "gap": "It's too hot. Let's {turn the heating down|turn down the heating}.",
+              "hint": "turn / the heating / down",
+              "tr": "Слишком жарко. Давай убавим отопление."
+            },
+            {
+              "choice": "She {put down} her bag and sat on the sofa.",
+              "opts": [
+                "put up",
+                "put off"
+              ],
+              "tr": "Она поставила сумку и села на диван."
+            },
+            {
+              "choice": "I don't feel well. I need to {lie down}.",
+              "opts": [
+                "lie up",
+                "stand down"
+              ],
+              "tr": "Мне нехорошо. Мне надо прилечь."
+            },
+            {
+              "choice": "We {put up} a shelf in the kitchen.",
+              "opts": [
+                "put down",
+                "took up"
+              ],
+              "tr": "Мы повесили полку на кухне."
+            },
+            {
+              "order": "Put it down right now!",
+              "tr": "Немедленно положи это!"
+            },
+            {
+              "order": "Can you pick me up from the station?",
+              "tr": "Можешь забрать меня с вокзала?"
+            },
+            {
+              "order": "The students stood up and left the room.",
+              "tr": "Студенты встали и вышли из аудитории."
+            },
+            {
+              "fix": "The TV is too loud. {Turn down it>Turn it down}!",
+              "tr": "Телевизор слишком громкий. Убавь звук!",
+              "why": "Местоимение — между turn и down."
+            },
+            {
+              "fix": "Please {sit up>sit down}, the film is starting.",
+              "tr": "Пожалуйста, садитесь, фильм начинается.",
+              "why": "Сесть — sit down."
+            },
+            {
+              "fix": "The posters are old, let's {take up them>take them down}.",
+              "tr": "Плакаты старые, давай их снимем.",
+              "why": "Снять со стены — take down; местоимение в середине."
+            }
+          ]
+        },
+        {
+          "id": "down-less",
+          "title": "down = разрушить, уменьшить",
+          "theory": [
+            "down также значит «разрушить, повалить» или «стать меньше, медленнее, спокойнее».",
+            {
+              "table": [
+                [
+                  "knock / cut / blow down",
+                  "снести / срубить / повалить"
+                ],
+                [
+                  "burn down",
+                  "сгореть дотла"
+                ],
+                [
+                  "be knocked down",
+                  "быть сбитым (машиной)"
+                ],
+                [
+                  "slow down",
+                  "замедлиться"
+                ],
+                [
+                  "calm (somebody) down",
+                  "успокоиться / успокоить"
+                ],
+                [
+                  "cut down (on)",
+                  "сократить, есть / пить меньше"
+                ]
+              ]
+            },
+            {
+              "ex": "They [knocked down] the old factory.",
+              "tr": "Старую фабрику снесли."
+            },
+            {
+              "ex": "[Calm down], it's not a big deal.",
+              "tr": "Успокойся, это не страшно."
+            },
+            {
+              "ex": "I'm trying to [cut down on] sugar.",
+              "tr": "Я стараюсь есть меньше сахара."
+            },
+            {
+              "tip": "cut down a tree — срубить дерево; cut down on something — сократить потребление."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "{Slow down}! You're driving too fast.",
+              "hint": "slow / down",
+              "tr": "Притормози! Ты едешь слишком быстро.",
+              "why": "Замедлиться — slow down."
+            },
+            {
+              "choice": "The old barn {burnt down|burned down} last summer.",
+              "opts": [
+                "burnt off",
+                "burnt away"
+              ],
+              "tr": "Прошлым летом старый сарай сгорел дотла.",
+              "why": "Сгореть дотла — burn down."
+            },
+            {
+              "order": "He was knocked down by a bus.",
+              "tr": "Его сбил автобус."
+            },
+            {
+              "fix": "The doctor told me to cut down {in>on} coffee.",
+              "tr": "Врач сказал мне пить меньше кофе.",
+              "why": "cut down on something."
+            }
+          ],
+          "review": [
+            {
+              "gap": "The storm {blew down} several trees.",
+              "hint": "blow / down",
+              "tr": "Буря повалила несколько деревьев."
+            },
+            {
+              "gap": "Try to {calm down} before the interview.",
+              "hint": "calm / down",
+              "tr": "Постарайся успокоиться перед собеседованием."
+            },
+            {
+              "gap": "I need to cut down {on} junk food.",
+              "hint": "предлог",
+              "tr": "Мне нужно меньше есть вредной еды."
+            },
+            {
+              "choice": "They're going to {knock down} the old stadium.",
+              "opts": [
+                "knock up",
+                "knock off"
+              ],
+              "tr": "Старый стадион собираются снести."
+            },
+            {
+              "choice": "The train {slowed down} as it came into the station.",
+              "opts": [
+                "slowed off",
+                "slowed out"
+              ],
+              "tr": "Поезд замедлил ход, подъезжая к станции."
+            },
+            {
+              "choice": "Why did you {cut down} that beautiful tree?",
+              "opts": [
+                "cut out",
+                "cut away"
+              ],
+              "tr": "Зачем ты срубил это красивое дерево?"
+            },
+            {
+              "order": "The music helped me calm down.",
+              "tr": "Музыка помогла мне успокоиться."
+            },
+            {
+              "order": "The whole building burned down in an hour.",
+              "tr": "Всё здание сгорело за час."
+            },
+            {
+              "order": "She was knocked down on her way to school.",
+              "tr": "Её сбила машина по дороге в школу."
+            },
+            {
+              "fix": "Please {calm out>calm down}, everything will be fine.",
+              "tr": "Пожалуйста, успокойся, всё будет хорошо.",
+              "why": "Успокоиться — calm down."
+            },
+            {
+              "fix": "The government wants people to cut down {smoking>on smoking}.",
+              "tr": "Правительство хочет, чтобы люди меньше курили.",
+              "why": "cut down on something."
+            },
+            {
+              "fix": "The driver {slowed off>slowed down} at the crossing.",
+              "tr": "Водитель притормозил на перекрёстке.",
+              "why": "Замедлиться — slow down."
+            }
+          ]
+        },
+        {
+          "id": "other-down",
+          "title": "let down, write down, turn down",
+          "theory": [
+            "Ещё несколько важных глаголов с down.",
+            {
+              "table": [
+                [
+                  "close / shut down",
+                  "закрыться (о бизнесе)"
+                ],
+                [
+                  "let somebody down",
+                  "подвести"
+                ],
+                [
+                  "write something down",
+                  "записать"
+                ],
+                [
+                  "break down",
+                  "сломаться; распасться (об отношениях)"
+                ],
+                [
+                  "turn somebody / something down",
+                  "отказать, отклонить"
+                ]
+              ]
+            },
+            {
+              "ex": "Our local bookshop [closed down] last year.",
+              "tr": "Наш местный книжный закрылся в прошлом году."
+            },
+            {
+              "ex": "I promise I won't [let] you [down].",
+              "tr": "Обещаю, я тебя не подведу."
+            },
+            {
+              "ex": "She was offered the job but [turned] it [down].",
+              "tr": "Ей предложили работу, но она отказалась."
+            },
+            {
+              "wrong": "My phone broke up yesterday.",
+              "right": "My phone broke down yesterday. / My phone broke yesterday."
+            },
+            {
+              "tip": "break down — о машинах и технике; break up — о паре, которая рассталась (юнит 144)."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "Let me {write down} your number.",
+              "hint": "write / down",
+              "tr": "Дай я запишу твой номер.",
+              "why": "Записать — write down."
+            },
+            {
+              "choice": "Many small shops have {closed down} recently.",
+              "opts": [
+                "closed off",
+                "closed out"
+              ],
+              "tr": "В последнее время закрылось много маленьких магазинов.",
+              "why": "Закрыться о бизнесе — close down."
+            },
+            {
+              "order": "Our car broke down on the way home.",
+              "tr": "Наша машина сломалась по дороге домой."
+            },
+            {
+              "fix": "He asked her out, but she {turned off him>turned him down}.",
+              "tr": "Он пригласил её на свидание, но она ему отказала.",
+              "why": "Отказать — turn somebody down."
+            }
+          ],
+          "review": [
+            {
+              "gap": "You can trust Anna, she'll never {let you down}.",
+              "hint": "let / you / down",
+              "tr": "Анне можно доверять, она тебя никогда не подведёт."
+            },
+            {
+              "gap": "I {wrote it down} so I wouldn't forget.",
+              "hint": "write / it / down",
+              "tr": "Я записал это, чтобы не забыть."
+            },
+            {
+              "gap": "The bank {turned down} my loan application.",
+              "hint": "turn / down",
+              "tr": "Банк отклонил мою заявку на кредит."
+            },
+            {
+              "choice": "Their marriage {broke down} after two years.",
+              "opts": [
+                "broke out",
+                "broke off"
+              ],
+              "tr": "Их брак распался через два года."
+            },
+            {
+              "choice": "I'm sorry I {let you down}.",
+              "opts": [
+                "let down you",
+                "let you off"
+              ],
+              "tr": "Прости, что подвёл тебя."
+            },
+            {
+              "choice": "The factory {shut down} and hundreds lost their jobs.",
+              "opts": [
+                "shut out",
+                "shut off"
+              ],
+              "tr": "Фабрика закрылась, и сотни людей потеряли работу."
+            },
+            {
+              "order": "The washing machine has broken down again.",
+              "tr": "Стиральная машина опять сломалась."
+            },
+            {
+              "order": "Please don't let us down.",
+              "tr": "Пожалуйста, не подведи нас."
+            },
+            {
+              "order": "Why did you turn it down?",
+              "tr": "Почему ты от этого отказался?"
+            },
+            {
+              "fix": "Write {up it>it down} before you forget.",
+              "tr": "Запиши это, пока не забыл.",
+              "why": "Записать — write down; местоимение в середине."
+            },
+            {
+              "fix": "The restaurant {closed out>closed down} last month.",
+              "tr": "Ресторан закрылся в прошлом месяце.",
+              "why": "Закрыться о бизнесе — close down."
+            },
+            {
+              "fix": "They offered me a job, but I {turned down it>turned it down}.",
+              "tr": "Мне предложили работу, но я отказался.",
+              "why": "Местоимение — между turn и down."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u143-phrasal-verbs-up-1",
+      "title": "Phrasal verbs 7: up (1)",
+      "subtitle": "Юнит 143 · set up, grow up, end up",
+      "level": "B1",
+      "points": [
+        {
+          "id": "start-grow",
+          "title": "Начать, вырасти, подойти",
+          "theory": [
+            "up часто связан с началом чего-то нового или с ростом.",
+            {
+              "table": [
+                [
+                  "set up",
+                  "основать (компанию, систему, сайт)"
+                ],
+                [
+                  "take up",
+                  "начать заниматься (хобби, спортом)"
+                ],
+                [
+                  "grow up",
+                  "вырасти, повзрослеть"
+                ],
+                [
+                  "bring up",
+                  "воспитать (ребёнка)"
+                ],
+                [
+                  "go / come / walk up (to)",
+                  "подойти к"
+                ]
+              ]
+            },
+            {
+              "ex": "She [set up] her own business at 25.",
+              "tr": "Она открыла свой бизнес в 25 лет."
+            },
+            {
+              "ex": "I [grew up] in a small town.",
+              "tr": "Я вырос в маленьком городе."
+            },
+            {
+              "ex": "A stranger [came up to] me and asked the time.",
+              "tr": "Ко мне подошёл незнакомец и спросил, который час."
+            },
+            {
+              "wrong": "I was grown up by my grandmother.",
+              "right": "I was brought up by my grandmother."
+            },
+            {
+              "tip": "grow up — вырасти самому (без дополнения). bring up — воспитать кого-то: My parents brought me up."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "Last year my dad {took up} yoga.",
+              "hint": "take / up",
+              "tr": "В прошлом году папа начал заниматься йогой.",
+              "why": "Начать хобби — take up."
+            },
+            {
+              "choice": "Where did you {grow up}?",
+              "opts": [
+                "bring up",
+                "grow down"
+              ],
+              "tr": "Где ты вырос?",
+              "why": "Вырасти самому — grow up."
+            },
+            {
+              "order": "Her aunt brought her up in Spain.",
+              "tr": "Её вырастила тётя в Испании."
+            },
+            {
+              "fix": "The firm was {set out>set up} in 2010.",
+              "tr": "Фирма была основана в 2010 году.",
+              "why": "Основать — set up."
+            }
+          ],
+          "review": [
+            {
+              "gap": "A little girl {walked up to} us with flowers.",
+              "hint": "walk / up / to",
+              "tr": "К нам подошла маленькая девочка с цветами."
+            },
+            {
+              "gap": "The kids were {brought up} by their grandparents.",
+              "hint": "bring / up",
+              "tr": "Детей воспитывали бабушка с дедушкой."
+            },
+            {
+              "gap": "We want to {set up} a website for the club.",
+              "hint": "set / up",
+              "tr": "Мы хотим сделать сайт для клуба."
+            },
+            {
+              "choice": "I'd like to {take up} a new sport.",
+              "opts": [
+                "take in",
+                "set off"
+              ],
+              "tr": "Я бы хотел начать заниматься новым видом спорта."
+            },
+            {
+              "choice": "What do you want to be when you {grow up}?",
+              "opts": [
+                "bring up",
+                "grow out"
+              ],
+              "tr": "Кем ты хочешь стать, когда вырастешь?"
+            },
+            {
+              "choice": "Raising children alone is hard. She {brought up} three sons.",
+              "opts": [
+                "grew up",
+                "took up"
+              ],
+              "tr": "Воспитывать детей одной тяжело. Она вырастила троих сыновей.",
+              "why": "Вырастить кого-то — bring up."
+            },
+            {
+              "order": "He went up to the counter and ordered.",
+              "tr": "Он подошёл к стойке и сделал заказ."
+            },
+            {
+              "order": "My parents grew up in the same village.",
+              "tr": "Мои родители выросли в одной деревне."
+            },
+            {
+              "order": "A new recycling system was set up.",
+              "tr": "Была введена новая система переработки."
+            },
+            {
+              "fix": "Kids {grow down>grow up} so fast these days.",
+              "tr": "Дети сейчас так быстро растут.",
+              "why": "Расти, взрослеть — grow up."
+            },
+            {
+              "fix": "She {grew up>brought up} her children on her own.",
+              "tr": "Она одна вырастила своих детей.",
+              "why": "Вырастить кого-то — bring up."
+            },
+            {
+              "fix": "He has {taken in>taken up} the guitar.",
+              "tr": "Он начал учиться играть на гитаре.",
+              "why": "Начать заниматься — take up."
+            }
+          ]
+        },
+        {
+          "id": "arrive-finish",
+          "title": "Появиться, убрать, израсходовать",
+          "theory": [
+            "Ещё одна группа: up = «полностью, до конца» или «появиться».",
+            {
+              "table": [
+                [
+                  "turn up / show up",
+                  "прийти, появиться"
+                ],
+                [
+                  "tidy / clean / clear up",
+                  "прибраться"
+                ],
+                [
+                  "wash up",
+                  "помыть посуду"
+                ],
+                [
+                  "use up",
+                  "израсходовать всё"
+                ],
+                [
+                  "take up (space / time)",
+                  "занимать место / время"
+                ],
+                [
+                  "fix up (a meeting)",
+                  "договориться о встрече"
+                ]
+              ]
+            },
+            {
+              "ex": "We waited for an hour, but he didn't [turn up].",
+              "tr": "Мы ждали час, но он так и не пришёл."
+            },
+            {
+              "ex": "Who's going to [wash up] tonight?",
+              "tr": "Кто сегодня моет посуду?"
+            },
+            {
+              "ex": "This sofa [takes up] half the room.",
+              "tr": "Этот диван занимает полкомнаты."
+            },
+            {
+              "tip": "use up — до конца: We've used up all the eggs = яиц больше нет."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "Please {tidy up} your room before dinner.",
+              "hint": "tidy / up",
+              "tr": "Пожалуйста, прибери в своей комнате перед ужином.",
+              "why": "Прибраться — tidy up."
+            },
+            {
+              "choice": "Only five people {turned up} to the meeting.",
+              "opts": [
+                "turned in",
+                "took up"
+              ],
+              "tr": "На встречу пришли только пять человек.",
+              "why": "Прийти, появиться — turn up."
+            },
+            {
+              "order": "All the printer paper has been used up.",
+              "tr": "Вся бумага для принтера израсходована."
+            },
+            {
+              "fix": "These boxes {take on>take up} too much space.",
+              "tr": "Эти коробки занимают слишком много места.",
+              "why": "Занимать место — take up."
+            }
+          ],
+          "review": [
+            {
+              "gap": "You cooked, so I'll {wash up}.",
+              "hint": "wash / up",
+              "tr": "Ты готовил, так что посуду помою я."
+            },
+            {
+              "gap": "He {showed up|turned up} two hours late.",
+              "hint": "show / up",
+              "tr": "Он появился с опозданием на два часа."
+            },
+            {
+              "gap": "Let's {use up} the vegetables before they go bad.",
+              "hint": "use / up",
+              "tr": "Давай используем овощи, пока они не испортились."
+            },
+            {
+              "choice": "Homework {takes up} most of my evening.",
+              "opts": [
+                "takes on",
+                "turns up"
+              ],
+              "tr": "Домашка занимает большую часть моего вечера."
+            },
+            {
+              "choice": "Can we {fix up} a meeting for Tuesday?",
+              "opts": [
+                "fix on",
+                "fix out"
+              ],
+              "tr": "Можем договориться о встрече на вторник?"
+            },
+            {
+              "choice": "After the party we had to {clean up}.",
+              "opts": [
+                "clean out",
+                "wash out"
+              ],
+              "tr": "После вечеринки нам пришлось всё убрать."
+            },
+            {
+              "order": "Who is going to clean it up?",
+              "tr": "Кто будет это убирать?"
+            },
+            {
+              "order": "The whole morning was taken up by meetings.",
+              "tr": "Всё утро ушло на встречи."
+            },
+            {
+              "order": "She never turns up on time.",
+              "tr": "Она никогда не приходит вовремя."
+            },
+            {
+              "fix": "We've {used out>used up} all the milk.",
+              "tr": "Мы израсходовали всё молоко.",
+              "why": "Израсходовать всё — use up."
+            },
+            {
+              "fix": "Half the guests didn't {turn in>turn up}.",
+              "tr": "Половина гостей не пришла.",
+              "why": "Прийти — turn up."
+            },
+            {
+              "fix": "I hate {washing out>washing up} after a big dinner.",
+              "tr": "Ненавижу мыть посуду после большого ужина.",
+              "why": "Мыть посуду — wash up."
+            }
+          ]
+        },
+        {
+          "id": "catch-end",
+          "title": "catch up, keep up, end up, give up",
+          "theory": [
+            "Глаголы о том, как идёт процесс и чем он заканчивается.",
+            {
+              "table": [
+                [
+                  "catch up (with)",
+                  "догнать"
+                ],
+                [
+                  "keep up (with)",
+                  "не отставать; продолжать на том же уровне"
+                ],
+                [
+                  "end up",
+                  "оказаться в итоге"
+                ],
+                [
+                  "give up",
+                  "сдаться; бросить что-то"
+                ],
+                [
+                  "make up / be made up of",
+                  "составлять / состоять из"
+                ]
+              ]
+            },
+            {
+              "ex": "Go ahead, I'll [catch up with] you later.",
+              "tr": "Иди, я тебя потом догоню."
+            },
+            {
+              "ex": "We got lost and [ended up] in the wrong town.",
+              "tr": "Мы заблудились и оказались не в том городе."
+            },
+            {
+              "ex": "Women [make up] 60% of our staff.",
+              "tr": "Женщины составляют 60% нашего персонала."
+            },
+            {
+              "wrong": "We ended up to sleep in the car.",
+              "right": "We ended up sleeping in the car."
+            },
+            {
+              "tip": "end up + -ing или + место: end up sleeping, end up in hospital. give up + -ing: give up smoking."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "The traffic was terrible and we {ended up} walking.",
+              "hint": "end / up",
+              "tr": "Пробки были ужасные, и в итоге мы пошли пешком.",
+              "why": "Оказаться в итоге — end up + -ing."
+            },
+            {
+              "choice": "You're doing great, {keep it up}!",
+              "opts": [
+                "keep up it",
+                "give it up"
+              ],
+              "tr": "У тебя отлично получается, так держать!",
+              "why": "keep it up — местоимение в середине."
+            },
+            {
+              "order": "The team is made up of six players.",
+              "tr": "Команда состоит из шести игроков."
+            },
+            {
+              "fix": "Run faster, or you won't {catch with>catch up with} them.",
+              "tr": "Беги быстрее, а то не догонишь их.",
+              "why": "Догнать — catch up with."
+            }
+          ],
+          "review": [
+            {
+              "gap": "Don't {give up}, you're nearly there!",
+              "hint": "give / up",
+              "tr": "Не сдавайся, ты почти у цели!"
+            },
+            {
+              "gap": "I missed a week of school and need to {catch up}.",
+              "hint": "catch / up",
+              "tr": "Я пропустил неделю в школе, и мне нужно наверстать."
+            },
+            {
+              "gap": "Students {make up} most of the town's population.",
+              "hint": "make / up",
+              "tr": "Студенты составляют большую часть населения города."
+            },
+            {
+              "choice": "He {gave up} smoking five years ago.",
+              "opts": [
+                "gave off",
+                "ended up"
+              ],
+              "tr": "Он бросил курить пять лет назад."
+            },
+            {
+              "choice": "If you don't slow down, you'll {end up} in hospital.",
+              "opts": [
+                "give up",
+                "end off"
+              ],
+              "tr": "Если не сбавишь скорость, окажешься в больнице."
+            },
+            {
+              "choice": "It's hard to {keep up} with all the new technology.",
+              "opts": [
+                "catch on",
+                "keep on"
+              ],
+              "tr": "Трудно успевать за всеми новыми технологиями."
+            },
+            {
+              "order": "We ended up staying at a cheap hostel.",
+              "tr": "В итоге мы остановились в дешёвом хостеле."
+            },
+            {
+              "order": "I loved the job but gave it up.",
+              "tr": "Я любил эту работу, но бросил её."
+            },
+            {
+              "order": "The others walked faster, but I caught up.",
+              "tr": "Остальные шли быстрее, но я их догнал."
+            },
+            {
+              "fix": "She ended up {to marry>marrying} her best friend.",
+              "tr": "В итоге она вышла замуж за лучшего друга.",
+              "why": "end up + -ing."
+            },
+            {
+              "fix": "Water is made {of up>up of} hydrogen and oxygen.",
+              "tr": "Вода состоит из водорода и кислорода.",
+              "why": "be made up of."
+            },
+            {
+              "fix": "I've decided to {give up eat>give up eating} meat.",
+              "tr": "Я решил отказаться от мяса.",
+              "why": "give up + -ing."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u144-phrasal-verbs-up-2",
+      "title": "Phrasal verbs 8: up (2)",
+      "subtitle": "Юнит 144 · come up with, put up with",
+      "level": "B2",
+      "points": [
+        {
+          "id": "ideas-talk",
+          "title": "Идеи и разговор",
+          "theory": [
+            "Глаголы с up о том, что появляется в разговоре или в голове.",
+            {
+              "table": [
+                [
+                  "bring up (a topic)",
+                  "поднять тему"
+                ],
+                [
+                  "come up",
+                  "всплыть, возникнуть (в разговоре)"
+                ],
+                [
+                  "come up with",
+                  "придумать, предложить"
+                ],
+                [
+                  "make up",
+                  "выдумать, сочинить"
+                ],
+                [
+                  "look up",
+                  "посмотреть (в словаре, в интернете)"
+                ]
+              ]
+            },
+            {
+              "ex": "Who [came up with] this idea?",
+              "tr": "Кто придумал эту идею?"
+            },
+            {
+              "ex": "Please don't [bring up] money at dinner.",
+              "tr": "Пожалуйста, не поднимай тему денег за ужином."
+            },
+            {
+              "ex": "That story isn't true. He [made] it [up].",
+              "tr": "Эта история неправда. Он её выдумал."
+            },
+            {
+              "wrong": "She came up an interesting plan.",
+              "right": "She came up with an interesting plan."
+            },
+            {
+              "tip": "come up — тема возникает сама; bring up — кто-то её поднимает. come up with — всегда с with."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "If you don't know the word, {look it up}.",
+              "hint": "look / it / up",
+              "tr": "Если не знаешь слово, посмотри его в словаре.",
+              "why": "Найти в словаре — look up; местоимение в середине."
+            },
+            {
+              "choice": "We need to {come up with} a better name.",
+              "opts": [
+                "come up",
+                "make up with"
+              ],
+              "tr": "Нам нужно придумать название получше.",
+              "why": "Придумать — come up with."
+            },
+            {
+              "order": "Your name came up in the meeting.",
+              "tr": "На совещании всплыло твоё имя."
+            },
+            {
+              "fix": "Stop {making on>making up} excuses!",
+              "tr": "Хватит выдумывать отговорки!",
+              "why": "Выдумывать — make up."
+            }
+          ],
+          "review": [
+            {
+              "gap": "I didn't want to {bring it up} in front of everyone.",
+              "hint": "bring / it / up",
+              "tr": "Я не хотел поднимать эту тему при всех."
+            },
+            {
+              "gap": "Some problems {came up} during the project.",
+              "hint": "come / up",
+              "tr": "Во время проекта возникли некоторые проблемы."
+            },
+            {
+              "gap": "Kids love {making up} stories.",
+              "hint": "make / up",
+              "tr": "Дети обожают сочинять истории."
+            },
+            {
+              "choice": "She always {comes up with} creative solutions.",
+              "opts": [
+                "comes up",
+                "makes up with"
+              ],
+              "tr": "Она всегда находит креативные решения."
+            },
+            {
+              "choice": "I {looked up} the address online.",
+              "opts": [
+                "looked out",
+                "looked on"
+              ],
+              "tr": "Я нашёл адрес в интернете."
+            },
+            {
+              "choice": "Please don't {bring up} politics again.",
+              "opts": [
+                "come up",
+                "make up"
+              ],
+              "tr": "Пожалуйста, не поднимай снова тему политики.",
+              "why": "Поднять тему — bring up (кто-то поднимает)."
+            },
+            {
+              "order": "Did that question come up in the exam?",
+              "tr": "Этот вопрос попался на экзамене?"
+            },
+            {
+              "order": "I think he made it all up.",
+              "tr": "Я думаю, он всё это выдумал."
+            },
+            {
+              "order": "Has anyone come up with a plan?",
+              "tr": "Кто-нибудь придумал план?"
+            },
+            {
+              "fix": "Who {came up>came up with} this crazy idea?",
+              "tr": "Кто придумал эту безумную идею?",
+              "why": "come up with + идея."
+            },
+            {
+              "fix": "I don't know this word, I'll {look up it>look it up}.",
+              "tr": "Я не знаю этого слова, посмотрю в словаре.",
+              "why": "Местоимение — между look и up."
+            },
+            {
+              "fix": "Why did you {bring out>bring up} my ex at the party?",
+              "tr": "Зачем ты заговорил о моём бывшем на вечеринке?",
+              "why": "Поднять тему — bring up."
+            }
+          ]
+        },
+        {
+          "id": "people-feelings",
+          "title": "Отношения и чувства",
+          "theory": [
+            "up в глаголах об отношениях и настроении.",
+            {
+              "table": [
+                [
+                  "break up / split up (with)",
+                  "расстаться"
+                ],
+                [
+                  "cheer up",
+                  "взбодриться / подбодрить"
+                ],
+                [
+                  "put up with",
+                  "терпеть, мириться"
+                ],
+                [
+                  "mix up / get mixed up",
+                  "перепутать"
+                ]
+              ]
+            },
+            {
+              "ex": "Lena and Tom [split up] last month.",
+              "tr": "Лена и Том расстались в прошлом месяце."
+            },
+            {
+              "ex": "[Cheer up]! It's not the end of the world.",
+              "tr": "Не унывай! Это не конец света."
+            },
+            {
+              "ex": "I can't [put up with] this noise any longer.",
+              "tr": "Я больше не могу терпеть этот шум."
+            },
+            {
+              "wrong": "I can't put up this noise.",
+              "right": "I can't put up with this noise."
+            },
+            {
+              "tip": "put up with — три слова, не разделяются: put up with it, put up with him."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "She {broke up|split up} with her boyfriend last week.",
+              "hint": "break / up",
+              "tr": "На прошлой неделе она рассталась со своим парнем.",
+              "why": "Расстаться — break up / split up with."
+            },
+            {
+              "choice": "The twins look so alike that people {mix them up}.",
+              "opts": [
+                "mix up them",
+                "make them up"
+              ],
+              "tr": "Близнецы так похожи, что их путают.",
+              "why": "Перепутать — mix up; местоимение в середине."
+            },
+            {
+              "order": "We bought her flowers to cheer her up.",
+              "tr": "Мы купили ей цветы, чтобы её подбодрить."
+            },
+            {
+              "fix": "How do you {put up>put up with} your noisy neighbours?",
+              "tr": "Как ты терпишь своих шумных соседей?",
+              "why": "Терпеть — put up with."
+            }
+          ],
+          "review": [
+            {
+              "gap": "He's been sad all week. Let's {cheer him up}.",
+              "hint": "cheer / him / up",
+              "tr": "Он всю неделю грустит. Давай его подбодрим."
+            },
+            {
+              "gap": "I always get their names {mixed up}.",
+              "hint": "mix / up",
+              "tr": "Я вечно путаю их имена."
+            },
+            {
+              "gap": "I'm not going to {put up with} his rudeness.",
+              "hint": "put / up / with",
+              "tr": "Я не собираюсь мириться с его грубостью."
+            },
+            {
+              "choice": "The band {split up} after their second album.",
+              "opts": [
+                "split off",
+                "cheered up"
+              ],
+              "tr": "Группа распалась после второго альбома."
+            },
+            {
+              "choice": "Sorry, I {mixed up} the dates.",
+              "opts": [
+                "put up",
+                "turned up"
+              ],
+              "tr": "Извини, я перепутал даты."
+            },
+            {
+              "choice": "Why do you {put up with} such a bad job?",
+              "opts": [
+                "put up",
+                "keep up with"
+              ],
+              "tr": "Почему ты миришься с такой плохой работой?"
+            },
+            {
+              "order": "Why did they break up?",
+              "tr": "Почему они расстались?"
+            },
+            {
+              "order": "A good film always cheers me up.",
+              "tr": "Хороший фильм всегда меня подбадривает."
+            },
+            {
+              "order": "I can't put up with it anymore.",
+              "tr": "Я больше не могу это терпеть."
+            },
+            {
+              "fix": "Come on, {cheer on>cheer up}! It's only a game.",
+              "tr": "Ну же, не унывай! Это всего лишь игра.",
+              "why": "Взбодриться — cheer up."
+            },
+            {
+              "fix": "He {broke down>broke up} with his girlfriend.",
+              "tr": "Он расстался со своей девушкой.",
+              "why": "Расстаться — break up; break down — сломаться."
+            },
+            {
+              "fix": "Don't {mix up them>mix them up}, they're different.",
+              "tr": "Не путай их, они разные.",
+              "why": "Местоимение — между mix и up."
+            }
+          ]
+        },
+        {
+          "id": "things-events",
+          "title": "Деньги, вещи, события",
+          "theory": [
+            "И ещё несколько частых глаголов с up.",
+            {
+              "table": [
+                [
+                  "save up (for)",
+                  "копить на"
+                ],
+                [
+                  "do up",
+                  "застегнуть; отремонтировать (дом, комнату)"
+                ],
+                [
+                  "tear up",
+                  "разорвать на куски"
+                ],
+                [
+                  "blow up",
+                  "взорваться / взорвать"
+                ],
+                [
+                  "hold up",
+                  "задержать"
+                ],
+                [
+                  "clear up",
+                  "проясниться (о погоде)"
+                ]
+              ]
+            },
+            {
+              "ex": "I'm [saving up] for a new bike.",
+              "tr": "Я коплю на новый велосипед."
+            },
+            {
+              "ex": "Sorry I'm late, I was [held up] at work.",
+              "tr": "Извини за опоздание, я задержался на работе."
+            },
+            {
+              "ex": "It was cloudy, but it [cleared up] in the afternoon.",
+              "tr": "Было облачно, но днём прояснилось."
+            },
+            {
+              "tip": "do up a coat — застегнуть; do up a flat — отремонтировать."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "It's cold, {do up} your jacket.",
+              "hint": "do / up",
+              "tr": "Холодно, застегни куртку.",
+              "why": "Застегнуть — do up."
+            },
+            {
+              "choice": "We were {held up} by a traffic jam.",
+              "opts": [
+                "held on",
+                "hold up"
+              ],
+              "tr": "Нас задержала пробка.",
+              "why": "Задержать — hold up (здесь в пассиве: were held up)."
+            },
+            {
+              "order": "He tore it up and threw it away.",
+              "tr": "Он разорвал это и выбросил."
+            },
+            {
+              "fix": "They're {saving out>saving up} for a house.",
+              "tr": "Они копят на дом.",
+              "why": "Копить — save up."
+            }
+          ],
+          "review": [
+            {
+              "gap": "I hope the weather {clears up} before the picnic.",
+              "hint": "clear / up",
+              "tr": "Надеюсь, к пикнику прояснится."
+            },
+            {
+              "gap": "She {tore up} the letter without reading it.",
+              "hint": "tear / up",
+              "tr": "Она порвала письмо, не читая."
+            },
+            {
+              "gap": "The bridge was {blown up} during the war.",
+              "hint": "blow / up",
+              "tr": "Мост взорвали во время войны."
+            },
+            {
+              "choice": "They bought an old house and {did it up}.",
+              "opts": [
+                "did up it",
+                "made it up"
+              ],
+              "tr": "Они купили старый дом и отремонтировали его."
+            },
+            {
+              "choice": "Sorry, I don't want to {hold you up}.",
+              "opts": [
+                "hold up you",
+                "hold you on"
+              ],
+              "tr": "Извини, не хочу тебя задерживать."
+            },
+            {
+              "choice": "Kids, {do up} your seat belts.",
+              "opts": [
+                "do on",
+                "make up"
+              ],
+              "tr": "Дети, пристегните ремни."
+            },
+            {
+              "order": "I'm saving up to travel around Asia.",
+              "tr": "Я коплю на путешествие по Азии."
+            },
+            {
+              "order": "The car caught fire and blew up.",
+              "tr": "Машина загорелась и взорвалась."
+            },
+            {
+              "order": "It rained all morning, but then it cleared up.",
+              "tr": "Всё утро шёл дождь, но потом прояснилось."
+            },
+            {
+              "fix": "Our flight was {held on>held up} by fog.",
+              "tr": "Наш рейс задержали из-за тумана.",
+              "why": "Задержать — hold up."
+            },
+            {
+              "fix": "I'm saving {on>up} for a new laptop.",
+              "tr": "Я коплю на новый ноутбук.",
+              "why": "Копить — save up."
+            },
+            {
+              "fix": "She was angry and {tore down>tore up} the photo.",
+              "tr": "Она разозлилась и порвала фотографию.",
+              "why": "Разорвать на куски — tear up."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u145-phrasal-verbs-away-back",
+      "title": "Phrasal verbs 9: away/back",
+      "subtitle": "Юнит 145 · throw away, call back",
+      "level": "B1",
+      "points": [
+        {
+          "id": "away-back",
+          "title": "away — прочь, back — обратно",
+          "theory": [
+            "away — уйти, уехать, удалиться от места или человека. back — вернуться туда, где был, или вернуть то, что взял.",
+            {
+              "table": [
+                [
+                  "away",
+                  "go away (уехать) · run / drive / fly away · blow away · take away"
+                ],
+                [
+                  "back",
+                  "be back · come / go / get back · give back · put back · take back"
+                ]
+              ]
+            },
+            {
+              "ex": "We're [going away] for the weekend.",
+              "tr": "Мы уезжаем на выходные."
+            },
+            {
+              "ex": "What time will you [be back]?",
+              "tr": "Во сколько ты вернёшься?"
+            },
+            {
+              "ex": "Please [put] the books [back] on the shelf.",
+              "tr": "Пожалуйста, поставь книги обратно на полку."
+            },
+            {
+              "wrong": "I will return back tomorrow.",
+              "right": "I will come back tomorrow. / I will return tomorrow."
+            },
+            {
+              "tip": "return уже значит «вернуться», back после него лишнее. С местоимением: give it back, put them back."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "Can you {give me back|give back} my charger?",
+              "hint": "give / back",
+              "tr": "Можешь вернуть мне зарядку?",
+              "why": "Вернуть — give back."
+            },
+            {
+              "choice": "The bird {flew away} when I opened the window.",
+              "opts": [
+                "flew back to",
+                "flew on"
+              ],
+              "tr": "Птица улетела, когда я открыл окно.",
+              "why": "Улететь прочь — fly away."
+            },
+            {
+              "order": "We walked back to the hotel.",
+              "tr": "Мы пошли обратно в отель."
+            },
+            {
+              "fix": "Thanks for the book, I'll {give back it>give it back} soon.",
+              "tr": "Спасибо за книгу, скоро верну.",
+              "why": "Местоимение — между give и back."
+            }
+          ],
+          "review": [
+            {
+              "gap": "My boss is {away} this week, he's in Paris.",
+              "hint": "away / back",
+              "tr": "Начальника на этой неделе нет, он в Париже."
+            },
+            {
+              "gap": "When did you {get back} from your holiday?",
+              "hint": "get / back",
+              "tr": "Когда ты вернулся из отпуска?"
+            },
+            {
+              "gap": "My hat {blew away} in the wind.",
+              "hint": "blow / away",
+              "tr": "Мою шляпу унесло ветром."
+            },
+            {
+              "choice": "Please {put it back} where you found it.",
+              "opts": [
+                "put back it",
+                "give it away"
+              ],
+              "tr": "Пожалуйста, положи это туда, где взял."
+            },
+            {
+              "choice": "The police {took away} his laptop.",
+              "opts": [
+                "took back",
+                "took off"
+              ],
+              "tr": "Полиция изъяла его ноутбук.",
+              "why": "Забрать прочь — take away."
+            },
+            {
+              "choice": "I'll {be back} in five minutes.",
+              "opts": [
+                "be away",
+                "come away"
+              ],
+              "tr": "Я вернусь через пять минут."
+            },
+            {
+              "order": "She got into the car and drove away.",
+              "tr": "Она села в машину и уехала."
+            },
+            {
+              "order": "These shoes are too small, I'll take them back.",
+              "tr": "Эти туфли малы, я отнесу их обратно в магазин."
+            },
+            {
+              "order": "Our cat ran away from home.",
+              "tr": "Наша кошка сбежала из дома."
+            },
+            {
+              "fix": "I'll {return back>return} the keys tomorrow.",
+              "tr": "Я верну ключи завтра.",
+              "why": "return уже значит «вернуть», back не нужен."
+            },
+            {
+              "fix": "Put {back them>them back} on the shelf.",
+              "tr": "Поставь их обратно на полку.",
+              "why": "Местоимение — между put и back."
+            },
+            {
+              "fix": "He {came away>came back} home late last night.",
+              "tr": "Вчера он поздно вернулся домой.",
+              "why": "Вернуться — come back."
+            }
+          ]
+        },
+        {
+          "id": "other-away",
+          "title": "throw away, give away, get away",
+          "theory": [
+            "Другие частые глаголы с away:",
+            {
+              "table": [
+                [
+                  "keep away (from)",
+                  "держаться подальше"
+                ],
+                [
+                  "give something away",
+                  "отдать даром"
+                ],
+                [
+                  "put something away",
+                  "убрать на место"
+                ],
+                [
+                  "throw something away",
+                  "выбросить"
+                ],
+                [
+                  "get away",
+                  "сбежать, ускользнуть"
+                ],
+                [
+                  "get away with something",
+                  "остаться безнаказанным"
+                ]
+              ]
+            },
+            {
+              "ex": "Don't [throw away] the receipt.",
+              "tr": "Не выбрасывай чек."
+            },
+            {
+              "ex": "[Keep away from] the edge!",
+              "tr": "Держись подальше от края!"
+            },
+            {
+              "ex": "He cheated on the test and [got away with] it.",
+              "tr": "Он списал на тесте, и ему это сошло с рук."
+            },
+            {
+              "tip": "put away — убрать в своё место (в шкаф, ящик); throw away — в мусор; give away — бесплатно кому-то."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "Please {put your toys away|put away your toys} before bed.",
+              "hint": "put / your toys / away",
+              "tr": "Пожалуйста, убери игрушки перед сном.",
+              "why": "Убрать на место — put away."
+            },
+            {
+              "choice": "The thief {got away} before the police arrived.",
+              "opts": [
+                "got back",
+                "gave away"
+              ],
+              "tr": "Вор скрылся до приезда полиции.",
+              "why": "Сбежать — get away."
+            },
+            {
+              "order": "I gave it away to a neighbour.",
+              "tr": "Я отдал это соседу."
+            },
+            {
+              "fix": "You can't park here and {get away from>get away with} it.",
+              "tr": "Здесь нельзя парковаться и надеяться, что это сойдёт с рук.",
+              "why": "Остаться безнаказанным — get away with."
+            }
+          ],
+          "review": [
+            {
+              "gap": "Don't {throw it away}, I still need it.",
+              "hint": "throw / it / away",
+              "tr": "Не выбрасывай это, мне это ещё нужно."
+            },
+            {
+              "gap": "{Keep away} from the dog, it bites.",
+              "hint": "keep / away",
+              "tr": "Держись подальше от собаки, она кусается."
+            },
+            {
+              "gap": "They're {giving away} free tickets online.",
+              "hint": "give / away",
+              "tr": "В интернете раздают бесплатные билеты."
+            },
+            {
+              "choice": "Nobody can {get away with} lying forever.",
+              "opts": [
+                "get away from",
+                "get on with"
+              ],
+              "tr": "Никому не удаётся вечно врать безнаказанно."
+            },
+            {
+              "choice": "Can you {put away} the dishes?",
+              "opts": [
+                "throw away",
+                "give away"
+              ],
+              "tr": "Можешь убрать посуду?",
+              "why": "Убрать на место — put away."
+            },
+            {
+              "choice": "Old clothes? Don't {throw them away}, give them to charity.",
+              "opts": [
+                "throw away them",
+                "put them back"
+              ],
+              "tr": "Старая одежда? Не выбрасывай её, отдай на благотворительность."
+            },
+            {
+              "order": "The robbers got away in a stolen car.",
+              "tr": "Грабители скрылись на угнанной машине."
+            },
+            {
+              "order": "Keep the children away from the fire.",
+              "tr": "Не подпускайте детей к огню."
+            },
+            {
+              "order": "Put it away when you've finished.",
+              "tr": "Убери это, когда закончишь."
+            },
+            {
+              "fix": "He broke the rules and {got away>got away with} it.",
+              "tr": "Он нарушил правила, и ему это сошло с рук.",
+              "why": "get away with something."
+            },
+            {
+              "fix": "I {threw off>threw away} all my old notes.",
+              "tr": "Я выбросил все свои старые записи.",
+              "why": "Выбросить — throw away."
+            },
+            {
+              "fix": "Please {keep off from>keep away from} my desk.",
+              "tr": "Пожалуйста, держись подальше от моего стола.",
+              "why": "keep away from."
+            }
+          ]
+        },
+        {
+          "id": "other-back",
+          "title": "call back, pay back, look back",
+          "theory": [
+            "Глаголы с back — ответить тем же или вернуться мыслями.",
+            {
+              "table": [
+                [
+                  "wave / smile / shout back",
+                  "помахать / улыбнуться / крикнуть в ответ"
+                ],
+                [
+                  "call / phone / ring back",
+                  "перезвонить"
+                ],
+                [
+                  "get back to somebody",
+                  "ответить позже"
+                ],
+                [
+                  "pay back (money / somebody)",
+                  "вернуть долг"
+                ],
+                [
+                  "look back (on)",
+                  "вспоминать прошлое"
+                ]
+              ]
+            },
+            {
+              "ex": "I'm busy now. Can I [call] you [back]?",
+              "tr": "Я сейчас занят. Можно тебе перезвонить?"
+            },
+            {
+              "ex": "I'll [get back to] you tomorrow.",
+              "tr": "Я отвечу тебе завтра."
+            },
+            {
+              "ex": "[Looking back], I'm glad I moved.",
+              "tr": "Оглядываясь назад, я рад, что переехал."
+            },
+            {
+              "wrong": "I'll call back you later.",
+              "right": "I'll call you back later."
+            },
+            {
+              "tip": "pay back: pay it back, pay me back. get back to — ответ после паузы: by email, по телефону."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "I smiled at the baby and she {smiled back}.",
+              "hint": "smile / back",
+              "tr": "Я улыбнулся малышке, и она улыбнулась в ответ.",
+              "why": "В ответ — smile back."
+            },
+            {
+              "choice": "Thanks for lending me the money. I'll {pay you back} on Friday.",
+              "opts": [
+                "pay back you",
+                "pay you away"
+              ],
+              "tr": "Спасибо, что одолжил денег. Верну в пятницу.",
+              "why": "Местоимение — между pay и back."
+            },
+            {
+              "order": "She never got back to me.",
+              "tr": "Она мне так и не ответила."
+            },
+            {
+              "fix": "Sorry, I'm driving. I'll {phone back you>phone you back}.",
+              "tr": "Извини, я за рулём. Перезвоню тебе.",
+              "why": "Местоимение — между phone и back."
+            }
+          ],
+          "review": [
+            {
+              "gap": "Leave a message and I'll {call you back}.",
+              "hint": "call / you / back",
+              "tr": "Оставьте сообщение, и я вам перезвоню."
+            },
+            {
+              "gap": "I waved at Tom, but he didn't {wave back}.",
+              "hint": "wave / back",
+              "tr": "Я помахал Тому, но он не помахал в ответ."
+            },
+            {
+              "gap": "When can you {pay back} the loan?",
+              "hint": "pay / back",
+              "tr": "Когда ты сможешь вернуть кредит?"
+            },
+            {
+              "choice": "Let me check and I'll {get back to} you.",
+              "opts": [
+                "get back",
+                "get on to"
+              ],
+              "tr": "Дай мне проверить, и я тебе отвечу."
+            },
+            {
+              "choice": "I often {look back} on my school years.",
+              "opts": [
+                "look away",
+                "look up"
+              ],
+              "tr": "Я часто вспоминаю свои школьные годы."
+            },
+            {
+              "choice": "He shouted at me, so I {shouted back}.",
+              "opts": [
+                "shouted away",
+                "shouted off"
+              ],
+              "tr": "Он накричал на меня, и я крикнул в ответ."
+            },
+            {
+              "order": "Can you ask her to call me back?",
+              "tr": "Можешь попросить её перезвонить мне?"
+            },
+            {
+              "order": "Looking back, it was a great experience.",
+              "tr": "Оглядываясь назад, это был отличный опыт."
+            },
+            {
+              "order": "I lent him money and he never paid me back.",
+              "tr": "Я одолжил ему денег, а он так и не вернул."
+            },
+            {
+              "fix": "The company never got {back me>back to me}.",
+              "tr": "Компания мне так и не ответила.",
+              "why": "get back to somebody."
+            },
+            {
+              "fix": "Can you {ring back me>ring me back} in an hour?",
+              "tr": "Можешь перезвонить мне через час?",
+              "why": "Местоимение — между ring и back."
+            },
+            {
+              "fix": "He {called back me>called me back} an hour later.",
+              "tr": "Он перезвонил мне через час.",
+              "why": "Местоимение — между call и back."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "r145-review-phrasal-verbs",
+      "title": "Review: Phrasal verbs",
+      "subtitle": "Повторение · юниты 137–145",
+      "level": "B2",
+      "points": [
+        {
+          "id": "on-off",
+          "title": "on или off",
+          "theory": [
+            "on — включить, надеть, продолжать. off — выключить, снять, уйти, отменить. Одинаковый глагол с разной частицей может значить противоположное.",
+            {
+              "table": [
+                [
+                  "turn / switch on",
+                  "turn / switch off"
+                ],
+                [
+                  "put on (надеть)",
+                  "take off (снять)"
+                ],
+                [
+                  "get on (сесть в автобус; ладить)",
+                  "get off (выйти)"
+                ],
+                [
+                  "go on (продолжаться; происходить)",
+                  "go off (сработать)"
+                ],
+                [
+                  "carry on (продолжать)",
+                  "put off / call off (отложить / отменить)"
+                ]
+              ]
+            },
+            {
+              "ex": "[Take off] your shoes and [put on] these slippers.",
+              "tr": "Сними обувь и надень эти тапочки."
+            },
+            {
+              "ex": "The match was [called off], not [put off].",
+              "tr": "Матч отменили, а не перенесли."
+            },
+            {
+              "tip": "put on — надеть, put off — отложить. Не путай: put off the meeting = перенести встречу."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "We have to {get off} at the next stop.",
+              "hint": "get / off",
+              "tr": "Нам выходить на следующей остановке.",
+              "why": "Выйти из транспорта — get off."
+            },
+            {
+              "choice": "It's dark in here. Can you {turn on} the light?",
+              "opts": [
+                "turn off",
+                "turn out"
+              ],
+              "tr": "Здесь темно. Можешь включить свет?",
+              "why": "Темно — значит включить."
+            },
+            {
+              "order": "It was hot, so she took it off.",
+              "tr": "Было жарко, и она это сняла."
+            },
+            {
+              "fix": "Don't stop, {carry off>carry on} singing!",
+              "tr": "Не останавливайся, пой дальше!",
+              "why": "Продолжать — carry on."
+            }
+          ],
+          "review": [
+            {
+              "gap": "The concert has been {put off} until May.",
+              "hint": "put / off",
+              "tr": "Концерт перенесли на май.",
+              "why": "Отложить — put off."
+            },
+            {
+              "gap": "My alarm {went off} at 5 a.m. by mistake.",
+              "hint": "go / off",
+              "tr": "Мой будильник по ошибке сработал в пять утра."
+            },
+            {
+              "gap": "Hurry up, {put on} your coat!",
+              "hint": "put / on",
+              "tr": "Быстрее, надевай пальто!"
+            },
+            {
+              "choice": "Do you {get on} with your new flatmate?",
+              "opts": [
+                "get off",
+                "go on"
+              ],
+              "tr": "Ты ладишь с новым соседом по квартире?"
+            },
+            {
+              "choice": "It's too hot. I'll {take off} my jacket.",
+              "opts": [
+                "put on",
+                "put off"
+              ],
+              "tr": "Слишком жарко. Сниму куртку."
+            },
+            {
+              "choice": "What's {going on}? Why is everyone shouting?",
+              "opts": [
+                "going off",
+                "getting on"
+              ],
+              "tr": "Что происходит? Почему все кричат?"
+            },
+            {
+              "order": "We got on the wrong bus.",
+              "tr": "Мы сели не на тот автобус."
+            },
+            {
+              "order": "Our plane took off on time.",
+              "tr": "Наш самолёт взлетел вовремя."
+            },
+            {
+              "order": "Can you switch it off, it's too loud?",
+              "tr": "Можешь выключить, слишком громко?"
+            },
+            {
+              "fix": "Our trip was {called on>called off} because of the strike.",
+              "tr": "Нашу поездку отменили из-за забастовки.",
+              "why": "Отменить — call off."
+            },
+            {
+              "fix": "Please {put off>put on} your seat belt.",
+              "tr": "Пожалуйста, пристегните ремень.",
+              "why": "Надеть — put on; put off — отложить."
+            },
+            {
+              "fix": "I dozed {on>off} during the film.",
+              "tr": "Я задремал во время фильма.",
+              "why": "Задремать — doze off."
+            }
+          ]
+        },
+        {
+          "id": "up-down",
+          "title": "up или down",
+          "theory": [
+            "up — вверх, больше, начать, до конца. down — вниз, меньше, сломаться, отказать.",
+            {
+              "table": [
+                [
+                  "turn up (громче)",
+                  "turn down (тише; отказать)"
+                ],
+                [
+                  "pick up (поднять)",
+                  "put down (положить)"
+                ],
+                [
+                  "stand up",
+                  "sit down"
+                ],
+                [
+                  "break up (расстаться)",
+                  "break down (сломаться)"
+                ],
+                [
+                  "speed up",
+                  "slow down"
+                ]
+              ]
+            },
+            {
+              "ex": "The car [broke down], and then Anna and Max [broke up].",
+              "tr": "Сломалась машина, а потом Анна и Макс расстались."
+            },
+            {
+              "ex": "Please [turn] the music [down], the baby's asleep.",
+              "tr": "Пожалуйста, сделай музыку тише, малыш спит."
+            },
+            {
+              "tip": "turn down — и «убавить», и «отказаться»: She turned down the job."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "He {turned down} the offer because the pay was low.",
+              "hint": "turn / down",
+              "tr": "Он отказался от предложения, потому что платили мало.",
+              "why": "Отказаться — turn down."
+            },
+            {
+              "choice": "Lisa and her boyfriend {broke up} last month.",
+              "opts": [
+                "broke down",
+                "broke out"
+              ],
+              "tr": "Лиза и её парень расстались в прошлом месяце.",
+              "why": "Расстаться — break up."
+            },
+            {
+              "order": "Can you pick me up at eight?",
+              "tr": "Можешь заехать за мной в восемь?"
+            },
+            {
+              "fix": "You're driving too fast, {slow up>slow down}!",
+              "tr": "Ты едешь слишком быстро, притормози!",
+              "why": "Замедлиться — slow down."
+            }
+          ],
+          "review": [
+            {
+              "gap": "My laptop {broke down} the day before the exam.",
+              "hint": "break / down",
+              "tr": "Мой ноутбук сломался накануне экзамена."
+            },
+            {
+              "gap": "I can't hear anything, {turn it up}!",
+              "hint": "turn / it / up",
+              "tr": "Ничего не слышно, сделай погромче!"
+            },
+            {
+              "gap": "Don't {give up}, try one more time.",
+              "hint": "give / up",
+              "tr": "Не сдавайся, попробуй ещё раз."
+            },
+            {
+              "choice": "Everyone {stood up} to clap.",
+              "opts": [
+                "stood down",
+                "sat up"
+              ],
+              "tr": "Все встали, чтобы похлопать."
+            },
+            {
+              "choice": "Can you {write down} my email address?",
+              "opts": [
+                "write up",
+                "write off"
+              ],
+              "tr": "Можешь записать мой адрес почты?"
+            },
+            {
+              "choice": "Thanks for your help, you never {let me down}.",
+              "opts": [
+                "let me up",
+                "let down me"
+              ],
+              "tr": "Спасибо за помощь, ты никогда меня не подводишь."
+            },
+            {
+              "order": "My grandparents brought me up.",
+              "tr": "Меня вырастили бабушка с дедушкой."
+            },
+            {
+              "order": "Please sit down and relax.",
+              "tr": "Пожалуйста, садитесь и отдыхайте."
+            },
+            {
+              "order": "The old cinema was knocked down.",
+              "tr": "Старый кинотеатр снесли."
+            },
+            {
+              "fix": "My car {broke up>broke down} on the motorway.",
+              "tr": "Моя машина сломалась на трассе.",
+              "why": "Техника ломается — break down; break up — расстаться."
+            },
+            {
+              "fix": "I {picked down>picked up} the phone and called her.",
+              "tr": "Я взял телефон и позвонил ей.",
+              "why": "Поднять, взять — pick up."
+            },
+            {
+              "fix": "She {set down>set up} her own company at 30.",
+              "tr": "Она основала свою компанию в 30 лет.",
+              "why": "Основать — set up."
+            }
+          ]
+        },
+        {
+          "id": "in-out-away-back",
+          "title": "in / out и away / back",
+          "theory": [
+            "in — внутрь, out — наружу, а также «до конца» и «выяснить». away — прочь, back — обратно, в ответ.",
+            {
+              "table": [
+                [
+                  "move in / check in",
+                  "move out / check out"
+                ],
+                [
+                  "find out (узнать) · run out (закончиться)",
+                  "fill in (заполнить)"
+                ],
+                [
+                  "go away · give away · throw away",
+                  "come back · give back · call back"
+                ]
+              ]
+            },
+            {
+              "ex": "We [checked out] of the hotel at noon.",
+              "tr": "Мы выехали из отеля в полдень."
+            },
+            {
+              "ex": "I [gave away] my old books but [gave back] your dictionary.",
+              "tr": "Старые книги я раздал, а твой словарь вернул."
+            },
+            {
+              "tip": "give away — отдать насовсем, бесплатно. give back — вернуть владельцу."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "We've {run out of} sugar. Can you buy some?",
+              "hint": "run / out / of",
+              "tr": "У нас кончился сахар. Можешь купить?",
+              "why": "Закончиться — run out of."
+            },
+            {
+              "choice": "Can I borrow your pen? I'll {give it back} in a minute.",
+              "opts": [
+                "give it away",
+                "give back it"
+              ],
+              "tr": "Можно твою ручку? Сейчас верну.",
+              "why": "Вернуть владельцу — give back."
+            },
+            {
+              "order": "They moved out of their old flat.",
+              "tr": "Они съехали из своей старой квартиры."
+            },
+            {
+              "fix": "I just {found in>found out} that the shop is closed.",
+              "tr": "Я только что узнал, что магазин закрыт.",
+              "why": "Узнать — find out."
+            }
+          ],
+          "review": [
+            {
+              "gap": "Please {fill in|fill out} this form.",
+              "hint": "fill / in",
+              "tr": "Пожалуйста, заполните эту анкету."
+            },
+            {
+              "gap": "I'm busy now, I'll {call you back} later.",
+              "hint": "call / you / back",
+              "tr": "Я сейчас занят, перезвоню позже."
+            },
+            {
+              "gap": "We {checked in} and went straight to the pool.",
+              "hint": "check / in",
+              "tr": "Мы заселились и сразу пошли в бассейн."
+            },
+            {
+              "choice": "Don't {throw away} that box, it's useful.",
+              "opts": [
+                "throw off",
+                "throw back"
+              ],
+              "tr": "Не выбрасывай эту коробку, она пригодится."
+            },
+            {
+              "choice": "Our neighbours are {moving out} on Monday.",
+              "opts": [
+                "moving into",
+                "moving out of"
+              ],
+              "tr": "Наши соседи съезжают в понедельник."
+            },
+            {
+              "choice": "We're {going away} for a week.",
+              "opts": [
+                "going away from",
+                "going out of"
+              ],
+              "tr": "Мы уезжаем на неделю."
+            },
+            {
+              "order": "When are you coming back from Spain?",
+              "tr": "Когда ты возвращаешься из Испании?"
+            },
+            {
+              "order": "The thief got away in a taxi.",
+              "tr": "Вор скрылся на такси."
+            },
+            {
+              "order": "Let's eat out for a change.",
+              "tr": "Давай для разнообразия поедим в ресторане."
+            },
+            {
+              "fix": "You can {give away>give back} my umbrella tomorrow.",
+              "tr": "Можешь вернуть мне зонт завтра.",
+              "why": "Вернуть владельцу — give back."
+            },
+            {
+              "fix": "Two students {dropped in>dropped out} of the course.",
+              "tr": "Двое студентов бросили курс.",
+              "why": "Бросить учёбу — drop out of."
+            },
+            {
+              "fix": "Please {put back it>put it back} in the fridge.",
+              "tr": "Пожалуйста, положи это обратно в холодильник.",
+              "why": "Местоимение — между put и back."
+            }
+          ]
+        },
+        {
+          "id": "object-preposition",
+          "title": "Местоимение и предлог",
+          "theory": [
+            "Две главные ловушки: местоимение встаёт между глаголом и частицей, а у трёхсловных глаголов предлог обязателен.",
+            {
+              "formula": [
+                "turn",
+                "+",
+                "it / them / me",
+                "+",
+                "off"
+              ]
+            },
+            {
+              "table": [
+                [
+                  "look forward to + -ing",
+                  "ждать с нетерпением"
+                ],
+                [
+                  "put up with",
+                  "терпеть"
+                ],
+                [
+                  "get on with",
+                  "ладить; продолжить дело"
+                ],
+                [
+                  "run out of",
+                  "закончиться"
+                ],
+                [
+                  "come up with",
+                  "придумать"
+                ],
+                [
+                  "get away with",
+                  "сойти с рук"
+                ]
+              ]
+            },
+            {
+              "ex": "I don't need these papers. [Throw them away].",
+              "tr": "Мне не нужны эти бумаги. Выбрось их."
+            },
+            {
+              "ex": "I'm [looking forward to] meeting you.",
+              "tr": "С нетерпением жду встречи с тобой."
+            },
+            {
+              "wrong": "Can you pick up me at six?",
+              "right": "Can you pick me up at six?"
+            }
+          ],
+          "practice": [
+            {
+              "gap": "These jeans look nice. Can I {try them on}?",
+              "hint": "try / them / on",
+              "tr": "Эти джинсы хорошо выглядят. Можно их примерить?",
+              "why": "Местоимение — между try и on."
+            },
+            {
+              "choice": "I'm looking forward to {seeing} you.",
+              "opts": [
+                "see",
+                "be seeing"
+              ],
+              "tr": "С нетерпением жду встречи.",
+              "why": "look forward to + -ing."
+            },
+            {
+              "order": "I can't put up with this heat.",
+              "tr": "Я не выношу эту жару."
+            },
+            {
+              "fix": "The baby is asleep, don't {wake up her>wake her up}.",
+              "tr": "Малышка спит, не буди её.",
+              "why": "Местоимение — между wake и up."
+            }
+          ],
+          "review": [
+            {
+              "gap": "Great idea! Who {came up with} it?",
+              "hint": "come / up / with",
+              "tr": "Отличная идея! Кто её придумал?"
+            },
+            {
+              "gap": "I don't know the word, so I'll {look it up}.",
+              "hint": "look / it / up",
+              "tr": "Я не знаю этого слова, посмотрю в словаре."
+            },
+            {
+              "gap": "Your music is too loud. Please {turn it down}.",
+              "hint": "turn / it / down",
+              "tr": "Твоя музыка слишком громкая. Сделай тише, пожалуйста."
+            },
+            {
+              "choice": "How can you {put up with} so much noise?",
+              "opts": [
+                "put up",
+                "put with"
+              ],
+              "tr": "Как ты терпишь столько шума?"
+            },
+            {
+              "choice": "Thanks for the money, I'll {pay you back} soon.",
+              "opts": [
+                "pay back you",
+                "pay you off"
+              ],
+              "tr": "Спасибо за деньги, скоро верну."
+            },
+            {
+              "choice": "He cheated, but he {got away with} it.",
+              "opts": [
+                "got away",
+                "got on with"
+              ],
+              "tr": "Он сжульничал, но ему это сошло с рук."
+            },
+            {
+              "order": "I'm looking forward to the weekend.",
+              "tr": "С нетерпением жду выходных."
+            },
+            {
+              "order": "Don't forget to turn it off.",
+              "tr": "Не забудь это выключить."
+            },
+            {
+              "order": "We ran out of time.",
+              "tr": "У нас закончилось время."
+            },
+            {
+              "fix": "We're looking forward {to visit>to visiting} you.",
+              "tr": "С нетерпением ждём, когда приедем к вам.",
+              "why": "look forward to + -ing."
+            },
+            {
+              "fix": "These shoes hurt, I'll {take off them>take them off}.",
+              "tr": "Эти туфли жмут, я их сниму.",
+              "why": "Местоимение — между take и off."
+            },
+            {
+              "fix": "I don't {get on>get on with} my sister.",
+              "tr": "Я не лажу с сестрой.",
+              "why": "get on with somebody."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

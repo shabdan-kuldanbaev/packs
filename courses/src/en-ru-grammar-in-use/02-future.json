@@ -1,0 +1,2797 @@
+{
+  "format": 1,
+  "kind": "course",
+  "id": "grammar-02-future",
+  "title": "Будущее время",
+  "targetLang": "en",
+  "nativeLang": "ru",
+  "level": "B1",
+  "lessons": [
+    {
+      "id": "u19-present-tenses-for-future",
+      "title": "Present tenses for the future",
+      "subtitle": "Юнит 19 · планы и расписания",
+      "level": "B1",
+      "points": [
+        {
+          "id": "arrangements",
+          "title": "Договорённости: am/is/are + -ing",
+          "theory": [
+            "Если о будущем уже договорились — билеты куплены, встреча назначена, — говорим в Present continuous. Обычно рядом есть время: tomorrow, on Friday, next week.",
+            {
+              "formula": [
+                "am / is / are",
+                "+",
+                "глагол + ing",
+                "+",
+                "когда"
+              ]
+            },
+            {
+              "ex": "I [am meeting] my sister at the airport tomorrow.",
+              "tr": "Завтра я встречаю сестру в аэропорту."
+            },
+            {
+              "ex": "[Are you doing] anything this weekend?",
+              "tr": "У тебя есть планы на выходные?"
+            },
+            {
+              "wrong": "I go to the dentist tomorrow.",
+              "right": "I'm going to the dentist tomorrow."
+            },
+            "О договорённостях will обычно не говорят: We're having a meeting on Monday, а не We will have.",
+            {
+              "tip": "С глаголами движения так же говорят о том, что начнёшь прямо сейчас: I'm going to bed. — Я спать. I'm coming! — Иду!"
+            }
+          ],
+          "practice": [
+            {
+              "gap": "I {am seeing|'m seeing|am going to see|'m going to see} the doctor on Thursday afternoon.",
+              "hint": "see",
+              "tr": "В четверг днём я иду к врачу.",
+              "why": "Приём уже назначен — договорённость, Present continuous."
+            },
+            {
+              "choice": "Sorry, I can't come — I {am working} late tonight.",
+              "opts": [
+                "work",
+                "worked"
+              ],
+              "tr": "Извини, не смогу прийти — я сегодня допоздна работаю.",
+              "why": "Решено заранее, речь о будущем вечере — am working."
+            },
+            {
+              "order": "We are having a barbecue on Sunday.",
+              "tr": "В воскресенье мы устраиваем барбекю."
+            },
+            {
+              "fix": "What {do you do>are you doing} after work today?",
+              "tr": "Что ты делаешь сегодня после работы?",
+              "why": "Спрашиваем о планах — Present continuous, а не Present simple."
+            }
+          ],
+          "review": [
+            {
+              "gap": "My parents {are visiting|'re visiting|are going to visit|'re going to visit} us next weekend.",
+              "hint": "visit",
+              "tr": "В следующие выходные к нам приезжают родители.",
+              "why": "Визит уже согласован — Present continuous."
+            },
+            {
+              "gap": "I {am not working|'m not working|am not going to work|'m not going to work} tomorrow — it's a holiday.",
+              "hint": "not / work",
+              "tr": "Завтра я не работаю — праздник."
+            },
+            {
+              "gap": "{Are you coming|Are you going to come} to the meeting this afternoon?",
+              "hint": "you / come",
+              "tr": "Ты придёшь на совещание сегодня днём?"
+            },
+            {
+              "gap": "Ella {is moving|'s moving|is going to move|'s going to move} to Berlin in March.",
+              "hint": "move",
+              "tr": "В марте Элла переезжает в Берлин."
+            },
+            {
+              "choice": "Sorry, I'm busy. I {am meeting} a client at three.",
+              "opts": [
+                "meet",
+                "met"
+              ],
+              "tr": "Извини, я занят. В три у меня встреча с клиентом."
+            },
+            {
+              "choice": "{Is Tom playing} in the match next Saturday?",
+              "opts": [
+                "Does Tom play",
+                "Did Tom play"
+              ],
+              "tr": "Том играет в матче в следующую субботу?",
+              "why": "Вопрос о договорённости — Present continuous."
+            },
+            {
+              "choice": "Wait for me! I {am coming}.",
+              "opts": [
+                "come",
+                "came"
+              ],
+              "tr": "Подожди меня! Иду.",
+              "why": "Действие вот-вот начнётся — am coming, а не come."
+            },
+            {
+              "order": "Are you doing anything on Friday evening?",
+              "tr": "У тебя есть планы на вечер пятницы?"
+            },
+            {
+              "order": "They are getting married in September.",
+              "tr": "Они женятся в сентябре."
+            },
+            {
+              "fix": "{Do you go>Are you going} to Kate's party on Saturday?",
+              "tr": "Ты идёшь на вечеринку к Кейт в субботу?",
+              "why": "Вопрос о договорённости — are you going."
+            },
+            {
+              "fix": "Sorry, I can't. I {play>am playing} tennis with Joe tonight.",
+              "tr": "Извини, не могу. Сегодня вечером я играю в теннис с Джо."
+            },
+            {
+              "fix": "I {not working>am not working} next Friday, so let's meet.",
+              "tr": "В следующую пятницу я не работаю, так что давай встретимся.",
+              "why": "Без am форма не работает: am not + -ing."
+            }
+          ]
+        },
+        {
+          "id": "timetables",
+          "title": "Расписание: Present simple",
+          "theory": [
+            "Когда будущее зависит от расписания — поезда, фильмы, уроки, часы работы, — берём Present simple, как в расписании на стене.",
+            {
+              "ex": "The last bus [leaves] at 11.40.",
+              "tr": "Последний автобус уходит в 23:40."
+            },
+            {
+              "ex": "What time [does the concert start] tomorrow?",
+              "tr": "Во сколько завтра начинается концерт?"
+            },
+            "О людях Present simple возможен, только если план жёсткий, как расписание: I start work on Monday. Для обычных личных договорённостей — Present continuous.",
+            {
+              "table": [
+                [
+                  "расписание",
+                  "The train arrives at 6."
+                ],
+                [
+                  "договорённость",
+                  "I'm meeting Ann at 6."
+                ]
+              ]
+            },
+            {
+              "wrong": "Who do you have dinner with tonight?",
+              "right": "Who are you having dinner with tonight?"
+            },
+            {
+              "tip": "Про уроки, экзамены, приёмы можно сказать и I have / I've got: I've got an exam next week."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "The museum {opens} at ten tomorrow.",
+              "hint": "open",
+              "tr": "Завтра музей открывается в десять.",
+              "why": "Часы работы — расписание, Present simple."
+            },
+            {
+              "choice": "What time {does the match start} on Saturday?",
+              "opts": [
+                "is the match start",
+                "does the match starts"
+              ],
+              "tr": "Во сколько в субботу начинается матч?",
+              "why": "Вопрос в Present simple: does + подлежащее + глагол без -s."
+            },
+            {
+              "order": "Our flight leaves at six in the morning.",
+              "tr": "Наш рейс вылетает в шесть утра."
+            },
+            {
+              "fix": "What time {the concert starts>does the concert start} tonight?",
+              "tr": "Во сколько сегодня начинается концерт?",
+              "why": "В вопросе нужен does, а глагол — без -s."
+            }
+          ],
+          "review": [
+            {
+              "gap": "The next train to Oxford {leaves} at 9.20.",
+              "hint": "leave",
+              "tr": "Следующий поезд в Оксфорд отправляется в 9:20."
+            },
+            {
+              "gap": "Term {starts} on the fifth of September.",
+              "hint": "start",
+              "tr": "Семестр начинается пятого сентября."
+            },
+            {
+              "gap": "What time {does the shop close} tomorrow?",
+              "hint": "the shop / close",
+              "tr": "Во сколько завтра закрывается магазин?"
+            },
+            {
+              "gap": "The concert {doesn't start|does not start} until eight.",
+              "hint": "not / start",
+              "tr": "Концерт начинается только в восемь."
+            },
+            {
+              "choice": "The film {starts} at 8.15, so don't be late.",
+              "opts": [
+                "start",
+                "starting"
+              ],
+              "tr": "Фильм начинается в 8:15, так что не опаздывай."
+            },
+            {
+              "choice": "Our plane {lands} at midnight local time.",
+              "opts": [
+                "land",
+                "landing"
+              ],
+              "tr": "Наш самолёт приземляется в полночь по местному времени."
+            },
+            {
+              "choice": "What time {are you meeting} Leo tomorrow?",
+              "opts": [
+                "do you meet",
+                "you are meeting"
+              ],
+              "tr": "Во сколько ты завтра встречаешься с Лео?",
+              "why": "Личная договорённость — Present continuous, не расписание."
+            },
+            {
+              "order": "The festival begins on the first of July.",
+              "tr": "Фестиваль начинается первого июля."
+            },
+            {
+              "order": "What time does the last bus leave?",
+              "tr": "Во сколько уходит последний автобус?"
+            },
+            {
+              "fix": "The shops {opens>open} at nine on Sunday.",
+              "tr": "В воскресенье магазины открываются в девять.",
+              "why": "The shops — «они», окончание -s не нужно."
+            },
+            {
+              "fix": "When {the exam starts>does the exam start} next week?",
+              "tr": "Когда на следующей неделе начинается экзамен?"
+            },
+            {
+              "fix": "The ferry {leave>leaves} at 6.30 tomorrow morning.",
+              "tr": "Паром отходит завтра в 6:30 утра.",
+              "why": "The ferry — «он», нужно -s."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u20-going-to",
+      "title": "I'm going to (do)",
+      "subtitle": "Юнит 20 · намерения и явные признаки",
+      "level": "B1",
+      "points": [
+        {
+          "id": "intention",
+          "title": "Намерение: be going to",
+          "theory": [
+            "be going to + глагол — «собираюсь»: решение уже принято раньше, до разговора.",
+            {
+              "formula": [
+                "am / is / are",
+                "+",
+                "going to",
+                "+",
+                "глагол"
+              ]
+            },
+            {
+              "ex": "I [am going to learn] to drive this summer.",
+              "tr": "Этим летом я собираюсь научиться водить."
+            },
+            {
+              "ex": "What [are you going to do] with the old sofa?",
+              "tr": "Что ты собираешься делать со старым диваном?"
+            },
+            "Сравни: I'm meeting Ann tomorrow — договорились, время назначено. I'm going to call Ann — решил, но ни с кем не договаривался. Часто подходят оба.",
+            {
+              "wrong": "I going to buy a new phone.",
+              "right": "I'm going to buy a new phone."
+            },
+            {
+              "tip": "Отрицание: I'm not going to… — не собираюсь. В речи going to звучит как gonna, но писать так не стоит."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "I've made a decision. I {am going to eat|'m going to eat} less sugar.",
+              "hint": "going to / eat",
+              "tr": "Я принял решение. Я буду есть меньше сахара.",
+              "why": "Решение принято заранее — be going to."
+            },
+            {
+              "choice": "{Are you going to} watch the match tonight?",
+              "opts": [
+                "Do you going to",
+                "Are you go to"
+              ],
+              "tr": "Ты собираешься смотреть матч сегодня вечером?",
+              "why": "Вопрос: are выходит вперёд, дальше going to."
+            },
+            {
+              "order": "We are going to paint the kitchen yellow.",
+              "tr": "Мы собираемся покрасить кухню в жёлтый."
+            },
+            {
+              "fix": "She {going to>is going to} apply for that job.",
+              "tr": "Она собирается подать заявку на эту работу.",
+              "why": "Перед going to обязателен am / is / are."
+            }
+          ],
+          "review": [
+            {
+              "gap": "I {am going to start|'m going to start} running in the mornings.",
+              "hint": "going to / start",
+              "tr": "Я собираюсь начать бегать по утрам."
+            },
+            {
+              "gap": "They {are going to move|'re going to move} to the countryside.",
+              "hint": "going to / move",
+              "tr": "Они собираются переехать за город."
+            },
+            {
+              "gap": "I {am not going to lend|'m not going to lend} him money again.",
+              "hint": "not going to / lend",
+              "tr": "Больше я не собираюсь давать ему деньги в долг."
+            },
+            {
+              "gap": "What {are you going to cook} for the guests?",
+              "hint": "you / going to / cook",
+              "tr": "Что ты собираешься приготовить для гостей?"
+            },
+            {
+              "choice": "Ben {is going to} take a year off after school.",
+              "opts": [
+                "are going to",
+                "going to"
+              ],
+              "tr": "После школы Бен собирается взять год перерыва."
+            },
+            {
+              "choice": "I'm {not going to} answer that message.",
+              "opts": [
+                "don't going to",
+                "not go to"
+              ],
+              "tr": "Я не собираюсь отвечать на это сообщение."
+            },
+            {
+              "choice": "Where {are you going to} put the new desk?",
+              "opts": [
+                "you are going to",
+                "do you going to"
+              ],
+              "tr": "Куда ты собираешься поставить новый стол?",
+              "why": "В вопросе are стоит перед подлежащим."
+            },
+            {
+              "order": "I am going to call her after lunch.",
+              "tr": "Я собираюсь позвонить ей после обеда."
+            },
+            {
+              "order": "Is she going to study medicine?",
+              "tr": "Она собирается изучать медицину?"
+            },
+            {
+              "fix": "We {are going buy>are going to buy} a bigger flat.",
+              "tr": "Мы собираемся купить квартиру побольше.",
+              "why": "Без to конструкция не работает: going to + глагол."
+            },
+            {
+              "fix": "Are you going to {cooking>cook} tonight?",
+              "tr": "Ты собираешься сегодня готовить?",
+              "why": "После going to — глагол в начальной форме."
+            },
+            {
+              "fix": "I {am go to>am going to} visit my grandma.",
+              "tr": "Я собираюсь навестить бабушку."
+            }
+          ]
+        },
+        {
+          "id": "evidence",
+          "title": "Видно по ситуации: going to",
+          "theory": [
+            "Если по тому, что происходит сейчас, уже видно, что будет, — говорим going to. «Доказательство» прямо перед глазами.",
+            {
+              "ex": "Look at the sky! It [is going to snow].",
+              "tr": "Посмотри на небо! Сейчас пойдёт снег."
+            },
+            {
+              "ex": "Slow down! We [are going to crash]!",
+              "tr": "Притормози! Мы сейчас врежемся!"
+            },
+            {
+              "wrong": "Watch out! The glass will fall!",
+              "right": "Watch out! The glass is going to fall!"
+            },
+            {
+              "tip": "Подсказки: Look!, Watch out!, I feel…, всё, что видно или чувствуется прямо сейчас."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "Watch out! That ladder {is going to fall|'s going to fall}!",
+              "hint": "going to / fall",
+              "tr": "Осторожно! Эта лестница сейчас упадёт!",
+              "why": "Видно по ситуации — going to."
+            },
+            {
+              "choice": "I feel awful. I think I {am going to} faint.",
+              "opts": [
+                "will going to",
+                "go to"
+              ],
+              "tr": "Мне ужасно плохо. Кажется, я сейчас упаду в обморок.",
+              "why": "Признаки есть уже сейчас — am going to."
+            },
+            {
+              "order": "It is going to be a hot day.",
+              "tr": "День будет жарким."
+            },
+            {
+              "fix": "Look at the queue! We {will miss>are going to miss} the start.",
+              "tr": "Посмотри на очередь! Мы пропустим начало.",
+              "why": "Вывод из того, что видно сейчас, — going to."
+            }
+          ],
+          "review": [
+            {
+              "gap": "The battery is at two percent. My phone {is going to die|'s going to die}.",
+              "hint": "going to / die",
+              "tr": "Заряд два процента. Телефон сейчас сядет."
+            },
+            {
+              "gap": "Look how fast he's running! He {is going to win|'s going to win}.",
+              "hint": "going to / win",
+              "tr": "Смотри, как быстро он бежит! Он победит."
+            },
+            {
+              "gap": "It's ten to nine already. We {are going to be|'re going to be} late.",
+              "hint": "going to / be",
+              "tr": "Уже без десяти девять. Мы опоздаем."
+            },
+            {
+              "gap": "Careful! You {are going to drop|'re going to drop} those plates!",
+              "hint": "going to / drop",
+              "tr": "Осторожно! Ты сейчас уронишь тарелки!"
+            },
+            {
+              "choice": "Look at that car! It {is going to} hit the wall!",
+              "opts": [
+                "is going",
+                "going to"
+              ],
+              "tr": "Смотри на ту машину! Она сейчас врежется в стену!"
+            },
+            {
+              "choice": "The sky is clear. It {is going to} be a sunny day.",
+              "opts": [
+                "going to",
+                "is go to"
+              ],
+              "tr": "Небо ясное. День будет солнечным."
+            },
+            {
+              "choice": "Oh no, I {am going to} sneeze.",
+              "opts": [
+                "going to",
+                "am go to"
+              ],
+              "tr": "Ой, я сейчас чихну."
+            },
+            {
+              "order": "Those boxes are going to fall over.",
+              "tr": "Эти коробки сейчас упадут."
+            },
+            {
+              "order": "The river is going to flood the road.",
+              "tr": "Река вот-вот затопит дорогу."
+            },
+            {
+              "fix": "Look at her face! She {is going cry>is going to cry}.",
+              "tr": "Посмотри на её лицо! Она сейчас заплачет."
+            },
+            {
+              "fix": "The bus is full. We {not going to>are not going to} get on.",
+              "tr": "Автобус полный. Мы в него не влезем.",
+              "why": "Нужен are: are not going to."
+            },
+            {
+              "fix": "The ice is thin. You {will fall>are going to fall} through it!",
+              "tr": "Лёд тонкий. Ты провалишься!",
+              "why": "Опасность видна сейчас — going to."
+            }
+          ]
+        },
+        {
+          "id": "was-going-to",
+          "title": "Was going to: собирался, но…",
+          "theory": [
+            "was / were going to — собирался что-то сделать, но не сделал.",
+            {
+              "formula": [
+                "was / were",
+                "+",
+                "going to",
+                "+",
+                "глагол"
+              ]
+            },
+            {
+              "ex": "I [was going to call] you, but my phone died.",
+              "tr": "Я собирался тебе позвонить, но у меня сел телефон."
+            },
+            {
+              "ex": "We [were going to stay] longer, but it started to rain.",
+              "tr": "Мы собирались остаться подольше, но пошёл дождь."
+            },
+            "Так же говорят о том, что ожидали, но не случилось: I thought the test was going to be hard. — Думал, тест будет трудным.",
+            {
+              "tip": "was — с I, he, she, it; were — с you, we, they."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "I {was going to cook} dinner, but I was too tired.",
+              "hint": "going to / cook",
+              "tr": "Я собирался приготовить ужин, но слишком устал.",
+              "why": "Намерение в прошлом, которое не сбылось, — was going to."
+            },
+            {
+              "choice": "We {were going to} drive, but the car broke down.",
+              "opts": [
+                "are going to",
+                "was going to"
+              ],
+              "tr": "Мы собирались ехать на машине, но она сломалась.",
+              "why": "We — значит were; речь о прошлом."
+            },
+            {
+              "order": "He was going to buy her flowers.",
+              "tr": "Он собирался купить ей цветы."
+            },
+            {
+              "fix": "They {was going>were going} to come, but they got lost.",
+              "tr": "Они собирались прийти, но заблудились.",
+              "why": "They — значит were."
+            }
+          ],
+          "review": [
+            {
+              "gap": "We {were going to watch} a film, but we fell asleep.",
+              "hint": "going to / watch",
+              "tr": "Мы собирались посмотреть фильм, но уснули."
+            },
+            {
+              "gap": "Sara {was going to quit} her job, but she got a raise.",
+              "hint": "going to / quit",
+              "tr": "Сара собиралась уволиться, но ей повысили зарплату."
+            },
+            {
+              "gap": "I {wasn't going to tell|was not going to tell} anyone, but I did.",
+              "hint": "not going to / tell",
+              "tr": "Я не собирался никому говорить, но рассказал."
+            },
+            {
+              "gap": "I thought the flight {was going to be} delayed, but it wasn't.",
+              "hint": "going to / be",
+              "tr": "Я думал, что рейс задержат, но нет."
+            },
+            {
+              "choice": "Sorry, I interrupted. What {were you going to} say?",
+              "opts": [
+                "was you going to",
+                "did you going to"
+              ],
+              "tr": "Извини, я перебил. Что ты хотел сказать?"
+            },
+            {
+              "choice": "I {was going to} fix it yesterday, but I forgot.",
+              "opts": [
+                "am going to",
+                "were going to"
+              ],
+              "tr": "Я собирался починить это вчера, но забыл."
+            },
+            {
+              "choice": "They {were going to} sell the house, but changed their minds.",
+              "opts": [
+                "was going to",
+                "are going to"
+              ],
+              "tr": "Они собирались продать дом, но передумали."
+            },
+            {
+              "order": "We were going to take the train.",
+              "tr": "Мы собирались поехать на поезде."
+            },
+            {
+              "order": "I was going to send you a postcard.",
+              "tr": "Я собирался отправить тебе открытку."
+            },
+            {
+              "fix": "I {am going to>was going to} phone you last night, but I fell asleep.",
+              "tr": "Я собирался позвонить тебе вчера вечером, но уснул.",
+              "why": "Речь о прошлом — was going to."
+            },
+            {
+              "fix": "Max {were going to>was going to} join us, but he got sick.",
+              "tr": "Макс собирался к нам присоединиться, но заболел."
+            },
+            {
+              "fix": "We were going to {went>go} skiing, but there was no snow.",
+              "tr": "Мы собирались покататься на лыжах, но снега не было.",
+              "why": "После going to — начальная форма, прошлое уже в was / were."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u21-will-shall-1",
+      "title": "will and shall 1",
+      "subtitle": "Юнит 21 · решаю сейчас, обещаю, предлагаю",
+      "level": "B1",
+      "points": [
+        {
+          "id": "decision-now",
+          "title": "Решение в момент речи: I'll",
+          "theory": [
+            "I'll (= I will) — решил прямо сейчас, в момент разговора, и сразу сообщаешь об этом.",
+            {
+              "formula": [
+                "will ('ll)",
+                "+",
+                "глагол"
+              ]
+            },
+            {
+              "ex": "'The phone's ringing.' 'I['ll get] it.'",
+              "tr": "— Телефон звонит. — Я возьму."
+            },
+            {
+              "ex": "I'm tired. I think I['ll stay] at home tonight.",
+              "tr": "Я устал. Пожалуй, сегодня останусь дома."
+            },
+            {
+              "wrong": "'It's cold.' 'I close the window.'",
+              "right": "'It's cold.' 'I'll close the window.'"
+            },
+            {
+              "tip": "Часто: I think I'll… / I don't think I'll…. Отрицание: won't = will not."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "'We've run out of milk.' 'OK, I {will buy|'ll buy} some.'",
+              "hint": "buy",
+              "tr": "— У нас кончилось молоко. — Ладно, куплю.",
+              "why": "Решение принято прямо в разговоре — I'll."
+            },
+            {
+              "choice": "'Tea or coffee?' '{I'll have} tea, please.'",
+              "opts": [
+                "I have",
+                "I had"
+              ],
+              "tr": "— Чай или кофе? — Чай, пожалуйста.",
+              "why": "Выбираем сейчас — I'll have, а не Present simple."
+            },
+            {
+              "order": "I don't think I'll go out tonight.",
+              "tr": "Думаю, сегодня вечером я никуда не пойду."
+            },
+            {
+              "fix": "'Someone's at the door.' '{I open>I'll open} it.'",
+              "tr": "— Кто-то в дверь звонит. — Я открою.",
+              "why": "Русское «я открою» — это I'll open, а не I open."
+            }
+          ],
+          "review": [
+            {
+              "gap": "'I can't do this sum.' 'Don't worry, I {will help|'ll help} you.'",
+              "hint": "help",
+              "tr": "— Не могу решить пример. — Не переживай, я помогу."
+            },
+            {
+              "gap": "'This bag is heavy.' 'Give it to me. I {will carry|'ll carry} it.'",
+              "hint": "carry",
+              "tr": "— Сумка тяжёлая. — Давай мне, я понесу."
+            },
+            {
+              "gap": "I'm hungry. I think I {will make|'ll make} a sandwich.",
+              "hint": "make",
+              "tr": "Я голоден. Пожалуй, сделаю бутерброд."
+            },
+            {
+              "gap": "I'm too tired. I don't think I {will go|'ll go} to the gym.",
+              "hint": "go",
+              "tr": "Я слишком устал. Не думаю, что пойду в спортзал."
+            },
+            {
+              "choice": "'Did you reply to Anna?' 'Oh no! {I'll do} it now.'",
+              "opts": [
+                "I do",
+                "I did"
+              ],
+              "tr": "— Ты ответил Анне? — Ой, нет! Сейчас отвечу."
+            },
+            {
+              "choice": "'Which one do you want?' '{I'll take} the blue one.'",
+              "opts": [
+                "I take",
+                "I'm take"
+              ],
+              "tr": "— Какой тебе? — Возьму синий."
+            },
+            {
+              "choice": "It's late. I think {I'll get} a taxi home.",
+              "opts": [
+                "I get",
+                "I'm get"
+              ],
+              "tr": "Уже поздно. Пожалуй, возьму такси до дома."
+            },
+            {
+              "order": "I think I'll have the soup.",
+              "tr": "Пожалуй, я возьму суп."
+            },
+            {
+              "order": "Wait here, I'll get your coat.",
+              "tr": "Подожди здесь, я принесу твоё пальто."
+            },
+            {
+              "fix": "'The printer's empty.' 'OK, {I put>I'll put} more paper in.'",
+              "tr": "— В принтере кончилась бумага. — Хорошо, я добавлю."
+            },
+            {
+              "fix": "'You left the lights on.' 'Oh, {I switch>I'll switch} them off.'",
+              "tr": "— Ты оставил свет включённым. — Ой, сейчас выключу."
+            },
+            {
+              "fix": "'Pizza or pasta?' 'Hmm, {I have>I'll have} pasta.'",
+              "tr": "— Пицца или паста? — Хм, возьму пасту."
+            }
+          ]
+        },
+        {
+          "id": "offer-promise",
+          "title": "Предложить, пообещать, отказаться",
+          "theory": [
+            "I'll часто значит: предлагаю помощь, соглашаюсь сделать или обещаю.",
+            {
+              "ex": "Thanks for the book. I['ll give] it back on Monday.",
+              "tr": "Спасибо за книгу. Верну в понедельник."
+            },
+            {
+              "ex": "I [won't be] late again, I promise.",
+              "tr": "Я больше не опоздаю, обещаю."
+            },
+            "won't — ещё и «отказывается»: о людях и даже о вещах. The door won't open. — Дверь никак не открывается.",
+            "Will you…? — просьба: Will you close the door, please? — Закрой, пожалуйста, дверь.",
+            {
+              "wrong": "I promise I call you tonight.",
+              "right": "I promise I'll call you tonight."
+            },
+            {
+              "tip": "О том, что решено заранее, will не говорят: I'm visiting my aunt on Sunday, а не I'll visit."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "Don't worry, I {won't forget|will not forget} your birthday.",
+              "hint": "not / forget",
+              "tr": "Не волнуйся, я не забуду про твой день рождения.",
+              "why": "Обещание — won't."
+            },
+            {
+              "choice": "My laptop {won't} turn on — I've tried everything.",
+              "opts": [
+                "isn't",
+                "not"
+              ],
+              "tr": "Ноутбук никак не включается — я всё перепробовал.",
+              "why": "Вещь «отказывается» работать — won't."
+            },
+            {
+              "order": "Will you help me with this box?",
+              "tr": "Поможешь мне с этой коробкой?"
+            },
+            {
+              "fix": "Thanks for the loan. {I pay>I'll pay} you back tomorrow.",
+              "tr": "Спасибо, что одолжил. Завтра верну.",
+              "why": "Обещание о будущем — I'll."
+            }
+          ],
+          "review": [
+            {
+              "gap": "I {will send|'ll send} you the photos tonight, I promise.",
+              "hint": "send",
+              "tr": "Я пришлю тебе фотографии вечером, обещаю."
+            },
+            {
+              "gap": "I've asked him twice, but he {won't listen|will not listen}.",
+              "hint": "not / listen",
+              "tr": "Я просил его дважды, но он не слушает."
+            },
+            {
+              "gap": "{Will you pass} me the salt, please?",
+              "hint": "you / pass",
+              "tr": "Передай мне, пожалуйста, соль."
+            },
+            {
+              "gap": "Your hands are full. I {will hold|'ll hold} the door.",
+              "hint": "hold",
+              "tr": "У тебя руки заняты. Я придержу дверь."
+            },
+            {
+              "choice": "The jar {won't} open. Can you try?",
+              "opts": [
+                "don't",
+                "not"
+              ],
+              "tr": "Банка никак не открывается. Попробуешь?"
+            },
+            {
+              "choice": "'Can you post this letter?' 'Sure, {I'll post} it on my way.'",
+              "opts": [
+                "I post",
+                "I'm post"
+              ],
+              "tr": "— Можешь отправить это письмо? — Конечно, отправлю по дороге."
+            },
+            {
+              "choice": "Sorry, I can't. {I'm visiting} my grandparents on Sunday.",
+              "opts": [
+                "I'll visit",
+                "I visit"
+              ],
+              "tr": "Извини, не могу. В воскресенье я еду к бабушке с дедушкой.",
+              "why": "Решено заранее — Present continuous, не will."
+            },
+            {
+              "order": "I won't tell your secret to anyone.",
+              "tr": "Я никому не расскажу твой секрет."
+            },
+            {
+              "order": "Will you wait for me at the gate?",
+              "tr": "Подождёшь меня у ворот?"
+            },
+            {
+              "fix": "I promise {I don't>I won't} be late again.",
+              "tr": "Обещаю, что больше не опоздаю."
+            },
+            {
+              "fix": "I'm busy on Saturday. {I'll play>I'm playing} in a concert.",
+              "tr": "В субботу я занят. Я выступаю на концерте.",
+              "why": "Концерт запланирован заранее — Present continuous."
+            },
+            {
+              "fix": "'Can you help me?' 'Yes, of course {I help>I'll help} you.'",
+              "tr": "— Поможешь мне? — Да, конечно, помогу."
+            }
+          ]
+        },
+        {
+          "id": "shall",
+          "title": "Shall I…? Shall we…?",
+          "theory": [
+            "Shall I…? — предлагаешь свою помощь: «Хочешь, я…?». Shall we…? — предлагаешь сделать что-то вместе: «Давай…?».",
+            {
+              "ex": "[Shall I carry] your bag?",
+              "tr": "Давай я понесу твою сумку?"
+            },
+            {
+              "ex": "What time [shall we meet]?",
+              "tr": "Во сколько встретимся?"
+            },
+            "Сравни: Shall I open it? — Мне открыть? Will you open it? — Открой, пожалуйста.",
+            {
+              "wrong": "Do I open the window?",
+              "right": "Shall I open the window?"
+            },
+            {
+              "tip": "shall в таких вопросах — только с I и we. В американском английском чаще Should I…?"
+            }
+          ],
+          "practice": [
+            {
+              "gap": "It's dark in here. {Shall I turn|Should I turn} on the light?",
+              "hint": "I / turn",
+              "tr": "Здесь темно. Включить свет?",
+              "why": "Предлагаешь сделать сам — Shall I."
+            },
+            {
+              "choice": "It's a lovely day. {Shall we} go for a walk?",
+              "opts": [
+                "Do we",
+                "Are we"
+              ],
+              "tr": "Такой чудесный день. Пойдём погуляем?",
+              "why": "Предложение сделать вместе — Shall we."
+            },
+            {
+              "order": "Which film shall we watch tonight?",
+              "tr": "Какой фильм посмотрим вечером?"
+            },
+            {
+              "fix": "{Do I>Shall I} make you a coffee?",
+              "tr": "Сделать тебе кофе?",
+              "why": "«Мне сделать?» — это Shall I, а не Do I."
+            }
+          ],
+          "review": [
+            {
+              "gap": "{Shall we take|Should we take} a taxi or walk?",
+              "hint": "we / take",
+              "tr": "Возьмём такси или пойдём пешком?"
+            },
+            {
+              "gap": "What {shall I bring|should I bring} to the party?",
+              "hint": "I / bring",
+              "tr": "Что мне принести на вечеринку?"
+            },
+            {
+              "gap": "{Shall I help|Should I help} you with your homework?",
+              "hint": "I / help",
+              "tr": "Помочь тебе с домашним заданием?"
+            },
+            {
+              "gap": "Where {shall we sit|should we sit} — by the window?",
+              "hint": "we / sit",
+              "tr": "Где сядем — у окна?"
+            },
+            {
+              "choice": "{Shall I} call you a taxi?",
+              "opts": [
+                "Do I",
+                "Am I"
+              ],
+              "tr": "Вызвать тебе такси?"
+            },
+            {
+              "choice": "What time {shall we} leave tomorrow?",
+              "opts": [
+                "do we shall",
+                "we shall"
+              ],
+              "tr": "Во сколько завтра выезжаем?"
+            },
+            {
+              "choice": "{Will you} close the door, please? It's cold.",
+              "opts": [
+                "Shall you",
+                "Do you will"
+              ],
+              "tr": "Закрой, пожалуйста, дверь. Холодно.",
+              "why": "Просьба к другому — Will you, shall с you не используют."
+            },
+            {
+              "order": "Shall I send you the link?",
+              "tr": "Скинуть тебе ссылку?"
+            },
+            {
+              "order": "Shall we order pizza for dinner?",
+              "tr": "Закажем пиццу на ужин?"
+            },
+            {
+              "fix": "{Do we>Shall we} start the meeting now?",
+              "tr": "Начнём совещание?"
+            },
+            {
+              "fix": "It's hot. {Will I>Shall I} open the window?",
+              "tr": "Жарко. Открыть окно?",
+              "why": "Предлагаешь сам — Shall I."
+            },
+            {
+              "fix": "Who shall we {to invite>invite} for dinner?",
+              "tr": "Кого позовём на ужин?",
+              "why": "После shall — глагол без to."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u22-will-shall-2",
+      "title": "will and shall 2",
+      "subtitle": "Юнит 22 · прогнозы о будущем",
+      "level": "B1",
+      "points": [
+        {
+          "id": "prediction",
+          "title": "Прогноз: will / won't",
+          "theory": [
+            "will + глагол — то, что мы думаем или знаем о будущем. Это не план и не решение, а прогноз.",
+            {
+              "formula": [
+                "will / won't",
+                "+",
+                "глагол"
+              ]
+            },
+            {
+              "ex": "You['ll love] this film.",
+              "tr": "Тебе понравится этот фильм."
+            },
+            {
+              "ex": "Don't worry, it [won't take] long.",
+              "tr": "Не волнуйся, это ненадолго."
+            },
+            {
+              "wrong": "Tomorrow it is cold.",
+              "right": "Tomorrow it will be cold."
+            },
+            "Если уже договорились или решили, will не нужен: Lisa is working on Saturday — это уже в её графике.",
+            {
+              "tip": "shall вместо will — только с I и we и звучит официально: We shall see. В разговоре — I'll, we'll."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "Take a jacket — it {will be|'ll be|is going to be|'s going to be} cold tonight.",
+              "hint": "be",
+              "tr": "Возьми куртку — вечером будет холодно.",
+              "why": "Прогноз о погоде — will be."
+            },
+            {
+              "choice": "You {won't} recognise the city — it's changed so much.",
+              "opts": [
+                "don't",
+                "aren't"
+              ],
+              "tr": "Ты не узнаешь город — он так изменился.",
+              "why": "Прогноз на будущее — won't."
+            },
+            {
+              "order": "Everyone will be at the wedding.",
+              "tr": "На свадьбе будут все."
+            },
+            {
+              "fix": "In the future, robots {do>will do} most jobs.",
+              "tr": "В будущем роботы будут выполнять бо́льшую часть работы.",
+              "why": "Речь о будущем — нужен will."
+            }
+          ],
+          "review": [
+            {
+              "gap": "You {will like|'ll like} Sam. He's really funny.",
+              "hint": "like",
+              "tr": "Тебе понравится Сэм. Он очень смешной."
+            },
+            {
+              "gap": "Ask Ollie — he {will know|'ll know} the answer.",
+              "hint": "know",
+              "tr": "Спроси Олли — он наверняка знает ответ."
+            },
+            {
+              "gap": "The trip {won't be|will not be|isn't going to be|is not going to be} cheap.",
+              "hint": "not / be",
+              "tr": "Поездка будет недешёвой."
+            },
+            {
+              "gap": "What {will people think} of my idea?",
+              "hint": "people / think",
+              "tr": "Что люди подумают о моей идее?"
+            },
+            {
+              "choice": "Don't touch the oven door. You {will} burn your hand.",
+              "opts": [
+                "are",
+                "do"
+              ],
+              "tr": "Не трогай дверцу духовки. Обожжёшь руку."
+            },
+            {
+              "choice": "Sit down — this {won't} take long.",
+              "opts": [
+                "not",
+                "isn't"
+              ],
+              "tr": "Садись — это ненадолго."
+            },
+            {
+              "choice": "Without water, the plants {will} die.",
+              "opts": [
+                "are",
+                "shall"
+              ],
+              "tr": "Без воды растения погибнут."
+            },
+            {
+              "order": "Nobody will notice the difference.",
+              "tr": "Никто не заметит разницы."
+            },
+            {
+              "order": "The new bridge will open in spring.",
+              "tr": "Новый мост откроют весной."
+            },
+            {
+              "fix": "In ten years, cars {drive>will drive} themselves.",
+              "tr": "Через десять лет машины будут ездить сами."
+            },
+            {
+              "fix": "Don't worry, she {shall>will} be fine.",
+              "tr": "Не волнуйся, с ней всё будет хорошо.",
+              "why": "shall — только с I и we."
+            },
+            {
+              "fix": "I'm sure the weather {is>will be} nice next week.",
+              "tr": "Уверен, на следующей неделе будет хорошая погода."
+            }
+          ]
+        },
+        {
+          "id": "markers",
+          "title": "probably, I'm sure, I hope",
+          "theory": [
+            "С will часто идут: probably, I'm sure, I think, I don't think, I wonder, Do you think…?",
+            {
+              "ex": "I['ll probably be] a bit late.",
+              "tr": "Я, наверное, немного опоздаю."
+            },
+            {
+              "ex": "Do you think she [will like] the present?",
+              "tr": "Как думаешь, ей понравится подарок?"
+            },
+            {
+              "wrong": "I think it rains tomorrow.",
+              "right": "I think it'll rain tomorrow."
+            },
+            {
+              "tip": "Порядок: will probably, но probably won't. Вместо I think … won't обычно говорят I don't think … will."
+            },
+            "После I hope о будущем обычно Present simple: I hope you have a good time."
+          ],
+          "practice": [
+            {
+              "gap": "I'm sure you {will enjoy|'ll enjoy} the concert.",
+              "hint": "enjoy",
+              "tr": "Уверен, концерт тебе понравится.",
+              "why": "После I'm sure — will."
+            },
+            {
+              "choice": "I hope the weather {is} good tomorrow.",
+              "opts": [
+                "be",
+                "being"
+              ],
+              "tr": "Надеюсь, завтра будет хорошая погода.",
+              "why": "После I hope о будущем — обычно Present simple."
+            },
+            {
+              "order": "Do you think they will win?",
+              "tr": "Как думаешь, они выиграют?"
+            },
+            {
+              "fix": "I'm sure {you get>you'll get} the job.",
+              "tr": "Уверен, ты получишь эту работу.",
+              "why": "Прогноз о будущем — нужен will."
+            }
+          ],
+          "review": [
+            {
+              "gap": "I {will probably stay|'ll probably stay} at home tonight.",
+              "hint": "probably / stay",
+              "tr": "Сегодня вечером я, наверное, останусь дома.",
+              "why": "Порядок: will + probably + глагол."
+            },
+            {
+              "gap": "Do you think it {will snow|'ll snow} at Christmas?",
+              "hint": "snow",
+              "tr": "Как думаешь, на Рождество пойдёт снег?"
+            },
+            {
+              "gap": "I don't think Dan {will come|'ll come} tonight.",
+              "hint": "come",
+              "tr": "Не думаю, что Дэн сегодня придёт."
+            },
+            {
+              "gap": "I'm sure {they will love|they'll love} the present.",
+              "hint": "they / love",
+              "tr": "Уверен, подарок им очень понравится."
+            },
+            {
+              "choice": "I hope you {have} a great trip next week.",
+              "opts": [
+                "having",
+                "to have"
+              ],
+              "tr": "Надеюсь, поездка на следующей неделе будет отличной."
+            },
+            {
+              "choice": "I wonder what {will happen} next.",
+              "opts": [
+                "happens will",
+                "will happens"
+              ],
+              "tr": "Интересно, что будет дальше."
+            },
+            {
+              "choice": "Lucy {probably won't} like this idea.",
+              "opts": [
+                "won't probably",
+                "probably doesn't will"
+              ],
+              "tr": "Люси, скорее всего, эта идея не понравится.",
+              "why": "В отрицании probably стоит перед won't."
+            },
+            {
+              "order": "I don't think the shop will be open.",
+              "tr": "Не думаю, что магазин будет открыт."
+            },
+            {
+              "order": "She will probably call you later.",
+              "tr": "Она, наверное, позвонит тебе позже."
+            },
+            {
+              "fix": "Do you think {he comes>he'll come} to the party?",
+              "tr": "Как думаешь, он придёт на вечеринку?"
+            },
+            {
+              "fix": "Do you think {will it>it will} be sunny tomorrow?",
+              "tr": "Как думаешь, завтра будет солнечно?",
+              "why": "После Do you think — прямой порядок слов."
+            },
+            {
+              "fix": "I wonder where {will we>we will} be in five years.",
+              "tr": "Интересно, где мы будем через пять лет.",
+              "why": "После I wonder — прямой порядок: we will."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u23-will-and-going-to",
+      "title": "I will and I'm going to",
+      "subtitle": "Юнит 23 · will или going to",
+      "level": "B1",
+      "points": [
+        {
+          "id": "decision",
+          "title": "Решил сейчас или заранее?",
+          "theory": [
+            "will — решение рождается прямо в разговоре. going to — решение уже было принято раньше.",
+            {
+              "table": [
+                [
+                  "решаю сейчас",
+                  "OK, I'll call him."
+                ],
+                [
+                  "решил заранее",
+                  "I'm going to call him tonight."
+                ]
+              ]
+            },
+            {
+              "ex": "'The bin is full.' 'Oh, I['ll take] it out.'",
+              "tr": "— Ведро полное. — Ой, сейчас вынесу."
+            },
+            {
+              "ex": "'Why are you buying paint?' 'I['m going to paint] the bedroom.'",
+              "tr": "— Зачем ты покупаешь краску? — Собираюсь покрасить спальню."
+            },
+            {
+              "wrong": "'Why have you got a towel?' 'I'll go swimming.'",
+              "right": "'Why have you got a towel?' 'I'm going to go swimming.'"
+            },
+            {
+              "tip": "Сигналы «решено заранее»: I've decided, Yes, I know, вопрос Why are you…? — ответ обычно с going to."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "'Why are you wearing trainers?' 'I {am going to run|'m going to run} in the park.'",
+              "hint": "run",
+              "tr": "— Почему ты в кроссовках? — Собираюсь пробежаться в парке.",
+              "why": "Решение было до вопроса — going to."
+            },
+            {
+              "choice": "'There's no milk.' 'Really? {I'll buy} some.'",
+              "opts": [
+                "I'm going to buy",
+                "I buy"
+              ],
+              "tr": "— Молока нет. — Правда? Куплю.",
+              "why": "Really? — человек только узнал, решает сейчас: I'll."
+            },
+            {
+              "order": "I'm going to sell my old bike.",
+              "tr": "Я собираюсь продать свой старый велосипед."
+            },
+            {
+              "fix": "'Sam called you.' 'Did he? OK, {I'm going to>I'll} call him back.'",
+              "tr": "— Тебе звонил Сэм. — Да? Ладно, перезвоню.",
+              "why": "Did he? — новость, решение в моменте: I'll."
+            }
+          ],
+          "review": [
+            {
+              "gap": "'Your shirt is torn.' 'Oh no! I {will change|'ll change} it.'",
+              "hint": "change",
+              "tr": "— У тебя рубашка порвана. — Ой! Сейчас переоденусь."
+            },
+            {
+              "gap": "'Why are you packing?' 'We {are going to visit|'re going to visit|are visiting|'re visiting} my parents.'",
+              "hint": "visit",
+              "tr": "— Зачем ты собираешь вещи? — Мы едем к моим родителям."
+            },
+            {
+              "gap": "'I can't open this.' 'Give it to me. I {will try|'ll try}.'",
+              "hint": "try",
+              "tr": "— Не могу это открыть. — Дай мне, я попробую."
+            },
+            {
+              "gap": "Lena has decided. She {isn't going to come|is not going to come|'s not going to come|isn't coming|is not coming|'s not coming}.",
+              "hint": "not / come",
+              "tr": "Лена решила. Она не придёт."
+            },
+            {
+              "choice": "'I've lost my pen.' 'No problem, {I'll lend} you one.'",
+              "opts": [
+                "I'm going to lend",
+                "I lend"
+              ],
+              "tr": "— Я потерял ручку. — Не беда, дам тебе свою."
+            },
+            {
+              "choice": "'Why did you buy all that flour?' '{I'm going to} bake a cake.'",
+              "opts": [
+                "I'll",
+                "I"
+              ],
+              "tr": "— Зачем ты купил столько муки? — Собираюсь испечь торт.",
+              "why": "Мука уже куплена — решение принято раньше."
+            },
+            {
+              "choice": "'The music is too loud.' 'Sorry, {I'll turn} it down.'",
+              "opts": [
+                "I'm going to turn",
+                "I turn"
+              ],
+              "tr": "— Музыка слишком громкая. — Извини, сделаю потише."
+            },
+            {
+              "order": "I'll make you a cup of tea.",
+              "tr": "Я сделаю тебе чашку чая."
+            },
+            {
+              "order": "We're going to redecorate the living room.",
+              "tr": "Мы собираемся сделать ремонт в гостиной."
+            },
+            {
+              "fix": "'Why are you in the kitchen?' '{I'll>I'm going to} make some soup.'",
+              "tr": "— Почему ты на кухне? — Собираюсь сварить суп."
+            },
+            {
+              "fix": "'Your car's blocking the gate.' 'Sorry, {I'm going to>I'll} move it.'",
+              "tr": "— Твоя машина загораживает ворота. — Извините, сейчас переставлю."
+            },
+            {
+              "fix": "'Any plans for the summer?' 'Yes, {I'll>I'm going to} work in a café.'",
+              "tr": "— Есть планы на лето? — Да, буду работать в кафе.",
+              "why": "План уже есть — going to."
+            }
+          ]
+        },
+        {
+          "id": "prediction",
+          "title": "Прогноз: will или going to",
+          "theory": [
+            "Для прогнозов подходят оба: I think it'll be fine. = I think it's going to be fine.",
+            "Но если будущее уже видно по ситуации сейчас — going to. Если это просто мнение, опыт или знание о человеке — чаще will.",
+            {
+              "ex": "The traffic isn't moving. We['re going to miss] the flight.",
+              "tr": "Пробка стоит. Мы опоздаем на рейс."
+            },
+            {
+              "ex": "Don't lend Ella money — she [won't give] it back.",
+              "tr": "Не давай Элле в долг — она не вернёт."
+            },
+            {
+              "wrong": "Look, she's slipping! She will fall!",
+              "right": "Look, she's slipping! She's going to fall!"
+            }
+          ],
+          "practice": [
+            {
+              "gap": "Look at the score — they {are going to lose|'re going to lose}.",
+              "hint": "lose",
+              "tr": "Посмотри на счёт — они проиграют.",
+              "why": "Видно по счёту прямо сейчас — going to."
+            },
+            {
+              "choice": "Watch out! That branch {is going to} break!",
+              "opts": [
+                "will",
+                "shall"
+              ],
+              "tr": "Осторожно! Эта ветка сейчас сломается!",
+              "why": "Опасность видна сейчас — going to."
+            },
+            {
+              "order": "I think the exam will be easy.",
+              "tr": "Думаю, экзамен будет лёгким."
+            },
+            {
+              "fix": "Look at that dog — it {will jump>is going to jump} into the lake!",
+              "tr": "Смотри на ту собаку — она сейчас прыгнет в озеро!",
+              "why": "Видно, что сейчас случится, — going to."
+            }
+          ],
+          "review": [
+            {
+              "gap": "Don't worry about the interview — you {will be|'ll be|are going to be|'re going to be} great.",
+              "hint": "be",
+              "tr": "Не переживай из-за собеседования — у тебя всё отлично получится."
+            },
+            {
+              "gap": "She's walking too fast on the ice. She {is going to slip|'s going to slip}.",
+              "hint": "slip",
+              "tr": "Она слишком быстро идёт по льду. Сейчас поскользнётся."
+            },
+            {
+              "gap": "Look at all these people! The bus {is going to be|'s going to be} full.",
+              "hint": "be",
+              "tr": "Посмотри, сколько людей! Автобус будет битком."
+            },
+            {
+              "gap": "Ask Ben. I'm sure he {will help|'ll help|is going to help|'s going to help}.",
+              "hint": "help",
+              "tr": "Попроси Бена. Уверен, он поможет."
+            },
+            {
+              "choice": "The car is making a strange noise. It {is going to} break down.",
+              "opts": [
+                "will be",
+                "is going"
+              ],
+              "tr": "Машина странно шумит. Она сейчас сломается."
+            },
+            {
+              "choice": "Those shoes are cheap. They {won't} last long.",
+              "opts": [
+                "aren't",
+                "not"
+              ],
+              "tr": "Эти ботинки дешёвые. Они долго не прослужат."
+            },
+            {
+              "choice": "The baby's eyes are closing. She {is going to} fall asleep.",
+              "opts": [
+                "is going",
+                "will be"
+              ],
+              "tr": "У малышки закрываются глаза. Сейчас уснёт."
+            },
+            {
+              "order": "I'm sure you will like the hotel.",
+              "tr": "Уверен, тебе понравится отель."
+            },
+            {
+              "order": "Look out! You're going to hit the car!",
+              "tr": "Берегись! Ты сейчас врежешься в машину!"
+            },
+            {
+              "fix": "I think the film {is be>will be} good.",
+              "tr": "Думаю, фильм будет хорошим."
+            },
+            {
+              "fix": "Kate is always late. I'm sure she {is late>will be late} again.",
+              "tr": "Кейт всегда опаздывает. Уверен, она опять опоздает.",
+              "why": "Прогноз по опыту о человеке — will."
+            },
+            {
+              "fix": "They are going {win>to win} — look at the score!",
+              "tr": "Они выиграют — посмотри на счёт!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u24-will-be-doing-will-have-done",
+      "title": "will be doing and will have done",
+      "subtitle": "Юнит 24 · будет в процессе, будет сделано",
+      "level": "B2",
+      "points": [
+        {
+          "id": "in-progress",
+          "title": "В процессе: will be + -ing",
+          "theory": [
+            "will be + глагол-ing — в определённый момент будущего действие будет идти, мы будем «в середине» его.",
+            {
+              "formula": [
+                "will be",
+                "+",
+                "глагол + ing"
+              ]
+            },
+            {
+              "ex": "This time tomorrow I['ll be flying] to Tokyo.",
+              "tr": "Завтра в это время я буду лететь в Токио."
+            },
+            {
+              "ex": "Don't call at eight — we['ll be having] dinner.",
+              "tr": "Не звони в восемь — мы будем ужинать."
+            },
+            {
+              "table": [
+                [
+                  "вчера в 10",
+                  "she was working"
+                ],
+                [
+                  "сейчас",
+                  "she is working"
+                ],
+                [
+                  "завтра в 10",
+                  "she will be working"
+                ]
+              ]
+            },
+            {
+              "wrong": "At nine tomorrow I will sleep.",
+              "right": "At nine tomorrow I'll be sleeping."
+            },
+            {
+              "tip": "Сигналы: this time tomorrow, at 6 pm tomorrow, when you arrive — момент, в который действие идёт."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "At 3 pm tomorrow I {will be sitting|'ll be sitting} in an exam.",
+              "hint": "sit",
+              "tr": "Завтра в три часа дня я буду сидеть на экзамене.",
+              "why": "В этот момент действие будет идти — will be -ing."
+            },
+            {
+              "choice": "Don't call at noon — I {will be driving}.",
+              "opts": [
+                "will driving",
+                "am drive"
+              ],
+              "tr": "Не звони в полдень — я буду за рулём.",
+              "why": "Форма: will be + -ing."
+            },
+            {
+              "order": "This time next week we will be skiing.",
+              "tr": "В это время на следующей неделе мы будем кататься на лыжах."
+            },
+            {
+              "fix": "At midnight I'll still {work>be working} on this report.",
+              "tr": "В полночь я всё ещё буду сидеть над этим отчётом.",
+              "why": "Действие в процессе в момент будущего — be working."
+            }
+          ],
+          "review": [
+            {
+              "gap": "At ten tomorrow, the kids {will be playing|'ll be playing} in the park.",
+              "hint": "play",
+              "tr": "Завтра в десять дети будут играть в парке."
+            },
+            {
+              "gap": "Come at seven. I {won't be working|will not be working} then.",
+              "hint": "not / work",
+              "tr": "Приходи в семь. Я тогда уже не буду работать."
+            },
+            {
+              "gap": "When you arrive, I {will be waiting|'ll be waiting} at the exit.",
+              "hint": "wait",
+              "tr": "Когда ты приедешь, я буду ждать у выхода."
+            },
+            {
+              "gap": "What {will you be doing} at eleven tomorrow?",
+              "hint": "you / do",
+              "tr": "Что ты будешь делать завтра в одиннадцать?"
+            },
+            {
+              "choice": "At noon on Monday I {will be presenting} my project.",
+              "opts": [
+                "presenting",
+                "will presenting"
+              ],
+              "tr": "В понедельник в полдень я буду представлять свой проект."
+            },
+            {
+              "choice": "This time next year she {will be studying} in Canada.",
+              "opts": [
+                "will studying",
+                "is study"
+              ],
+              "tr": "В это время в следующем году она будет учиться в Канаде."
+            },
+            {
+              "choice": "Don't come at two — the baby {will be sleeping}.",
+              "opts": [
+                "will sleeping",
+                "sleeps"
+              ],
+              "tr": "Не приходи в два — малыш будет спать."
+            },
+            {
+              "order": "I will be waiting for you outside.",
+              "tr": "Я буду ждать тебя на улице."
+            },
+            {
+              "order": "At nine we will be having breakfast.",
+              "tr": "В девять мы будем завтракать."
+            },
+            {
+              "fix": "At six tomorrow I {will cooking>will be cooking} dinner.",
+              "tr": "Завтра в шесть я буду готовить ужин.",
+              "why": "Не хватает be: will be + -ing."
+            },
+            {
+              "fix": "This time on Friday we'll {lie>be lying} on a beach.",
+              "tr": "В пятницу в это время мы будем лежать на пляже."
+            },
+            {
+              "fix": "Tomorrow at noon the team {will be train>will be training}.",
+              "tr": "Завтра в полдень команда будет тренироваться."
+            }
+          ]
+        },
+        {
+          "id": "planned",
+          "title": "По ходу дел: will be -ing",
+          "theory": [
+            "will be -ing ещё говорит о будущем событии, которое случится само собой, в обычном ходе дел или по плану.",
+            {
+              "ex": "The mayor [will be opening] the new library on Friday.",
+              "tr": "В пятницу мэр будет открывать новую библиотеку."
+            },
+            {
+              "ex": "The singer has a cold, so she [won't be performing] tonight.",
+              "tr": "Певица простудилась, поэтому сегодня выступать не будет."
+            },
+            "Will you be -ing…? — вежливо узнать о планах человека, ни о чём не прося: Will you be using the printer later? — Ты будешь потом пользоваться принтером?",
+            {
+              "tip": "В этом значении will be -ing близко к will и going to, но звучит нейтральнее и вежливее."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "Our flight {will be boarding|'ll be boarding} in ten minutes.",
+              "hint": "board · will be -ing",
+              "tr": "Посадка на наш рейс начнётся через десять минут.",
+              "why": "Событие идёт по плану — will be -ing."
+            },
+            {
+              "choice": "{Will you be going} to the shops later? I need bread.",
+              "opts": [
+                "Do you go",
+                "Will you going"
+              ],
+              "tr": "Ты потом пойдёшь в магазин? Мне нужен хлеб.",
+              "why": "Вежливо узнаём о планах — Will you be -ing."
+            },
+            {
+              "order": "We will be announcing the winners at eight.",
+              "tr": "Победителей мы объявим в восемь."
+            },
+            {
+              "fix": "Will you {using>be using} the meeting room at three?",
+              "tr": "Ты будешь занимать переговорную в три?",
+              "why": "Нужно be: will you be + -ing."
+            }
+          ],
+          "review": [
+            {
+              "gap": "The shop {will be closing|'ll be closing} in ten minutes.",
+              "hint": "close · will be -ing",
+              "tr": "Магазин закрывается через десять минут."
+            },
+            {
+              "gap": "The president {will be visiting|'ll be visiting} the factory on Monday.",
+              "hint": "visit · will be -ing",
+              "tr": "В понедельник президент посетит завод."
+            },
+            {
+              "gap": "Sorry, I {won't be coming|will not be coming} to dinner tonight.",
+              "hint": "not / come · will be -ing",
+              "tr": "Извини, сегодня я не приду на ужин."
+            },
+            {
+              "choice": "{Will you be passing} the post office? Could you post this?",
+              "opts": [
+                "Do you pass",
+                "Will you passing"
+              ],
+              "tr": "Ты будешь проходить мимо почты? Отправишь это?"
+            },
+            {
+              "choice": "Our team {won't be playing} this weekend — the match was cancelled.",
+              "opts": [
+                "won't playing",
+                "doesn't be playing"
+              ],
+              "tr": "Наша команда не играет в эти выходные — матч отменили."
+            },
+            {
+              "choice": "{Will you be staying} here long?",
+              "opts": [
+                "Will you staying",
+                "Are you be staying"
+              ],
+              "tr": "Вы надолго здесь останетесь?"
+            },
+            {
+              "choice": "I {will be seeing} Max later, so I'll tell him.",
+              "opts": [
+                "will seeing",
+                "be seeing"
+              ],
+              "tr": "Я позже увижусь с Максом, так что передам ему."
+            },
+            {
+              "order": "The train will be arriving at platform two.",
+              "tr": "Поезд прибудет на второй путь."
+            },
+            {
+              "order": "Will you be needing anything else?",
+              "tr": "Вам понадобится что-нибудь ещё?"
+            },
+            {
+              "fix": "{Will be you>Will you be} driving to work tomorrow?",
+              "tr": "Ты завтра поедешь на работу на машине?",
+              "why": "В вопросе вперёд выходит только will: Will you be…?"
+            },
+            {
+              "fix": "The new café {will opening>will be opening} next month.",
+              "tr": "Новое кафе откроется в следующем месяце."
+            },
+            {
+              "fix": "I {will be go>will be going} to the bank later — need anything?",
+              "tr": "Я потом буду в банке — тебе что-нибудь нужно?"
+            }
+          ]
+        },
+        {
+          "id": "future-perfect",
+          "title": "К моменту: will have + 3-я форма",
+          "theory": [
+            "will have + 3-я форма — к определённому моменту в будущем действие уже завершится.",
+            {
+              "formula": [
+                "will have",
+                "+",
+                "3-я форма"
+              ]
+            },
+            {
+              "ex": "By Friday I['ll have finished] the report.",
+              "tr": "К пятнице я закончу отчёт."
+            },
+            {
+              "ex": "Don't go at ten — the shop [will have closed].",
+              "tr": "Не ходи в десять — магазин уже закроется."
+            },
+            {
+              "tip": "Сигналы: by (к), by then, by the time + Present simple, before."
+            },
+            {
+              "wrong": "By 2030 I will finished university.",
+              "right": "By 2030 I'll have finished university."
+            },
+            "Сколько уже будет длиться к моменту: In May I'll have worked here for five years. — В мае будет пять лет, как я здесь работаю."
+          ],
+          "practice": [
+            {
+              "gap": "By the time you wake up, I {will have left|'ll have left}.",
+              "hint": "leave",
+              "tr": "Когда ты проснёшься, я уже уйду.",
+              "why": "К моменту в будущем действие завершится — will have + 3-я форма."
+            },
+            {
+              "choice": "By next month we {will have saved} enough money.",
+              "opts": [
+                "will saved",
+                "have saved"
+              ],
+              "tr": "К следующему месяцу мы накопим достаточно денег.",
+              "why": "by + будущий момент — will have saved."
+            },
+            {
+              "order": "Will you have finished by six?",
+              "tr": "Ты закончишь к шести?"
+            },
+            {
+              "fix": "By noon they {will have arrive>will have arrived}.",
+              "tr": "К полудню они уже приедут.",
+              "why": "После will have — 3-я форма: arrived."
+            }
+          ],
+          "review": [
+            {
+              "gap": "By next summer, I {will have finished|'ll have finished} my degree.",
+              "hint": "finish",
+              "tr": "К следующему лету я закончу учёбу."
+            },
+            {
+              "gap": "Hurry! The last train {will have gone|'ll have gone} by midnight.",
+              "hint": "go",
+              "tr": "Скорее! К полуночи последний поезд уже уйдёт."
+            },
+            {
+              "gap": "In June we {will have lived|'ll have lived|will have been living|'ll have been living} here for ten years.",
+              "hint": "live",
+              "tr": "В июне будет десять лет, как мы здесь живём."
+            },
+            {
+              "gap": "{Will you have done} it by Friday?",
+              "hint": "you / do",
+              "tr": "Ты сделаешь это к пятнице?"
+            },
+            {
+              "choice": "By the end of the day I {will have answered} fifty emails.",
+              "opts": [
+                "will answered",
+                "have answered"
+              ],
+              "tr": "К концу дня я отвечу на пятьдесят писем."
+            },
+            {
+              "choice": "Don't call at nine — he {will have gone} to bed.",
+              "opts": [
+                "will gone",
+                "has gone"
+              ],
+              "tr": "Не звони в девять — он уже ляжет спать."
+            },
+            {
+              "choice": "By 2030, scientists {will have found} a cure.",
+              "opts": [
+                "will found",
+                "have found"
+              ],
+              "tr": "К 2030 году учёные найдут лекарство."
+            },
+            {
+              "order": "I will have finished by then.",
+              "tr": "К тому времени я уже закончу."
+            },
+            {
+              "order": "By Monday the paint will have dried.",
+              "tr": "К понедельнику краска высохнет."
+            },
+            {
+              "fix": "By next week I {will finished>will have finished} the project.",
+              "tr": "К следующей неделе я закончу проект."
+            },
+            {
+              "fix": "She {will has>will have} left by six.",
+              "tr": "К шести она уже уйдёт.",
+              "why": "После will всегда have, не has."
+            },
+            {
+              "fix": "By the time you arrive, we {will have eat>will have eaten} dinner.",
+              "tr": "Когда ты приедешь, мы уже поужинаем.",
+              "why": "Третья форма eat — eaten."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u25-when-i-do-if-and-when",
+      "title": "when I do / when I've done; if and when",
+      "subtitle": "Юнит 25 · будущее после when и if",
+      "level": "B1",
+      "points": [
+        {
+          "id": "time-clauses",
+          "title": "После when, until — Present",
+          "theory": [
+            "В части с when, before, after, as soon as, until, while время будущее, но will туда не ставим: там Present simple.",
+            {
+              "formula": [
+                "will …",
+                "+",
+                "when / until / as soon as",
+                "+",
+                "Present simple"
+              ]
+            },
+            {
+              "ex": "I'll text you when I [get] home.",
+              "tr": "Напишу тебе, когда доберусь домой."
+            },
+            {
+              "ex": "Wait here until the rain [stops].",
+              "tr": "Подожди здесь, пока не кончится дождь."
+            },
+            {
+              "wrong": "I'll tell him when he will come.",
+              "right": "I'll tell him when he comes."
+            },
+            {
+              "tip": "will остаётся только в главной части предложения. В русском «когда придёт» — будущее, в английском — when he comes."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "We'll start dinner as soon as Max {arrives|has arrived|'s arrived}.",
+              "hint": "arrive",
+              "tr": "Мы начнём ужинать, как только придёт Макс.",
+              "why": "После as soon as — Present, не will."
+            },
+            {
+              "choice": "I'll lock up before I {leave}.",
+              "opts": [
+                "will leave",
+                "left"
+              ],
+              "tr": "Я всё закрою перед уходом.",
+              "why": "После before о будущем — Present simple."
+            },
+            {
+              "order": "I will call you when I land.",
+              "tr": "Я позвоню тебе, когда приземлюсь."
+            },
+            {
+              "fix": "Wait until the light {will turn>turns} green.",
+              "tr": "Подожди, пока не загорится зелёный.",
+              "why": "После until will не ставят."
+            }
+          ],
+          "review": [
+            {
+              "gap": "I'll buy a car when I {have} enough money.",
+              "hint": "have",
+              "tr": "Я куплю машину, когда у меня будет достаточно денег."
+            },
+            {
+              "gap": "Don't touch anything until the teacher {says} so.",
+              "hint": "say",
+              "tr": "Ничего не трогайте, пока учитель не разрешит."
+            },
+            {
+              "gap": "What will you do while I {am|'m} at work?",
+              "hint": "be",
+              "tr": "Что ты будешь делать, пока я на работе?"
+            },
+            {
+              "gap": "We'll leave as soon as the taxi {comes|has come|'s come}.",
+              "hint": "come",
+              "tr": "Мы уедем, как только приедет такси."
+            },
+            {
+              "choice": "Text me when you {are} ready.",
+              "opts": [
+                "will be",
+                "were"
+              ],
+              "tr": "Напиши мне, когда будешь готов."
+            },
+            {
+              "choice": "{I'll send} you the file as soon as I get it.",
+              "opts": [
+                "I send",
+                "I sent"
+              ],
+              "tr": "Я пришлю тебе файл, как только получу его.",
+              "why": "will — в главной части, после as soon as — Present."
+            },
+            {
+              "choice": "Before you {go} to bed, switch off the lights.",
+              "opts": [
+                "will go",
+                "went"
+              ],
+              "tr": "Перед сном выключи свет."
+            },
+            {
+              "order": "Tell me when you are ready.",
+              "tr": "Скажи мне, когда будешь готов."
+            },
+            {
+              "order": "We will stay inside until the storm passes.",
+              "tr": "Мы побудем дома, пока не пройдёт гроза."
+            },
+            {
+              "fix": "I'll be happy when the exams {will be>are} over.",
+              "tr": "Я буду счастлив, когда экзамены закончатся."
+            },
+            {
+              "fix": "Call me as soon as you {will hear>hear} any news.",
+              "tr": "Позвони мне, как только услышишь какие-нибудь новости."
+            },
+            {
+              "fix": "{I tell>I'll tell} her when I see her.",
+              "tr": "Я скажу ей, когда увижу её.",
+              "why": "В главной части будущее — I'll."
+            }
+          ]
+        },
+        {
+          "id": "when-ive-done",
+          "title": "When I've done: сначала одно",
+          "theory": [
+            "После when, after, until, as soon as можно Present perfect — так подчёркиваем, что одно действие закончится раньше другого.",
+            {
+              "ex": "You can borrow my laptop when I['ve finished] with it.",
+              "tr": "Можешь взять мой ноутбук, когда я закончу."
+            },
+            {
+              "ex": "I'll call you as soon as I['ve spoken] to the boss.",
+              "tr": "Я позвоню тебе, как только поговорю с начальником."
+            },
+            "Если действия происходят одновременно, Present perfect не нужен: When I see Ann, I'll give her the key.",
+            {
+              "tip": "Часто подходят обе формы: as soon as I finish = as soon as I've finished."
+            },
+            {
+              "wrong": "I'll go home when I will have finished.",
+              "right": "I'll go home when I've finished."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "You can go out when you {have done|'ve done} your homework.",
+              "hint": "do",
+              "tr": "Можешь пойти гулять, когда сделаешь домашнее задание.",
+              "why": "Сначала уроки, потом прогулка — Present perfect."
+            },
+            {
+              "choice": "When I {have read} this book, I'll lend it to you.",
+              "opts": [
+                "will have read",
+                "will read"
+              ],
+              "tr": "Когда я дочитаю эту книгу, я дам её тебе.",
+              "why": "После when will не ставят; сначала дочитаю — have read."
+            },
+            {
+              "order": "Call me after you have talked to him.",
+              "tr": "Позвони мне после того, как поговоришь с ним."
+            },
+            {
+              "fix": "I'll reply when I {will have checked>have checked} the dates.",
+              "tr": "Я отвечу, когда проверю даты.",
+              "why": "После when — have checked, без will."
+            }
+          ],
+          "review": [
+            {
+              "gap": "I'll give you the book when I {have finished|'ve finished|finish} it.",
+              "hint": "finish",
+              "tr": "Я отдам тебе книгу, когда дочитаю её."
+            },
+            {
+              "gap": "Don't leave until you {have paid|'ve paid|pay} the bill.",
+              "hint": "pay",
+              "tr": "Не уходи, пока не оплатишь счёт."
+            },
+            {
+              "gap": "As soon as I {have saved|'ve saved|save} enough, I'll travel.",
+              "hint": "save",
+              "tr": "Как только накоплю достаточно, поеду путешествовать."
+            },
+            {
+              "gap": "After the guests {have gone|'ve gone|go}, we'll tidy up.",
+              "hint": "go",
+              "tr": "Когда гости уйдут, мы приберёмся."
+            },
+            {
+              "choice": "When you {have washed} the dishes, you can watch TV.",
+              "opts": [
+                "will wash",
+                "will have washed"
+              ],
+              "tr": "Когда помоешь посуду, можешь посмотреть телевизор."
+            },
+            {
+              "choice": "I'll sign it after I {have read} it carefully.",
+              "opts": [
+                "will read",
+                "will have read"
+              ],
+              "tr": "Я подпишу это после того, как внимательно прочитаю."
+            },
+            {
+              "choice": "When I {see} Lena, I'll tell her the news.",
+              "opts": [
+                "will see",
+                "have seen"
+              ],
+              "tr": "Когда увижу Лену, расскажу ей новость.",
+              "why": "Увижу и сразу расскажу — одновременно, поэтому Present simple."
+            },
+            {
+              "order": "We can leave when you have packed.",
+              "tr": "Мы можем ехать, когда ты соберёшь вещи."
+            },
+            {
+              "order": "Let me know when you have decided.",
+              "tr": "Дай мне знать, когда решишь."
+            },
+            {
+              "fix": "You can have dessert when you {will have eaten>have eaten} your soup.",
+              "tr": "Получишь десерт, когда съешь суп."
+            },
+            {
+              "fix": "I'll text you after I {will finish>finish} work.",
+              "tr": "Я напишу тебе, когда закончу работу."
+            },
+            {
+              "fix": "Don't go until you {will have said>have said} goodbye to Grandma.",
+              "tr": "Не уходи, пока не попрощаешься с бабушкой."
+            }
+          ]
+        },
+        {
+          "id": "if-when",
+          "title": "If или when?",
+          "theory": [
+            "После if о будущем тоже Present simple: If it rains, we'll stay at home.",
+            "if — может, случится, а может, нет. when — точно случится, вопрос только во времени.",
+            {
+              "table": [
+                [
+                  "If I see Tom, I'll tell him.",
+                  "вдруг увижу"
+                ],
+                [
+                  "When I see Tom, I'll tell him.",
+                  "точно увижу"
+                ]
+              ]
+            },
+            {
+              "ex": "[If] you're hungry later, there's soup in the fridge.",
+              "tr": "Если потом проголодаешься, в холодильнике есть суп."
+            },
+            {
+              "ex": "I'll call you [when] I get to the hotel.",
+              "tr": "Я позвоню тебе, когда доберусь до отеля."
+            },
+            {
+              "wrong": "If you will need help, call me.",
+              "right": "If you need help, call me."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "If it {is|'s} sunny tomorrow, we'll go to the beach.",
+              "hint": "be",
+              "tr": "Если завтра будет солнечно, мы пойдём на пляж.",
+              "why": "После if о будущем — Present simple."
+            },
+            {
+              "choice": "Don't worry {if} I'm a bit late tonight.",
+              "opts": [
+                "when",
+                "until"
+              ],
+              "tr": "Не волнуйся, если я сегодня немного задержусь.",
+              "why": "Опоздание только возможно — if."
+            },
+            {
+              "order": "If you see Anna, say hello from me.",
+              "tr": "Если увидишь Анну, передай от меня привет."
+            },
+            {
+              "fix": "{When>If} I don't find a job, I'll go back home.",
+              "tr": "Если я не найду работу, вернусь домой.",
+              "why": "Неизвестно, найду ли, — if."
+            }
+          ],
+          "review": [
+            {
+              "gap": "If you {don't hurry|do not hurry}, you'll miss the bus.",
+              "hint": "not / hurry",
+              "tr": "Если не поторопишься, опоздаешь на автобус."
+            },
+            {
+              "gap": "I'll be surprised if she {passes} the exam.",
+              "hint": "pass",
+              "tr": "Я удивлюсь, если она сдаст экзамен."
+            },
+            {
+              "gap": "If the shop {is|'s} closed, we'll go to another one.",
+              "hint": "be",
+              "tr": "Если магазин закрыт, пойдём в другой."
+            },
+            {
+              "gap": "If you {need} a lift, just call me.",
+              "hint": "need",
+              "tr": "Если тебя нужно подвезти, просто позвони."
+            },
+            {
+              "choice": "I'm going to the shop. {If} you need anything, tell me.",
+              "opts": [
+                "When",
+                "Until"
+              ],
+              "tr": "Я иду в магазин. Если тебе что-то нужно, скажи."
+            },
+            {
+              "choice": "I'm going to bed {when} this film ends.",
+              "opts": [
+                "if",
+                "until"
+              ],
+              "tr": "Я пойду спать, когда закончится этот фильм.",
+              "why": "Фильм точно закончится — when."
+            },
+            {
+              "choice": "If it {rains}, the match will be cancelled.",
+              "opts": [
+                "will rain",
+                "rained"
+              ],
+              "tr": "Если пойдёт дождь, матч отменят."
+            },
+            {
+              "order": "If I win, I'll buy everyone dinner.",
+              "tr": "Если я выиграю, угощу всех ужином."
+            },
+            {
+              "order": "When you get home, give me a call.",
+              "tr": "Когда доберёшься домой, позвони мне."
+            },
+            {
+              "fix": "If you {will be>are} free tomorrow, let's meet.",
+              "tr": "Если завтра будешь свободен, давай встретимся."
+            },
+            {
+              "fix": "I'll be really sad {when>if} you can't come.",
+              "tr": "Мне будет очень грустно, если ты не сможешь прийти.",
+              "why": "Неизвестно, придёт ли, — if."
+            },
+            {
+              "fix": "{If>When} I grow up, I want to be a pilot.",
+              "tr": "Когда я вырасту, я хочу быть пилотом.",
+              "why": "Вырасту точно — when."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "r025-review-future",
+      "title": "Review: The future",
+      "subtitle": "Повторение · юниты 19–25",
+      "level": "B1",
+      "points": [
+        {
+          "id": "plans",
+          "title": "План, решение или расписание?",
+          "theory": [
+            "Для будущего в английском несколько форм — выбор зависит от того, откуда берётся это будущее.",
+            {
+              "table": [
+                [
+                  "Present simple",
+                  "расписание",
+                  "The bus leaves at 7."
+                ],
+                [
+                  "Present continuous",
+                  "договорились",
+                  "I'm meeting Jo at 7."
+                ],
+                [
+                  "going to",
+                  "решил заранее",
+                  "I'm going to call Jo."
+                ],
+                [
+                  "will",
+                  "решаю сейчас",
+                  "OK, I'll call Jo."
+                ]
+              ]
+            },
+            {
+              "ex": "'Lunch?' 'Sorry, I['m meeting] a client at one.'",
+              "tr": "— Пообедаем? — Извини, в час у меня встреча с клиентом."
+            },
+            {
+              "ex": "'The door's open.' 'I['ll close] it.'",
+              "tr": "— Дверь открыта. — Я закрою."
+            },
+            {
+              "tip": "Спроси себя: это уже решено (going to или -ing), решается сейчас (will) или висит в расписании (Present simple)?"
+            }
+          ],
+          "practice": [
+            {
+              "gap": "'I've got a headache.' 'Sit down. I {will get|'ll get} you some water.'",
+              "hint": "get",
+              "tr": "— У меня болит голова. — Садись. Я принесу тебе воды.",
+              "why": "Решение в моменте — will."
+            },
+            {
+              "choice": "Sorry, I can't come on Friday. {I'm flying} to Rome.",
+              "opts": [
+                "I'll fly",
+                "I fly"
+              ],
+              "tr": "Извини, в пятницу не смогу. Я лечу в Рим.",
+              "why": "Поездка уже организована — Present continuous."
+            },
+            {
+              "order": "What time does your train leave?",
+              "tr": "Во сколько отходит твой поезд?"
+            },
+            {
+              "fix": "'Why did you get a ladder?' '{I'll>I'm going to} fix the roof.'",
+              "tr": "— Зачем ты взял лестницу? — Собираюсь чинить крышу.",
+              "why": "Лестница уже куплена — решение принято раньше."
+            }
+          ],
+          "review": [
+            {
+              "gap": "The concert {starts|is starting|'s starting} at eight, so let's eat at six.",
+              "hint": "start",
+              "tr": "Концерт начинается в восемь, так что давай поедим в шесть."
+            },
+            {
+              "gap": "'I need a pen.' 'Here, I {will lend|'ll lend} you mine.'",
+              "hint": "lend",
+              "tr": "— Мне нужна ручка. — Вот, возьми мою."
+            },
+            {
+              "gap": "We {are having|'re having|are going to have|'re going to have} a party on Saturday — can you come?",
+              "hint": "have",
+              "tr": "В субботу у нас вечеринка — придёшь?"
+            },
+            {
+              "gap": "'Have you decided what to study?' 'Yes, I {am going to study|'m going to study} law.'",
+              "hint": "study",
+              "tr": "— Ты решил, на кого учиться? — Да, буду изучать право."
+            },
+            {
+              "choice": "'It's hot in here.' '{I'll open} the window.'",
+              "opts": [
+                "I open",
+                "I'm open"
+              ],
+              "tr": "— Здесь жарко. — Я открою окно."
+            },
+            {
+              "choice": "What {are you doing} this weekend? Any plans?",
+              "opts": [
+                "will you do",
+                "do you do"
+              ],
+              "tr": "Что делаешь в выходные? Есть планы?",
+              "why": "Спрашиваем о договорённостях — Present continuous."
+            },
+            {
+              "choice": "'Tom's on the phone.' 'OK, {I'll speak} to him.'",
+              "opts": [
+                "I'm going to speak",
+                "I speak"
+              ],
+              "tr": "— Том на телефоне. — Хорошо, я с ним поговорю."
+            },
+            {
+              "order": "I'm going to cook something special tonight.",
+              "tr": "Сегодня вечером я собираюсь приготовить что-нибудь особенное."
+            },
+            {
+              "order": "My flight lands at half past six.",
+              "tr": "Мой рейс приземляется в половине седьмого."
+            },
+            {
+              "fix": "We {go>are going} to a wedding next Saturday.",
+              "tr": "В следующую субботу мы идём на свадьбу.",
+              "why": "Договорённость — Present continuous."
+            },
+            {
+              "fix": "'I'm thirsty.' 'Wait, {I bring>I'll bring} you a drink.'",
+              "tr": "— Хочу пить. — Подожди, я принесу тебе попить."
+            },
+            {
+              "fix": "What time {the lesson starts>does the lesson start} tomorrow?",
+              "tr": "Во сколько завтра начинается урок?"
+            }
+          ]
+        },
+        {
+          "id": "predictions",
+          "title": "Прогноз: will или going to?",
+          "theory": [
+            "Для прогноза годятся обе формы. going to — когда есть признаки прямо сейчас; will — мнение, опыт, знание.",
+            {
+              "table": [
+                [
+                  "going to",
+                  "видно сейчас",
+                  "Look! It's going to fall."
+                ],
+                [
+                  "will",
+                  "думаю, знаю",
+                  "I think you'll like it."
+                ]
+              ]
+            },
+            {
+              "ex": "Look at his face — he['s going to cry].",
+              "tr": "Посмотри на его лицо — он сейчас заплачет."
+            },
+            {
+              "ex": "Don't worry, everything [will be] fine.",
+              "tr": "Не волнуйся, всё будет хорошо."
+            },
+            {
+              "tip": "Сигналы will: I think, I'm sure, probably, I don't think. Сигналы going to: Look!, Watch out!, то, что видно сейчас."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "Watch out! The milk {is going to boil|'s going to boil} over!",
+              "hint": "boil",
+              "tr": "Осторожно! Молоко сейчас убежит!",
+              "why": "Видно прямо сейчас — going to."
+            },
+            {
+              "choice": "I'm sure you {will} love Barcelona.",
+              "opts": [
+                "are going",
+                "do"
+              ],
+              "tr": "Уверен, тебе очень понравится Барселона.",
+              "why": "После I'm sure — will."
+            },
+            {
+              "order": "I don't think it will rain today.",
+              "tr": "Не думаю, что сегодня будет дождь."
+            },
+            {
+              "fix": "Look! That boy {will fall>is going to fall} off the wall!",
+              "tr": "Смотри! Тот мальчик сейчас упадёт со стены!",
+              "why": "Опасность видна сейчас — going to."
+            }
+          ],
+          "review": [
+            {
+              "gap": "She's driving too fast. She {is going to crash|'s going to crash}.",
+              "hint": "crash",
+              "tr": "Она едет слишком быстро. Сейчас разобьётся."
+            },
+            {
+              "gap": "I think you {will enjoy|'ll enjoy|are going to enjoy|'re going to enjoy} the book.",
+              "hint": "enjoy",
+              "tr": "Думаю, книга тебе понравится."
+            },
+            {
+              "gap": "Look at those clouds: it {is going to snow|'s going to snow}.",
+              "hint": "snow",
+              "tr": "Посмотри на тучи: сейчас пойдёт снег."
+            },
+            {
+              "gap": "I'm sure he {won't mind|will not mind}.",
+              "hint": "not / mind",
+              "tr": "Уверен, он не будет против."
+            },
+            {
+              "choice": "The ice is cracking! It {is going to} break!",
+              "opts": [
+                "will be",
+                "is going"
+              ],
+              "tr": "Лёд трещит! Сейчас проломится!"
+            },
+            {
+              "choice": "Ask Mia — I think she {will} know.",
+              "opts": [
+                "is going",
+                "shall"
+              ],
+              "tr": "Спроси Мию — думаю, она знает."
+            },
+            {
+              "choice": "I don't think the test {will} be hard.",
+              "opts": [
+                "is going",
+                "does"
+              ],
+              "tr": "Не думаю, что тест будет трудным."
+            },
+            {
+              "order": "This plan is going to fail.",
+              "tr": "Этот план провалится."
+            },
+            {
+              "order": "You will probably get the job.",
+              "tr": "Ты, скорее всего, получишь эту работу."
+            },
+            {
+              "fix": "Careful! You {will spill>are going to spill} your coffee!",
+              "tr": "Осторожно! Ты сейчас прольёшь кофе!",
+              "why": "Видно прямо сейчас — going to."
+            },
+            {
+              "fix": "I think {it rains>it'll rain} later.",
+              "tr": "Думаю, позже пойдёт дождь.",
+              "why": "Мнение о будущем — will."
+            },
+            {
+              "fix": "Do you think {will they>they will} come?",
+              "tr": "Как думаешь, они придут?"
+            }
+          ]
+        },
+        {
+          "id": "continuous-perfect",
+          "title": "will, will be -ing, will have done",
+          "theory": [
+            "Три формы с will: просто событие, действие в процессе и действие, завершённое к моменту.",
+            {
+              "table": [
+                [
+                  "will do",
+                  "событие",
+                  "I'll call you at six."
+                ],
+                [
+                  "will be doing",
+                  "будет идти",
+                  "At six I'll be driving."
+                ],
+                [
+                  "will have done",
+                  "закончится к",
+                  "By six I'll have arrived."
+                ]
+              ]
+            },
+            {
+              "ex": "Don't call at nine — I['ll be teaching].",
+              "tr": "Не звони в девять — у меня будет урок."
+            },
+            {
+              "ex": "By the time you read this, I['ll have left].",
+              "tr": "Когда ты это прочитаешь, я уже уеду."
+            },
+            {
+              "tip": "by + время — сигнал will have done; at … tomorrow, this time tomorrow — сигнал will be -ing."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "By midnight, I {will have finished|'ll have finished} this book.",
+              "hint": "finish",
+              "tr": "К полуночи я дочитаю эту книгу.",
+              "why": "by + момент — will have + 3-я форма."
+            },
+            {
+              "choice": "This time tomorrow we {will be lying} on the beach.",
+              "opts": [
+                "will have lain",
+                "will lie"
+              ],
+              "tr": "Завтра в это время мы будем лежать на пляже.",
+              "why": "Действие будет идти в этот момент — will be -ing."
+            },
+            {
+              "order": "By then we will have sold the house.",
+              "tr": "К тому времени мы уже продадим дом."
+            },
+            {
+              "fix": "At eight tonight I {will have watched>will be watching} the match.",
+              "tr": "Сегодня в восемь вечера я буду смотреть матч.",
+              "why": "В восемь матч будет идти — will be -ing."
+            }
+          ],
+          "review": [
+            {
+              "gap": "At noon tomorrow I {will be flying|'ll be flying} over the Alps.",
+              "hint": "fly",
+              "tr": "Завтра в полдень я буду лететь над Альпами."
+            },
+            {
+              "gap": "By July the builders {will have finished|'ll have finished} the house.",
+              "hint": "finish",
+              "tr": "К июлю строители закончат дом."
+            },
+            {
+              "gap": "Don't wait for me at five. I {will still be working|'ll still be working}.",
+              "hint": "still / work",
+              "tr": "Не жди меня в пять. Я ещё буду работать."
+            },
+            {
+              "gap": "By the end of the year, I {will have read|'ll have read} twenty books.",
+              "hint": "read",
+              "tr": "К концу года я прочитаю двадцать книг."
+            },
+            {
+              "choice": "Come at eight — we {will have eaten} by then.",
+              "opts": [
+                "will eating",
+                "have eaten"
+              ],
+              "tr": "Приходи в восемь — к тому времени мы уже поедим."
+            },
+            {
+              "choice": "Call me after ten. Before that I {will be driving}.",
+              "opts": [
+                "will have driven",
+                "drive"
+              ],
+              "tr": "Позвони после десяти. До этого я буду за рулём."
+            },
+            {
+              "choice": "In two years, she {will have worked} here for a decade.",
+              "opts": [
+                "will be work",
+                "works"
+              ],
+              "tr": "Через два года будет десять лет, как она здесь работает."
+            },
+            {
+              "order": "Will you be using your car tomorrow?",
+              "tr": "Ты завтра будешь пользоваться машиной?"
+            },
+            {
+              "order": "The guests will have left by eleven.",
+              "tr": "К одиннадцати гости уже разойдутся."
+            },
+            {
+              "fix": "By the time we arrive, the party {will finish>will have finished}.",
+              "tr": "Когда мы приедем, вечеринка уже закончится.",
+              "why": "by the time — к этому моменту уже: will have finished."
+            },
+            {
+              "fix": "At 10 am tomorrow I {will sit>will be sitting} in a meeting.",
+              "tr": "Завтра в 10 утра я буду сидеть на совещании."
+            },
+            {
+              "fix": "This time next week they {will travel>will be travelling} in Peru.",
+              "tr": "В это время на следующей неделе они будут путешествовать по Перу."
+            }
+          ]
+        },
+        {
+          "id": "time-if",
+          "title": "When / if + Present, а не will",
+          "theory": [
+            "После when, if, as soon as, before, until о будущем — Present simple (или Present perfect, если сначала одно закончится). will — только в главной части.",
+            {
+              "formula": [
+                "when / if / until",
+                "+",
+                "Present",
+                "→",
+                "will …"
+              ]
+            },
+            {
+              "ex": "If you [need] anything, I'll be in my office.",
+              "tr": "Если что-то понадобится, я буду у себя в кабинете."
+            },
+            {
+              "ex": "I'll call you as soon as I['ve finished].",
+              "tr": "Я позвоню тебе, как только закончу."
+            },
+            {
+              "tip": "if — может быть, а может, нет; when — точно будет."
+            }
+          ],
+          "practice": [
+            {
+              "gap": "I'll tell you everything when I {see} you.",
+              "hint": "see",
+              "tr": "Я всё тебе расскажу, когда увижу.",
+              "why": "После when — Present simple."
+            },
+            {
+              "choice": "We'll start {when} everyone is here.",
+              "opts": [
+                "will",
+                "until"
+              ],
+              "tr": "Мы начнём, когда все соберутся.",
+              "why": "Все точно придут — when."
+            },
+            {
+              "order": "If it snows, school will be closed.",
+              "tr": "Если пойдёт снег, школу закроют."
+            },
+            {
+              "fix": "Please wait until the doctor {will call>calls} you.",
+              "tr": "Пожалуйста, подождите, пока вас не вызовет врач.",
+              "why": "После until will не ставят."
+            }
+          ],
+          "review": [
+            {
+              "gap": "As soon as I {hear|have heard|'ve heard} anything, I'll let you know.",
+              "hint": "hear",
+              "tr": "Как только что-нибудь узнаю, сообщу тебе."
+            },
+            {
+              "gap": "If you {don't study|do not study}, you won't pass.",
+              "hint": "not / study",
+              "tr": "Если не будешь заниматься, не сдашь."
+            },
+            {
+              "gap": "Before you {leave}, give me your key.",
+              "hint": "leave",
+              "tr": "Перед уходом отдай мне свой ключ."
+            },
+            {
+              "gap": "I'll make coffee when Ann {arrives|has arrived|'s arrived}.",
+              "hint": "arrive",
+              "tr": "Я сварю кофе, когда придёт Анна."
+            },
+            {
+              "choice": "If the train {is} late, I'll take a taxi.",
+              "opts": [
+                "will be",
+                "was"
+              ],
+              "tr": "Если поезд опоздает, я возьму такси."
+            },
+            {
+              "choice": "{I'll wait} here until you come back.",
+              "opts": [
+                "I wait",
+                "I waited"
+              ],
+              "tr": "Я подожду здесь, пока ты не вернёшься."
+            },
+            {
+              "choice": "Call me {if} you get lost.",
+              "opts": [
+                "when",
+                "until"
+              ],
+              "tr": "Позвони мне, если заблудишься.",
+              "why": "Заблудиться — только возможно, поэтому if."
+            },
+            {
+              "order": "When the film ends, I'm going home.",
+              "tr": "Когда фильм закончится, я пойду домой."
+            },
+            {
+              "order": "I won't leave until you are better.",
+              "tr": "Я не уйду, пока тебе не станет лучше."
+            },
+            {
+              "fix": "If it {will rain>rains}, we'll stay at home.",
+              "tr": "Если пойдёт дождь, мы останемся дома."
+            },
+            {
+              "fix": "{When>If} you don't like it, you can return it.",
+              "tr": "Если тебе не понравится, можешь вернуть.",
+              "why": "Понравится или нет — неизвестно, поэтому if."
+            },
+            {
+              "fix": "I'll pay you back when I {will get>get} paid.",
+              "tr": "Я верну тебе долг, когда получу зарплату."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

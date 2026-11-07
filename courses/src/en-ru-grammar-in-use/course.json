@@ -1,0 +1,43 @@
+{
+  "id": "en-ru-grammar-in-use",
+  "version": 1,
+  "title": "English Grammar in Use",
+  "basedOn": "Raymond Murphy · English Grammar in Use · 5th edition",
+  "description": {
+    "en": "All 145 units of Raymond Murphy's English Grammar in Use (5th edition) as lessons in the book's order, plus 15 review lessons. Explanations in Russian in Jattap's own words, 7 000+ practice sentences for typing, choosing, building and spotting the mistake. Rules come back for spaced review with new sentences every time.",
+    "ru": "Все 145 юнитов книги Рэймонда Мёрфи English Grammar in Use (5-е издание) уроками в порядке книги и 15 уроков-повторений. Объяснения по-русски своими словами, 7 000+ предложений для ввода, выбора, сборки и поиска ошибки. Правила возвращаются на повторение каждый раз с новыми предложениями."
+  },
+  "targetLang": "en",
+  "nativeLang": "ru",
+  "level": "B1–B2",
+  "parts": [
+    "01-present-past.json",
+    "02-future.json",
+    "03-modals.json",
+    "04-if-passive-reported.json",
+    "05-ing-to.json",
+    "06-articles-nouns.json",
+    "07-pronouns-relative.json",
+    "08-adjectives-adverbs.json",
+    "09-conjunctions-prepositions.json",
+    "10-phrasal-verbs.json"
+  ],
+  "chapters": [
+    { "title": "Present and past", "units": [1, 6] },
+    { "title": "Present perfect and past", "units": [7, 18] },
+    { "title": "Future", "units": [19, 25] },
+    { "title": "Modals", "units": [26, 37] },
+    { "title": "if and wish", "units": [38, 41] },
+    { "title": "Passive", "units": [42, 46] },
+    { "title": "Reported speech", "units": [47, 48] },
+    { "title": "Questions and auxiliary verbs", "units": [49, 52] },
+    { "title": "-ing and to …", "units": [53, 68] },
+    { "title": "Articles and nouns", "units": [69, 81] },
+    { "title": "Pronouns and determiners", "units": [82, 91] },
+    { "title": "Relative clauses", "units": [92, 97] },
+    { "title": "Adjectives and adverbs", "units": [98, 112] },
+    { "title": "Conjunctions and prepositions", "units": [113, 120] },
+    { "title": "Prepositions", "units": [121, 136] },
+    { "title": "Phrasal verbs", "units": [137, 145] }
+  ]
+}
